@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "20461",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legislation and public policy"
+ },
+ {
+  "id": "8823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizational budget and finances"
+ },
+ {
+  "id": "8824",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "board and staff discussions"
+ },
+ {
+  "id": "8825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational and staff performance"
+ },
+ {
+  "id": "8826",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizational policies and objectives"
+ },
+ {
+  "id": "8827",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "program budgets"
+ },
+ {
+  "id": "8828",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production pricing and sales departments"
+ },
+ {
+  "id": "8829",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier and agency contracts"
+ },
+ {
+  "id": "8830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff reports"
+ },
+ {
+  "id": "8831",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department heads and managers"
+ },
+ {
+  "id": "8832",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "human resources plans and staffing"
+ },
+ {
+  "id": "8833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "governing boards and committees"
+ },
+ {
+  "id": "8834",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "activity and budget reports"
+ },
+ {
+  "id": "8835",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departmental roles and functions"
+ },
+ {
+  "id": "8836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizational problems and corrective plans"
+ },
+ {
+  "id": "8837",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budgetary and recordkeeping control systems"
+ },
+ {
+  "id": "8838",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising purchasing credit accounting departments"
+ },
+ {
+  "id": "8839",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "speeches and articles"
+ },
+ {
+  "id": "8840",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "outside organizations and shareholders"
+ },
+ {
+  "id": "8842",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "citizen nominations to boards"
+ },
+ {
+  "id": "8843",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "policies and laws explained"
+ },
+ {
+  "id": "8844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legislative committee presentations"
+ },
+ {
+  "id": "8845",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "major policy matters"
+ },
+ {
+  "id": "8846",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "sites construction equipment supplies"
+ },
+ {
+  "id": "8847",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "investment and financial services businesses"
+ },
+ {
+  "id": "8848",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "studies on responsibility-area issues"
+ },
+ {
+  "id": "8849",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "municipal council meetings"
+ },
+ {
+  "id": "8850",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "promotional campaigns"
+ },
+ {
+  "id": "8851",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "complaints, violations, and hearings"
+ },
+ {
+  "id": "8852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "official functions and representation"
+ },
+ {
+  "id": "8853",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizational bylaws"
+ },
+ {
+  "id": "15367",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability staff training opportunities"
+ },
+ {
+  "id": "15368",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability pilot projects"
+ },
+ {
+  "id": "15369",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental sustainability risks"
+ },
+ {
+  "id": "15370",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability schedules and budgets"
+ },
+ {
+  "id": "15371",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental funding proposals"
+ },
+ {
+  "id": "15372",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sustainability employees and volunteers"
+ },
+ {
+  "id": "15373",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial and environmental impact reports"
+ },
+ {
+  "id": "15374",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability program compliance status"
+ },
+ {
+  "id": "15375",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability campaign strategies"
+ },
+ {
+  "id": "15376",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability issues and stakeholder interests"
+ },
+ {
+  "id": "15377",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability project proposals"
+ },
+ {
+  "id": "15378",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability reports and presentations"
+ },
+ {
+  "id": "15379",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability monitoring systems"
+ },
+ {
+  "id": "15380",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability outreach media"
+ },
+ {
+  "id": "15381",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability success assessment methods"
+ },
+ {
+  "id": "15382",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability program effectiveness"
+ },
+ {
+  "id": "15383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sustainability operations regulatory compliance"
+ },
+ {
+  "id": "15384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "energy, waste, and resource strategies"
+ },
+ {
+  "id": "19501",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "recycling and conservation programs"
+ },
+ {
+  "id": "20699",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial and performance reports"
+ },
+ {
+  "id": "20700",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "administrative production activities"
+ },
+ {
+  "id": "20701",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff work schedules and duties"
+ },
+ {
+  "id": "20702",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplier performance and budgets"
+ },
+ {
+  "id": "20703",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial and budget activities"
+ },
+ {
+  "id": "20704",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departmental policies and goals"
+ },
+ {
+  "id": "20705",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring, training, evaluating personnel"
+ },
+ {
+  "id": "20706",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coordinated sales promotions"
+ },
+ {
+  "id": "20707",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prices and credit terms"
+ },
+ {
+  "id": "20708",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "goods movement through facilities"
+ },
+ {
+  "id": "933",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production, pricing, sales, distribution"
+ },
+ {
+  "id": "944",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers, shelves, store inventory"
+ },
+ {
+  "id": "945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product marketing strategies"
+ },
+ {
+  "id": "947",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising and purchasing departments"
+ },
+ {
+  "id": "948",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility locations and renovations"
+ },
+ {
+  "id": "949",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "store layouts and displays"
+ },
+ {
+  "id": "15267",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "proposed legislation implications"
+ },
+ {
+  "id": "15268",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "leadership nominees"
+ },
+ {
+  "id": "15269",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "colleague positions and strategies"
+ },
+ {
+  "id": "15270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "floor session debate"
+ },
+ {
+  "id": "15271",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "committee subject-matter expertise"
+ },
+ {
+  "id": "15272",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "testimony from interested parties"
+ },
+ {
+  "id": "15273",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "constituent issues and local news"
+ },
+ {
+  "id": "15274",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "national and international current events"
+ },
+ {
+  "id": "15275",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "balancing citizen and party perspectives"
+ },
+ {
+  "id": "15276",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "negotiation with colleagues and parties"
+ },
+ {
+  "id": "15277",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "draft amendments laws and policies"
+ },
+ {
+  "id": "15278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "constituent concerns"
+ },
+ {
+  "id": "15279",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "party negotiations and media statements"
+ },
+ {
+  "id": "15280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "committee bills and recommendations"
+ },
+ {
+  "id": "15281",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "federal funding for local projects"
+ },
+ {
+  "id": "15282",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "commissions and investigative panels"
+ },
+ {
+  "id": "15283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "votes on motions and bills"
+ },
+ {
+  "id": "15284",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "Congressional Record statements"
+ },
+ {
+  "id": "15285",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "constituent updates on government actions"
+ },
+ {
+  "id": "15286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "receptions and conferences networking"
+ },
+ {
+  "id": "15287",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vote count predictions"
+ },
+ {
+  "id": "15288",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "campaign media and appearances"
+ },
+ {
+  "id": "15289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "party candidates support"
+ },
+ {
+  "id": "15290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "district offices and staff"
+ },
+ {
+  "id": "15291",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "government agency performance"
+ },
+ {
+  "id": "15292",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "campaign organizations and fundraisers"
+ },
+ {
+  "id": "15293",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "expense allowance accounts"
+ },
+ {
+  "id": "15294",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "district industries and products"
+ },
+ {
+  "id": "15295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "government representation at meetings"
+ },
+ {
+  "id": "15296",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students and future leaders"
+ },
+ {
+  "id": "18586",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales team goals and performance"
+ },
+ {
+  "id": "21217",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing and sales trends"
+ },
+ {
+  "id": "21218",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing tactics effectiveness"
+ },
+ {
+  "id": "21219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "conferences and promotional events"
+ },
+ {
+  "id": "21220",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "consumer opinions and target audiences"
+ },
+ {
+  "id": "21221",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "marketing team coordination"
+ },
+ {
+  "id": "21222",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertisements and promotional communications"
+ },
+ {
+  "id": "21223",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing strategies"
+ },
+ {
+  "id": "21224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey and polling methods"
+ },
+ {
+  "id": "21225",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing campaign portfolio records"
+ },
+ {
+  "id": "3223",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "campaign program budgets"
+ },
+ {
+  "id": "3224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertising and promotional material"
+ },
+ {
+  "id": "3226",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layouts, copy, and promotional media"
+ },
+ {
+  "id": "3227",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales, graphics, media, finance departments"
+ },
+ {
+  "id": "3228",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising and sales contracts"
+ },
+ {
+  "id": "3229",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "promotional campaign contacts"
+ },
+ {
+  "id": "3231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department heads and staff discussions"
+ },
+ {
+  "id": "3233",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "promotion results and cost effectiveness"
+ },
+ {
+  "id": "3234",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trade journals and literature"
+ },
+ {
+  "id": "3235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "established advertising accounts"
+ },
+ {
+  "id": "3236",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "product demonstrations for staff and customers"
+ },
+ {
+  "id": "3237",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "campaign team mobilization"
+ },
+ {
+  "id": "3238",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertising policies and strategies"
+ },
+ {
+  "id": "3239",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program budgets and response rates"
+ },
+ {
+  "id": "3240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coalition of organizations and figures"
+ },
+ {
+  "id": "3241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising production workers"
+ },
+ {
+  "id": "3242",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "media advertising dissemination"
+ },
+ {
+  "id": "3243",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizations told about services"
+ },
+ {
+  "id": "3244",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product research and development"
+ },
+ {
+  "id": "3245",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "trade association meetings"
+ },
+ {
+  "id": "19502",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainable product advice from buyers"
+ },
+ {
+  "id": "19503",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental marketing business cases"
+ },
+ {
+  "id": "19504",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental information in marketing"
+ },
+ {
+  "id": "19505",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product environmental soundness modifications"
+ },
+ {
+  "id": "20709",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "marketing activities and policies"
+ },
+ {
+  "id": "950",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pricing strategies"
+ },
+ {
+  "id": "951",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing strategy"
+ },
+ {
+  "id": "952",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product development financial aspects"
+ },
+ {
+  "id": "954",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "marketing staff hiring and supervision"
+ },
+ {
+  "id": "955",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendor and distributor contracts"
+ },
+ {
+  "id": "956",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product design specifications"
+ },
+ {
+  "id": "957",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product and service offering lists"
+ },
+ {
+  "id": "958",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales forecasts and market trends"
+ },
+ {
+  "id": "959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "trade show product selection"
+ },
+ {
+  "id": "960",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legal issues with copyright"
+ },
+ {
+  "id": "961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "promotional activities and trade shows"
+ },
+ {
+  "id": "962",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "factors affecting buying and selling"
+ },
+ {
+  "id": "963",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market research studies"
+ },
+ {
+  "id": "964",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "buyer advice on product demand"
+ },
+ {
+  "id": "965",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commercial surveys for potential markets"
+ },
+ {
+  "id": "1",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer sales and service complaints"
+ },
+ {
+  "id": "10",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "trade association meetings"
+ },
+ {
+  "id": "11",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales staffing and training"
+ },
+ {
+  "id": "12",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "franchised dealer visits"
+ },
+ {
+  "id": "13",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer equipment needs advice"
+ },
+ {
+  "id": "14",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "regional sales managers and staff"
+ },
+ {
+  "id": "15",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "export records and clerical staff"
+ },
+ {
+  "id": "16",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "foreign sales and service outlets"
+ },
+ {
+  "id": "17",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "store location marketing potential"
+ },
+ {
+  "id": "2",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer preference data"
+ },
+ {
+  "id": "3",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales activities of products and services"
+ },
+ {
+  "id": "4",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "price schedules and discount rates"
+ },
+ {
+  "id": "5",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational records and sales projections"
+ },
+ {
+  "id": "6",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales accounting, receiving, shipping"
+ },
+ {
+  "id": "7",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department head advertising planning"
+ },
+ {
+  "id": "8",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dealer and distributor policies"
+ },
+ {
+  "id": "9",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales budgets and expenditures"
+ },
+ {
+  "id": "21226",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public relations staff"
+ },
+ {
+  "id": "21227",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "internal employee communications"
+ },
+ {
+  "id": "21228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "brochures and promotional publications"
+ },
+ {
+  "id": "21229",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "corporate image, logos, signage"
+ },
+ {
+  "id": "21230",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "crisis communication plans"
+ },
+ {
+  "id": "21231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "external communication agencies"
+ },
+ {
+  "id": "21232",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "executive speeches and interviews"
+ },
+ {
+  "id": "21233",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients, officials, media relationships"
+ },
+ {
+  "id": "21234",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising and PR compatibility"
+ },
+ {
+  "id": "21235",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consumer and internal company relations"
+ },
+ {
+  "id": "21236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public information policies"
+ },
+ {
+  "id": "21237",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "audiences and communication plan"
+ },
+ {
+  "id": "21238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company archive records"
+ },
+ {
+  "id": "21239",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "communications budgets"
+ },
+ {
+  "id": "21240",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "in-house communication courses"
+ },
+ {
+  "id": "21241",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "special publicity events"
+ },
+ {
+  "id": "21242",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "social economic political trends"
+ },
+ {
+  "id": "21243",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "video products and film library"
+ },
+ {
+  "id": "21244",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "information requests about employer"
+ },
+ {
+  "id": "21245",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "press releases and web pages"
+ },
+ {
+  "id": "21246",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fundraising staff"
+ },
+ {
+  "id": "21247",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funder application materials"
+ },
+ {
+  "id": "21248",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospective donor background research"
+ },
+ {
+  "id": "21249",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "officials and community leaders"
+ },
+ {
+  "id": "21250",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fundraising brochures"
+ },
+ {
+  "id": "21251",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising activity plans"
+ },
+ {
+  "id": "21252",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contribution growth strategies"
+ },
+ {
+  "id": "21253",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "external fundraising agencies"
+ },
+ {
+  "id": "21254",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients, officials, media relationships"
+ },
+ {
+  "id": "21255",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fundraising goals and fund safeguards"
+ },
+ {
+  "id": "21256",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising and fundraising compatibility"
+ },
+ {
+  "id": "21257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising policies and procedures"
+ },
+ {
+  "id": "21258",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fundraising budgets"
+ },
+ {
+  "id": "21259",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "fundraising special events"
+ },
+ {
+  "id": "21260",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "video products and film library"
+ },
+ {
+  "id": "21261",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "press releases and web pages"
+ }
+]

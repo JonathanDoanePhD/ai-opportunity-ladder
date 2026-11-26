@@ -1,0 +1,5 @@
+ours,theirs,tasks,share_ours,share_theirs,task_agreement,task_kappa,occupations,occ_corr_pearson,occ_corr_spearman
+large,human_e1,18740,0.260,0.151,0.735,0.202,923,0.574,0.645
+large,human_e1e2,18740,0.260,0.473,0.722,0.430,923,0.775,0.813
+capable,human_e1,18740,0.322,0.151,0.701,0.204,923,0.584,0.642
+capable,human_e1e2,18740,0.322,0.473,0.753,0.497,923,0.802,0.826

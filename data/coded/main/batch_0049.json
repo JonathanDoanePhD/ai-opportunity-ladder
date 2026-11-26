@@ -1,0 +1,1578 @@
+[
+ {
+  "id": "20247",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "birth, death, disease statistics reports"
+ },
+ {
+  "id": "21187",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching residents and students pediatrics"
+ },
+ {
+  "id": "7819",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "child examination, diagnostic tests, diagnosis"
+ },
+ {
+  "id": "7820",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's growth and development assessment"
+ },
+ {
+  "id": "7821",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "treatments, medications, vaccinations for children"
+ },
+ {
+  "id": "7822",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient history and exam records"
+ },
+ {
+  "id": "7823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "diet, hygiene advice to families"
+ },
+ {
+  "id": "7824",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's illnesses and developmental concerns"
+ },
+ {
+  "id": "7825",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "explaining procedures and test results to parents"
+ },
+ {
+  "id": "7826",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient progress and treatment reevaluation"
+ },
+ {
+  "id": "7827",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "child development medical care programs"
+ },
+ {
+  "id": "7828",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals for patients"
+ },
+ {
+  "id": "7829",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "directing nurses, students, medical staff"
+ },
+ {
+  "id": "7830",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consulting services for other physicians"
+ },
+ {
+  "id": "7831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community health programs and standards"
+ },
+ {
+  "id": "7832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surgery on diseased or injured body parts"
+ },
+ {
+  "id": "7833",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "medical research on treatments and anatomy"
+ },
+ {
+  "id": "17177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "expert witness testimony in trials"
+ },
+ {
+  "id": "17178",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "autopsy, laboratory, investigation case review"
+ },
+ {
+  "id": "17179",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medical laboratory management"
+ },
+ {
+  "id": "17180",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pathology literature and conference updates"
+ },
+ {
+  "id": "17181",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new diagnostic tests and instruments"
+ },
+ {
+  "id": "17182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educating laboratory profession students and personnel"
+ },
+ {
+  "id": "17183",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "scientific research findings presentation"
+ },
+ {
+  "id": "17184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "autopsies to find cause of death"
+ },
+ {
+  "id": "17185",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pathology staff and residents supervision"
+ },
+ {
+  "id": "17186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "biopsy and aspiration specimen collection"
+ },
+ {
+  "id": "17187",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disease etiology and clinical significance"
+ },
+ {
+  "id": "17188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "antibody tests diagnosing infections"
+ },
+ {
+  "id": "17189",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "DNA and chromosome genetic analyses"
+ },
+ {
+  "id": "17190",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pathology reports of results"
+ },
+ {
+  "id": "17191",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "microbial, urine, hormonal, PCR test results"
+ },
+ {
+  "id": "17192",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pathologic findings communicated to surgeons"
+ },
+ {
+  "id": "17193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physician consultation on tests and treatments"
+ },
+ {
+  "id": "17194",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "microscopic samples showing disease"
+ },
+ {
+  "id": "17195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "disease diagnosis using histology, cytology, molecular methods"
+ },
+ {
+  "id": "15230",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "psychiatric teaching, education, research publication"
+ },
+ {
+  "id": "1827",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient data diagnosing mental disorder"
+ },
+ {
+  "id": "1828",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "psychotherapy and medication for disorders"
+ },
+ {
+  "id": "1829",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment plan discussion with professionals"
+ },
+ {
+  "id": "1830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient history and records gathering"
+ },
+ {
+  "id": "1831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "outpatient counseling during office visits"
+ },
+ {
+  "id": "1832",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individualized psychiatric care plans"
+ },
+ {
+  "id": "1833",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "physical and mental diagnostic examinations"
+ },
+ {
+  "id": "1834",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "informing guardians about patient condition"
+ },
+ {
+  "id": "1835",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "other clinicians' treatment procedures and outcomes"
+ },
+ {
+  "id": "1837",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case reports for government agencies"
+ },
+ {
+  "id": "1838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community mental health committees"
+ },
+ {
+  "id": "17231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radiology quality improvement and error risk"
+ },
+ {
+  "id": "17234",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education for radiologist expertise"
+ },
+ {
+  "id": "17235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "radiology patient treatment plans"
+ },
+ {
+  "id": "17236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient and personnel protection standards"
+ },
+ {
+  "id": "17239",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "images in picture archiving systems"
+ },
+ {
+  "id": "17241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "complications during and after procedures"
+ },
+ {
+  "id": "17242",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "interpretive imaging reports"
+ },
+ {
+  "id": "17243",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient histories from records and referrers"
+ },
+ {
+  "id": "17245",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "image-based diagnoses with medical professionals"
+ },
+ {
+  "id": "17246",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "radiologic staff positioning and techniques"
+ },
+ {
+  "id": "17248",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "procedure performance and outcomes documentation"
+ },
+ {
+  "id": "17249",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image quality control procedures"
+ },
+ {
+  "id": "17250",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radiological services coordination with medical activities"
+ },
+ {
+  "id": "17251",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "radiology patient counseling on risks, benefits"
+ },
+ {
+  "id": "17252",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "exam results given to referrers and families"
+ },
+ {
+  "id": "17253",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "image-guided biopsy, angioplasty, drainage procedures"
+ },
+ {
+  "id": "17254",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "MRI, CT, PET, ultrasound imaging studies"
+ },
+ {
+  "id": "22732",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radioisotope administration to patients"
+ },
+ {
+  "id": "22733",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advising physicians on radioactive material applications"
+ },
+ {
+  "id": "22734",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "radioisotope dosage calculation and preparation"
+ },
+ {
+  "id": "22735",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "diagnostic image quality approval"
+ },
+ {
+  "id": "22736",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "comparing nuclear medicine with other imaging"
+ },
+ {
+  "id": "22737",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nuclear medicine technologists direction"
+ },
+ {
+  "id": "22738",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "radiation protection standards for patients, staff"
+ },
+ {
+  "id": "22739",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nuclear medicine department plans and procedures"
+ },
+ {
+  "id": "22740",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radioactive materials handling monitoring"
+ },
+ {
+  "id": "22741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radionuclide and dosage prescriptions"
+ },
+ {
+  "id": "22742",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "procedure requests and patient histories review"
+ },
+ {
+  "id": "22743",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "graduate-level nuclear medicine teaching"
+ },
+ {
+  "id": "22744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dosage instruments and survey meters testing"
+ },
+ {
+  "id": "17061",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "presenting allergy research at meetings"
+ },
+ {
+  "id": "17062",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "self-directed learning and continuing education"
+ },
+ {
+  "id": "17063",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patients' medical histories documentation"
+ },
+ {
+  "id": "17064",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "allergy and immunology laboratory research"
+ },
+ {
+  "id": "17065",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "allergy consultation and education for providers"
+ },
+ {
+  "id": "17066",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "antihistamine, antibiotic, glucocorticosteroid prescriptions"
+ },
+ {
+  "id": "17067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient physical examinations"
+ },
+ {
+  "id": "17068",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "skin prick and patch allergy tests"
+ },
+ {
+  "id": "17069",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient education about diagnoses and treatments"
+ },
+ {
+  "id": "17070",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic test results, differential diagnoses"
+ },
+ {
+  "id": "17071",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individualized allergy treatment plans"
+ },
+ {
+  "id": "17072",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient care coordination with staff"
+ },
+ {
+  "id": "17073",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "therapy risks and benefits assessment"
+ },
+ {
+  "id": "17074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "allergen immunotherapy and immunoglobulin therapy"
+ },
+ {
+  "id": "17075",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "allergen provocation challenge tests"
+ },
+ {
+  "id": "17076",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "allergic and immunologic condition diagnosis, treatment"
+ },
+ {
+  "id": "17096",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "referrals to specialists and social services"
+ },
+ {
+  "id": "17097",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hospitalist continuing education activities"
+ },
+ {
+  "id": "17098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nursing and support staff supervision"
+ },
+ {
+  "id": "17099",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient discharge summaries to physicians"
+ },
+ {
+  "id": "17100",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "short stay or specialty unit operations"
+ },
+ {
+  "id": "17101",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training medical students and residents"
+ },
+ {
+  "id": "17102",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inpatient medication and treatment regimens"
+ },
+ {
+  "id": "17103",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laboratory and radiograph results"
+ },
+ {
+  "id": "17104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "inpatient specialty consultations attendance"
+ },
+ {
+  "id": "17105",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "discharge planning and patient discharge"
+ },
+ {
+  "id": "17106",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "hospital inpatients' continuous care"
+ },
+ {
+  "id": "17107",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hospital admissions of patients"
+ },
+ {
+  "id": "17108",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "communication with primary care physicians"
+ },
+ {
+  "id": "23920",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality improvement and safety programs"
+ },
+ {
+  "id": "17282",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching medical and clinical staff"
+ },
+ {
+  "id": "17283",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient histories documentation and review"
+ },
+ {
+  "id": "17284",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "urology consultation for other clinicians"
+ },
+ {
+  "id": "17285",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals beyond scope"
+ },
+ {
+  "id": "17286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nurses, residents, staff direction"
+ },
+ {
+  "id": "17287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "lithotripsy, laparoscopy, laser urologic treatment"
+ },
+ {
+  "id": "17288",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "lower urinary tract dysfunction equipment treatment"
+ },
+ {
+  "id": "17289",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "antibiotics, antiseptics, compresses for infection"
+ },
+ {
+  "id": "17290",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "erectile dysfunction and infertility medications"
+ },
+ {
+  "id": "17291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "abdominal, pelvic, retroperitoneal surgeries"
+ },
+ {
+  "id": "17292",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "brachytherapy, cryotherapy, HIFU cancer treatment"
+ },
+ {
+  "id": "17293",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "PSA screening and diagnostic test results"
+ },
+ {
+  "id": "17294",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient examination using x-ray, fluoroscope"
+ },
+ {
+  "id": "17295",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "genitourinary diseases diagnosis and treatment"
+ },
+ {
+  "id": "17196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching residents about disabling conditions"
+ },
+ {
+  "id": "17197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "functional capacity evaluations of injured workers"
+ },
+ {
+  "id": "17198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patients' pain intensity and duration"
+ },
+ {
+  "id": "17199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "pain management intervention effectiveness"
+ },
+ {
+  "id": "17200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mobility, strength, cognition examination"
+ },
+ {
+  "id": "17201",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "examination results and treatment documentation"
+ },
+ {
+  "id": "17202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sports and repetitive-motion injuries"
+ },
+ {
+  "id": "17203",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "long-term rehabilitation plans"
+ },
+ {
+  "id": "17204",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physical therapy prescriptions for strength"
+ },
+ {
+  "id": "17205",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rehabilitation services coordination with medical activities"
+ },
+ {
+  "id": "17206",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coordination with rehabilitative professionals"
+ },
+ {
+  "id": "17207",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "electromyography and nerve conduction studies"
+ },
+ {
+  "id": "17208",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "electrotherapy, diathermy, hydrotherapy therapy prescriptions"
+ },
+ {
+  "id": "17209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "orthotics, prosthetics, wheelchairs, adaptive equipment prescriptions"
+ },
+ {
+  "id": "17210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "neuromuscular, trauma, chronic pain management"
+ },
+ {
+  "id": "17211",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching staff about preventive medicine"
+ },
+ {
+  "id": "17212",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "occupational and environmental risk histories"
+ },
+ {
+  "id": "17213",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "preventive health analysis reports"
+ },
+ {
+  "id": "17214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physicians, nurses, statisticians supervision"
+ },
+ {
+  "id": "17215",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "presentations to lay or professional audiences"
+ },
+ {
+  "id": "17216",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "risk reduction measures effectiveness evaluation"
+ },
+ {
+  "id": "17217",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "groups at risk for preventable disease"
+ },
+ {
+  "id": "17218",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "screening, lab report, vital record surveillance tools"
+ },
+ {
+  "id": "17219",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public health education programs direction"
+ },
+ {
+  "id": "17220",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "acute and chronic disease epidemiological investigations"
+ },
+ {
+  "id": "17221",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "interventions for behavioral disease causes"
+ },
+ {
+  "id": "17222",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "specialty prevention programs management"
+ },
+ {
+  "id": "17223",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "health service delivery systems for populations"
+ },
+ {
+  "id": "17224",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "healthcare and social agencies resources coordination"
+ },
+ {
+  "id": "17225",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "health hazard information for media and authorities"
+ },
+ {
+  "id": "17255",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical equipment and medications for competitions"
+ },
+ {
+  "id": "17256",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "protective equipment selection and fitting"
+ },
+ {
+  "id": "17257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "injured athletes returning to competition"
+ },
+ {
+  "id": "17258",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "athletes' mental well-being observation"
+ },
+ {
+  "id": "17259",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sports medicine continuing education"
+ },
+ {
+  "id": "17260",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "off-season exercise and conditioning programs"
+ },
+ {
+  "id": "17261",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplements affecting athletes' drug testing"
+ },
+ {
+  "id": "17262",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "sports injury prevention and treatment research"
+ },
+ {
+  "id": "17263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "harmful sports practices advice"
+ },
+ {
+  "id": "17264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "games and competitions injury evaluation"
+ },
+ {
+  "id": "17265",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "athletes' medical histories and physical examinations"
+ },
+ {
+  "id": "17266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "injured athletes' rehabilitation supervision"
+ },
+ {
+  "id": "17267",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "athlete referrals to specialists and therapy"
+ },
+ {
+  "id": "17268",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "athletes' medical care records"
+ },
+ {
+  "id": "17269",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "athletes' medical conditions told to coaches"
+ },
+ {
+  "id": "17270",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "illness and injury prevention counseling"
+ },
+ {
+  "id": "17271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "orthotics, prosthetics, adaptive equipment for athletes"
+ },
+ {
+  "id": "17272",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medications for athletic injuries"
+ },
+ {
+  "id": "17273",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laboratory tests and diagnostic imaging"
+ },
+ {
+  "id": "17274",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "athletes' nutrition, hydration, supplements, medication consequences"
+ },
+ {
+  "id": "17275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "chronic pain conditions in athletes"
+ },
+ {
+  "id": "17276",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "athletes' pre-participation fitness examinations"
+ },
+ {
+  "id": "17277",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency procedures during practices and competitions"
+ },
+ {
+  "id": "17278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sports care coordination with specialists and coaches"
+ },
+ {
+  "id": "17279",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coaches' use of exercises and therapeutic techniques"
+ },
+ {
+  "id": "17280",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "injured athletes' examination and treatment"
+ },
+ {
+  "id": "17281",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "musculoskeletal disorders diagnosis and treatment"
+ },
+ {
+  "id": "17159",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "ophthalmic consultation for medical professionals"
+ },
+ {
+  "id": "17160",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "referrals for specialized eye treatments"
+ },
+ {
+  "id": "17161",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "teaching interns ophthalmologic procedures"
+ },
+ {
+  "id": "17162",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "ophthalmologic services plans and procedures"
+ },
+ {
+  "id": "17163",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient education on healthy vision"
+ },
+ {
+  "id": "17164",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "ophthalmology clinical and laboratory research"
+ },
+ {
+  "id": "17165",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "multidisciplinary health team collaboration"
+ },
+ {
+  "id": "17166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "postoperative eye care provision"
+ },
+ {
+  "id": "17167",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patients' medical histories evaluation"
+ },
+ {
+  "id": "17168",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "glasses and contact lens prescriptions"
+ },
+ {
+  "id": "17169",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "topical and systemic ophthalmic medications"
+ },
+ {
+  "id": "17170",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "diagnostic and clinical tests for eyes"
+ },
+ {
+  "id": "17171",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment plans based on patient histories"
+ },
+ {
+  "id": "17172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "laser surgery on ocular tissue"
+ },
+ {
+  "id": "17173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cataract, glaucoma, corneal eye surgeries"
+ },
+ {
+  "id": "17174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "chemotherapy, cryotherapy, low vision therapy"
+ },
+ {
+  "id": "17175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visual system comprehensive examinations"
+ },
+ {
+  "id": "17176",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "eye, cornea, eyelid injuries and diseases"
+ }
+]

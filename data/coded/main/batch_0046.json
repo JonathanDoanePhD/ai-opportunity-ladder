@@ -1,0 +1,1434 @@
+[
+ {
+  "id": "20408",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient treatment appointment times"
+ },
+ {
+  "id": "4085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiation dose delivery to patients"
+ },
+ {
+  "id": "4086",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient body positioning for treatment"
+ },
+ {
+  "id": "4087",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "treatment machine controls and dosage settings"
+ },
+ {
+  "id": "4088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiation safety practices"
+ },
+ {
+  "id": "4089",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dosage and equipment treatment records"
+ },
+ {
+  "id": "4090",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescription and patient chart review"
+ },
+ {
+  "id": "4091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "independent treatment sessions"
+ },
+ {
+  "id": "4092",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiation equipment operation checks"
+ },
+ {
+  "id": "4093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients during treatment sessions"
+ },
+ {
+  "id": "4094",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient side effects assessment"
+ },
+ {
+  "id": "4095",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient and family education"
+ },
+ {
+  "id": "4096",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivered radiation dose calculations"
+ },
+ {
+  "id": "4097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "immobilization and protection devices"
+ },
+ {
+  "id": "4098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treated area photographs and film"
+ },
+ {
+  "id": "4099",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physician treatment plan preparation"
+ },
+ {
+  "id": "4100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student radiotherapy technologists"
+ },
+ {
+  "id": "4101",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physicist and care staff coordination"
+ },
+ {
+  "id": "4102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dosimetry and tumor localization assistance"
+ },
+ {
+  "id": "4103",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient follow-up care plans"
+ },
+ {
+  "id": "4104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioactive applicators storage and sterilization"
+ },
+ {
+  "id": "4105",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sealed radioactive material preparation"
+ },
+ {
+  "id": "20893",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient discharge plans"
+ },
+ {
+  "id": "387",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient participation and progress"
+ },
+ {
+  "id": "388",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient therapy treatment plans"
+ },
+ {
+  "id": "389",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "clients leisure skill encouragement"
+ },
+ {
+  "id": "390",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient leisure activity counseling"
+ },
+ {
+  "id": "391",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment team therapy planning"
+ },
+ {
+  "id": "392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient therapy sessions"
+ },
+ {
+  "id": "393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient activity instruction"
+ },
+ {
+  "id": "394",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient records and interview information"
+ },
+ {
+  "id": "395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "rehabilitation treatment programs and activities"
+ },
+ {
+  "id": "396",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient progress reports"
+ },
+ {
+  "id": "18522",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient care team procedures"
+ },
+ {
+  "id": "20409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport within hospital"
+ },
+ {
+  "id": "20410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "airway intubation of patients"
+ },
+ {
+  "id": "20411",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cardiac patient monitoring devices"
+ },
+ {
+  "id": "397",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ventilators and respiratory equipment setup"
+ },
+ {
+  "id": "398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency respiratory resuscitation care"
+ },
+ {
+  "id": "399",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "respiratory therapy requirements determination"
+ },
+ {
+  "id": "400",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient physiological therapy responses"
+ },
+ {
+  "id": "401",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "prescriptions and blood gases assessment"
+ },
+ {
+  "id": "403",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "safety rules and physician orders"
+ },
+ {
+  "id": "404",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient therapy charts"
+ },
+ {
+  "id": "405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "respiratory therapy equipment maintenance"
+ },
+ {
+  "id": "406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient and family disease education"
+ },
+ {
+  "id": "407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient treatment procedure explanation"
+ },
+ {
+  "id": "408",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blood analysis result relay"
+ },
+ {
+  "id": "409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pulmonary function testing equipment"
+ },
+ {
+  "id": "410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient bronchopulmonary drainage and breathing"
+ },
+ {
+  "id": "411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "respiratory procedure demonstration to trainees"
+ },
+ {
+  "id": "412",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students and respiratory technicians"
+ },
+ {
+  "id": "413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cardiopulmonary testing for doctors"
+ },
+ {
+  "id": "414",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "emergency equipment problem visits"
+ },
+ {
+  "id": "415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient cardiopulmonary function tests"
+ },
+ {
+  "id": "18523",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speech disorder test results diagnosis"
+ },
+ {
+  "id": "18524",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client treatment documentation and billing"
+ },
+ {
+  "id": "18525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "school speech activity programs"
+ },
+ {
+  "id": "18526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "progress meetings and reports"
+ },
+ {
+  "id": "18527",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paperwork, scheduling, and lesson plans"
+ },
+ {
+  "id": "18528",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient and family communication education"
+ },
+ {
+  "id": "18529",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conferences, training, and research sharing"
+ },
+ {
+  "id": "18530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "therapy team supervision"
+ },
+ {
+  "id": "18531",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client referrals to services"
+ },
+ {
+  "id": "1867",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient progress and treatment adjustment"
+ },
+ {
+  "id": "1869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hearing and speech evaluation administration"
+ },
+ {
+  "id": "1871",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "speech disorder treatment plans"
+ },
+ {
+  "id": "1873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client communication technique instruction"
+ },
+ {
+  "id": "1874",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client mouth and breathing muscles"
+ },
+ {
+  "id": "1875",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speech exercise programs"
+ },
+ {
+  "id": "1876",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educator and medical staff advice"
+ },
+ {
+  "id": "1878",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "alternative communication devices and strategies"
+ },
+ {
+  "id": "1879",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "speech lessons with teachers"
+ },
+ {
+  "id": "1882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students using alternative communication"
+ },
+ {
+  "id": "1883",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dialect and limited English instruction"
+ },
+ {
+  "id": "1884",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "communication disability computer applications"
+ },
+ {
+  "id": "1885",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speech and hearing research"
+ },
+ {
+  "id": "23952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students or assistants supervision"
+ },
+ {
+  "id": "19191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "participant stress tests with EKG"
+ },
+ {
+  "id": "19192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "exercise equipment and routine demonstration"
+ },
+ {
+  "id": "19193",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "participant exercise programs"
+ },
+ {
+  "id": "19194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "exercise and testing procedure explanation"
+ },
+ {
+  "id": "19195",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "participant progress data"
+ },
+ {
+  "id": "19196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "participant body fat measurement"
+ },
+ {
+  "id": "19197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oxygen consumption and lung function"
+ },
+ {
+  "id": "19198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blood sample laboratory tests"
+ },
+ {
+  "id": "19199",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individualized exercise program prescriptions"
+ },
+ {
+  "id": "19200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "participant exercise clinical oversight"
+ },
+ {
+  "id": "19201",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lifestyle physical activity recommendations"
+ },
+ {
+  "id": "19202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "exercise and diet courses"
+ },
+ {
+  "id": "19203",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "physical performance rehabilitation requirements"
+ },
+ {
+  "id": "19204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exercise and testing equipment calibration"
+ },
+ {
+  "id": "19205",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "athletes and coaches performance education"
+ },
+ {
+  "id": "19206",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff exercise leadership evaluation"
+ },
+ {
+  "id": "19207",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "participant medical history and goals"
+ },
+ {
+  "id": "19208",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "group exercise staff training"
+ },
+ {
+  "id": "19209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic procedure orders and recommendations"
+ },
+ {
+  "id": "19210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exercise physiology research projects"
+ },
+ {
+  "id": "19211",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exercise knowledge presentations"
+ },
+ {
+  "id": "19212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "participants in physical distress"
+ },
+ {
+  "id": "19213",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "exercise equipment maintenance supervision"
+ },
+ {
+  "id": "19214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "behavior modification classes"
+ },
+ {
+  "id": "19215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "group exercise classes"
+ },
+ {
+  "id": "19139",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "therapy effectiveness data"
+ },
+ {
+  "id": "19140",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client data art therapy recommendations"
+ },
+ {
+  "id": "19141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client needs through artistic processes"
+ },
+ {
+  "id": "19142",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client assessment findings communication"
+ },
+ {
+  "id": "19143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "art therapy sessions"
+ },
+ {
+  "id": "19144",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment team plan coordination"
+ },
+ {
+  "id": "19145",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "art therapy programs for populations"
+ },
+ {
+  "id": "19146",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "art therapy session design"
+ },
+ {
+  "id": "19147",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individualized client treatment plans"
+ },
+ {
+  "id": "19148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "art therapy session goals"
+ },
+ {
+  "id": "19149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "art media instruction"
+ },
+ {
+  "id": "19150",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client artwork functional interpretation"
+ },
+ {
+  "id": "19151",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client reactions during art therapy"
+ },
+ {
+  "id": "19152",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "client artwork photographs"
+ },
+ {
+  "id": "19153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client rapport during sessions"
+ },
+ {
+  "id": "19154",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "treatment plans and case reports"
+ },
+ {
+  "id": "19155",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "in-service workshops and information sessions"
+ },
+ {
+  "id": "19156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "client artwork showcases"
+ },
+ {
+  "id": "19157",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "client group field trips"
+ },
+ {
+  "id": "19158",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client information from records and interviews"
+ },
+ {
+  "id": "19159",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "art supplies recommendation and purchase"
+ },
+ {
+  "id": "19160",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "art therapy literature review"
+ },
+ {
+  "id": "19161",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artistic media and equipment preparation"
+ },
+ {
+  "id": "19162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff, volunteers, and interns"
+ },
+ {
+  "id": "19163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "art therapy techniques teaching"
+ },
+ {
+  "id": "19164",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "music therapy assessment instruments"
+ },
+ {
+  "id": "19165",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "therapy effectiveness data"
+ },
+ {
+  "id": "19166",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client data therapy recommendations"
+ },
+ {
+  "id": "19167",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client abilities and needs assessment"
+ },
+ {
+  "id": "19168",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client assessment findings communication"
+ },
+ {
+  "id": "19169",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment team plan coordination"
+ },
+ {
+  "id": "19170",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "music therapy programs by specialty"
+ },
+ {
+  "id": "19171",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "music therapy experience design"
+ },
+ {
+  "id": "19172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client responses to music experiences"
+ },
+ {
+  "id": "19173",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client treatment goals and objectives"
+ },
+ {
+  "id": "19174",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic data from records and interviews"
+ },
+ {
+  "id": "19175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "therapeutic improvisation with client"
+ },
+ {
+  "id": "19176",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client reactions during music therapy"
+ },
+ {
+  "id": "19177",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "music therapy session structure"
+ },
+ {
+  "id": "19178",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "live music for clients"
+ },
+ {
+  "id": "19179",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "music experiences for client needs"
+ },
+ {
+  "id": "19180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "instruments and adaptive materials"
+ },
+ {
+  "id": "19181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client rapport and reflection"
+ },
+ {
+  "id": "19182",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "evaluations, treatment plans and reports"
+ },
+ {
+  "id": "19183",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment termination risks and benefits"
+ },
+ {
+  "id": "19184",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music for therapy treatments"
+ },
+ {
+  "id": "19185",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "in-service workshops and information sessions"
+ },
+ {
+  "id": "19186",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music therapy research"
+ },
+ {
+  "id": "19187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "emergency physical or mental health situations"
+ },
+ {
+  "id": "19188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "therapy approach integration"
+ },
+ {
+  "id": "19189",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research findings applied to practice"
+ },
+ {
+  "id": "19190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff, volunteers, and interns"
+ },
+ {
+  "id": "20165",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technology in music therapy practice"
+ },
+ {
+  "id": "20166",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "interdisciplinary treatment program collaboration"
+ },
+ {
+  "id": "20167",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education participation"
+ },
+ {
+  "id": "18532",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "animal owner care advice"
+ },
+ {
+  "id": "18533",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lectures and continuing education courses"
+ },
+ {
+  "id": "18534",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scheduling, payments, budgets, business records"
+ },
+ {
+  "id": "20412",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients grieving pet death decisions"
+ },
+ {
+  "id": "4106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals for disease or injury"
+ },
+ {
+  "id": "4107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sick animals medication, bones, surgery"
+ },
+ {
+  "id": "4108",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal vaccination"
+ },
+ {
+  "id": "4109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal tissue and fluid samples"
+ },
+ {
+  "id": "4110",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiographic and ultrasound images"
+ },
+ {
+  "id": "4112",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public zoonotic disease education"
+ },
+ {
+  "id": "4113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "animal handling workers supervision"
+ },
+ {
+  "id": "4114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "care for various animal species"
+ },
+ {
+  "id": "4115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal euthanasia"
+ },
+ {
+  "id": "4116",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "quarantine and testing procedures"
+ },
+ {
+  "id": "4117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "postmortem studies of animal deaths"
+ },
+ {
+  "id": "4119",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "animal hospital operations direction"
+ },
+ {
+  "id": "4121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "specialized veterinary treatment"
+ },
+ {
+  "id": "4122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "livestock communicable disease inspection"
+ },
+ {
+  "id": "4123",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "animal nutrition and reproduction programs"
+ },
+ {
+  "id": "4124",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animal disease research"
+ },
+ {
+  "id": "4126",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drug therapy effects testing"
+ }
+]

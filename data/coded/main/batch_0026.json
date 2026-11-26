@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "18256",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "satellite and aerial imagery data"
+ },
+ {
+  "id": "18257",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial project databases"
+ },
+ {
+  "id": "18258",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "external geospatial data sources"
+ },
+ {
+  "id": "18259",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "geospatial project reports and presentations"
+ },
+ {
+  "id": "18260",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial files and documentation"
+ },
+ {
+  "id": "18261",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "satellite imagery land cover maps"
+ },
+ {
+  "id": "18262",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "geographic data collection and display strategies"
+ },
+ {
+  "id": "18263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "remote sensing hardware and software operations"
+ },
+ {
+  "id": "18264",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field survey and climate data"
+ },
+ {
+  "id": "18265",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image data formatting"
+ },
+ {
+  "id": "18266",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing technology research"
+ },
+ {
+  "id": "18267",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project goals discussed with colleagues"
+ },
+ {
+  "id": "18268",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image artifact correction routines"
+ },
+ {
+  "id": "18269",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new analytical techniques or sensors"
+ },
+ {
+  "id": "18270",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing data results"
+ },
+ {
+  "id": "18271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "data collection operations quality"
+ },
+ {
+  "id": "18272",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new sensor hardware or software installation"
+ },
+ {
+  "id": "18273",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "field developments and literature"
+ },
+ {
+  "id": "18274",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fieldwork participation"
+ },
+ {
+  "id": "18275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hardware and software acquisition recommendations"
+ },
+ {
+  "id": "18276",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "data collection systems setup"
+ },
+ {
+  "id": "18277",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "technicians' training on technology"
+ },
+ {
+  "id": "19773",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing data for environmental issues"
+ },
+ {
+  "id": "19774",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forest and carbon tracking data"
+ },
+ {
+  "id": "20051",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "litigation reports and expert testimony"
+ },
+ {
+  "id": "20052",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "socioeconomic impacts of public policies"
+ },
+ {
+  "id": "20053",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "economic research and journal articles"
+ },
+ {
+  "id": "21106",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "explaining policy economic impact publicly"
+ },
+ {
+  "id": "23988",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "documents written by others"
+ },
+ {
+  "id": "7536",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "economic and statistical data"
+ },
+ {
+  "id": "7537",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "economic advice to businesses and agencies"
+ },
+ {
+  "id": "7538",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "economic data and market forecasts"
+ },
+ {
+  "id": "7539",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "economic policy and plan recommendations"
+ },
+ {
+  "id": "7540",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "economic guidelines and forecasting viewpoints"
+ },
+ {
+  "id": "7541",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hearing testimony on legislation effects"
+ },
+ {
+  "id": "7542",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research projects and student studies"
+ },
+ {
+  "id": "7543",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "resource production and consumption forecasts"
+ },
+ {
+  "id": "7544",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "economics theory classes"
+ },
+ {
+  "id": "16897",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental economic study presentations"
+ },
+ {
+  "id": "16898",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market and environmental trends"
+ },
+ {
+  "id": "16899",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental health indicators"
+ },
+ {
+  "id": "16900",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmentally friendly business practices"
+ },
+ {
+  "id": "16901",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "economic benefits of environmental regulations"
+ },
+ {
+  "id": "16902",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical documents and academic articles"
+ },
+ {
+  "id": "16903",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "impact statements for natural resource policy"
+ },
+ {
+  "id": "16904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research proposals and grant applications"
+ },
+ {
+  "id": "16905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "natural resource exhaustibility and rehabilitation costs"
+ },
+ {
+  "id": "16906",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental economic data systems"
+ },
+ {
+  "id": "16908",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental research project plans"
+ },
+ {
+  "id": "16909",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "economic and environmental forecasts"
+ },
+ {
+  "id": "16910",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental implications of policy alternatives"
+ },
+ {
+  "id": "16913",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ecological and economic system models"
+ },
+ {
+  "id": "16914",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental problems and production patterns"
+ },
+ {
+  "id": "16915",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental and economic research topics"
+ },
+ {
+  "id": "19984",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental policy recommendations"
+ },
+ {
+  "id": "19985",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "costs and benefits of environmental regulations"
+ },
+ {
+  "id": "19986",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability policy recommendations"
+ },
+ {
+  "id": "21177",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental economics courses"
+ },
+ {
+  "id": "21107",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey project proposals"
+ },
+ {
+  "id": "7545",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey data summaries and tables"
+ },
+ {
+  "id": "7546",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client survey needs"
+ },
+ {
+  "id": "7547",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey and record data analysis"
+ },
+ {
+  "id": "7548",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey data preparation for analysis"
+ },
+ {
+  "id": "7549",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey topic information"
+ },
+ {
+  "id": "7550",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "survey interviews and data collection"
+ },
+ {
+  "id": "7551",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "survey planning with researchers"
+ },
+ {
+  "id": "7552",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "survey staff and interviewers"
+ },
+ {
+  "id": "7553",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey response rates and progress"
+ },
+ {
+  "id": "7554",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey methods documentation"
+ },
+ {
+  "id": "7555",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey project details and instruments"
+ },
+ {
+  "id": "7556",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey operations coordination"
+ },
+ {
+  "id": "7557",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "survey implementation changes"
+ },
+ {
+  "id": "7558",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "recruiters and data collectors"
+ },
+ {
+  "id": "7559",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "interviewer training manuals"
+ },
+ {
+  "id": "20222",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research findings presentations"
+ },
+ {
+  "id": "20223",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employment lawsuit expert testimony"
+ },
+ {
+  "id": "20224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "psychology research literature"
+ },
+ {
+  "id": "20225",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individual assessments and feedback"
+ },
+ {
+  "id": "20226",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research articles and reports"
+ },
+ {
+  "id": "20227",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new clients and proposals"
+ },
+ {
+  "id": "20228",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' HR functions training"
+ },
+ {
+  "id": "20229",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "senior executives' leadership"
+ },
+ {
+  "id": "20230",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee selection best practices"
+ },
+ {
+  "id": "7560",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee selection programs"
+ },
+ {
+  "id": "7561",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job requirements and criteria"
+ },
+ {
+  "id": "7562",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers' job requirements interviews"
+ },
+ {
+  "id": "7563",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research findings reports"
+ },
+ {
+  "id": "7564",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management personnel policy advice"
+ },
+ {
+  "id": "7565",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training and development needs"
+ },
+ {
+  "id": "7566",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "organizational functioning studies"
+ },
+ {
+  "id": "7567",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training programs"
+ },
+ {
+  "id": "7568",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "interview techniques and psychological tests"
+ },
+ {
+  "id": "7569",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance"
+ },
+ {
+  "id": "7570",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizational effectiveness and leadership"
+ },
+ {
+  "id": "7571",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizational change"
+ },
+ {
+  "id": "7572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "workplace program outcome data"
+ },
+ {
+  "id": "7573",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "workers' career issues counseling"
+ },
+ {
+  "id": "7574",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "consumer reactions to products"
+ },
+ {
+  "id": "7575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mediation and dispute resolution"
+ },
+ {
+  "id": "22163",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client information interviews and assessments"
+ },
+ {
+  "id": "22164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individuals, groups or families counseling"
+ },
+ {
+  "id": "22165",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "session notes and treatment plans"
+ },
+ {
+  "id": "22166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client insight and goals"
+ },
+ {
+  "id": "22167",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "therapeutic and treatment plans"
+ },
+ {
+  "id": "22168",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychological diagnoses"
+ },
+ {
+  "id": "22169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychotherapy and treatment methods"
+ },
+ {
+  "id": "22170",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client reports and paperwork"
+ },
+ {
+  "id": "22171",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consultation with other clinicians"
+ },
+ {
+  "id": "22172",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client histories interviews and records"
+ },
+ {
+  "id": "22173",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment effectiveness and diagnoses"
+ },
+ {
+  "id": "22174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychological tests"
+ },
+ {
+  "id": "22175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' counseling advice"
+ },
+ {
+  "id": "22176",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individual treatment plans"
+ },
+ {
+  "id": "22177",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "professionals about therapies"
+ },
+ {
+  "id": "22178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client referrals to specialists"
+ },
+ {
+  "id": "22179",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "psychology research knowledge"
+ },
+ {
+  "id": "22180",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reference material for diagnosis"
+ },
+ {
+  "id": "22181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "individuals' behavior observation"
+ },
+ {
+  "id": "22182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educational and outreach programs"
+ },
+ {
+  "id": "22183",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educational and vocational information"
+ },
+ {
+  "id": "22184",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychological service programs"
+ },
+ {
+  "id": "22185",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinical staff and interns"
+ },
+ {
+  "id": "22186",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff and student training"
+ },
+ {
+  "id": "22187",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mental health program advice"
+ },
+ {
+  "id": "22188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "diagnostic and counseling technique research"
+ },
+ {
+  "id": "22189",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "psychological research and papers"
+ },
+ {
+  "id": "22190",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "self-harm and violence risk"
+ },
+ {
+  "id": "22191",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychological competence court evaluations"
+ },
+ {
+  "id": "22192",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "interns and trainee counselors"
+ },
+ {
+  "id": "18619",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "test results psychological reports"
+ },
+ {
+  "id": "5446",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "test results and eligibility diagnosis"
+ },
+ {
+  "id": "5447",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "child abuse reporting to authorities"
+ },
+ {
+  "id": "5448",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "children's needs and limitations"
+ },
+ {
+  "id": "5449",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychological tests"
+ },
+ {
+  "id": "5450",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consultation with parents and teachers"
+ },
+ {
+  "id": "5451",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "child development understanding"
+ },
+ {
+  "id": "5452",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching strategies with educators"
+ },
+ {
+  "id": "5453",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "children and families counseling"
+ },
+ {
+  "id": "5454",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individualized educational plans"
+ },
+ {
+  "id": "5455",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student records"
+ },
+ {
+  "id": "5456",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "families and schools in crisis"
+ },
+ {
+  "id": "5457",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "school psychology developments"
+ },
+ {
+  "id": "5458",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "special student classes and programs"
+ },
+ {
+  "id": "5459",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "community agency referrals"
+ },
+ {
+  "id": "5460",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "diversity understanding in schools"
+ },
+ {
+  "id": "5461",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "academic program effectiveness data"
+ },
+ {
+  "id": "5462",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classroom and parenting education programs"
+ },
+ {
+  "id": "5463",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "learning and behavior research"
+ },
+ {
+  "id": "22193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neuropsychological evaluations"
+ },
+ {
+  "id": "22194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "neuropsychological disorder research"
+ },
+ {
+  "id": "22195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients' neurological conditions consultation"
+ },
+ {
+  "id": "22196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cognitive rehabilitation plans"
+ },
+ {
+  "id": "22197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "central nervous system injury treatment"
+ },
+ {
+  "id": "22198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dependency and toxin exposure conditions"
+ },
+ {
+  "id": "22199",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pediatric learning disabilities"
+ },
+ {
+  "id": "22200",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "practicum students and interns"
+ },
+ {
+  "id": "22201",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "neurobehavioral baseline measures"
+ },
+ {
+  "id": "22202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients' medical histories"
+ },
+ {
+  "id": "22203",
+  "ai_alone": 1,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "methods training and workshops"
+ },
+ {
+  "id": "22204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individuals and families education counseling"
+ },
+ {
+  "id": "22205",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "neuropsychology developments and literature"
+ },
+ {
+  "id": "22206",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical neuropsychological reports"
+ },
+ {
+  "id": "22207",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patients' progress before and after intervention"
+ },
+ {
+  "id": "22208",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neuropsychological evaluations"
+ },
+ {
+  "id": "22209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients' neurological conditions consultation"
+ },
+ {
+  "id": "22210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cognitive rehabilitation plans"
+ },
+ {
+  "id": "22211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "central nervous system injury treatment"
+ },
+ {
+  "id": "22212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neural conditions in medical populations"
+ },
+ {
+  "id": "22213",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pediatric learning disabilities"
+ },
+ {
+  "id": "22214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychiatric populations conditions"
+ },
+ {
+  "id": "22215",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "psychogenic versus neurogenic syndromes"
+ },
+ {
+  "id": "22216",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "practicum students and interns"
+ },
+ {
+  "id": "22217",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "neurobehavioral baseline measures"
+ },
+ {
+  "id": "22218",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neurosurgical procedure risks"
+ },
+ {
+  "id": "22219",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients' medical histories"
+ },
+ {
+  "id": "22220",
+  "ai_alone": 1,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "methods training and workshops"
+ },
+ {
+  "id": "22221",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individuals and families education counseling"
+ },
+ {
+  "id": "22222",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neurological patients' therapy"
+ },
+ {
+  "id": "22223",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "neuropsychology developments and literature"
+ },
+ {
+  "id": "22224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical neuropsychological reports"
+ },
+ {
+  "id": "20868",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research findings at meetings"
+ },
+ {
+  "id": "23963",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sociological research for the public"
+ },
+ {
+  "id": "23964",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research funding grants"
+ },
+ {
+  "id": "5464",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research publications and reports"
+ },
+ {
+  "id": "5465",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "social behavior data"
+ },
+ {
+  "id": "5466",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "societal issue research theories"
+ },
+ {
+  "id": "5467",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "group attitudes and behaviors data"
+ },
+ {
+  "id": "5468",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "questionnaires and interview methods"
+ },
+ {
+  "id": "5469",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sociology classes"
+ },
+ {
+  "id": "5470",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "statistical clerks and research staff"
+ },
+ {
+  "id": "5471",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "social policy advice"
+ },
+ {
+  "id": "5472",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research collaboration"
+ },
+ {
+  "id": "5473",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "group problem solutions"
+ },
+ {
+  "id": "5474",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "group interactions observation"
+ },
+ {
+  "id": "5475",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "problem intervention procedures"
+ }
+]

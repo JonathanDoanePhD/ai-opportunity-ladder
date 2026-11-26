@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "718",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "policyholder visits, policy delivery"
+ },
+ {
+  "id": "719",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance premium calculation"
+ },
+ {
+  "id": "720",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customized insurance programs"
+ },
+ {
+  "id": "721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "insurance policy sales"
+ },
+ {
+  "id": "722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial needs interview"
+ },
+ {
+  "id": "723",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prospective client lists"
+ },
+ {
+  "id": "724",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "policy features explained to buyers"
+ },
+ {
+  "id": "725",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "binder coverage forms to underwriter"
+ },
+ {
+  "id": "726",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "policy requirement fulfillment, forms"
+ },
+ {
+  "id": "727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client claim information conversations"
+ },
+ {
+  "id": "728",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policy records and renewals"
+ },
+ {
+  "id": "729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurer selection for coverage"
+ },
+ {
+  "id": "730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claims settlement fairness monitoring"
+ },
+ {
+  "id": "731",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance marketing strategies"
+ },
+ {
+  "id": "732",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training meetings about products"
+ },
+ {
+  "id": "733",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "property inspection for insurability"
+ },
+ {
+  "id": "734",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client bookkeeping systems"
+ },
+ {
+  "id": "735",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance program bookkeeping integration"
+ },
+ {
+  "id": "736",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bookkeeping requirements for group insurance"
+ },
+ {
+  "id": "23192",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "securities bids and offers"
+ },
+ {
+  "id": "23193",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market and position monitoring"
+ },
+ {
+  "id": "23194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client buy/sell price agreement"
+ },
+ {
+  "id": "23195",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction records"
+ },
+ {
+  "id": "23196",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "securities trades for dealers"
+ },
+ {
+  "id": "23197",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales order tickets"
+ },
+ {
+  "id": "23198",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "positions and trading results"
+ },
+ {
+  "id": "23199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client finances interview"
+ },
+ {
+  "id": "23200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "financial options client discussion"
+ },
+ {
+  "id": "23201",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client service needs proposals"
+ },
+ {
+  "id": "23202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "trusts and investment services sales"
+ },
+ {
+  "id": "23203",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "securities purchase opportunities"
+ },
+ {
+  "id": "23204",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial plans"
+ },
+ {
+  "id": "23205",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "securities transaction compliance review"
+ },
+ {
+  "id": "23206",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "prospect outreach and service explanation"
+ },
+ {
+  "id": "23207",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "trading and hedge strategies"
+ },
+ {
+  "id": "23208",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price-moving market factors"
+ },
+ {
+  "id": "23209",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "market conditions updates"
+ },
+ {
+  "id": "23210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "securities purchase advice"
+ },
+ {
+  "id": "23211",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agreement costs and revenue"
+ },
+ {
+  "id": "23212",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "stock market terms to clients"
+ },
+ {
+  "id": "23213",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "billing and commission costs"
+ },
+ {
+  "id": "23214",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client finance monitoring reports"
+ },
+ {
+  "id": "23215",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security price quotes"
+ },
+ {
+  "id": "23216",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "support staff supervision"
+ },
+ {
+  "id": "23217",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "buy/sell order relay"
+ },
+ {
+  "id": "23218",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "securities price and contract negotiation"
+ },
+ {
+  "id": "23219",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price quotation requests"
+ },
+ {
+  "id": "23220",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security pricing from markets"
+ },
+ {
+  "id": "23221",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer financial derivatives transactions"
+ },
+ {
+  "id": "20900",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client, vendor, package records"
+ },
+ {
+  "id": "737",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "travel payment collection"
+ },
+ {
+  "id": "738",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer travel preferences"
+ },
+ {
+  "id": "739",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "travel cost computation"
+ },
+ {
+  "id": "740",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transport and hotel reservations"
+ },
+ {
+  "id": "741",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "itinerary tour packages"
+ },
+ {
+  "id": "742",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "travel information brochures"
+ },
+ {
+  "id": "743",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carrier ticket printing"
+ },
+ {
+  "id": "23222",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer questions about services"
+ },
+ {
+  "id": "23223",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market conditions meetings and reading"
+ },
+ {
+  "id": "23224",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service cost comparison"
+ },
+ {
+  "id": "23225",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "post-sale client problem support"
+ },
+ {
+  "id": "23226",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer outreach about service needs"
+ },
+ {
+  "id": "23227",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales forms and agreements"
+ },
+ {
+  "id": "23228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "service sales presentations"
+ },
+ {
+  "id": "23229",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "promotional materials at events"
+ },
+ {
+  "id": "23230",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "service features for customer needs"
+ },
+ {
+  "id": "23231",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospect identification from directories"
+ },
+ {
+  "id": "23232",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "purchased service contract information"
+ },
+ {
+  "id": "23233",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer records"
+ },
+ {
+  "id": "23234",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competitor and market monitoring"
+ },
+ {
+  "id": "23235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales agreement price negotiation"
+ },
+ {
+  "id": "23236",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service price and terms quotes"
+ },
+ {
+  "id": "11237",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer product questions"
+ },
+ {
+  "id": "11238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price and bid quotes"
+ },
+ {
+  "id": "11239",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "product features tailored to customers"
+ },
+ {
+  "id": "11240",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales agreement negotiation"
+ },
+ {
+  "id": "11241",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer records"
+ },
+ {
+  "id": "11245",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague strategy information exchange"
+ },
+ {
+  "id": "11246",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales presentations and proposals"
+ },
+ {
+  "id": "11248",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer technical support"
+ },
+ {
+  "id": "11249",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delivery, warranty information to customers"
+ },
+ {
+  "id": "11251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "customer site visits"
+ },
+ {
+  "id": "11252",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "expense and sales reports"
+ },
+ {
+  "id": "11256",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product design team feedback"
+ },
+ {
+  "id": "11257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product installation and testing arrangements"
+ },
+ {
+  "id": "11261",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "installation costs and savings estimates"
+ },
+ {
+  "id": "11262",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineer consultation on technical problems"
+ },
+ {
+  "id": "11265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "samples and promotional materials"
+ },
+ {
+  "id": "11267",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pharmacy product sales visits"
+ },
+ {
+  "id": "19825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "responsible product use and disposal"
+ },
+ {
+  "id": "19826",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "energy efficiency information for customers"
+ },
+ {
+  "id": "19828",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmentally sound technical product sales"
+ },
+ {
+  "id": "20608",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales contracts for orders"
+ },
+ {
+  "id": "20609",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer outreach on needs"
+ },
+ {
+  "id": "20610",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer product selection assistance"
+ },
+ {
+  "id": "20611",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery schedule versus deadlines"
+ },
+ {
+  "id": "20612",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospective customer identification"
+ },
+ {
+  "id": "20613",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer production usage advice"
+ },
+ {
+  "id": "20614",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new product documentation"
+ },
+ {
+  "id": "20615",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trade meetings, market publications"
+ },
+ {
+  "id": "20616",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical product service contracts"
+ },
+ {
+  "id": "20617",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "technical product demonstrations"
+ },
+ {
+  "id": "20618",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales campaigns"
+ },
+ {
+  "id": "20619",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials list accuracy"
+ },
+ {
+  "id": "20620",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer credit ratings"
+ },
+ {
+  "id": "17654",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar customer leads"
+ },
+ {
+  "id": "17655",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar proposals, quotes, contracts"
+ },
+ {
+  "id": "17656",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar systems for customers"
+ },
+ {
+  "id": "17657",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solar installation site assessment"
+ },
+ {
+  "id": "17658",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "solar array production estimates"
+ },
+ {
+  "id": "17659",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customized energy management packages"
+ },
+ {
+  "id": "17660",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales territory marketing plans"
+ },
+ {
+  "id": "17661",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "prospect solar energy needs"
+ },
+ {
+  "id": "17662",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar installation design drawings"
+ },
+ {
+  "id": "17663",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quotes, warranties, incentives information"
+ },
+ {
+  "id": "17664",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar technical information for customers"
+ },
+ {
+  "id": "17665",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dealer and customer quote requests"
+ },
+ {
+  "id": "17666",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "solar equipment demonstrations"
+ },
+ {
+  "id": "20267",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales contracts and order forms"
+ },
+ {
+  "id": "20268",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contract and payment negotiation"
+ },
+ {
+  "id": "8113",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer product questions"
+ },
+ {
+  "id": "8114",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer product recommendations"
+ },
+ {
+  "id": "8115",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer contact, product demonstration"
+ },
+ {
+  "id": "8116",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price, terms, delivery quotes"
+ },
+ {
+  "id": "8117",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "post-sale client problem support"
+ },
+ {
+  "id": "8118",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer drawings, estimates, bids"
+ },
+ {
+  "id": "8119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples and catalogs"
+ },
+ {
+  "id": "8120",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospect identification"
+ },
+ {
+  "id": "8121",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product delivery and installation"
+ },
+ {
+  "id": "8122",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market and competitor monitoring"
+ },
+ {
+  "id": "8124",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales budgets, reports, records"
+ },
+ {
+  "id": "8125",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospect credit information"
+ },
+ {
+  "id": "8126",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders to manufacturers"
+ },
+ {
+  "id": "8127",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stock levels and reorders"
+ },
+ {
+  "id": "8128",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "retail product displays"
+ },
+ {
+  "id": "8129",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "retailer exposure negotiations"
+ },
+ {
+  "id": "13190",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "product demonstrations to customers"
+ },
+ {
+  "id": "13191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "samples and coupons to shoppers"
+ },
+ {
+  "id": "13192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "demonstration area tidiness"
+ },
+ {
+  "id": "13193",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "demonstration statistics reporting"
+ },
+ {
+  "id": "13194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "promoted product sales"
+ },
+ {
+  "id": "13195",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "demonstration displays setup"
+ },
+ {
+  "id": "13196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "product suggestions for customers"
+ },
+ {
+  "id": "13197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "presentation materials transport, assembly"
+ },
+ {
+  "id": "13198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "interested customer identification"
+ },
+ {
+  "id": "13199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "demonstration rehearsal"
+ },
+ {
+  "id": "13200",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "presentation content for audiences"
+ },
+ {
+  "id": "13201",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competitor product and consumer interests"
+ },
+ {
+  "id": "13202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crowd handling team demonstrations"
+ },
+ {
+  "id": "13203",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "venue demonstrations to prospects"
+ },
+ {
+  "id": "13204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "demonstrator training"
+ },
+ {
+  "id": "13205",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer product alteration instruction"
+ },
+ {
+  "id": "13206",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product research for demonstrations"
+ },
+ {
+  "id": "13207",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product improvement recommendations"
+ },
+ {
+  "id": "13208",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product information presentations"
+ },
+ {
+  "id": "13210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "public promotion with costumes, signs"
+ },
+ {
+  "id": "13211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shelf stocking"
+ },
+ {
+  "id": "13215",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job pay and schedule information"
+ },
+ {
+  "id": "13216",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diet, sleep, exercise routines"
+ },
+ {
+  "id": "13217",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job pay and duration vouchers"
+ },
+ {
+  "id": "13218",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "job completion reports to agencies"
+ },
+ {
+  "id": "13219",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "model portfolios and go-sees"
+ },
+ {
+  "id": "13220",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "photo shoot collaboration"
+ },
+ {
+  "id": "13221",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "model makeup and hair"
+ },
+ {
+  "id": "13225",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "posing for promotion"
+ },
+ {
+  "id": "13226",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garments and accessories wearing"
+ },
+ {
+  "id": "23931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "posing for artists"
+ },
+ {
+  "id": "4599",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "real estate sales for owners"
+ },
+ {
+  "id": "4600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "property listing agreements"
+ },
+ {
+  "id": "4601",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase contract term deadlines"
+ },
+ {
+  "id": "4602",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "comparable property market price"
+ },
+ {
+  "id": "4603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "buyer-seller negotiations intermediary"
+ },
+ {
+  "id": "4604",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property listings and descriptions"
+ },
+ {
+  "id": "4605",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "real estate law and markets"
+ },
+ {
+  "id": "4606",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan officer and attorney work"
+ },
+ {
+  "id": "4607",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "property purchase financing"
+ },
+ {
+  "id": "4608",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "property value and income potential"
+ },
+ {
+  "id": "4609",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax, zoning, building regulations"
+ },
+ {
+  "id": "4610",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "real estate office management"
+ },
+ {
+  "id": "4611",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "real estate agent supervision"
+ },
+ {
+  "id": "4612",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "rental property management"
+ },
+ {
+  "id": "4613",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property title searches"
+ },
+ {
+  "id": "4614",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "virtual property tours for buyers"
+ },
+ {
+  "id": "4615",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "property environmental regulations compliance"
+ }
+]

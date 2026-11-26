@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "16241",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grant application documents"
+ },
+ {
+  "id": "16242",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "graduate biostatistics course teaching"
+ },
+ {
+  "id": "16243",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "methodological literature and colleague discussions"
+ },
+ {
+  "id": "16244",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical data in regulatory reports"
+ },
+ {
+  "id": "16245",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "publication and conference articles"
+ },
+ {
+  "id": "16246",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical study sample size"
+ },
+ {
+  "id": "16247",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "statistical project plans and timelines"
+ },
+ {
+  "id": "16248",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "work delegated to assistants or programmers"
+ },
+ {
+  "id": "16249",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical analysis program code"
+ },
+ {
+  "id": "16250",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "analysis plans and findings write-ups"
+ },
+ {
+  "id": "16251",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "life science research studies"
+ },
+ {
+  "id": "16252",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical data tables and graphs"
+ },
+ {
+  "id": "16253",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "clinical trial procedures and data quality"
+ },
+ {
+  "id": "16254",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "conclusions from statistical summaries"
+ },
+ {
+  "id": "16255",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological change mathematical models"
+ },
+ {
+  "id": "16256",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "health assessment surveys"
+ },
+ {
+  "id": "16257",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data analysis algorithms"
+ },
+ {
+  "id": "16258",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research study design with professionals"
+ },
+ {
+  "id": "16259",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological data databases"
+ },
+ {
+  "id": "16260",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "survey and experimental data collection"
+ },
+ {
+  "id": "16261",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "birth, death, disease archival records"
+ },
+ {
+  "id": "16262",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "medical research protocols review"
+ },
+ {
+  "id": "16263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "biostatistical consultation for clients"
+ },
+ {
+  "id": "16264",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research results extending biological theory"
+ },
+ {
+  "id": "16265",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical and survey data statistics"
+ },
+ {
+  "id": "21823",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "large datasets in statistical software"
+ },
+ {
+  "id": "21824",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "outcome prediction model features"
+ },
+ {
+  "id": "21825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey sampling groups"
+ },
+ {
+  "id": "21826",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "raw data cleaning"
+ },
+ {
+  "id": "21827",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "model performance metric comparison"
+ },
+ {
+  "id": "21828",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data analysis visualizations"
+ },
+ {
+  "id": "21829",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "modeling results presented to management"
+ },
+ {
+  "id": "21830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surveys and polls instruments"
+ },
+ {
+  "id": "21831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "business problems suited to analysis"
+ },
+ {
+  "id": "21832",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data relationships and trends"
+ },
+ {
+  "id": "21833",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "business solutions from data analysis"
+ },
+ {
+  "id": "21834",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mathematical solutions to field problems"
+ },
+ {
+  "id": "21835",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research articles on analytic trends"
+ },
+ {
+  "id": "21836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "data-driven recommendations to stakeholders"
+ },
+ {
+  "id": "21837",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prediction model validation"
+ },
+ {
+  "id": "21838",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "analysis functions and applications code"
+ },
+ {
+  "id": "16134",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "existing reports and dashboards support"
+ },
+ {
+  "id": "16135",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reusable templates and documents library"
+ },
+ {
+  "id": "16136",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer monitoring via BI tools"
+ },
+ {
+  "id": "16137",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reporting solution design documents"
+ },
+ {
+  "id": "16138",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "industry contacts about business trends"
+ },
+ {
+  "id": "16139",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "BI tools, databases and dashboards"
+ },
+ {
+  "id": "16140",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "BI information distribution timing"
+ },
+ {
+  "id": "16141",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "industry and geographic trend analysis"
+ },
+ {
+  "id": "16142",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "report and dashboard specifications"
+ },
+ {
+  "id": "16143",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tool and report enhancement announcements"
+ },
+ {
+  "id": "16144",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "BI tools and databases"
+ },
+ {
+  "id": "16145",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "intelligence consistency tests"
+ },
+ {
+  "id": "16146",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry and public business data"
+ },
+ {
+  "id": "16147",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technology trends and product markets"
+ },
+ {
+  "id": "16148",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competitor strategy and market trends"
+ },
+ {
+  "id": "16149",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "trend data for action recommendations"
+ },
+ {
+  "id": "16150",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "standard business summary reports"
+ },
+ {
+  "id": "16266",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database technology literature and education"
+ },
+ {
+  "id": "16267",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cross-department information support"
+ },
+ {
+  "id": "16268",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data set formatting"
+ },
+ {
+  "id": "16269",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "process and technology efficiency"
+ },
+ {
+  "id": "16270",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data management programming specifications"
+ },
+ {
+  "id": "16271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research software selection"
+ },
+ {
+  "id": "16272",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "protocols and regulatory submission documents"
+ },
+ {
+  "id": "16273",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuals, guidelines and SOPs"
+ },
+ {
+  "id": "16274",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forms and data flow tracking"
+ },
+ {
+  "id": "16275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff technical and software training"
+ },
+ {
+  "id": "16276",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "data management project staff"
+ },
+ {
+  "id": "16277",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data listings and progress reports"
+ },
+ {
+  "id": "16278",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical system and data accuracy audits"
+ },
+ {
+  "id": "16279",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff productivity and SOP compliance"
+ },
+ {
+  "id": "16280",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data validation error queries"
+ },
+ {
+  "id": "16281",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical databases and logic checks"
+ },
+ {
+  "id": "16282",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinical system requirements with users"
+ },
+ {
+  "id": "16283",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical data statistical analysis"
+ },
+ {
+  "id": "16284",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical data entry and filing"
+ },
+ {
+  "id": "16285",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data management plans"
+ },
+ {
+  "id": "16286",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data tracking forms"
+ },
+ {
+  "id": "17706",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological data search applications"
+ },
+ {
+  "id": "17707",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genomic and protein database records"
+ },
+ {
+  "id": "17708",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database performance and upkeep"
+ },
+ {
+  "id": "17709",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bioinformatics data analysis"
+ },
+ {
+  "id": "17710",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "researcher data and programming needs"
+ },
+ {
+  "id": "17711",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "error-checking procedures and manuals"
+ },
+ {
+  "id": "17712",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological database query web tools"
+ },
+ {
+  "id": "17713",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data mining and ML algorithms"
+ },
+ {
+  "id": "17714",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database change documentation"
+ },
+ {
+  "id": "17715",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing bioinformatics software extensions"
+ },
+ {
+  "id": "17716",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emerging computational methods awareness"
+ },
+ {
+  "id": "17717",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific reports and publications"
+ },
+ {
+  "id": "17718",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new software testing feedback"
+ },
+ {
+  "id": "17719",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "database use training for researchers"
+ },
+ {
+  "id": "17720",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database query scripts"
+ },
+ {
+  "id": "17721",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data inputs and predictions quality"
+ },
+ {
+  "id": "17722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project timelines with database users"
+ },
+ {
+  "id": "17723",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data packaged for public repositories"
+ },
+ {
+  "id": "17724",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "routine system administration upkeep"
+ },
+ {
+  "id": "130",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design specifications, materials and cost information"
+ },
+ {
+  "id": "131",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client structural space requirements"
+ },
+ {
+  "id": "134",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contractor contract documents"
+ },
+ {
+  "id": "136",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineering elements in architectural design"
+ },
+ {
+  "id": "138",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "construction contract administration"
+ },
+ {
+  "id": "139",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client bids and contract awards"
+ },
+ {
+  "id": "140",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating manuals and reports"
+ },
+ {
+  "id": "19590",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design energy consumption versus baseline"
+ },
+ {
+  "id": "19591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "existing building green upgrades"
+ },
+ {
+  "id": "19592",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "green building project plans"
+ },
+ {
+  "id": "19593",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "LEED-style building designs"
+ },
+ {
+  "id": "19594",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project sustainability information"
+ },
+ {
+  "id": "19595",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "feasibility and environmental predesign studies"
+ },
+ {
+  "id": "19596",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulation-compliant building designs"
+ },
+ {
+  "id": "20479",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scale architectural drawings in CAD"
+ },
+ {
+  "id": "20480",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "drawing and specification technicians"
+ },
+ {
+  "id": "20481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "architectural drawings client review"
+ },
+ {
+  "id": "20482",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing proposals and presentations"
+ },
+ {
+  "id": "20483",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "final construction plans and details"
+ },
+ {
+  "id": "20484",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "construction work compliance on-site"
+ },
+ {
+  "id": "20485",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "specialist consultants' work quality"
+ },
+ {
+  "id": "20486",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "architectural project layouts"
+ },
+ {
+  "id": "20487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "proposed building sites"
+ },
+ {
+  "id": "20488",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "3D design representations in CAD"
+ },
+ {
+  "id": "18470",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "proposed plan graphics and drawings"
+ },
+ {
+  "id": "19597",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "whole building design collaboration"
+ },
+ {
+  "id": "19598",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "water-saving landscape designs"
+ },
+ {
+  "id": "19599",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rainwater and reclaimed water systems"
+ },
+ {
+  "id": "19600",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainable landscape materials selection"
+ },
+ {
+  "id": "20369",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients and engineers on landscape projects"
+ },
+ {
+  "id": "20370",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "site plans, specifications, cost estimates"
+ },
+ {
+  "id": "20371",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "site drainage and condition data"
+ },
+ {
+  "id": "20372",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing proposals and presentations"
+ },
+ {
+  "id": "20373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "landscape work quality on site"
+ },
+ {
+  "id": "20374",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "plans presented to public stakeholders"
+ },
+ {
+  "id": "20375",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "existing land features in designs"
+ },
+ {
+  "id": "20376",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "subcontractor work quality"
+ },
+ {
+  "id": "20377",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "landscape products and design trends"
+ },
+ {
+  "id": "20378",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "proposed site soil and conditions"
+ },
+ {
+  "id": "20379",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client planting plans"
+ },
+ {
+  "id": "20380",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "estimators on costs and bids"
+ },
+ {
+  "id": "20381",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conceptual land visualizations"
+ },
+ {
+  "id": "20382",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client landscape follow-up consultations"
+ },
+ {
+  "id": "3514",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geodetic points via mathematical formulas"
+ },
+ {
+  "id": "3515",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "aerial and remote sensing data collection"
+ },
+ {
+  "id": "3516",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing maps and charts corrections"
+ },
+ {
+  "id": "3517",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "map source data compilation"
+ },
+ {
+  "id": "3518",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "final map composition accuracy"
+ },
+ {
+  "id": "3519",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "map content, layout and production specs"
+ },
+ {
+  "id": "3520",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey and imagery data for topographic maps"
+ },
+ {
+  "id": "3521",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing techniques and plotting equipment"
+ },
+ {
+  "id": "3522",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aerial photo features delineation"
+ },
+ {
+  "id": "3523",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital mapping databases"
+ },
+ {
+  "id": "3524",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trace maps, charts and terrain models"
+ },
+ {
+  "id": "3525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "acceptable map source material guidelines"
+ },
+ {
+  "id": "3526",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legal records for property boundaries"
+ },
+ {
+  "id": "3527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographed areas ground verification"
+ },
+ {
+  "id": "20954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "expert court testimony on surveys"
+ },
+ {
+  "id": "3528",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey maps and legal descriptions"
+ },
+ {
+  "id": "3529",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey data accuracy"
+ },
+ {
+  "id": "3530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "legal property boundary surveys"
+ },
+ {
+  "id": "3531",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "survey results and land features"
+ },
+ {
+  "id": "3532",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "heights, depths and property line calculations"
+ },
+ {
+  "id": "3533",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey charts, plots and documents"
+ },
+ {
+  "id": "3534",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "boundary descriptions for deeds"
+ },
+ {
+  "id": "3535",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ground survey baselines and elevations"
+ },
+ {
+  "id": "3536",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legal and land title records"
+ },
+ {
+  "id": "3537",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "survey findings with engineers and clients"
+ },
+ {
+  "id": "3538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surveying instruments calibration"
+ },
+ {
+  "id": "3539",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fixed mapping points in field"
+ },
+ {
+  "id": "3540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feature coordinates via GPS instruments"
+ },
+ {
+  "id": "3541",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "survey assistants and helpers"
+ },
+ {
+  "id": "3542",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey proposals from specifications"
+ },
+ {
+  "id": "3543",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geodetic measurements and terrain positions"
+ },
+ {
+  "id": "3544",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey methods and procedures criteria"
+ },
+ {
+  "id": "3545",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey instrument design criteria"
+ },
+ {
+  "id": "3546",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surveying and mapping methods research"
+ },
+ {
+  "id": "3547",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geophysical prospecting sites marking"
+ },
+ {
+  "id": "3548",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water body channel survey data"
+ },
+ {
+  "id": "3549",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "aerial survey of geographic areas"
+ },
+ {
+  "id": "3550",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aerial photography equipment and altitudes"
+ },
+ {
+  "id": "16287",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "geodetic standards, controls and equipment"
+ },
+ {
+  "id": "16288",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "geodetic control methods training"
+ },
+ {
+  "id": "16289",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "geodetic surveying staff"
+ },
+ {
+  "id": "16290",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geodetic data distribution"
+ },
+ {
+  "id": "16291",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geodetic technology literature and education"
+ },
+ {
+  "id": "16292",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey data mathematical correctness"
+ },
+ {
+  "id": "16293",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "additional survey data requests"
+ },
+ {
+  "id": "16294",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "progress and technical reports"
+ },
+ {
+  "id": "16295",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geodetic coordinate and QA databases"
+ },
+ {
+  "id": "16296",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing surveys adjusted to grids"
+ },
+ {
+  "id": "16297",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "control network coordinates"
+ },
+ {
+  "id": "16298",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "point positions on Earth's surface"
+ },
+ {
+  "id": "16299",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "control data against standards"
+ },
+ {
+  "id": "16300",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "control data quality assessment"
+ },
+ {
+  "id": "16301",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "land tract orientation with instruments"
+ },
+ {
+  "id": "16302",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "land surface positions and elevations"
+ }
+]

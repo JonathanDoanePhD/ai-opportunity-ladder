@@ -1,0 +1,11 @@
+file,url,downloaded_utc,bytes,sha256
+acs/ACS20231YR_Table_Shells.txt,https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/documentation/ACS20231YR_Table_Shells.txt,2026-11-25,7201348,e25ee815917f1b660d0b2c2a86d814ee3c18add086e0d6ac94f35c7ecbfb4711
+acs/acsdt1y2023-b24114.dat,https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/1YRData/acsdt1y2023-b24114.dat,2026-11-25,20249,f4dec5c5d17d23b6e2b62c2776cdc2a8589e4b93bdc4d13c99496422f275ffd2
+acs/acsdt1y2023-b24121.dat,https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/1YRData/acsdt1y2023-b24121.dat,2026-11-25,19827,8c44ad8286cae080b1d26cc9676fef55a0646ffa0435eea5ecf0fb74531c1a1f
+acs/acsdt5y2023-c24010.dat,https://www2.census.gov/programs-surveys/acs/summary_file/2023/table-based-SF/data/5YRData/acsdt5y2023-c24010.dat,2026-11-25,244963840,5549456d7cdec0a5d87d304a827dd1fe6af88be4c1cc1319c807200a485a6654
+census/2018-occupation-code-list-and-crosswalk.xlsx,https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx,2026-11-25,160312,fca2818d691c32777a4cd733a9ab77c8c5bd47adcacd7ac3aa149bebd45b5f7f
+gpts/full_labelset.tsv,https://raw.githubusercontent.com/openai/GPTs-are-GPTs/main/data/full_labelset.tsv,2026-11-25,3893248,094378905e1f3349e50a9a83dc69643a2ef227954d611c8316a46da08cb3d8de
+gpts/occ_level.csv,https://raw.githubusercontent.com/openai/GPTs-are-GPTs/main/data/occ_level.csv,2026-11-25,126022,40c74f53de40aec91c0017d80690cbba915f83a8bb414bcf2f884692f1749acb
+nces/CIP2020_SOC2018_Crosswalk.xlsx,https://nces.ed.gov/ipeds/cipcode/Files/CIP2020_SOC2018_Crosswalk.xlsx,2026-11-25,428901,ba3d59a191b9d977a5c457a66b9348c4f2f7963aafacf72c0b80113b46bf0ab8
+onet/db_30_0_text.zip,https://www.onetcenter.org/dl_files/database/db_30_0_text.zip,2026-11-25,13462590,b7388aadeb3edef2a59fd292ac4e9b72d3e9266c65a136b7b8cc42b23003ce5a
+scorecard/Most-Recent-Cohorts-Field-of-Study.zip,https://ed-public-download.scorecard.network/downloads/Most-Recent-Cohorts-Field-of-Study_10152026.zip,2026-11-25,33857926,d42cd9ec5ffb4868e0f87f988fdbe10dc6c78adf427f9f6e5026a706d715be06

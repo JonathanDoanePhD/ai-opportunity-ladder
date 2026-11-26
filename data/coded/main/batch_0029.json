@@ -1,0 +1,1538 @@
+[
+ {
+  "id": "1571",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "courtroom testimony on forensic methods"
+ },
+ {
+  "id": "1573",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lab results classifying crime evidence"
+ },
+ {
+  "id": "1574",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory instruments and apparatus"
+ },
+ {
+  "id": "1575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab solutions and reagents"
+ },
+ {
+  "id": "1577",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical evidence at crime scenes"
+ },
+ {
+  "id": "1578",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drugs or poisons in samples"
+ },
+ {
+  "id": "1580",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "crime scene evidence relationships"
+ },
+ {
+  "id": "1582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dusting surfaces for fingerprints"
+ },
+ {
+  "id": "1583",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gunshot residue and bullet paths"
+ },
+ {
+  "id": "1584",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "morgues and scenes for evidence"
+ },
+ {
+  "id": "1587",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "firearms condition and serial numbers"
+ },
+ {
+  "id": "1589",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "expert consultations about evidence"
+ },
+ {
+  "id": "1590",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tool marks and impressions"
+ },
+ {
+  "id": "18478",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "findings and technique reports"
+ },
+ {
+  "id": "18479",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "latent fingerprints and databases"
+ },
+ {
+  "id": "18481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new forensic technicians"
+ },
+ {
+  "id": "18482",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blood stain patterns"
+ },
+ {
+  "id": "20399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographing evidence and scenes"
+ },
+ {
+  "id": "20400",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "analysts' reports for technical merit"
+ },
+ {
+  "id": "20401",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bullets and weapons in shootings"
+ },
+ {
+  "id": "23965",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crime scene measurements and sketches"
+ },
+ {
+  "id": "23966",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "footprints and tire track impressions"
+ },
+ {
+  "id": "23967",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hair, fiber, soil physical evidence"
+ },
+ {
+  "id": "23969",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital media criminal evidence"
+ },
+ {
+  "id": "16955",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "analysts learning lab procedures"
+ },
+ {
+  "id": "16956",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished product visual inspection"
+ },
+ {
+  "id": "16957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "QC liaison with departments, vendors"
+ },
+ {
+  "id": "16958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "internal assessments and audits"
+ },
+ {
+  "id": "16959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lab equipment problems"
+ },
+ {
+  "id": "16960",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new testing technologies and methods"
+ },
+ {
+  "id": "16961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab cleanliness and safety"
+ },
+ {
+  "id": "16962",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new testing methods"
+ },
+ {
+  "id": "16963",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contract lab testing coordination"
+ },
+ {
+  "id": "16964",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "deviation reports and protocols"
+ },
+ {
+  "id": "16965",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality control operating procedures"
+ },
+ {
+  "id": "16966",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "QC data for regulators"
+ },
+ {
+  "id": "16967",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming raw materials"
+ },
+ {
+  "id": "16968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contract laboratory data review"
+ },
+ {
+  "id": "16969",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "method transfer documentation"
+ },
+ {
+  "id": "16970",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "analytical method validations"
+ },
+ {
+  "id": "16971",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "out-of-specification investigations"
+ },
+ {
+  "id": "16972",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "testing procedure compliance monitoring"
+ },
+ {
+  "id": "16973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "questionable test results"
+ },
+ {
+  "id": "16974",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test results versus specifications"
+ },
+ {
+  "id": "16975",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality problems and solutions"
+ },
+ {
+  "id": "16976",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "analytical methods improvement"
+ },
+ {
+  "id": "16977",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing forms and logbooks"
+ },
+ {
+  "id": "16978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory equipment calibration"
+ },
+ {
+  "id": "16979",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory test data analysis"
+ },
+ {
+  "id": "16980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "samples and materials testing"
+ },
+ {
+  "id": "16981",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mapping project planning"
+ },
+ {
+  "id": "16982",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey data records"
+ },
+ {
+  "id": "16983",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "methods and technical reports"
+ },
+ {
+  "id": "16984",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image analysis software routines"
+ },
+ {
+  "id": "16985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ground verification data collection"
+ },
+ {
+  "id": "16986",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing data accuracy"
+ },
+ {
+  "id": "16987",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "charts, graphs, presentations"
+ },
+ {
+  "id": "16989",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "raw data quality during collection"
+ },
+ {
+  "id": "16990",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scanned images and mosaics"
+ },
+ {
+  "id": "16991",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote and geospatial data integration"
+ },
+ {
+  "id": "16992",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project equipment and software needs"
+ },
+ {
+  "id": "16993",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial databases"
+ },
+ {
+  "id": "16994",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "raw data skew and atmospheric errors"
+ },
+ {
+  "id": "16995",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "data collection equipment calibration"
+ },
+ {
+  "id": "16996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project needs with scientists"
+ },
+ {
+  "id": "16997",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remotely sensed image display"
+ },
+ {
+  "id": "16998",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "raw remote sensing data enhancement"
+ },
+ {
+  "id": "16999",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aerial and satellite geospatial data"
+ },
+ {
+  "id": "19804",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "farmers and environmental farming practices"
+ },
+ {
+  "id": "19805",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forest and carbon tracking data"
+ },
+ {
+  "id": "19806",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental remote sensing data"
+ },
+ {
+  "id": "11062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "unsafe work activities"
+ },
+ {
+  "id": "11063",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "worker protection measures"
+ },
+ {
+  "id": "11064",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "workplace accident causes"
+ },
+ {
+  "id": "11065",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ventilation, lighting, workplace conditions"
+ },
+ {
+  "id": "11066",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hygiene programs and surveys"
+ },
+ {
+  "id": "11067",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workplace safety compliance"
+ },
+ {
+  "id": "11068",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hazard controls with engineers, physicians"
+ },
+ {
+  "id": "11069",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker safety training"
+ },
+ {
+  "id": "11070",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new employee safety orientations"
+ },
+ {
+  "id": "11071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dust and gas samples"
+ },
+ {
+  "id": "11072",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "health complaints and facility compliance"
+ },
+ {
+  "id": "11073",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hazard right-to-know programs"
+ },
+ {
+  "id": "11074",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency response plans"
+ },
+ {
+  "id": "11075",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee medical monitoring programs"
+ },
+ {
+  "id": "11076",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire and first-aid equipment"
+ },
+ {
+  "id": "11077",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hazardous site audits"
+ },
+ {
+  "id": "11078",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous material samples"
+ },
+ {
+  "id": "11079",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazardous waste inventories"
+ },
+ {
+  "id": "11080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous waste sample packaging"
+ },
+ {
+  "id": "11081",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sample purity and disease analyses"
+ },
+ {
+  "id": "21142",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "injury and hazard incident trends"
+ },
+ {
+  "id": "23989",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "general reports"
+ },
+ {
+  "id": "11082",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental records and documentation"
+ },
+ {
+  "id": "11083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "personal protective equipment"
+ },
+ {
+  "id": "11085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sampling and analysis equipment"
+ },
+ {
+  "id": "11087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workplace radiation, chemical, noise hazards"
+ },
+ {
+  "id": "11088",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "safety equipment purchase specifications"
+ },
+ {
+  "id": "11091",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "credentials, licenses, permits"
+ },
+ {
+  "id": "11093",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "public health education and enforcement"
+ },
+ {
+  "id": "11095",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "disease or violation interviews"
+ },
+ {
+  "id": "11096",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lab, staffing, inspection records"
+ },
+ {
+  "id": "11097",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal proceeding documents, testimony"
+ },
+ {
+  "id": "11098",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency response drills"
+ },
+ {
+  "id": "11099",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily activity logbooks"
+ },
+ {
+  "id": "11100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "rescue and firefighting operations"
+ },
+ {
+  "id": "11101",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health standards with community groups"
+ },
+ {
+  "id": "19813",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazards of green equipment"
+ },
+ {
+  "id": "19814",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brownfield site risk data"
+ },
+ {
+  "id": "19815",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "green building site worker risks"
+ },
+ {
+  "id": "19816",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recycled product hazard tests"
+ },
+ {
+  "id": "19817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "HVAC systems air quality"
+ },
+ {
+  "id": "19818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers' green job safety"
+ },
+ {
+  "id": "20248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "safety equipment availability and use"
+ },
+ {
+  "id": "20249",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker refusal over danger"
+ },
+ {
+  "id": "20250",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contaminant corrective measures"
+ },
+ {
+  "id": "20251",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "job-relatedness of worker illnesses"
+ },
+ {
+  "id": "20252",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire suppression systems"
+ },
+ {
+  "id": "20253",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizations' safety practices consultation"
+ },
+ {
+  "id": "18622",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "urine samples for dependency"
+ },
+ {
+  "id": "18623",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student interns and new staff"
+ },
+ {
+  "id": "5583",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients overcoming dependencies, counseling"
+ },
+ {
+  "id": "5584",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient histories and progress records"
+ },
+ {
+  "id": "5585",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client treatment plans"
+ },
+ {
+  "id": "5586",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client progress against goals"
+ },
+ {
+  "id": "5587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client evaluation and program suitability"
+ },
+ {
+  "id": "5588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "clients in crisis"
+ },
+ {
+  "id": "5589",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "addiction information and referrals"
+ },
+ {
+  "id": "5590",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment plans as status changes"
+ },
+ {
+  "id": "5591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordination with health professionals"
+ },
+ {
+  "id": "5592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own training attendance"
+ },
+ {
+  "id": "5593",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "aftercare programs for discharged clients"
+ },
+ {
+  "id": "5594",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "program orientation sessions"
+ },
+ {
+  "id": "5595",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' family members"
+ },
+ {
+  "id": "5596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "case conferences and staff meetings"
+ },
+ {
+  "id": "5597",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients and medical staff"
+ },
+ {
+  "id": "5598",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "courts, probation, community agencies"
+ },
+ {
+  "id": "5599",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "family updates on treatment"
+ },
+ {
+  "id": "5600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "others learning program methods"
+ },
+ {
+  "id": "5601",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "discharged patients' outcomes"
+ },
+ {
+  "id": "5602",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prevention and health promotion programs"
+ },
+ {
+  "id": "5603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "service staff"
+ },
+ {
+  "id": "18624",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parents, teachers about children's progress"
+ },
+ {
+  "id": "18625",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student abilities, interests assessment"
+ },
+ {
+  "id": "18626",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "signs of abuse and family problems"
+ },
+ {
+  "id": "18627",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students' educational and career issues"
+ },
+ {
+  "id": "18628",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "school programs and master schedules"
+ },
+ {
+  "id": "18629",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "students' classroom behavior and development"
+ },
+ {
+  "id": "18630",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meetings, conferences, committees"
+ },
+ {
+  "id": "18631",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "career events and programs"
+ },
+ {
+  "id": "18632",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student behavior policies"
+ },
+ {
+  "id": "18633",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employers for internships"
+ },
+ {
+  "id": "18634",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recruitment and enrollment activities"
+ },
+ {
+  "id": "18635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "professional staff and interns"
+ },
+ {
+  "id": "23990",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personal problems affecting education, work"
+ },
+ {
+  "id": "23991",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students to outside counseling"
+ },
+ {
+  "id": "5606",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student records"
+ },
+ {
+  "id": "5608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students in crisis"
+ },
+ {
+  "id": "5611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students' persistence and exploration"
+ },
+ {
+  "id": "5616",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "college, aid, trade program information"
+ },
+ {
+  "id": "5619",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classes on education, career planning"
+ },
+ {
+  "id": "5621",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counselees' needs follow-up"
+ },
+ {
+  "id": "5623",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student and activity reports"
+ },
+ {
+  "id": "5624",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "orientation programs for new experiences"
+ },
+ {
+  "id": "5625",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' assistance needs and referrals"
+ },
+ {
+  "id": "5626",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "job search and interview skills"
+ },
+ {
+  "id": "5627",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "counseling services awareness presentations"
+ },
+ {
+  "id": "5629",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "occupational and economic information"
+ },
+ {
+  "id": "5630",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employment information for staff"
+ },
+ {
+  "id": "5631",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transcripts and recommendation letters"
+ },
+ {
+  "id": "5632",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students and degree programs"
+ },
+ {
+  "id": "5633",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "prevention and conflict programs"
+ },
+ {
+  "id": "5634",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students with disabilities' assistive access"
+ },
+ {
+  "id": "5636",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' employment history, barriers"
+ },
+ {
+  "id": "5637",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "peer counseling and tutoring programs"
+ },
+ {
+  "id": "5639",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counselees and employers"
+ },
+ {
+  "id": "5640",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "clubs and extracurricular activities"
+ },
+ {
+  "id": "20232",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "family relationship treatment plans"
+ },
+ {
+  "id": "20233",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cases with other professionals"
+ },
+ {
+  "id": "9184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' feelings and behaviors"
+ },
+ {
+  "id": "9185",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' relationship and family concerns"
+ },
+ {
+  "id": "9186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "families' coping skills"
+ },
+ {
+  "id": "9187",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case files and progress notes"
+ },
+ {
+  "id": "9188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client information gathering"
+ },
+ {
+  "id": "9190",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling versus referral decision"
+ },
+ {
+  "id": "9191",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "posttreatment activity plans"
+ },
+ {
+  "id": "9193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling program effectiveness"
+ },
+ {
+  "id": "9194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' legal and financial help"
+ },
+ {
+  "id": "9195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "custody dispute recommendations to courts"
+ },
+ {
+  "id": "9196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "counseling services education"
+ },
+ {
+  "id": "9197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counselors and staff"
+ },
+ {
+  "id": "9199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent and child court evaluations"
+ }
+]

@@ -1,0 +1,1538 @@
+[
+ {
+  "id": "18728",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen work areas and equipment"
+ },
+ {
+  "id": "18729",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ordered food items"
+ },
+ {
+  "id": "18730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food and storage temperatures"
+ },
+ {
+  "id": "18731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fruits and vegetables"
+ },
+ {
+  "id": "18732",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment status and supply orders"
+ },
+ {
+  "id": "18733",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash payments and change"
+ },
+ {
+  "id": "18734",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dining and kitchen floors"
+ },
+ {
+  "id": "21005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient diet meal trays"
+ },
+ {
+  "id": "2197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food storage containers"
+ },
+ {
+  "id": "2199",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "take-out food packages"
+ },
+ {
+  "id": "2200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "portioned food plates"
+ },
+ {
+  "id": "2201",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food trays warmers"
+ },
+ {
+  "id": "2203",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recipe ingredients"
+ },
+ {
+  "id": "2204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cooks and kitchen items"
+ },
+ {
+  "id": "2206",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivered food supplies"
+ },
+ {
+  "id": "2207",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cupboards and salad bars"
+ },
+ {
+  "id": "2208",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen trash containers"
+ },
+ {
+  "id": "2209",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "coffee tea soft drinks"
+ },
+ {
+  "id": "2210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food supplies and equipment"
+ },
+ {
+  "id": "2211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandwich dressings and sauces"
+ },
+ {
+  "id": "2212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "leftovers on dishes"
+ },
+ {
+  "id": "2213",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "foods being peeled sliced"
+ },
+ {
+  "id": "2214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soups and sauces"
+ },
+ {
+  "id": "2215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food for waitstaff"
+ },
+ {
+  "id": "2216",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food quantity usage records"
+ },
+ {
+  "id": "2217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dishes into dishwashing machines"
+ },
+ {
+  "id": "2218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fowl fish shellfish"
+ },
+ {
+  "id": "2219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat poultry seafood"
+ },
+ {
+  "id": "2220",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembly line trays"
+ },
+ {
+  "id": "2221",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "salad ingredients"
+ },
+ {
+  "id": "2222",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient menus and meal trays"
+ },
+ {
+  "id": "18735",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bar beverages and supplies"
+ },
+ {
+  "id": "2223",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drink payments"
+ },
+ {
+  "id": "2224",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer age identification"
+ },
+ {
+  "id": "2225",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bar cash receipts"
+ },
+ {
+  "id": "2226",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "intoxicated customers"
+ },
+ {
+  "id": "2227",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "glasses and bar equipment"
+ },
+ {
+  "id": "2228",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "beverage orders from patrons"
+ },
+ {
+  "id": "2229",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wine and beer served"
+ },
+ {
+  "id": "2230",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bars work areas tables"
+ },
+ {
+  "id": "2231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cocktails and mixed drinks"
+ },
+ {
+  "id": "2232",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "snacks served at bar"
+ },
+ {
+  "id": "2233",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "liquor and supplies orders"
+ },
+ {
+  "id": "2234",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "disruptive customers"
+ },
+ {
+  "id": "2235",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fruit garnishes"
+ },
+ {
+  "id": "2236",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bottles and glasses display"
+ },
+ {
+  "id": "2237",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "cocktail lounge operations"
+ },
+ {
+  "id": "2238",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "bar staff work"
+ },
+ {
+  "id": "2239",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bar menus"
+ },
+ {
+  "id": "2240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appetizers pickles cheese meats"
+ },
+ {
+  "id": "2241",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new drink recipes"
+ },
+ {
+  "id": "23099",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer orders and complaints"
+ },
+ {
+  "id": "23100",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer payments and change"
+ },
+ {
+  "id": "23101",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "counters steam tables equipment"
+ },
+ {
+  "id": "23102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floors dishes facilities"
+ },
+ {
+  "id": "23103",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash register receipts payments"
+ },
+ {
+  "id": "23104",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer orders and bills"
+ },
+ {
+  "id": "23105",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food and drinks served"
+ },
+ {
+  "id": "23106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "simple foods and beverages"
+ },
+ {
+  "id": "23107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "eating and kitchen areas"
+ },
+ {
+  "id": "23108",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supplies and food inventory"
+ },
+ {
+  "id": "23109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coffee and tea beverages"
+ },
+ {
+  "id": "23110",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fast service customers"
+ },
+ {
+  "id": "23111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dirty dishes"
+ },
+ {
+  "id": "23112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dishes glassware silverware"
+ },
+ {
+  "id": "23113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "menu items for takeout"
+ },
+ {
+  "id": "23114",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "kitchen shortages and special orders"
+ },
+ {
+  "id": "23115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cold drinks and desserts"
+ },
+ {
+  "id": "23116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food items into dishes bags"
+ },
+ {
+  "id": "23117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food at serving stations"
+ },
+ {
+  "id": "23118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee supervision and training"
+ },
+ {
+  "id": "23119",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer orders on tickets"
+ },
+ {
+  "id": "23120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food for servers"
+ },
+ {
+  "id": "23121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dining areas"
+ },
+ {
+  "id": "23122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food order garnishes"
+ },
+ {
+  "id": "23123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen orders served"
+ },
+ {
+  "id": "23124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tables and decorations"
+ },
+ {
+  "id": "23125",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "special diet meals"
+ },
+ {
+  "id": "17581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coffee and tea beverages"
+ },
+ {
+  "id": "17582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas utensils equipment"
+ },
+ {
+  "id": "17583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "service and seating areas"
+ },
+ {
+  "id": "17584",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment temperature checks"
+ },
+ {
+  "id": "17585",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "menu items for customers"
+ },
+ {
+  "id": "17586",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies and retail products"
+ },
+ {
+  "id": "17587",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coffee blend product details"
+ },
+ {
+  "id": "17588",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer payments"
+ },
+ {
+  "id": "17589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prepared foods served"
+ },
+ {
+  "id": "17590",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customer service stations"
+ },
+ {
+  "id": "17591",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer orders relayed"
+ },
+ {
+  "id": "17592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garbage"
+ },
+ {
+  "id": "17593",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coffee beans"
+ },
+ {
+  "id": "17594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food items labels"
+ },
+ {
+  "id": "17595",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "promotional signs"
+ },
+ {
+  "id": "17596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "espresso machine demonstration"
+ },
+ {
+  "id": "17597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandwiches and salads"
+ },
+ {
+  "id": "17598",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product displays"
+ },
+ {
+  "id": "17599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fruits vegetables desserts meats"
+ },
+ {
+  "id": "18744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dining areas and stations"
+ },
+ {
+  "id": "18745",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dishes and glasses"
+ },
+ {
+  "id": "18746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "phone reservations and guest greeting"
+ },
+ {
+  "id": "18747",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floors server station restrooms"
+ },
+ {
+  "id": "18748",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local area information"
+ },
+ {
+  "id": "2275",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patron age identification"
+ },
+ {
+  "id": "2276",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer payments"
+ },
+ {
+  "id": "2277",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patron food orders"
+ },
+ {
+  "id": "2278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "food and beverage orders"
+ },
+ {
+  "id": "2279",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer meal satisfaction"
+ },
+ {
+  "id": "2280",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food and beverages served"
+ },
+ {
+  "id": "2281",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meal checks and taxes"
+ },
+ {
+  "id": "2283",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "menu items and recommendations"
+ },
+ {
+  "id": "2284",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "daily specials information"
+ },
+ {
+  "id": "2285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tables and counters"
+ },
+ {
+  "id": "2286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drinks and wine bottles"
+ },
+ {
+  "id": "2287",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "menu item preparation details"
+ },
+ {
+  "id": "2288",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tables linens silverware glassware"
+ },
+ {
+  "id": "2289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "salads appetizers desserts coffee"
+ },
+ {
+  "id": "2290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "service area supplies"
+ },
+ {
+  "id": "2291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dishes for serving"
+ },
+ {
+  "id": "2292",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "condiment containers"
+ },
+ {
+  "id": "2293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers to tables"
+ },
+ {
+  "id": "2294",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "wine descriptions and recommendations"
+ },
+ {
+  "id": "2295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wine at tables"
+ },
+ {
+  "id": "11149",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "meal delivery and diet adherence"
+ },
+ {
+  "id": "11150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dishes utensils equipment"
+ },
+ {
+  "id": "11151",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meal trays contents"
+ },
+ {
+  "id": "11152",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food servings on plates"
+ },
+ {
+  "id": "11153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trays accessories"
+ },
+ {
+  "id": "11154",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food orders relayed"
+ },
+ {
+  "id": "11155",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "service station items"
+ },
+ {
+  "id": "11156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trays and dishes"
+ },
+ {
+  "id": "11157",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandwiches salads soups beverages"
+ },
+ {
+  "id": "11158",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food preparation procedures compliance"
+ },
+ {
+  "id": "11159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food and linen trays"
+ },
+ {
+  "id": "11160",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients meal location"
+ },
+ {
+  "id": "11161",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "special food items served records"
+ },
+ {
+  "id": "11162",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer checks and payment"
+ },
+ {
+  "id": "11163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tables seats tablecloths"
+ },
+ {
+  "id": "11164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tables linens condiments"
+ },
+ {
+  "id": "11165",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dirty dishes"
+ },
+ {
+  "id": "11166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spills broken dishes trash"
+ },
+ {
+  "id": "11167",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cafeteria serving and cleaning"
+ },
+ {
+  "id": "11168",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "linens silverware glassware supplies"
+ },
+ {
+  "id": "11169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "water coffee rolls"
+ },
+ {
+  "id": "11170",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "beverage and ice dispensers"
+ },
+ {
+  "id": "11171",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "condiments and containers"
+ },
+ {
+  "id": "11172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer requested items"
+ },
+ {
+  "id": "11173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen food and tableware"
+ },
+ {
+  "id": "11174",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food for customers"
+ },
+ {
+  "id": "11175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "counters shelves furniture floors"
+ },
+ {
+  "id": "11176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cafeteria trays"
+ },
+ {
+  "id": "11177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steam tables and service bars"
+ },
+ {
+  "id": "11178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash register"
+ },
+ {
+  "id": "11179",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bar glasses and equipment"
+ },
+ {
+  "id": "11180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garnished foods on tables"
+ },
+ {
+  "id": "11181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "linens to laundry"
+ },
+ {
+  "id": "11182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wine beer kegs"
+ },
+ {
+  "id": "11183",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixed drink flavors"
+ },
+ {
+  "id": "11184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drink garnish fruit"
+ },
+ {
+  "id": "23929",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers greeted and seated"
+ },
+ {
+  "id": "11186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dishes glassware pots pans"
+ },
+ {
+  "id": "11187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clean dishes into storage"
+ },
+ {
+  "id": "11188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen work areas utensils"
+ },
+ {
+  "id": "11189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "serving station supplies"
+ },
+ {
+  "id": "11190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floors"
+ },
+ {
+  "id": "11191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garbage cans"
+ },
+ {
+  "id": "11192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trash sorting and removal"
+ },
+ {
+  "id": "11193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "foods for cooking"
+ },
+ {
+  "id": "11194",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "banquet tables"
+ },
+ {
+  "id": "11195",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies between storage areas"
+ },
+ {
+  "id": "11196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received supplies"
+ },
+ {
+  "id": "11197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "place settings"
+ },
+ {
+  "id": "11198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivery trucks supplies"
+ },
+ {
+  "id": "18749",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patron table assignments rotation"
+ },
+ {
+  "id": "18750",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patron satisfaction and complaints"
+ },
+ {
+  "id": "18751",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "phone inquiries"
+ },
+ {
+  "id": "18752",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dining area cleanliness"
+ },
+ {
+  "id": "18753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "restrooms"
+ },
+ {
+  "id": "18754",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "to-go orders"
+ },
+ {
+  "id": "21070",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "restaurant food service"
+ },
+ {
+  "id": "2296",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "menus for guests"
+ },
+ {
+  "id": "2297",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "guests greeted seated"
+ },
+ {
+  "id": "2301",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dining reservations"
+ },
+ {
+  "id": "2302",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "dining staff coordination"
+ },
+ {
+  "id": "2303",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "establishment specialties information"
+ },
+ {
+  "id": "2304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patrons to coatrooms"
+ },
+ {
+  "id": "2305",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "payments for food"
+ },
+ {
+  "id": "2306",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash receipts and deposits"
+ },
+ {
+  "id": "2307",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dining room staff"
+ },
+ {
+  "id": "2309",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "table supplies orders"
+ },
+ {
+  "id": "2310",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "food service staff"
+ },
+ {
+  "id": "2312",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "menu planning"
+ },
+ {
+  "id": "2313",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing and advertising materials"
+ }
+]

@@ -1,0 +1,1546 @@
+[
+ {
+  "id": "12975",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "volunteer recruitment"
+ },
+ {
+  "id": "12976",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "religious education staff training"
+ },
+ {
+  "id": "12977",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "congregation study courses"
+ },
+ {
+  "id": "12978",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and class structures"
+ },
+ {
+  "id": "12979",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program materials, speakers, space"
+ },
+ {
+  "id": "12980",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individuals' personal problems"
+ },
+ {
+  "id": "12981",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "member participation data"
+ },
+ {
+  "id": "12982",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "ministry team goals"
+ },
+ {
+  "id": "12983",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "camps, conferences, retreats schedule"
+ },
+ {
+  "id": "12984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clergy and officials' support"
+ },
+ {
+  "id": "12985",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program publicity newsletters"
+ },
+ {
+  "id": "12986",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "revenue and cost budget data"
+ },
+ {
+  "id": "12987",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "workshops and conferences attendance"
+ },
+ {
+  "id": "12988",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "periodicals and curricula resources"
+ },
+ {
+  "id": "12989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "denominational activities, interfaith aid"
+ },
+ {
+  "id": "12990",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "conferences on religious ideas"
+ },
+ {
+  "id": "12991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "members' homes, pastoral visits"
+ },
+ {
+  "id": "12992",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public talks and articles"
+ },
+ {
+  "id": "20750",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "church fundraising activities"
+ },
+ {
+  "id": "20877",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wills, deeds, contracts drafting"
+ },
+ {
+  "id": "23992",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contract negotiations"
+ },
+ {
+  "id": "3773",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client legal advice"
+ },
+ {
+  "id": "3774",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laws and regulations interpretation"
+ },
+ {
+  "id": "3775",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "probable case outcomes"
+ },
+ {
+  "id": "3776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "case presentations to court"
+ },
+ {
+  "id": "3777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "case strategy and arguments"
+ },
+ {
+  "id": "3778",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "evidence from clients, witnesses"
+ },
+ {
+  "id": "3779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client representation in court"
+ },
+ {
+  "id": "3780",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal data for lawsuit decision"
+ },
+ {
+  "id": "3781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "jurors, motions, trial witnesses"
+ },
+ {
+  "id": "3782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "trial evidence presentation"
+ },
+ {
+  "id": "3783",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statutes and decisions study"
+ },
+ {
+  "id": "3785",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "briefs, opinions, appeals"
+ },
+ {
+  "id": "3786",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "civil dispute settlements"
+ },
+ {
+  "id": "3787",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist colleague consultation"
+ },
+ {
+  "id": "3788",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public legal records search"
+ },
+ {
+  "id": "3789",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legal assistants supervision"
+ },
+ {
+  "id": "3790",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "law practice administration"
+ },
+ {
+  "id": "3791",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fiduciary role for clients"
+ },
+ {
+  "id": "3792",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "wills probate, estate advice"
+ },
+ {
+  "id": "3793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legislation and program development"
+ },
+ {
+  "id": "19044",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "court sessions oral arguments"
+ },
+ {
+  "id": "19045",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "counsel case procedure communication"
+ },
+ {
+  "id": "19046",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "judges' legal questions"
+ },
+ {
+  "id": "19047",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "judicial opinions draft, proofread"
+ },
+ {
+  "id": "19048",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "changes in law monitoring"
+ },
+ {
+  "id": "19049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "attorney-judge conferences"
+ },
+ {
+  "id": "19050",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "briefs and legal memoranda"
+ },
+ {
+  "id": "19051",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case law research"
+ },
+ {
+  "id": "19052",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "filed complaints and motions"
+ },
+ {
+  "id": "19053",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pending litigation dockets"
+ },
+ {
+  "id": "19054",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "case files completeness check"
+ },
+ {
+  "id": "19056",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "judges' appointment schedules"
+ },
+ {
+  "id": "19057",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "court calendar system entries"
+ },
+ {
+  "id": "19058",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "judges' law library documents"
+ },
+ {
+  "id": "19059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "courtroom calendars, oaths"
+ },
+ {
+  "id": "19060",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "court proceedings reports"
+ },
+ {
+  "id": "19061",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "judicial officers' legal questions"
+ },
+ {
+  "id": "19062",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court volunteers, students supervision"
+ },
+ {
+  "id": "21181",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hearing schedules"
+ },
+ {
+  "id": "7617",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "written opinions and decisions"
+ },
+ {
+  "id": "7618",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim applications and records"
+ },
+ {
+  "id": "7619",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laws and precedent research"
+ },
+ {
+  "id": "7620",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "case parties' information"
+ },
+ {
+  "id": "7621",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "claims acceptance or rejection"
+ },
+ {
+  "id": "7622",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claimants' appeal rights explanation"
+ },
+ {
+  "id": "7623",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "trial and hearing conduct"
+ },
+ {
+  "id": "7624",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "valid claims payment authorization"
+ },
+ {
+  "id": "7625",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "claim hearings and decisions"
+ },
+ {
+  "id": "7626",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "motions, exceptions, evidence admissibility"
+ },
+ {
+  "id": "7627",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "liability existence and amount"
+ },
+ {
+  "id": "7628",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "subpoenas and oaths"
+ },
+ {
+  "id": "7629",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appeals procedures in agencies"
+ },
+ {
+  "id": "12993",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disputants' issues and interests"
+ },
+ {
+  "id": "12994",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disputant communication and agreement"
+ },
+ {
+  "id": "12995",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mediation meeting appointments"
+ },
+ {
+  "id": "12996",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "settlement agreements for signing"
+ },
+ {
+  "id": "12997",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public mediation presentations"
+ },
+ {
+  "id": "12999",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "written case opinions"
+ },
+ {
+  "id": "13001",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "motions and evidence admissibility"
+ },
+ {
+  "id": "13003",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim documents evaluation"
+ },
+ {
+  "id": "13004",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claimants and witnesses interviews"
+ },
+ {
+  "id": "13005",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laws and precedent research"
+ },
+ {
+  "id": "13007",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compromise settlement offers"
+ },
+ {
+  "id": "13008",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "arbitration process initial meetings"
+ },
+ {
+  "id": "13009",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "court proceedings participation"
+ },
+ {
+  "id": "13010",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "subpoenas and oaths"
+ },
+ {
+  "id": "13011",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "valid claims payment authorization"
+ },
+ {
+  "id": "13012",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appeals procedures studies"
+ },
+ {
+  "id": "19807",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental conflict negotiation"
+ },
+ {
+  "id": "20238",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laws applied to conclusions"
+ },
+ {
+  "id": "20239",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hearings for claim evidence"
+ },
+ {
+  "id": "20240",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "liability extent determination"
+ },
+ {
+  "id": "20057",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public legal information speeches"
+ },
+ {
+  "id": "21182",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "arrest warrants issuance"
+ },
+ {
+  "id": "5643",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "jury instruction and verdicts"
+ },
+ {
+  "id": "5644",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "criminal sentencing"
+ },
+ {
+  "id": "5645",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "evidence admissibility rulings"
+ },
+ {
+  "id": "5646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hearings and plaintiffs' allegations"
+ },
+ {
+  "id": "5647",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pleadings and motions reading"
+ },
+ {
+  "id": "5648",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "procedural rules interpretation"
+ },
+ {
+  "id": "5649",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "court proceedings rule compliance"
+ },
+ {
+  "id": "5650",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "attorneys, juries, court personnel advice"
+ },
+ {
+  "id": "5651",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal issues opinions research"
+ },
+ {
+  "id": "5652",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "preliminary hearing probable cause"
+ },
+ {
+  "id": "5653",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "case decisions writing"
+ },
+ {
+  "id": "5654",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "civil damages compensation"
+ },
+ {
+  "id": "5655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "attorney disputes"
+ },
+ {
+  "id": "5656",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "judges and court staff supervision"
+ },
+ {
+  "id": "5657",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "civil party restrictions pending trial"
+ },
+ {
+  "id": "5658",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "custody and support disputes"
+ },
+ {
+  "id": "5659",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "divorces and asset division"
+ },
+ {
+  "id": "5660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "judicial tribunal dispute resolution"
+ },
+ {
+  "id": "5661",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "wedding ceremonies"
+ },
+ {
+  "id": "1636",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statutes, decisions, legal articles"
+ },
+ {
+  "id": "1638",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "witness calls to testify"
+ },
+ {
+  "id": "1639",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "law office activity, subpoena delivery"
+ },
+ {
+  "id": "1641",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "law library volumes currency"
+ },
+ {
+  "id": "1642",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "estate property appraisal inventory"
+ },
+ {
+  "id": "18491",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "affidavits and legal correspondence filing"
+ },
+ {
+  "id": "18492",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "trial exhibits preparation"
+ },
+ {
+  "id": "18493",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients and professionals case meetings"
+ },
+ {
+  "id": "18494",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pleadings filed with courts"
+ },
+ {
+  "id": "18496",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "party disputes, real estate closings"
+ },
+ {
+  "id": "21062",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case facts and public records"
+ },
+ {
+  "id": "23994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "briefs, pleadings, wills, contracts"
+ },
+ {
+  "id": "9230",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legal instruments on a property"
+ },
+ {
+  "id": "9231",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mortgages, liens, easements, ownership"
+ },
+ {
+  "id": "9232",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "title search requests"
+ },
+ {
+  "id": "9233",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recorded property documents summaries"
+ },
+ {
+  "id": "9234",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "title restrictions like delinquent taxes"
+ },
+ {
+  "id": "9235",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "title encumbrance reports"
+ },
+ {
+  "id": "9236",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "land documents for registration"
+ },
+ {
+  "id": "9237",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "title information with realtors, lenders"
+ },
+ {
+  "id": "9238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "title records data entry"
+ },
+ {
+  "id": "9239",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "title searchers supervision"
+ },
+ {
+  "id": "9240",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "property maps and drawings"
+ },
+ {
+  "id": "9241",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "title commitments and insurance policies"
+ },
+ {
+  "id": "9242",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statute and case law summaries"
+ },
+ {
+  "id": "9243",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "real estate closing files"
+ },
+ {
+  "id": "9245",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "land documents registrability"
+ },
+ {
+  "id": "9246",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document registration fees"
+ },
+ {
+  "id": "20058",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course websites"
+ },
+ {
+  "id": "21108",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new faculty mentoring"
+ },
+ {
+  "id": "5662",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "business lectures to students"
+ },
+ {
+  "id": "5663",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student assignments and papers grading"
+ },
+ {
+  "id": "5664",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "examinations compile and grade"
+ },
+ {
+  "id": "5665",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5666",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5667",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5668",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5669",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "office hours student advising"
+ },
+ {
+  "id": "5670",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "field literature and developments"
+ },
+ {
+  "id": "5671",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5672",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and supplies"
+ },
+ {
+  "id": "5673",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleagues on teaching, research"
+ },
+ {
+  "id": "5674",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "business community partnerships"
+ },
+ {
+  "id": "5675",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5676",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5677",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "5678",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department administration"
+ },
+ {
+  "id": "5680",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5681",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "field research and publication"
+ },
+ {
+  "id": "5682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student organizations advising"
+ },
+ {
+  "id": "5683",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consulting for government, industry"
+ },
+ {
+  "id": "5684",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "20059",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instructional computer equipment maintenance"
+ },
+ {
+  "id": "21109",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online course websites"
+ },
+ {
+  "id": "5685",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student code, lab work grading"
+ },
+ {
+  "id": "5686",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5687",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programming lectures to students"
+ },
+ {
+  "id": "5688",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5689",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "examinations compile and grade"
+ },
+ {
+  "id": "5690",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "field literature and developments"
+ },
+ {
+  "id": "5691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5692",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students' laboratory work"
+ },
+ {
+  "id": "5694",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "office hours student advising"
+ },
+ {
+  "id": "5695",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5696",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5697",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5698",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleagues on teaching, research"
+ },
+ {
+  "id": "5699",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5700",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student organizations advising"
+ },
+ {
+  "id": "5701",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5702",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department administration"
+ },
+ {
+  "id": "5703",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "field research and publication"
+ },
+ {
+  "id": "5704",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "graduate students' research direction"
+ },
+ {
+  "id": "5705",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consulting for government, industry"
+ },
+ {
+  "id": "5706",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "5707",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5708",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ }
+]

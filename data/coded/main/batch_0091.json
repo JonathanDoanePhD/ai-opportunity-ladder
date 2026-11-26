@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "17911",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment faults"
+ },
+ {
+  "id": "17912",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant equipment performance"
+ },
+ {
+  "id": "17913",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "generating units and valves"
+ },
+ {
+  "id": "17914",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment status to dispatchers"
+ },
+ {
+  "id": "17915",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "load and switching orders"
+ },
+ {
+  "id": "17916",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "generators and auxiliary equipment"
+ },
+ {
+  "id": "17917",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motors, relays, meters, pumps"
+ },
+ {
+  "id": "17918",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plant work records"
+ },
+ {
+  "id": "17919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant electrical and mechanical equipment"
+ },
+ {
+  "id": "17920",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "high voltage switches"
+ },
+ {
+  "id": "17921",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "turbines, pumps, gates, control boards"
+ },
+ {
+  "id": "17922",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water levels, temperatures, flow"
+ },
+ {
+  "id": "17923",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "breakers, batteries, conduits"
+ },
+ {
+  "id": "17924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment oil and lubricants"
+ },
+ {
+  "id": "17925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal plant components"
+ },
+ {
+  "id": "17926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal stock for plant"
+ },
+ {
+  "id": "17927",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scaffolds and platforms"
+ },
+ {
+  "id": "17928",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy loads via cranes"
+ },
+ {
+  "id": "17929",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contamination containment"
+ },
+ {
+  "id": "17930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tunnels and plant facilities"
+ },
+ {
+  "id": "17931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables and wiring"
+ },
+ {
+  "id": "10468",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "boilers and auxiliary equipment"
+ },
+ {
+  "id": "10469",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "boiler gauge readings"
+ },
+ {
+  "id": "10470",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler water quality"
+ },
+ {
+  "id": "10471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler valves and fuel"
+ },
+ {
+  "id": "10472",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "boiler water and fuel levels"
+ },
+ {
+  "id": "10473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coal and gas furnaces"
+ },
+ {
+  "id": "10474",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment, gauges, alarms"
+ },
+ {
+  "id": "10475",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment operating problems"
+ },
+ {
+  "id": "10476",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily operation and safety logs"
+ },
+ {
+  "id": "10477",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment controls and valves"
+ },
+ {
+  "id": "10478",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment isolation for repair"
+ },
+ {
+  "id": "10479",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boilers cleaning and lubrication"
+ },
+ {
+  "id": "10480",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ventilation air quality"
+ },
+ {
+  "id": "10481",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler repairs and overhauls"
+ },
+ {
+  "id": "10482",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fuel quantities"
+ },
+ {
+  "id": "10483",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operation, safety, maintenance procedures"
+ },
+ {
+  "id": "10484",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "burners and auxiliary equipment"
+ },
+ {
+  "id": "10485",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "manufacturers about equipment problems"
+ },
+ {
+  "id": "10486",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical system voltages"
+ },
+ {
+  "id": "10487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plumbing lines and repairs"
+ },
+ {
+  "id": "10488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "assistant engineers and tenders"
+ },
+ {
+  "id": "10489",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "steam plant instructions"
+ },
+ {
+  "id": "10490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "burner fuel ignition"
+ },
+ {
+  "id": "10491",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "accidents"
+ },
+ {
+  "id": "10492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical hoppers"
+ },
+ {
+  "id": "18585",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tanks and filter beds"
+ },
+ {
+  "id": "925",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water disinfection chemicals"
+ },
+ {
+  "id": "926",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water treatment equipment controls"
+ },
+ {
+  "id": "927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment, meters, gauges"
+ },
+ {
+  "id": "928",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water and sewage samples"
+ },
+ {
+  "id": "929",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational data forms"
+ },
+ {
+  "id": "930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treatment equipment upkeep"
+ },
+ {
+  "id": "932",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "plant workers"
+ },
+ {
+  "id": "10493",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "reaction equipment control settings"
+ },
+ {
+  "id": "10494",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "process instruments and indicators"
+ },
+ {
+  "id": "10495",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical process control boards"
+ },
+ {
+  "id": "10496",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process operating data"
+ },
+ {
+  "id": "10497",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "safety and quality conditions"
+ },
+ {
+  "id": "10498",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples and quality tests"
+ },
+ {
+  "id": "10499",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency equipment shutdown"
+ },
+ {
+  "id": "10500",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pumps and reactor vessels"
+ },
+ {
+  "id": "10501",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "reactions and lab reports"
+ },
+ {
+  "id": "10502",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tanks and troughs"
+ },
+ {
+  "id": "10503",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance personnel notification"
+ },
+ {
+  "id": "10504",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "towers, tanks, scrubbers, driers"
+ },
+ {
+  "id": "10505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "machinery operating workers"
+ },
+ {
+  "id": "10506",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product flow valves"
+ },
+ {
+  "id": "10507",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material requirements and yields"
+ },
+ {
+  "id": "10508",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tank levels"
+ },
+ {
+  "id": "10509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged equipment"
+ },
+ {
+  "id": "10510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frozen valves"
+ },
+ {
+  "id": "10511",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "cleaning of towers and strainers"
+ },
+ {
+  "id": "14286",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous product storage safety"
+ },
+ {
+  "id": "14287",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gauges and plant equipment"
+ },
+ {
+  "id": "14288",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "compressors, scrubbers, evaporators"
+ },
+ {
+  "id": "14289",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant equipment start shutdown"
+ },
+ {
+  "id": "14290",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations records and readings"
+ },
+ {
+  "id": "14291",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gas process conditions"
+ },
+ {
+  "id": "14292",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment upkeep"
+ },
+ {
+  "id": "14293",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "unit problems with operators"
+ },
+ {
+  "id": "14294",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "abnormal pressure variances"
+ },
+ {
+  "id": "14295",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logsheets for demand"
+ },
+ {
+  "id": "14296",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas, chemicals, air purity"
+ },
+ {
+  "id": "14297",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance crews"
+ },
+ {
+  "id": "14298",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recording meter charts"
+ },
+ {
+  "id": "14299",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gas distribution via control boards"
+ },
+ {
+  "id": "14300",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gas flow and pressure"
+ },
+ {
+  "id": "14301",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "air separation columns"
+ },
+ {
+  "id": "14302",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gas ratio deviations"
+ },
+ {
+  "id": "14303",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "workers tending auxiliary equipment"
+ },
+ {
+  "id": "14304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas distribution construction"
+ },
+ {
+  "id": "14305",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "process indicators and meters"
+ },
+ {
+  "id": "14306",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pumps, valves, oil flow"
+ },
+ {
+  "id": "14307",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "manifold and pumping systems"
+ },
+ {
+  "id": "14308",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "refinery control panels"
+ },
+ {
+  "id": "14309",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "workers by phone or radio"
+ },
+ {
+  "id": "14310",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "meters and product movement"
+ },
+ {
+  "id": "14311",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tank gauge readings"
+ },
+ {
+  "id": "14312",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "distilling and treating units"
+ },
+ {
+  "id": "14313",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product movement through lines"
+ },
+ {
+  "id": "14314",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications and test results"
+ },
+ {
+  "id": "14315",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating data and lab results"
+ },
+ {
+  "id": "14316",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pumphouse activity coordination"
+ },
+ {
+  "id": "14317",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "storage tanks and operations"
+ },
+ {
+  "id": "14318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment repair or reporting"
+ },
+ {
+  "id": "14319",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples"
+ },
+ {
+  "id": "14320",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipelines and valves"
+ },
+ {
+  "id": "14321",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unit cleaning and spills"
+ },
+ {
+  "id": "14322",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "shutdowns and major projects"
+ },
+ {
+  "id": "14323",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil sample quality tests"
+ },
+ {
+  "id": "14324",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "oil receipts and deliveries"
+ },
+ {
+  "id": "14325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tank temperatures"
+ },
+ {
+  "id": "14326",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing unit interiors"
+ },
+ {
+  "id": "14327",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tank valve seals"
+ },
+ {
+  "id": "14328",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test result values"
+ },
+ {
+  "id": "17818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biofuel feedstock mixing"
+ },
+ {
+  "id": "17819",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical processing equipment"
+ },
+ {
+  "id": "17820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "centrifuge for biofuel extraction"
+ },
+ {
+  "id": "17821",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "valves, pumps, generators"
+ },
+ {
+  "id": "17822",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feedstock in reaction vessels"
+ },
+ {
+  "id": "17823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "additive quality"
+ },
+ {
+  "id": "17824",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flow devices and meters"
+ },
+ {
+  "id": "17825",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biofuel samples and lab tests"
+ },
+ {
+  "id": "17826",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment inspection"
+ },
+ {
+  "id": "17827",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw feedstock"
+ },
+ {
+  "id": "17828",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biofuel processing data"
+ },
+ {
+  "id": "17829",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "flow meter performance"
+ },
+ {
+  "id": "17830",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "production process"
+ },
+ {
+  "id": "17831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stored biofuel products"
+ },
+ {
+  "id": "17832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feedstock preprocessing"
+ },
+ {
+  "id": "17833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing work area"
+ },
+ {
+  "id": "17834",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "raw product sourcing"
+ },
+ {
+  "id": "17835",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing equipment maintenance"
+ },
+ {
+  "id": "17836",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment components"
+ },
+ {
+  "id": "12333",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "reaction temperature, pressure, flow"
+ },
+ {
+  "id": "12334",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fire and explosion precautions"
+ },
+ {
+  "id": "12335",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gauges and flowmeters"
+ },
+ {
+  "id": "12336",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical reaction equipment"
+ },
+ {
+  "id": "12337",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical ingredients"
+ },
+ {
+  "id": "12338",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment leaks and malfunctions"
+ },
+ {
+  "id": "12339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas patrol"
+ },
+ {
+  "id": "12340",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product sample properties"
+ },
+ {
+  "id": "12341",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples"
+ },
+ {
+  "id": "12342",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational data"
+ },
+ {
+  "id": "12343",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance engineers"
+ },
+ {
+  "id": "12344",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treating agents and filtration"
+ },
+ {
+  "id": "12345",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "valves, pumps, agitators"
+ },
+ {
+  "id": "12346",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plant specifications"
+ },
+ {
+  "id": "12347",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment draining and flushing"
+ },
+ {
+  "id": "12348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment minor repairs"
+ },
+ {
+  "id": "12349",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment cleaning"
+ },
+ {
+  "id": "12350",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product color and consistency"
+ },
+ {
+  "id": "12351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "industrial emergency response"
+ },
+ {
+  "id": "12352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solid materials into equipment"
+ },
+ {
+  "id": "12353",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production material requirements"
+ },
+ {
+  "id": "12354",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supplies inventory"
+ },
+ {
+  "id": "12355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "assisting workers"
+ },
+ {
+  "id": "12356",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine controls for flow, temperature"
+ },
+ {
+  "id": "12357",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material flow and gauges"
+ },
+ {
+  "id": "12360",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material samples"
+ },
+ {
+  "id": "12362",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sample viscosity and acidity"
+ },
+ {
+  "id": "12363",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials to process"
+ },
+ {
+  "id": "12364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tanks and equipment cleaning"
+ },
+ {
+  "id": "12365",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine hazards and wear"
+ },
+ {
+  "id": "12366",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials into equipment"
+ },
+ {
+  "id": "12367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipes between vats"
+ },
+ {
+  "id": "12368",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "processing instructions to workers"
+ },
+ {
+  "id": "12369",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clogs in equipment"
+ },
+ {
+  "id": "12371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoses, pumps, filters, screens"
+ },
+ {
+  "id": "12372",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "valves for sterilizing solutions"
+ },
+ {
+  "id": "12373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "full containers at outlets"
+ },
+ {
+  "id": "19918",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machines under regulations"
+ },
+ {
+  "id": "20824",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "valves and controls for materials"
+ },
+ {
+  "id": "20825",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sample clarity and texture"
+ },
+ {
+  "id": "20826",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "agitators, conveyors, pumps"
+ },
+ {
+  "id": "20827",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instrument readings for databases"
+ },
+ {
+  "id": "20828",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment parts assembly"
+ },
+ {
+  "id": "12375",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work order specifications"
+ },
+ {
+  "id": "12376",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment operation flow"
+ },
+ {
+  "id": "12377",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "crushing and grinding machinery"
+ },
+ {
+  "id": "12378",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "operations and production data"
+ },
+ {
+  "id": "12379",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials and products quality"
+ },
+ {
+  "id": "12380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials at intervals"
+ },
+ {
+  "id": "12381",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment cleaning and adjustment"
+ },
+ {
+  "id": "12382",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supervisors about repairs"
+ },
+ {
+  "id": "12383",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mill gauges fineness"
+ },
+ {
+  "id": "12384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective products"
+ },
+ {
+  "id": "12385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas"
+ },
+ {
+  "id": "12386",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials between work areas"
+ },
+ {
+  "id": "12387",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jammed machinery"
+ },
+ {
+  "id": "12388",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chains, belts, scrolls"
+ },
+ {
+  "id": "12389",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pumps and conveyors"
+ },
+ {
+  "id": "12390",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "samples for compliance"
+ },
+ {
+  "id": "12391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material samples"
+ },
+ {
+  "id": "12392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "storage bins"
+ },
+ {
+  "id": "12393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material moisture valves"
+ },
+ {
+  "id": "12394",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials into machinery"
+ },
+ {
+  "id": "12395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemicals and ingredients mixing"
+ }
+]

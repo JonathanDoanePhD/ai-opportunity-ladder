@@ -1,0 +1,1514 @@
+[
+ {
+  "id": "3579",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "well economics and drilling site viability"
+ },
+ {
+  "id": "3580",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "well production rates and rework plans"
+ },
+ {
+  "id": "3581",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "well placement from production data"
+ },
+ {
+  "id": "3582",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "well stimulation programs and crews"
+ },
+ {
+  "id": "3583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "well completion and testing operations"
+ },
+ {
+  "id": "3584",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "operating problems with colleagues"
+ },
+ {
+  "id": "3585",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drilling and recovery plans"
+ },
+ {
+  "id": "3586",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drilling and production records"
+ },
+ {
+  "id": "3587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design and testing problems discussion"
+ },
+ {
+  "id": "3588",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical engineering reports"
+ },
+ {
+  "id": "3589",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "findings guiding equipment or process design"
+ },
+ {
+  "id": "3590",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff work assignments"
+ },
+ {
+  "id": "3591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "drilling and testing data explained"
+ },
+ {
+  "id": "3592",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "environmental controls on field operations"
+ },
+ {
+  "id": "3593",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "oil field equipment installation and maintenance"
+ },
+ {
+  "id": "3594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment removal, waste, land restoration"
+ },
+ {
+  "id": "3595",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "well installations on site"
+ },
+ {
+  "id": "3596",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reservoir recovery computer simulations"
+ },
+ {
+  "id": "3597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil and resource samples"
+ },
+ {
+  "id": "3598",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research and development workers"
+ },
+ {
+  "id": "3599",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "oil field machinery design"
+ },
+ {
+  "id": "3600",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery safety and performance testing"
+ },
+ {
+  "id": "3601",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery improvement experiments"
+ },
+ {
+  "id": "18148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "building energy modeling and verification"
+ },
+ {
+  "id": "18149",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "green building client consultation"
+ },
+ {
+  "id": "18150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "HVAC and daylighting systems in buildings"
+ },
+ {
+  "id": "18151",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "energy conservation project management"
+ },
+ {
+  "id": "18156",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy consumption data"
+ },
+ {
+  "id": "18157",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "renewable energy awareness promotion"
+ },
+ {
+  "id": "18159",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy data graphics"
+ },
+ {
+  "id": "18165",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "energy purchase agreements"
+ },
+ {
+  "id": "18166",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel or clients energy management training"
+ },
+ {
+  "id": "19648",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building automation energy routines"
+ },
+ {
+  "id": "20854",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy savings strategies"
+ },
+ {
+  "id": "20855",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "building energy use audits"
+ },
+ {
+  "id": "20856",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "energy-related design and construction issues"
+ },
+ {
+  "id": "20857",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client advice on climate systems"
+ },
+ {
+  "id": "20858",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy bills and meter readings"
+ },
+ {
+  "id": "20859",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jobsite energy data collection"
+ },
+ {
+  "id": "20860",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plans for energy efficiency"
+ },
+ {
+  "id": "20861",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy project reports"
+ },
+ {
+  "id": "20862",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "energy management project implementation"
+ },
+ {
+  "id": "20863",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "renewable energy technologies research"
+ },
+ {
+  "id": "20864",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel choice for sites"
+ },
+ {
+  "id": "16464",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering design and test reports"
+ },
+ {
+  "id": "16465",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mechatronics consultation and training"
+ },
+ {
+  "id": "16466",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contractor work oversight"
+ },
+ {
+  "id": "16467",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical design documents"
+ },
+ {
+  "id": "16468",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical project files"
+ },
+ {
+  "id": "16469",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "development and manufacturing procedures"
+ },
+ {
+  "id": "16470",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "design solutions implemented and tested"
+ },
+ {
+  "id": "16471",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sensor and control device selection"
+ },
+ {
+  "id": "16473",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "control circuits and algorithms"
+ },
+ {
+  "id": "16474",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial automation system design"
+ },
+ {
+  "id": "16475",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electronic control system design"
+ },
+ {
+  "id": "16476",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "embedded software programs"
+ },
+ {
+  "id": "16479",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "existing device mechatronic upgrades"
+ },
+ {
+  "id": "16480",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "processes for dangerous situations"
+ },
+ {
+  "id": "16481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "computer-controlled product components"
+ },
+ {
+  "id": "16482",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "precision equipment design"
+ },
+ {
+  "id": "16483",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "automated material transfer"
+ },
+ {
+  "id": "19653",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "environmental automated control systems"
+ },
+ {
+  "id": "19654",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "self-monitoring mechanical systems"
+ },
+ {
+  "id": "19655",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automated production systems calibration"
+ },
+ {
+  "id": "23946",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials for mechatronic designs"
+ },
+ {
+  "id": "23947",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical simulation models"
+ },
+ {
+  "id": "23948",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new equipment feasibility and costs"
+ },
+ {
+  "id": "16484",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "MEMS product introduction projects"
+ },
+ {
+  "id": "16485",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "MEMS research project schedules"
+ },
+ {
+  "id": "16486",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "MEMS processing tools and fixtures"
+ },
+ {
+  "id": "16487",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "MEMS test equipment and facilities"
+ },
+ {
+  "id": "16488",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer documentation and manuals"
+ },
+ {
+  "id": "16489",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "MEMS patent documents"
+ },
+ {
+  "id": "16490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "operating experience shared with engineers"
+ },
+ {
+  "id": "16491",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "miniaturized systems on wafers shown"
+ },
+ {
+  "id": "16492",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "schematics and bills of materials"
+ },
+ {
+  "id": "16493",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming materials conformance testing"
+ },
+ {
+  "id": "16494",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS design refinement"
+ },
+ {
+  "id": "16495",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS product design proposals"
+ },
+ {
+  "id": "16496",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "MEMS fabrication equipment operation"
+ },
+ {
+  "id": "16497",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS design simulation analysis"
+ },
+ {
+  "id": "16498",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials and fabrication methods evaluation"
+ },
+ {
+  "id": "16499",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS production methods"
+ },
+ {
+  "id": "16500",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials characterization procedures"
+ },
+ {
+  "id": "16501",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product test protocols"
+ },
+ {
+  "id": "16502",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS quality documentation"
+ },
+ {
+  "id": "16503",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS component layouts"
+ },
+ {
+  "id": "16504",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prototype development and microfabrication"
+ },
+ {
+  "id": "16505",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "failure, reliability, yield analysis"
+ },
+ {
+  "id": "16506",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS characteristics studies"
+ },
+ {
+  "id": "16507",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fabrication process validation"
+ },
+ {
+  "id": "16508",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "device environmental and field testing"
+ },
+ {
+  "id": "19656",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental issues in MEMS designs"
+ },
+ {
+  "id": "19657",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanomaterial energy product design"
+ },
+ {
+  "id": "19658",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial air quality microsystems"
+ },
+ {
+  "id": "19659",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "appliance sensor design"
+ },
+ {
+  "id": "19660",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "low-power sensors and switches"
+ },
+ {
+  "id": "19661",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MEMS energy harvesting research"
+ },
+ {
+  "id": "18187",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laser cutting equipment"
+ },
+ {
+  "id": "18188",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fiber-optic links"
+ },
+ {
+  "id": "18189",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electro-optical sensing systems"
+ },
+ {
+  "id": "18190",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laser machining equipment design"
+ },
+ {
+  "id": "18191",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laser-processed device designs"
+ },
+ {
+  "id": "18192",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "commercial uses of electro-optics"
+ },
+ {
+  "id": "18193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photonics technology research"
+ },
+ {
+  "id": "18194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "photonics systems design and test"
+ },
+ {
+  "id": "18195",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system performance requirements"
+ },
+ {
+  "id": "18196",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photonics component functionality testing"
+ },
+ {
+  "id": "18197",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laser and light device design"
+ },
+ {
+  "id": "18198",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "photonics applications for products"
+ },
+ {
+  "id": "18199",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photonic prototypes and models"
+ },
+ {
+  "id": "18200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "optical and imaging systems"
+ },
+ {
+  "id": "18202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "photonic prototypes moving to production"
+ },
+ {
+  "id": "18203",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photonic design histories"
+ },
+ {
+  "id": "18204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "manufacturing and fabrication processes"
+ },
+ {
+  "id": "18205",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "field literature and professional developments"
+ },
+ {
+  "id": "18206",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "operators and personnel training"
+ },
+ {
+  "id": "19662",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photonics crystals"
+ },
+ {
+  "id": "19663",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "optical fiber loss design"
+ },
+ {
+  "id": "19664",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy-efficient photonics products"
+ },
+ {
+  "id": "19665",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "solar photonics devices"
+ },
+ {
+  "id": "19666",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "photonics sensing manufacturing technologies"
+ },
+ {
+  "id": "21055",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photonics research reports and proposals"
+ },
+ {
+  "id": "21056",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photonics design process documentation"
+ },
+ {
+  "id": "16509",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technologists, technicians, and engineers"
+ },
+ {
+  "id": "16510",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robots integrated with peripheral equipment"
+ },
+ {
+  "id": "16511",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "robotic systems technical support"
+ },
+ {
+  "id": "16512",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "designs, calculations, and cost estimates"
+ },
+ {
+  "id": "16513",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "device lists and timing charts"
+ },
+ {
+  "id": "16514",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robotic application documentation"
+ },
+ {
+  "id": "16515",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robot application code"
+ },
+ {
+  "id": "16516",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robot program backups"
+ },
+ {
+  "id": "16517",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "signals and sensor data"
+ },
+ {
+  "id": "16518",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mobile robot path plans"
+ },
+ {
+  "id": "16519",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical failures and maintenance problems"
+ },
+ {
+  "id": "16520",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robots installation and calibration"
+ },
+ {
+  "id": "16521",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robot program bugs"
+ },
+ {
+  "id": "16522",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "end-of-arm tooling"
+ },
+ {
+  "id": "16523",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robotic technology research"
+ },
+ {
+  "id": "16524",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laboratory robotics assays"
+ },
+ {
+  "id": "16525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "robotic mechanisms feasibility research"
+ },
+ {
+  "id": "16527",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "high-throughput automated robotic systems"
+ },
+ {
+  "id": "16528",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robot control software"
+ },
+ {
+  "id": "16530",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "autonomous and robotic platform design"
+ },
+ {
+  "id": "19667",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clean-up robotics systems"
+ },
+ {
+  "id": "19668",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "green manufacturing robotics applications"
+ },
+ {
+  "id": "21057",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robots and robotic applications built"
+ },
+ {
+  "id": "21058",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "robotic systems and prototypes evaluation"
+ },
+ {
+  "id": "16531",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funding and partnership proposals"
+ },
+ {
+  "id": "16532",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nanotechnology technologists and technicians"
+ },
+ {
+  "id": "16533",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanomaterials synthesis and characterization"
+ },
+ {
+  "id": "16534",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "existing nanotechnology applications"
+ },
+ {
+  "id": "16535",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer nanosystem support"
+ },
+ {
+  "id": "16536",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "atomic force microscopy images"
+ },
+ {
+  "id": "16537",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineering results reports and presentations"
+ },
+ {
+  "id": "16538",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nanotechnology patent disclosures"
+ },
+ {
+  "id": "16539",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanoscale production processes and equipment"
+ },
+ {
+  "id": "16540",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nanoscale technical guidance"
+ },
+ {
+  "id": "16541",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nanotechnology production processes"
+ },
+ {
+  "id": "16542",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nanotechnology product tests"
+ },
+ {
+  "id": "16543",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "suppliers building nanosystem devices"
+ },
+ {
+  "id": "16544",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanomaterials 3D CAD design"
+ },
+ {
+  "id": "16545",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nanosystem prototypes and designs"
+ },
+ {
+  "id": "16546",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nanotechnology research topics"
+ },
+ {
+  "id": "19669",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanotechnology energy products"
+ },
+ {
+  "id": "19670",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nano manufacturing resource reduction"
+ },
+ {
+  "id": "19671",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nano-enabled product design"
+ },
+ {
+  "id": "19672",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pollutant detecting nanocatalysts"
+ },
+ {
+  "id": "19673",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hazardous waste nanosystems"
+ },
+ {
+  "id": "19674",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "green nanomaterial synthesis methods"
+ },
+ {
+  "id": "19675",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "green building nanocoatings"
+ },
+ {
+  "id": "19676",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "antimicrobial nanotechnology in products"
+ },
+ {
+  "id": "19677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nanomaterial biodegradability"
+ },
+ {
+  "id": "16547",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind farm test reports"
+ },
+ {
+  "id": "16548",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "wind farm contractors"
+ },
+ {
+  "id": "16549",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wind turbine performance changes"
+ },
+ {
+  "id": "16550",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "experimental wind turbine technologies"
+ },
+ {
+  "id": "16551",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wind turbine stress and fatigue"
+ },
+ {
+  "id": "16552",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wind turbine components testing"
+ },
+ {
+  "id": "16553",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prototype turbine designers support"
+ },
+ {
+  "id": "16554",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tower component failure causes"
+ },
+ {
+  "id": "16555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wind farm construction compliance"
+ },
+ {
+  "id": "16556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "wind farm construction and commissioning"
+ },
+ {
+  "id": "16557",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind turbine component specifications"
+ },
+ {
+  "id": "16558",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "wind turbine control systems"
+ },
+ {
+  "id": "16559",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind farm layouts and schematics"
+ },
+ {
+  "id": "16560",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind farm layout optimization models"
+ },
+ {
+  "id": "16561",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind farm collector systems"
+ },
+ {
+  "id": "16562",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind farm reliability and performance"
+ }
+]

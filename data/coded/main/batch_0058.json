@@ -1,0 +1,1538 @@
+[
+ {
+  "id": "15331",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passenger shoes and metal items"
+ },
+ {
+  "id": "15332",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger tickets and identification"
+ },
+ {
+  "id": "15333",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "airport entry areas after breaches"
+ },
+ {
+  "id": "15334",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dangerous items found in bags"
+ },
+ {
+  "id": "15335",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "unlisted objects of concern, supervisors"
+ },
+ {
+  "id": "15336",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "police contact for urgent threats"
+ },
+ {
+  "id": "15337",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "alarmed baggage search decision"
+ },
+ {
+  "id": "15338",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger baggage pickup directions"
+ },
+ {
+  "id": "15339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "warning screeners about explosive baggage"
+ },
+ {
+  "id": "15340",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passengers' prohibited items disposition"
+ },
+ {
+  "id": "15341",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "x-ray carry-on images"
+ },
+ {
+  "id": "15342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "checked baggage tampering signs"
+ },
+ {
+  "id": "15343",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "suspicious bags from monitor printouts"
+ },
+ {
+  "id": "15344",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "checkpoint passenger flow"
+ },
+ {
+  "id": "15345",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security breach notification to supervisors"
+ },
+ {
+  "id": "15346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers needing pat-down searches"
+ },
+ {
+  "id": "15347",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alarm-triggering baggage information records"
+ },
+ {
+  "id": "15348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bags suspected of prohibited items"
+ },
+ {
+  "id": "15349",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "checked bags through screening machines"
+ },
+ {
+  "id": "15350",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "baggage explosive residue testing"
+ },
+ {
+  "id": "15351",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote images of checked bags"
+ },
+ {
+  "id": "15352",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "posted photos of dangerous persons"
+ },
+ {
+  "id": "15353",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "suspicious people in secure areas"
+ },
+ {
+  "id": "15354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "security breachers awaiting police"
+ },
+ {
+  "id": "15355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas for suspicious items"
+ },
+ {
+  "id": "15356",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger directions and inquiries"
+ },
+ {
+  "id": "23081",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bus routes and stops"
+ },
+ {
+  "id": "23082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children with disabilities boarding"
+ },
+ {
+  "id": "23083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passenger seatbelts and wheelchair straps"
+ },
+ {
+  "id": "23084",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bus interior cleaning"
+ },
+ {
+  "id": "23085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students boarding and exiting bus"
+ },
+ {
+  "id": "23086",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students during evacuation drills"
+ },
+ {
+  "id": "23087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "young children crossing roads"
+ },
+ {
+  "id": "23088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students in emergency evacuation"
+ },
+ {
+  "id": "23089",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driver guidance during reversing"
+ },
+ {
+  "id": "23090",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "railroad crossing train watching"
+ },
+ {
+  "id": "23091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student conduct on bus"
+ },
+ {
+  "id": "23092",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bus doors for students"
+ },
+ {
+  "id": "23093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wheelchair lift operation"
+ },
+ {
+  "id": "23094",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student altercations"
+ },
+ {
+  "id": "23095",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "transportation delay and accident reports"
+ },
+ {
+  "id": "23096",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students' questions and complaints"
+ },
+ {
+  "id": "23097",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parents regarding student behavior concerns"
+ },
+ {
+  "id": "23098",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trip, passenger, mileage and fuel reports"
+ },
+ {
+  "id": "17560",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "processes reducing property and financial loss"
+ },
+ {
+  "id": "17561",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "suspected theft and fraud investigations"
+ },
+ {
+  "id": "17562",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "law enforcement crime reporting collaboration"
+ },
+ {
+  "id": "17563",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "store audits for procedural gaps"
+ },
+ {
+  "id": "17564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "contract security officers' work"
+ },
+ {
+  "id": "17565",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stock shortage data reports"
+ },
+ {
+  "id": "17566",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buildings and access point security risks"
+ },
+ {
+  "id": "17567",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security incident documentation"
+ },
+ {
+  "id": "17568",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "loss prevention procedure compliance"
+ },
+ {
+  "id": "17569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "covert surveillance of loss-prone areas"
+ },
+ {
+  "id": "17570",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation written reports"
+ },
+ {
+  "id": "17571",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "risk reduction process and equipment recommendations"
+ },
+ {
+  "id": "17572",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff training in loss prevention"
+ },
+ {
+  "id": "17573",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "security systems functioning checks"
+ },
+ {
+  "id": "17574",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court testimony"
+ },
+ {
+  "id": "17575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "shoplifters apprehension"
+ },
+ {
+  "id": "17576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee background investigation reviews"
+ },
+ {
+  "id": "17577",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cross-department programs and investigations coordination"
+ },
+ {
+  "id": "17578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "safety concerns in stores"
+ },
+ {
+  "id": "17579",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial fraud loss reduction methods"
+ },
+ {
+  "id": "17580",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "critical incidents like disasters and disorder"
+ },
+ {
+  "id": "11128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "raw and cooked food quality"
+ },
+ {
+  "id": "11129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "employee sanitation practices"
+ },
+ {
+  "id": "11130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received product quantity and quality"
+ },
+ {
+  "id": "11131",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food and supply orders"
+ },
+ {
+  "id": "11132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "cooks' and food prep workers' activities"
+ },
+ {
+  "id": "11133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies, equipment and work areas"
+ },
+ {
+  "id": "11134",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food presentation and displays"
+ },
+ {
+  "id": "11135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "cooks' food preparation instruction"
+ },
+ {
+  "id": "11136",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply amounts and costs"
+ },
+ {
+  "id": "11137",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "menus and recipes planning"
+ },
+ {
+  "id": "11138",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "menu item pricing from costs"
+ },
+ {
+  "id": "11139",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cooking food for guests and functions"
+ },
+ {
+  "id": "11140",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules and staffing needs"
+ },
+ {
+  "id": "11141",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "kitchen staff recruitment and hiring"
+ },
+ {
+  "id": "11142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customers' special occasion menus"
+ },
+ {
+  "id": "11143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "staff cooking techniques demonstration"
+ },
+ {
+  "id": "11144",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supply price negotiation with sales reps"
+ },
+ {
+  "id": "11145",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment purchases and repairs"
+ },
+ {
+  "id": "11146",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production and operational data forms"
+ },
+ {
+  "id": "11147",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "multiple kitchens' food preparation oversight"
+ },
+ {
+  "id": "11148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "food operations planning and budgeting"
+ },
+ {
+  "id": "18714",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash handling, deposits and payroll"
+ },
+ {
+  "id": "18715",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "kitchen and dining area cleaning"
+ },
+ {
+  "id": "18716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker performance and discipline"
+ },
+ {
+  "id": "18717",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring, firing, training and scheduling"
+ },
+ {
+  "id": "18718",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food carving, flambe and wine serving"
+ },
+ {
+  "id": "18719",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production and personnel data forms"
+ },
+ {
+  "id": "18720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "menu planning meetings with staff"
+ },
+ {
+  "id": "18721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hospital patient nutrition and diet trays"
+ },
+ {
+  "id": "2144",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "end-of-shift cash receipts"
+ },
+ {
+  "id": "2145",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer food service complaints"
+ },
+ {
+  "id": "2146",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "workers' food prep, sanitation training"
+ },
+ {
+  "id": "2147",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies, equipment and work areas"
+ },
+ {
+  "id": "2148",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food, equipment and liquor inventories"
+ },
+ {
+  "id": "2150",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee duties and stations"
+ },
+ {
+  "id": "2151",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recipe ingredient quantities"
+ },
+ {
+  "id": "2153",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "theft and wastage operational problems"
+ },
+ {
+  "id": "2154",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "food portions and production sequences"
+ },
+ {
+  "id": "2155",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work procedure improvement recommendations"
+ },
+ {
+  "id": "2156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "guests seating and menus"
+ },
+ {
+  "id": "2157",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer bills and payments"
+ },
+ {
+  "id": "2158",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff, equipment and supply requirements"
+ },
+ {
+  "id": "2161",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies and equipment purchasing"
+ },
+ {
+  "id": "2164",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "party schedules and reservations"
+ },
+ {
+  "id": "2165",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departmental objectives, budgets and policies"
+ },
+ {
+  "id": "2166",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment maintenance schedules and repairs"
+ },
+ {
+  "id": "2167",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new products suitability evaluation"
+ },
+ {
+  "id": "5053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area sanitation and safety"
+ },
+ {
+  "id": "5054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food prep areas and utensils"
+ },
+ {
+  "id": "5055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grills, fryers and griddles"
+ },
+ {
+  "id": "5056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prepared food quality and quantity"
+ },
+ {
+  "id": "5057",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "food orders and customer payments"
+ },
+ {
+  "id": "5058",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food order slips and cooking"
+ },
+ {
+  "id": "5059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "foods washed, cut for cooking"
+ },
+ {
+  "id": "5060",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredient measuring for food items"
+ },
+ {
+  "id": "5061",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "batches of food cooked, packaged"
+ },
+ {
+  "id": "5062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "multiple customer orders cooked"
+ },
+ {
+  "id": "5063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer orders served"
+ },
+ {
+  "id": "5064",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workstations and display cases stocking"
+ },
+ {
+  "id": "5065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specialty foods like pizzas, tacos"
+ },
+ {
+  "id": "5066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dough made from recipe"
+ },
+ {
+  "id": "5067",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cooking times and equipment schedules"
+ },
+ {
+  "id": "5068",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "coffee and fountain drinks"
+ },
+ {
+  "id": "5069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pancake and waffle batters"
+ },
+ {
+  "id": "5070",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supply orders and deliveries"
+ },
+ {
+  "id": "5071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bacon and items pre-cooked"
+ },
+ {
+  "id": "21148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food temperatures monitored and recorded"
+ },
+ {
+  "id": "21149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food supplies rotation and storage"
+ },
+ {
+  "id": "9486",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "galley equipment and work areas"
+ },
+ {
+  "id": "9487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food served to residents and patrons"
+ },
+ {
+  "id": "9488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cooking per menus and diets"
+ },
+ {
+  "id": "9489",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat, fish and poultry cutting"
+ },
+ {
+  "id": "9490",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government food commodities use"
+ },
+ {
+  "id": "9491",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pots, pans and dishes washing"
+ },
+ {
+  "id": "9492",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food use and expenditure records"
+ },
+ {
+  "id": "9493",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "meal preparation workers' activities"
+ },
+ {
+  "id": "9494",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "breads, rolls and pastries baking"
+ },
+ {
+  "id": "9495",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "new employee training"
+ },
+ {
+  "id": "9496",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies and equipment inventory"
+ },
+ {
+  "id": "9497",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "menus and meal spending"
+ },
+ {
+  "id": "9498",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "varied nutritious menu planning"
+ },
+ {
+  "id": "9499",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food supply and equipment requisitions"
+ },
+ {
+  "id": "9500",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meal prices from ingredient costs"
+ },
+ {
+  "id": "20896",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "foods cooled, packaged, frozen, labeled"
+ },
+ {
+  "id": "20897",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "menu and financial business records"
+ },
+ {
+  "id": "9501",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "menus for employers' diet needs"
+ },
+ {
+  "id": "9502",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "food and kitchen supplies shopping"
+ },
+ {
+  "id": "9503",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vegetables and meats cooked, baked"
+ },
+ {
+  "id": "9504",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "family meals in private homes"
+ },
+ {
+  "id": "9505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchens and utensils stocking, cleaning"
+ },
+ {
+  "id": "9506",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fancy dishes and special diet food"
+ },
+ {
+  "id": "9507",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new cuisines creation"
+ },
+ {
+  "id": "9508",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "kitchen operations and food service"
+ },
+ {
+  "id": "9509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "party and event food"
+ },
+ {
+  "id": "9510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "meals served to families and guests"
+ },
+ {
+  "id": "9511",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "travel meal preparation at vacation homes"
+ },
+ {
+  "id": "18722",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food prep areas cleaning and inspection"
+ },
+ {
+  "id": "18723",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oven and grill temperatures"
+ },
+ {
+  "id": "18724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredient freshness and stock rotation"
+ },
+ {
+  "id": "2169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "foods turned or stirred"
+ },
+ {
+  "id": "2170",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "seasoning and cooking food"
+ },
+ {
+  "id": "2171",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food doneness testing"
+ },
+ {
+  "id": "2172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredients weighed and mixed"
+ },
+ {
+  "id": "2173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food portioned, garnished and served"
+ },
+ {
+  "id": "2175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "other cooks during rushes"
+ },
+ {
+  "id": "2176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meats, fish and vegetables cooking"
+ },
+ {
+  "id": "2177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fruits and vegetables prepared"
+ },
+ {
+  "id": "2178",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food consumption and supply requisitions"
+ },
+ {
+  "id": "2179",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meats carved and trimmed"
+ },
+ {
+  "id": "2180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "kitchen staff work"
+ },
+ {
+  "id": "2181",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "menu planning with supervisors"
+ },
+ {
+  "id": "2182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals, fowl, shellfish butchering"
+ },
+ {
+  "id": "2183",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "breads, cakes and pastries baking"
+ },
+ {
+  "id": "2184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "relishes and hors d'oeuvres"
+ },
+ {
+  "id": "2185",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records and accounts"
+ },
+ {
+  "id": "2186",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "menu item planning and pricing"
+ },
+ {
+  "id": "18725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen supplies and food rotation labels"
+ },
+ {
+  "id": "18726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandwiches, soups, salads, baked goods"
+ },
+ {
+  "id": "18727",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kitchen and dining area cleaning"
+ },
+ {
+  "id": "2187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food prep equipment and work areas"
+ },
+ {
+  "id": "2188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "order timing for simultaneous completion"
+ },
+ {
+  "id": "2189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fries, eggs and pancakes grilling"
+ },
+ {
+  "id": "2190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer orders and short-prep cooking"
+ },
+ {
+  "id": "2191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hamburgers and meats grilled"
+ },
+ {
+  "id": "2192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "steam table orders plated and served"
+ },
+ {
+  "id": "2194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies ordered and shelved"
+ },
+ {
+  "id": "2195",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer payments and change"
+ }
+]

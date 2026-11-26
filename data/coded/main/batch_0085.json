@@ -1,0 +1,1466 @@
+[
+ {
+  "id": "8795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat cutting with knives and saws"
+ },
+ {
+  "id": "8796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carcass cleaning trimming sectioning"
+ },
+ {
+  "id": "8797",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat trimming for packing"
+ },
+ {
+  "id": "8798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "skin, bones, feathers removal from carcass"
+ },
+ {
+  "id": "8799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat defect inspection and trimming"
+ },
+ {
+  "id": "8800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hamburger meat and trimmings production"
+ },
+ {
+  "id": "8801",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "primal parts into retail cuts"
+ },
+ {
+  "id": "8802",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carcass retrieval and distribution"
+ },
+ {
+  "id": "8803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat sorted into sealed containers"
+ },
+ {
+  "id": "8804",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weighing meat, tagging containers"
+ },
+ {
+  "id": "8805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hide cleaning and salting"
+ },
+ {
+  "id": "8807",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ready-to-heat food preparation"
+ },
+ {
+  "id": "13986",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boning and standard meat cuts"
+ },
+ {
+  "id": "13987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "viscera trimming, edible portions sorting"
+ },
+ {
+  "id": "13989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slaughtered animal carcass eviscerating"
+ },
+ {
+  "id": "13990",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembly line carcass cuts"
+ },
+ {
+  "id": "13991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "severing jugular veins draining blood"
+ },
+ {
+  "id": "13992",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carcass singeing, defeathering, washing"
+ },
+ {
+  "id": "13993",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal hide trimming and curing"
+ },
+ {
+  "id": "13994",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shackling animal hind legs"
+ },
+ {
+  "id": "13995",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "skinning animal sections"
+ },
+ {
+  "id": "13996",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal head trimming"
+ },
+ {
+  "id": "13997",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sawing carcasses into portions"
+ },
+ {
+  "id": "13998",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding meat into hamburger"
+ },
+ {
+  "id": "13999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stunning animals before slaughter"
+ },
+ {
+  "id": "14000",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wrapping carcasses and cuts"
+ },
+ {
+  "id": "10058",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product quality by sight, feel, taste"
+ },
+ {
+  "id": "10059",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "oven gauges and control adjustments"
+ },
+ {
+  "id": "10060",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "roasting, baking, drying equipment operation"
+ },
+ {
+  "id": "10061",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "oven temperature and time settings"
+ },
+ {
+  "id": "10062",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material flow and machine malfunctions"
+ },
+ {
+  "id": "10063",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "production data records"
+ },
+ {
+  "id": "10064",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weighing products on scales"
+ },
+ {
+  "id": "10065",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work order quantities and types"
+ },
+ {
+  "id": "10066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product samples for lab analysis"
+ },
+ {
+  "id": "10067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filling trays, carts, hoppers"
+ },
+ {
+  "id": "10068",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading and unloading ovens"
+ },
+ {
+  "id": "10069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment cleaning with steam, hoses"
+ },
+ {
+  "id": "10070",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clearing blockages in equipment"
+ },
+ {
+  "id": "10071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pushing racks and carts"
+ },
+ {
+  "id": "10072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grain cooling pans and raking"
+ },
+ {
+  "id": "10073",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "smoothing product in bins, trays"
+ },
+ {
+  "id": "10074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing equipment parts with hand tools"
+ },
+ {
+  "id": "10075",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product moisture testing"
+ },
+ {
+  "id": "10076",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "signaling coworkers on material flow"
+ },
+ {
+  "id": "4919",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "batch ingredient and test records"
+ },
+ {
+  "id": "4920",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mixing chamber temperature gauges"
+ },
+ {
+  "id": "4921",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vat and area cleaning sterilizing"
+ },
+ {
+  "id": "4922",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment switches and knobs"
+ },
+ {
+  "id": "4923",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment malfunction detection and reporting"
+ },
+ {
+  "id": "4924",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food cooking and mixing equipment setup"
+ },
+ {
+  "id": "4925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredient mixing by paddle or vat"
+ },
+ {
+  "id": "4926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "recipe-based food production"
+ },
+ {
+  "id": "4927",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ingredient selection and weighing"
+ },
+ {
+  "id": "4928",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "valve controls for product quality"
+ },
+ {
+  "id": "4929",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ingredient mixing order decisions"
+ },
+ {
+  "id": "4930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filling cooking containers with ingredients"
+ },
+ {
+  "id": "4931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "directing batchmaking assistants"
+ },
+ {
+  "id": "4932",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "homogenizing or pasteurizing material"
+ },
+ {
+  "id": "4933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaned vat residue inspection"
+ },
+ {
+  "id": "4934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tasting and evaluating product samples"
+ },
+ {
+  "id": "4935",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sample moisture, acidity testing"
+ },
+ {
+  "id": "4936",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food recipe formulation"
+ },
+ {
+  "id": "4937",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inspecting and packing final product"
+ },
+ {
+  "id": "4938",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food product grading"
+ },
+ {
+  "id": "4939",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cooling food batches"
+ },
+ {
+  "id": "4940",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "particle size refining machines"
+ },
+ {
+  "id": "4941",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cooking adjustments from sample results"
+ },
+ {
+  "id": "4942",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moving products to next stage"
+ },
+ {
+  "id": "4943",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand shaping of food products"
+ },
+ {
+  "id": "4944",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cooking process and test records"
+ },
+ {
+  "id": "4945",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "malfunction alarms, equipment shutdown"
+ },
+ {
+  "id": "4946",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product sample quality testing"
+ },
+ {
+  "id": "4947",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cooking gauges and flow controls"
+ },
+ {
+  "id": "4948",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and recipe specifications"
+ },
+ {
+  "id": "4949",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment and cooking area sanitizing"
+ },
+ {
+  "id": "4950",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cooking machine controls and pumps"
+ },
+ {
+  "id": "4951",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "kettles, cookers, vats operation"
+ },
+ {
+  "id": "4952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "measuring or weighing ingredients"
+ },
+ {
+  "id": "4953",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water, steam, oil valve control"
+ },
+ {
+  "id": "4954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cooked material removal from equipment"
+ },
+ {
+  "id": "4955",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "signaling coworkers about equipment"
+ },
+ {
+  "id": "4956",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "valves and pumps for ingredient transfer"
+ },
+ {
+  "id": "4957",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products onto conveyors, carts"
+ },
+ {
+  "id": "4958",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading ingredients into cooking equipment"
+ },
+ {
+  "id": "4959",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "agitators and paddles for mixing"
+ },
+ {
+  "id": "4960",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "auxiliary grinders, canners, presses"
+ },
+ {
+  "id": "8473",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "extruded product defects and dimensions"
+ },
+ {
+  "id": "8474",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "extrusion setup procedures and dies"
+ },
+ {
+  "id": "8475",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing extrusion dies and rings"
+ },
+ {
+  "id": "8476",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "changing extruding machine dies"
+ },
+ {
+  "id": "8477",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "extruder startup and control settings"
+ },
+ {
+  "id": "8478",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacing worn dies"
+ },
+ {
+  "id": "8479",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reeling extruded product into rolls"
+ },
+ {
+  "id": "8480",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment troubleshooting and minor repair"
+ },
+ {
+  "id": "8481",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area cleaning"
+ },
+ {
+  "id": "8482",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "metal drawing and pressing controls"
+ },
+ {
+  "id": "8483",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shearing rods to length"
+ },
+ {
+  "id": "8484",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nozzles, spacers, wire guides selection"
+ },
+ {
+  "id": "8485",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "thermoplastic materials and pigments mixing"
+ },
+ {
+  "id": "8486",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading machine hoppers and cylinders"
+ },
+ {
+  "id": "8487",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product physical property testing"
+ },
+ {
+  "id": "8488",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials inventory records"
+ },
+ {
+  "id": "10078",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machined part measurement inspection"
+ },
+ {
+  "id": "10079",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and blueprints tolerances"
+ },
+ {
+  "id": "10080",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sample workpieces and machine checks"
+ },
+ {
+  "id": "10081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "removing dies from machines"
+ },
+ {
+  "id": "10082",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ram stroke pressure and depth settings"
+ },
+ {
+  "id": "10083",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "machine setup discussion with coworkers"
+ },
+ {
+  "id": "10084",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "die repair and part replacement"
+ },
+ {
+  "id": "10085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hot and cold metal forging"
+ },
+ {
+  "id": "10086",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces through impression dies"
+ },
+ {
+  "id": "10087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing dies and forging hammers"
+ },
+ {
+  "id": "10088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fixtures and dies bolted to rams"
+ },
+ {
+  "id": "10089",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trimming and compressing finished forgings"
+ },
+ {
+  "id": "10090",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sharpening tools on bench grinders"
+ },
+ {
+  "id": "10091",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "rolling machine setup corrections"
+ },
+ {
+  "id": "10092",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mill cycles and jamming monitoring"
+ },
+ {
+  "id": "10093",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials and products inspection measuring"
+ },
+ {
+  "id": "10094",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rolling orders, blueprints, schedules"
+ },
+ {
+  "id": "10095",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine speed controls and dials"
+ },
+ {
+  "id": "10096",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "rolling and milling machine startup"
+ },
+ {
+  "id": "10097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roll guides and stops distance settings"
+ },
+ {
+  "id": "10098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sheets or rods fed through rollers"
+ },
+ {
+  "id": "10099",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "arbors, spindles, coils, dies positioning"
+ },
+ {
+  "id": "10100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training workers on mill operations"
+ },
+ {
+  "id": "10101",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil cups, valves, coolant flow"
+ },
+ {
+  "id": "10102",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mill production schedule sheets"
+ },
+ {
+  "id": "10103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing guides, gears, rolls"
+ },
+ {
+  "id": "10104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assisting coworkers moving equipment, materials"
+ },
+ {
+  "id": "10105",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "draft space and roll speed calculations"
+ },
+ {
+  "id": "10106",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rolls, dies, stands from charts"
+ },
+ {
+  "id": "10107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shears and grinders on workpieces"
+ },
+ {
+  "id": "10108",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roll surface polishing"
+ },
+ {
+  "id": "10109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "disassembling sizing mills"
+ },
+ {
+  "id": "10110",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "workpiece measurement with gauges"
+ },
+ {
+  "id": "10111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "workpiece defect inspection and sorting"
+ },
+ {
+  "id": "10112",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and production schedules"
+ },
+ {
+  "id": "10113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading workpieces into machines"
+ },
+ {
+  "id": "10114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal and plastic cutting machines"
+ },
+ {
+  "id": "10115",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine startup monitoring and data"
+ },
+ {
+  "id": "10116",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine speed testing and adjustment"
+ },
+ {
+  "id": "10117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing punches, dies, blades"
+ },
+ {
+  "id": "10118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and lubricating"
+ },
+ {
+  "id": "10119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece positioning on machine beds"
+ },
+ {
+  "id": "10120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scribing cutting reference lines"
+ },
+ {
+  "id": "10121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blade tension, height, angle settings"
+ },
+ {
+  "id": "10122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "press ram stroke adjustment"
+ },
+ {
+  "id": "10123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "placing workpieces on cutting tables"
+ },
+ {
+  "id": "10124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guides and stops positioning"
+ },
+ {
+  "id": "10126",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coolant or airflow valves"
+ },
+ {
+  "id": "10127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stops, dies, rams adjustment"
+ },
+ {
+  "id": "10128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "oiling workpieces"
+ },
+ {
+  "id": "10129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacing defective blades or wheels"
+ },
+ {
+  "id": "10130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "marking identifying data on workpieces"
+ },
+ {
+  "id": "10131",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cutting speed and feed settings"
+ },
+ {
+  "id": "10132",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operation sequence planning for materials"
+ },
+ {
+  "id": "10134",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding burrs from workpieces"
+ },
+ {
+  "id": "10135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sharpening dulled blades"
+ },
+ {
+  "id": "10136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacing worn machine parts"
+ },
+ {
+  "id": "10137",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "honing cutters with oilstones"
+ },
+ {
+  "id": "10138",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spacers, sleeves, cutters on arbors"
+ },
+ {
+  "id": "10139",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "preheating workpieces with furnaces, torches"
+ },
+ {
+  "id": "20820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area cleaning"
+ },
+ {
+  "id": "20821",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forklift material delivery"
+ },
+ {
+  "id": "24012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sheet metal spot welding equipment"
+ },
+ {
+  "id": "11974",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machined work measurement conformance"
+ },
+ {
+  "id": "11975",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machining instructions and blueprints"
+ },
+ {
+  "id": "11976",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cutting speeds, feeds, tools selection"
+ },
+ {
+  "id": "11977",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing tools in spindles"
+ },
+ {
+  "id": "11978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "changing worn cutting tools"
+ },
+ {
+  "id": "11979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "securing workpieces on tables"
+ },
+ {
+  "id": "11980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lowering tools and automatic feeds"
+ },
+ {
+  "id": "11981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coolant and cutting oil flow"
+ },
+ {
+  "id": "11982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drill press hole boring"
+ },
+ {
+  "id": "11983",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "zero reference points on workpieces"
+ },
+ {
+  "id": "11984",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drilling machine operation monitoring"
+ },
+ {
+  "id": "11985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lifting workpieces onto tables"
+ },
+ {
+  "id": "11986",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "layout reference lines on workpieces"
+ },
+ {
+  "id": "11987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor assembly with fasteners"
+ },
+ {
+  "id": "11988",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece alignment with dial indicators"
+ },
+ {
+  "id": "11989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tracing attachments duplicating contours"
+ },
+ {
+  "id": "11990",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sharpening cutting tools on grinders"
+ }
+]

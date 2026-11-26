@@ -1,0 +1,1586 @@
+[
+{
+"id": "14329",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "workpiece surfaces being ground or polished"
+},
+{
+"id": "14330",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wood defects needing repair"
+},
+{
+"id": "14331",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "grinding equipment controls"
+},
+{
+"id": "14332",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "abrasive choice for workpiece"
+},
+{
+"id": "14333",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "parts being measured and marked"
+},
+{
+"id": "14334",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "finished workpiece quality"
+},
+{
+"id": "14335",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "product processing data forms"
+},
+{
+"id": "14336",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "part edges and burrs"
+},
+{
+"id": "14337",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "finished workpieces handled"
+},
+{
+"id": "14338",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "workpieces loaded on equipment"
+},
+{
+"id": "14339",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "parts moved to work areas"
+},
+{
+"id": "14340",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "blueprints for layout"
+},
+{
+"id": "14341",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "chemicals applied to parts"
+},
+{
+"id": "14344",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment and parts repair"
+},
+{
+"id": "14345",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "abrasive grinding tools"
+},
+{
+"id": "14346",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal die surfaces filed"
+},
+{
+"id": "14348",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "brass particles in files"
+},
+{
+"id": "12397",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ingredients weighed for requirements"
+},
+{
+"id": "12398",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "product samples tested"
+},
+{
+"id": "12400",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mixing machine operation"
+},
+{
+"id": "12401",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials poured into machinery"
+},
+{
+"id": "12402",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "production equipment monitoring"
+},
+{
+"id": "12403",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mixing machine and valves"
+},
+{
+"id": "12404",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "material samples for lab"
+},
+{
+"id": "12405",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "chemicals mixed with hand tools"
+},
+{
+"id": "12406",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ingredient quality examined"
+},
+{
+"id": "12407",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "operational data forms"
+},
+{
+"id": "12408",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials moved between areas"
+},
+{
+"id": "12409",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pumps and conveyors tended"
+},
+{
+"id": "12410",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work orders read"
+},
+{
+"id": "12411",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "ingredients compounded by formula"
+},
+{
+"id": "12412",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mixtures unloaded to containers"
+},
+{
+"id": "12413",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mixing equipment cleaned"
+},
+{
+"id": "12414",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "jammed machinery cleared"
+},
+{
+"id": "12415",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "slurry drain valves"
+},
+{
+"id": "20682",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ingredients in mixing machines"
+},
+{
+"id": "23983",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "work areas cleaned"
+},
+{
+"id": "14349",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "defective items marked or discarded"
+},
+{
+"id": "14350",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "excess material trimmed from products"
+},
+{
+"id": "14351",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials cut with hand tools"
+},
+{
+"id": "14352",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials sorted by attributes"
+},
+{
+"id": "14353",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products marked with identifiers"
+},
+{
+"id": "14354",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work orders read"
+},
+{
+"id": "14355",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "items counted and bundled"
+},
+{
+"id": "14356",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting lines marked on materials"
+},
+{
+"id": "14357",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials mounted on cutting tables"
+},
+{
+"id": "14358",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cut items stacked and loaded"
+},
+{
+"id": "14359",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials folded or shaped"
+},
+{
+"id": "14360",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "finished items buffed and cleaned"
+},
+{
+"id": "14361",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "templates positioned on materials"
+},
+{
+"id": "14362",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "items routed for cutouts"
+},
+{
+"id": "14363",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "dulled saws replaced or sharpened"
+},
+{
+"id": "14364",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "table cutters lowered"
+},
+{
+"id": "14365",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting guides and stops"
+},
+{
+"id": "14366",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "items carted to storage"
+},
+{
+"id": "12416",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials measured against specifications"
+},
+{
+"id": "12417",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting and slicing machines"
+},
+{
+"id": "12418",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cut material stacked and sorted"
+},
+{
+"id": "12419",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work orders and blueprints reviewed"
+},
+{
+"id": "12420",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "machine instructions keyed in"
+},
+{
+"id": "12421",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "defective material removed from machines"
+},
+{
+"id": "12422",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting machine controls"
+},
+{
+"id": "12423",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine controls adjusted"
+},
+{
+"id": "12424",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "production records maintained"
+},
+{
+"id": "12425",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting machine monitoring"
+},
+{
+"id": "12426",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine setup verification"
+},
+{
+"id": "12427",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "completed products removed from machines"
+},
+{
+"id": "12428",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine blades and rollers installed"
+},
+{
+"id": "12429",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock moved to machines"
+},
+{
+"id": "12430",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting machines cleaned and lubricated"
+},
+{
+"id": "12432",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock fed into cutters"
+},
+{
+"id": "12433",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock positioned along cutting lines"
+},
+{
+"id": "12435",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "saw blades and wheels replaced"
+},
+{
+"id": "12436",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock marked with cutting lines"
+},
+{
+"id": "12437",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "winches moving cars under saws"
+},
+{
+"id": "12438",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "blade gauge blocks and wedges"
+},
+{
+"id": "12439",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "cutting team workers directed"
+},
+{
+"id": "12440",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pulleys and abrasives for speed"
+},
+{
+"id": "12441",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock cut manually before machining"
+},
+{
+"id": "12442",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cutting blades sharpened"
+},
+{
+"id": "12444",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine speed and pressure settings"
+},
+{
+"id": "12445",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products measured against standards"
+},
+{
+"id": "12446",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine gauges and lights"
+},
+{
+"id": "12447",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machinery activation buttons"
+},
+{
+"id": "12448",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine function controls"
+},
+{
+"id": "12449",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work orders and specifications reviewed"
+},
+{
+"id": "12450",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "dies and molds installed"
+},
+{
+"id": "12451",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "production data records"
+},
+{
+"id": "12452",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "substandard filaments reported to supervisors"
+},
+{
+"id": "12453",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine section speeds"
+},
+{
+"id": "12454",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products fed into machines"
+},
+{
+"id": "12455",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "jams cleared, defects removed"
+},
+{
+"id": "12456",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials moved between storage areas"
+},
+{
+"id": "12457",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "molds swabbed with solution"
+},
+{
+"id": "12458",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work tickets completed"
+},
+{
+"id": "12459",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "shaping machines activated"
+},
+{
+"id": "12460",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "molds removed from machinery"
+},
+{
+"id": "12461",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products removed from molds"
+},
+{
+"id": "12462",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "raw ingredients prepared for machines"
+},
+{
+"id": "12463",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "product samples sent to lab"
+},
+{
+"id": "12466",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "dies and molds cleaned"
+},
+{
+"id": "12467",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment disassembled for repair"
+},
+{
+"id": "12468",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ingredients dumped into machines"
+},
+{
+"id": "12469",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "neck rings and plungers installed"
+},
+{
+"id": "12470",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "air and gas lines coupled"
+},
+{
+"id": "12471",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "arbors and dies measured"
+},
+{
+"id": "4961",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ingredients weighed for processing"
+},
+{
+"id": "4962",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "furnace equipment controls"
+},
+{
+"id": "4963",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "furnace gauges and panel lights"
+},
+{
+"id": "4964",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work orders and instructions"
+},
+{
+"id": "4965",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "gauge readings and production logs"
+},
+{
+"id": "4966",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 1,
+"notes": "equipment malfunctions reported to supervisors"
+},
+{
+"id": "4967",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "processed substance samples"
+},
+{
+"id": "4968",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "furnace equipment cleaned and lubricated"
+},
+{
+"id": "4969",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials transported to work areas"
+},
+{
+"id": "4970",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment blockages cleared"
+},
+{
+"id": "4971",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products removed from equipment"
+},
+{
+"id": "4972",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "material amounts for furnace loading"
+},
+{
+"id": "4973",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "fuel fed to furnaces"
+},
+{
+"id": "4974",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal melting temperatures"
+},
+{
+"id": "4975",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "worn equipment parts replaced"
+},
+{
+"id": "4976",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "material loaded into equipment"
+},
+{
+"id": "4978",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "crane operators and loading crew"
+},
+{
+"id": "12472",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "substandard products rejected"
+},
+{
+"id": "12474",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products tested against specifications"
+},
+{
+"id": "12477",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "inspection and test data"
+},
+{
+"id": "12478",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "items marked with grade status"
+},
+{
+"id": "12480",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "product dimensions measured"
+},
+{
+"id": "12481",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "test data computations"
+},
+{
+"id": "12482",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "samples collected for testing"
+},
+{
+"id": "12484",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "product colors and textures compared"
+},
+{
+"id": "12485",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "inspection result reports"
+},
+{
+"id": "12486",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment dials and meters"
+},
+{
+"id": "12487",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface defects removed"
+},
+{
+"id": "12488",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products and equipment repairs"
+},
+{
+"id": "12491",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "test components and instruments connected"
+},
+{
+"id": "12493",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products sorted by specifications"
+},
+{
+"id": "12495",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "instrument calibration setscrews"
+},
+{
+"id": "12497",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "legal requirements explained to contractors"
+},
+{
+"id": "19920",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "materials tested for environmental compliance"
+},
+{
+"id": "20298",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "blueprints and manuals read"
+},
+{
+"id": "20299",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "production problems reported to staff"
+},
+{
+"id": "20300",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "corrective actions from inspection results"
+},
+{
+"id": "20301",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "measuring instruments cleaned and calibrated"
+},
+{
+"id": "20302",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "arriving materials versus purchase orders"
+},
+{
+"id": "20303",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "defect percentages calculated"
+},
+{
+"id": "20304",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "parts positioned for testing"
+},
+{
+"id": "20305",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tested products stacked"
+},
+{
+"id": "20306",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 1,
+"notes": "production operations monitored"
+},
+{
+"id": "20307",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "automatic inspection machines monitored"
+},
+{
+"id": "20308",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "usable shipment item counts"
+},
+{
+"id": "20309",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials weighed for verification"
+},
+{
+"id": "20310",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "defective gauges disassembled"
+},
+{
+"id": "20311",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "operator equipment qualification tests"
+},
+{
+"id": "23620",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stones and metal set in jewelry"
+},
+{
+"id": "23621",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "soldered joints smoothed and polished"
+},
+{
+"id": "23622",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "jewelry created from precious materials"
+},
+{
+"id": "23623",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "jewelry repairs"
+},
+{
+"id": "23624",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "jewelry cleaned and polished"
+},
+{
+"id": "23625",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "jewelry pieces cut and filed"
+},
+{
+"id": "23626",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "metals and gems chosen for designs"
+},
+{
+"id": "23627",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "production cost computation"
+},
+{
+"id": "23628",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "finished jewelry conformance examined"
+},
+{
+"id": "23629",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ornamental openwork pierced in metal"
+},
+{
+"id": "23630",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "preliminary models and sample castings"
+},
+{
+"id": "23631",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "molten alloy poured into molds"
+},
+{
+"id": "23632",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "damaged jewelry straightened"
+},
+{
+"id": "23633",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal softened and shaped"
+},
+{
+"id": "23634",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "gemstone appraised values"
+},
+{
+"id": "23635",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gemstone grade quality"
+},
+{
+"id": "23636",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "articles plated with metals"
+},
+{
+"id": "23637",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "design specifications for items"
+},
+{
+"id": "23638",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "jewelry designs created"
+},
+{
+"id": "23639",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "jewelry bought and sold"
+},
+{
+"id": "23640",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "weights and processing times"
+},
+{
+"id": "23641",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal stock cut for molds"
+},
+{
+"id": "23642",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "designs engraved on metal"
+},
+{
+"id": "23643",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "designs cut in model molds"
+},
+{
+"id": "23644",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "molds and models fabricated"
+},
+{
+"id": "23645",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "reference materials for product development"
+},
+{
+"id": "23646",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal objects annealed in ovens"
+},
+{
+"id": "23647",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal alloys weighed and melted"
+},
+{
+"id": "23648",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "molds rotated to distribute alloys"
+},
+{
+"id": "23649",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "routing joint locations"
+},
+{
+"id": "15092",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gems checked for cut accuracy"
+},
+{
+"id": "15093",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gemstone polish and clarity grades"
+},
+{
+"id": "15094",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "gem wholesale and retail value"
+},
+{
+"id": "15095",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gem surfaces and internal structures"
+},
+{
+"id": "15096",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "stone clarity characteristics"
+},
+{
+"id": "15097",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "customers on gem jewelry use"
+},
+{
+"id": "15098",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "diamond shape and cut options"
+},
+{
+"id": "15099",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stones in chemical solutions"
+},
+{
+"id": "15100",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gems held against rotating wheels"
+},
+{
+"id": "15101",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "rough diamonds sorted by quality"
+},
+{
+"id": "15102",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gems secured in holders"
+},
+{
+"id": "15106",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stone bore holes measured"
+},
+{
+"id": "15107",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "shaping wheels and abrasives"
+},
+{
+"id": "15112",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "lapping equipment dismantled and cleaned"
+}
+]

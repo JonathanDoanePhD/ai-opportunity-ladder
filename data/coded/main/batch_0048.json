@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "18378",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient self-management teaching"
+ },
+ {
+  "id": "18379",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "follow-up visit scheduling"
+ },
+ {
+  "id": "18380",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient drug regimen counseling"
+ },
+ {
+  "id": "18381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "diagnostic tests and results"
+ },
+ {
+  "id": "18382",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient histories and findings for diagnosis"
+ },
+ {
+  "id": "18383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "acute illness diagnosis and treatment"
+ },
+ {
+  "id": "18384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "chronic condition diagnosis and treatment"
+ },
+ {
+  "id": "18385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "complex unstable emergency conditions"
+ },
+ {
+  "id": "18386",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "common primary care conditions"
+ },
+ {
+  "id": "18387",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist consultation and referral"
+ },
+ {
+  "id": "18388",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "adverse drug reactions in patients"
+ },
+ {
+  "id": "18389",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient treatment plans"
+ },
+ {
+  "id": "18390",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "suturing, splinting, immunizing, debriding procedures"
+ },
+ {
+  "id": "18391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "routine physical examinations"
+ },
+ {
+  "id": "18392",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medication prescriptions"
+ },
+ {
+  "id": "18393",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient health promotion information"
+ },
+ {
+  "id": "18394",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic and therapeutic recommendations"
+ },
+ {
+  "id": "18395",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health-risk behavior change advice"
+ },
+ {
+  "id": "18396",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "medication dosage and frequency"
+ },
+ {
+  "id": "18397",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "accessible healthcare advocacy"
+ },
+ {
+  "id": "18398",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient health care resource finding"
+ },
+ {
+  "id": "18399",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient care plan records"
+ },
+ {
+  "id": "18400",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nursing literature and professional learning"
+ },
+ {
+  "id": "18401",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory and payer system knowledge"
+ },
+ {
+  "id": "18402",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "state practice regulations knowledge"
+ },
+ {
+  "id": "18403",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "safety and infection control policies"
+ },
+ {
+  "id": "18404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient care support staff"
+ },
+ {
+  "id": "18672",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient hearing communication counseling"
+ },
+ {
+  "id": "18673",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hearing and balance disorder evaluation"
+ },
+ {
+  "id": "18674",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "cochlear implant programming"
+ },
+ {
+  "id": "18675",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audiology training and conferences"
+ },
+ {
+  "id": "18676",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hearing research and reporting"
+ },
+ {
+  "id": "18677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hearing treatment programs"
+ },
+ {
+  "id": "18678",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient hearing tests"
+ },
+ {
+  "id": "18679",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "private practice marketing plans"
+ },
+ {
+  "id": "18680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "assistive device recommendations"
+ },
+ {
+  "id": "18681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hearing aid fitting and repair"
+ },
+ {
+  "id": "18682",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "educator and staff hearing advice"
+ },
+ {
+  "id": "18683",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public hearing information"
+ },
+ {
+  "id": "18684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "communication strategy instruction"
+ },
+ {
+  "id": "18685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "implant recipients auditory rehabilitation"
+ },
+ {
+  "id": "18686",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient hearing status monitoring"
+ },
+ {
+  "id": "18687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workplace noise and conservation programs"
+ },
+ {
+  "id": "18688",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to services"
+ },
+ {
+  "id": "18689",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "office functions and finances"
+ },
+ {
+  "id": "18690",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient evaluation and treatment records"
+ },
+ {
+  "id": "7870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient ear canals"
+ },
+ {
+  "id": "7872",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "audiology students and staff"
+ },
+ {
+  "id": "7875",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hearing screening programs"
+ },
+ {
+  "id": "7753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "anesthesia during procedures"
+ },
+ {
+  "id": "7754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient during anesthesia"
+ },
+ {
+  "id": "7755",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "life support and airway"
+ },
+ {
+  "id": "7756",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "anesthesia dosage and patient condition records"
+ },
+ {
+  "id": "7757",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient surgical risk examination"
+ },
+ {
+  "id": "7758",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient on operating table"
+ },
+ {
+  "id": "7759",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient recovery and discharge readiness"
+ },
+ {
+  "id": "7760",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "anesthesia timing with surgeons"
+ },
+ {
+  "id": "7761",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "anesthetic method discussion with professionals"
+ },
+ {
+  "id": "7762",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nurses and technicians"
+ },
+ {
+  "id": "7763",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory and diagnostic orders"
+ },
+ {
+  "id": "7764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient illness diagnosis"
+ },
+ {
+  "id": "7765",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "anesthesiology service management"
+ },
+ {
+  "id": "7766",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient care and consultation"
+ },
+ {
+  "id": "7767",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "anesthesia methods teaching"
+ },
+ {
+  "id": "7768",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "surgical suite scheduling and equipment"
+ },
+ {
+  "id": "7769",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health preservation instruction"
+ },
+ {
+  "id": "7770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "medical research and new techniques"
+ },
+ {
+  "id": "22689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "cardiac arrest and heart attack"
+ },
+ {
+  "id": "22690",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient lifestyle and prevention advice"
+ },
+ {
+  "id": "22691",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient health questions"
+ },
+ {
+  "id": "22692",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "valve areas from velocity data"
+ },
+ {
+  "id": "22693",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "echocardiogram heart measurements"
+ },
+ {
+  "id": "22694",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cardiac activity test recordings"
+ },
+ {
+  "id": "22695",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "exercise stress ECG tests"
+ },
+ {
+  "id": "22696",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cardiology treatment research"
+ },
+ {
+  "id": "22697",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pulmonary function testing"
+ },
+ {
+  "id": "22698",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient treatment plans"
+ },
+ {
+  "id": "22699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cardiac catheterization diagnosis"
+ },
+ {
+  "id": "22700",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient records for diagnosis"
+ },
+ {
+  "id": "22701",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "procedures and results explanation"
+ },
+ {
+  "id": "22702",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contrast injection into vessels"
+ },
+ {
+  "id": "22703",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "post-cardiac-surgery patient progress"
+ },
+ {
+  "id": "22704",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient condition and treatment reevaluation"
+ },
+ {
+  "id": "22705",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vascular ultrasound signals"
+ },
+ {
+  "id": "22706",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient identification and history records"
+ },
+ {
+  "id": "22707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contrast-enhanced cardiac radiographs"
+ },
+ {
+  "id": "22708",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cardiac test orders"
+ },
+ {
+  "id": "22709",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pacemaker and defibrillator implants"
+ },
+ {
+  "id": "22710",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "angioplasty and stent procedures"
+ },
+ {
+  "id": "22711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "heart medication prescriptions"
+ },
+ {
+  "id": "22712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surgeon and procedure recommendations"
+ },
+ {
+  "id": "22713",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cardiology technologists and students"
+ },
+ {
+  "id": "22714",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physician collaboration on treatment"
+ },
+ {
+  "id": "17077",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals"
+ },
+ {
+  "id": "17078",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient health histories"
+ },
+ {
+  "id": "17079",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "dermatologic consultation for professionals"
+ },
+ {
+  "id": "17081",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dermatology literature and conferences"
+ },
+ {
+  "id": "17082",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "residents dermatology teaching"
+ },
+ {
+  "id": "17083",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "cosmetic procedure patient suitability"
+ },
+ {
+  "id": "17084",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "diagnostic tests ordered or conducted"
+ },
+ {
+  "id": "17085",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic test recommendations"
+ },
+ {
+  "id": "17086",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical or basic research"
+ },
+ {
+  "id": "17087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "skin therapies and peels"
+ },
+ {
+  "id": "17088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dermabrasion and laser scar treatment"
+ },
+ {
+  "id": "17089",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "dermatologic prescriptions"
+ },
+ {
+  "id": "17090",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "skin surgery"
+ },
+ {
+  "id": "17091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "melanoma biopsies"
+ },
+ {
+  "id": "17092",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pigmented skin lesions"
+ },
+ {
+  "id": "17093",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "skin screening and sun protection counseling"
+ },
+ {
+  "id": "17094",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "complete skin examinations"
+ },
+ {
+  "id": "17095",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "common skin conditions"
+ },
+ {
+  "id": "22715",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "records and test results for diagnosis"
+ },
+ {
+  "id": "22716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient pain and sedation needs"
+ },
+ {
+  "id": "22717",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient history and examination records"
+ },
+ {
+  "id": "22718",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "likely outcomes for patients"
+ },
+ {
+  "id": "22719",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "primary patient assessments"
+ },
+ {
+  "id": "22720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "admission and discharge consultation"
+ },
+ {
+  "id": "22721",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "emergency medical staff"
+ },
+ {
+  "id": "22722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment plan discussion with professionals"
+ },
+ {
+  "id": "22723",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vital signs and lab triage"
+ },
+ {
+  "id": "22724",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient management factors"
+ },
+ {
+  "id": "22725",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient condition and treatments"
+ },
+ {
+  "id": "22726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "emergency resuscitation"
+ },
+ {
+  "id": "22727",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency airway and chest procedures"
+ },
+ {
+  "id": "22728",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals"
+ },
+ {
+  "id": "22729",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medication selection"
+ },
+ {
+  "id": "22730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "diagnostic tests and imaging"
+ },
+ {
+  "id": "22731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "critically ill patients"
+ },
+ {
+  "id": "20120",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "residents and students training"
+ },
+ {
+  "id": "20121",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government health statistics reports"
+ },
+ {
+  "id": "7771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient treatment and medication"
+ },
+ {
+  "id": "7772",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "tests and records for diagnosis"
+ },
+ {
+  "id": "7773",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient conditions and treatments"
+ },
+ {
+  "id": "7774",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medical information records"
+ },
+ {
+  "id": "7775",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "procedures and test results explanation"
+ },
+ {
+  "id": "7776",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient diet and prevention advice"
+ },
+ {
+  "id": "7777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals"
+ },
+ {
+  "id": "7778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinical and support staff"
+ },
+ {
+  "id": "7779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "healthcare provider coordination"
+ },
+ {
+  "id": "7782",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community and hospital health programs"
+ },
+ {
+  "id": "7785",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "internal disorders"
+ },
+ {
+  "id": "7786",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "records and tests for diagnosis"
+ },
+ {
+  "id": "7787",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient medication and therapy"
+ },
+ {
+  "id": "7788",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "long-term adult medical care"
+ },
+ {
+  "id": "7789",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "common and complex illnesses"
+ },
+ {
+  "id": "7790",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient progress and treatments"
+ },
+ {
+  "id": "7791",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medical information records"
+ },
+ {
+  "id": "7792",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "obscure comorbid diagnoses"
+ },
+ {
+  "id": "7793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "procedures and test results explanation"
+ },
+ {
+  "id": "7794",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient diet and prevention advice"
+ },
+ {
+  "id": "7795",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals"
+ },
+ {
+  "id": "7796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient immunizations"
+ },
+ {
+  "id": "7797",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surgical risk advice"
+ },
+ {
+  "id": "7798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinical and support staff"
+ },
+ {
+  "id": "7799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "difficult cases consulting for doctors"
+ },
+ {
+  "id": "7800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surgery on diseased body parts"
+ },
+ {
+  "id": "7801",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "injury and illness prevention programs"
+ },
+ {
+  "id": "7802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "medical research"
+ },
+ {
+  "id": "7803",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government health statistics reports"
+ },
+ {
+  "id": "17109",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "neuroscience research"
+ },
+ {
+  "id": "17110",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students and staff training"
+ },
+ {
+  "id": "17111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education"
+ },
+ {
+  "id": "17112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neurological technicians"
+ },
+ {
+  "id": "17113",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "neurological disorder risk counseling"
+ },
+ {
+  "id": "17114",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "neuroimaging scans"
+ },
+ {
+  "id": "17115",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "practitioner referrals"
+ },
+ {
+  "id": "17116",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physician neurological advice"
+ },
+ {
+  "id": "17117",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "neurological medications and side effects"
+ },
+ {
+  "id": "17118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "brain and nerve stimulation treatments"
+ },
+ {
+  "id": "17119",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient neurological records"
+ },
+ {
+  "id": "17120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "specialized neurological treatments"
+ },
+ {
+  "id": "17121",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blood and spinal fluid lab results"
+ },
+ {
+  "id": "17122",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supportive care service orders"
+ },
+ {
+  "id": "17123",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient symptoms and histories interview"
+ },
+ {
+  "id": "17124",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "diagnosis and prognosis for families"
+ },
+ {
+  "id": "17125",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exam findings and tests for diagnosis"
+ },
+ {
+  "id": "17126",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient treatment plans"
+ },
+ {
+  "id": "17127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "brain death determination"
+ },
+ {
+  "id": "17128",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "healthcare professional communication"
+ },
+ {
+  "id": "17129",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "neurological services coordination"
+ },
+ {
+  "id": "17130",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "lumbar punctures and EEG procedures"
+ },
+ {
+  "id": "17131",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "major neurological diseases"
+ },
+ {
+  "id": "17132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient neurological functional examination"
+ },
+ {
+  "id": "7804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "prenatal, birth, postnatal care"
+ },
+ {
+  "id": "7805",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "procedures and test results explanation"
+ },
+ {
+  "id": "7806",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "female organ diseases"
+ },
+ {
+  "id": "7807",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient progress and treatments"
+ },
+ {
+  "id": "7808",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cesarean and surgical procedures"
+ },
+ {
+  "id": "7809",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient medication and therapy"
+ },
+ {
+  "id": "7810",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "records and tests for diagnosis"
+ },
+ {
+  "id": "7811",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medical information records"
+ },
+ {
+  "id": "7812",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient diet and prevention advice"
+ },
+ {
+  "id": "7813",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist referrals"
+ },
+ {
+  "id": "7814",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physician consultation"
+ },
+ {
+  "id": "7815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinical and support staff"
+ },
+ {
+  "id": "7816",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community health programs"
+ },
+ {
+  "id": "7817",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government health statistics reports"
+ },
+ {
+  "id": "7818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "medical research"
+ }
+]

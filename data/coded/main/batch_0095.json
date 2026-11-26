@@ -1,0 +1,1562 @@
+[
+ {
+  "id": "12693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production machinery operation"
+ },
+ {
+  "id": "12694",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products against quality standards"
+ },
+ {
+  "id": "12695",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment malfunction signs"
+ },
+ {
+  "id": "12696",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw materials and products"
+ },
+ {
+  "id": "12697",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "finished product counts"
+ },
+ {
+  "id": "12698",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part identification marking"
+ },
+ {
+  "id": "12699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "items on machines and conveyors"
+ },
+ {
+  "id": "12700",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "materials, tools, work areas"
+ },
+ {
+  "id": "12701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment cleaning and lubrication"
+ },
+ {
+  "id": "12702",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "production counts and readings log"
+ },
+ {
+  "id": "12703",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production machine startup"
+ },
+ {
+  "id": "12704",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products by weight and grade"
+ },
+ {
+  "id": "12705",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flow valves and pumps"
+ },
+ {
+  "id": "12706",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products on work surfaces"
+ },
+ {
+  "id": "12707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products and waste from machines"
+ },
+ {
+  "id": "12708",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials and products packing"
+ },
+ {
+  "id": "12709",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product bundles for shipment"
+ },
+ {
+  "id": "12710",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "goods between storage and work areas"
+ },
+ {
+  "id": "12711",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "coworkers moving products"
+ },
+ {
+  "id": "12712",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw materials preparation"
+ },
+ {
+  "id": "12713",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product measurements against specifications"
+ },
+ {
+  "id": "12715",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gauge and chart readings"
+ },
+ {
+  "id": "12716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredient mixing"
+ },
+ {
+  "id": "12717",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bin spouts and chutes"
+ },
+ {
+  "id": "12719",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas and equipment washing"
+ },
+ {
+  "id": "12720",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "full machine reels"
+ },
+ {
+  "id": "12722",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective products for reprocessing"
+ },
+ {
+  "id": "12724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flashing on products"
+ },
+ {
+  "id": "12725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine part replacement"
+ },
+ {
+  "id": "12726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slings on pipes and bundles"
+ },
+ {
+  "id": "14432",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cargo placement in aircraft space"
+ },
+ {
+  "id": "14433",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aircraft compartment load weights"
+ },
+ {
+  "id": "14434",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "ground crew cargo loading"
+ },
+ {
+  "id": "14435",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cargo orientation and center of gravity"
+ },
+ {
+  "id": "14436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "in-flight cargo monitoring"
+ },
+ {
+  "id": "20933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new employee safety training"
+ },
+ {
+  "id": "20830",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workplace safety procedures and equipment"
+ },
+ {
+  "id": "8561",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work schedules and duty assignments"
+ },
+ {
+  "id": "8562",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "workplace problem solving with others"
+ },
+ {
+  "id": "8563",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "work quality during and after"
+ },
+ {
+  "id": "8564",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work orders explained to laborers"
+ },
+ {
+  "id": "8565",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "loaded material specs versus orders"
+ },
+ {
+  "id": "8566",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loading updates to departments"
+ },
+ {
+  "id": "8567",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "freight loading sequence"
+ },
+ {
+  "id": "8568",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance appraisals"
+ },
+ {
+  "id": "8569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hands-on work alongside laborers"
+ },
+ {
+  "id": "8570",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time, wage, inspection records"
+ },
+ {
+  "id": "8571",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff meeting information sharing"
+ },
+ {
+  "id": "8572",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee career counseling"
+ },
+ {
+  "id": "8573",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment wear inspection"
+ },
+ {
+  "id": "8574",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel complaints and grievances"
+ },
+ {
+  "id": "8575",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "promotion and discipline recommendations"
+ },
+ {
+  "id": "8576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff training needs"
+ },
+ {
+  "id": "8577",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment timing and transport modes"
+ },
+ {
+  "id": "8578",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer price quotes"
+ },
+ {
+  "id": "8579",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project materials and staffing estimates"
+ },
+ {
+  "id": "8580",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budget tracking and unit policies"
+ },
+ {
+  "id": "8581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "job site repair needs"
+ },
+ {
+  "id": "8582",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring interviews and recommendations"
+ },
+ {
+  "id": "8583",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supply inventory and requisitions"
+ },
+ {
+  "id": "17888",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "recycling program ordinance compliance"
+ },
+ {
+  "id": "17889",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "recycling staff supervision"
+ },
+ {
+  "id": "17890",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "driver route assignments"
+ },
+ {
+  "id": "17891",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "collection schedules"
+ },
+ {
+  "id": "17892",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recycling material shipments"
+ },
+ {
+  "id": "17893",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recycling operations budget"
+ },
+ {
+  "id": "17894",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community waste management programs"
+ },
+ {
+  "id": "17895",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recycling plans and goals"
+ },
+ {
+  "id": "17896",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grant-funded project reporting"
+ },
+ {
+  "id": "17897",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "solid waste ordinance violations"
+ },
+ {
+  "id": "17898",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "public recycling education presentations"
+ },
+ {
+  "id": "17899",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "waste firm contracts"
+ },
+ {
+  "id": "17900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recyclable materials by forklift"
+ },
+ {
+  "id": "17901",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recycling sorting machinery"
+ },
+ {
+  "id": "17902",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "recycling promotion campaigns"
+ },
+ {
+  "id": "17903",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recycling grant applications"
+ },
+ {
+  "id": "17904",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "storage material movement schedule"
+ },
+ {
+  "id": "17905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new recyclable material opportunities"
+ },
+ {
+  "id": "17906",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "recycling facility safety inspection"
+ },
+ {
+  "id": "17907",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recycling material logs"
+ },
+ {
+  "id": "17908",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping bills and receipts"
+ },
+ {
+  "id": "17909",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "recycling technician training"
+ },
+ {
+  "id": "17910",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer service requests deployment"
+ },
+ {
+  "id": "20455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "field work performance and materials"
+ },
+ {
+  "id": "23693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workers loading vehicles"
+ },
+ {
+  "id": "23694",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "transportation workers directing"
+ },
+ {
+  "id": "23695",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules"
+ },
+ {
+  "id": "8584",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "safety rules enforcement"
+ },
+ {
+  "id": "8585",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work assignments and equipment allocation"
+ },
+ {
+  "id": "8586",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "information exchange with customers, contractors"
+ },
+ {
+  "id": "8588",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker problem resolution"
+ },
+ {
+  "id": "8589",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders and schedules for sequencing"
+ },
+ {
+  "id": "8591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "motivation, methods and service improvements"
+ },
+ {
+  "id": "8592",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time and expenditure records"
+ },
+ {
+  "id": "8593",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulations explained to workers"
+ },
+ {
+  "id": "8594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "new worker task demonstration"
+ },
+ {
+  "id": "8595",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations and accident reports"
+ },
+ {
+  "id": "8596",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel selection and discipline actions"
+ },
+ {
+  "id": "8597",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel and supply requisitions"
+ },
+ {
+  "id": "8599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicles, stock, facilities inspection"
+ },
+ {
+  "id": "8600",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll and storage requirements"
+ },
+ {
+  "id": "8601",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency personnel and vehicle dispatch"
+ },
+ {
+  "id": "8602",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vehicle repair and maintenance scheduling"
+ },
+ {
+  "id": "8603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cargo weighing and measuring"
+ },
+ {
+  "id": "8605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle and machine driving"
+ },
+ {
+  "id": "23696",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel data and activity reports"
+ },
+ {
+  "id": "23697",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer feedback service improvements"
+ },
+ {
+  "id": "23698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll and personnel estimates"
+ },
+ {
+  "id": "23699",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "information exchange to resolve problems"
+ },
+ {
+  "id": "23700",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "flight and car attendant coordination"
+ },
+ {
+  "id": "23701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "safety rule enforcement"
+ },
+ {
+  "id": "23702",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new worker demonstrations"
+ },
+ {
+  "id": "23703",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "group interests informing workers"
+ },
+ {
+  "id": "23704",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicles and equipment inspection"
+ },
+ {
+  "id": "23705",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area cleanliness standards"
+ },
+ {
+  "id": "23706",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational changes meetings with managers"
+ },
+ {
+  "id": "23707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "worker appearance and performance"
+ },
+ {
+  "id": "23708",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry trends continuing education"
+ },
+ {
+  "id": "23709",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker motivation and service improvement"
+ },
+ {
+  "id": "23710",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff recruiting and hiring"
+ },
+ {
+  "id": "23711",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply and service requisitions"
+ },
+ {
+  "id": "23712",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints about workers"
+ },
+ {
+  "id": "23713",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance discipline"
+ },
+ {
+  "id": "23714",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker operational procedure training"
+ },
+ {
+  "id": "10562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "low-visibility flight instrument guidance"
+ },
+ {
+  "id": "10563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "in-flight emergencies and malfunctions"
+ },
+ {
+  "id": "10564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "flight crew teamwork"
+ },
+ {
+  "id": "10565",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "control tower radio clearances"
+ },
+ {
+  "id": "10566",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "route steering via autopilot"
+ },
+ {
+  "id": "10567",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gauges and aircraft performance"
+ },
+ {
+  "id": "10568",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "airplane piloting for transport"
+ },
+ {
+  "id": "10569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft pre-flight defects"
+ },
+ {
+  "id": "10570",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weight, balance, fuel checks"
+ },
+ {
+  "id": "10571",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine and systems in flight"
+ },
+ {
+  "id": "10572",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "conferring with dispatchers and forecasters"
+ },
+ {
+  "id": "10573",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "flight coordination with ground and ATC"
+ },
+ {
+  "id": "10574",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "fuel, load, route changes"
+ },
+ {
+  "id": "10575",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "routes, altitudes, speeds"
+ },
+ {
+  "id": "10576",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "aircrew direction during flights"
+ },
+ {
+  "id": "10577",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "crew flight detail briefings"
+ },
+ {
+  "id": "10578",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight logbook entries"
+ },
+ {
+  "id": "10579",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger announcements"
+ },
+ {
+  "id": "10580",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instrument flight plan filing"
+ },
+ {
+  "id": "10581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor aircraft maintenance"
+ },
+ {
+  "id": "10582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pilot and student instruction"
+ },
+ {
+  "id": "10583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "in-flight equipment testing"
+ },
+ {
+  "id": "10584",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pilot proficiency evaluation"
+ },
+ {
+  "id": "10586",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight test schedules and reports"
+ },
+ {
+  "id": "10587",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft systems pre-flight check"
+ },
+ {
+  "id": "10588",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "control tower radio clearances"
+ },
+ {
+  "id": "10589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "airplane piloting for transport"
+ },
+ {
+  "id": "10590",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine and fuel in flight"
+ },
+ {
+  "id": "10591",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "takeoff speed calculation"
+ },
+ {
+  "id": "10592",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fuel, load, route changes"
+ },
+ {
+  "id": "10593",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight data review for plans"
+ },
+ {
+  "id": "10594",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight planning with charts"
+ },
+ {
+  "id": "10595",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "low-visibility instrument piloting"
+ },
+ {
+  "id": "10596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "baggage and cargo loading"
+ },
+ {
+  "id": "10597",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "altitude and route requests"
+ },
+ {
+  "id": "10598",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "routes, altitudes, speeds"
+ },
+ {
+  "id": "10599",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "flight coordination with ground and ATC"
+ },
+ {
+  "id": "10600",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight record entries"
+ },
+ {
+  "id": "10601",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "company procedures teaching pilots"
+ },
+ {
+  "id": "10602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pilot and student instruction"
+ },
+ {
+  "id": "10604",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instrument flight plan filing"
+ },
+ {
+  "id": "10605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "in-flight equipment testing"
+ },
+ {
+  "id": "10606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "injured person evacuation"
+ },
+ {
+  "id": "10607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew supervision"
+ },
+ {
+  "id": "10608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor aircraft repair"
+ },
+ {
+  "id": "10609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pilot proficiency evaluation flights"
+ },
+ {
+  "id": "10610",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight test schedules and reports"
+ },
+ {
+  "id": "20831",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "copilot or captain duties"
+ },
+ {
+  "id": "12728",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "landing and takeoff authorizations"
+ },
+ {
+  "id": "12729",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "aircraft movement in airspace"
+ },
+ {
+  "id": "12730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "airspace radar monitoring"
+ },
+ {
+  "id": "12731",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hazard information for pilots"
+ },
+ {
+  "id": "12732",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency flight path directions"
+ },
+ {
+  "id": "12733",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "airport emergency services alert"
+ },
+ {
+  "id": "12734",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "aircraft runway sequencing"
+ },
+ {
+  "id": "12735",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight control handoffs"
+ },
+ {
+  "id": "12736",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ground vehicle and aircraft traffic"
+ },
+ {
+  "id": "12737",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight vector change timing"
+ },
+ {
+  "id": "12738",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "coordination with adjacent control units"
+ },
+ {
+  "id": "12739",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pilot weather and navigation info"
+ },
+ {
+  "id": "12740",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "missing aircraft searches"
+ },
+ {
+  "id": "12741",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "altitude request traffic checks"
+ },
+ {
+  "id": "12742",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "air traffic data relay"
+ },
+ {
+  "id": "12743",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight information compilation"
+ },
+ {
+  "id": "12744",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radio equipment and airport lights"
+ },
+ {
+  "id": "12745",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pre-flight weather briefings"
+ },
+ {
+  "id": "12746",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "air route determination"
+ },
+ {
+  "id": "12747",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic management plans"
+ },
+ {
+  "id": "12748",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "required air traffic records"
+ },
+ {
+  "id": "12749",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily activity reports and messages"
+ },
+ {
+  "id": "20691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new controller on-the-job training"
+ }
+]

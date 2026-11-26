@@ -1,0 +1,1530 @@
+[
+ {
+  "id": "21744",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "server room physical security"
+ },
+ {
+  "id": "21745",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "stakeholder risk data"
+ },
+ {
+  "id": "21746",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network security audits"
+ },
+ {
+  "id": "21747",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system access configurations"
+ },
+ {
+  "id": "21748",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "device vulnerability fixes"
+ },
+ {
+  "id": "21749",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "simulated threat actor tests"
+ },
+ {
+  "id": "21750",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vulnerability exploit tests"
+ },
+ {
+  "id": "21751",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "threat intelligence presentations"
+ },
+ {
+  "id": "21752",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "penetration testing procedures"
+ },
+ {
+  "id": "21753",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security solutions discussions"
+ },
+ {
+  "id": "21754",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "penetration test findings"
+ },
+ {
+  "id": "21755",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vulnerability assessment reviews"
+ },
+ {
+  "id": "21756",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cyber intelligence gathering"
+ },
+ {
+  "id": "21757",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "threat actor tactics"
+ },
+ {
+  "id": "21758",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security weaknesses via pen tests"
+ },
+ {
+  "id": "21759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security incident forensics"
+ },
+ {
+  "id": "21760",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new pen testing tools"
+ },
+ {
+  "id": "21761",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hacking trends knowledge"
+ },
+ {
+  "id": "21762",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security fix result reports"
+ },
+ {
+  "id": "21763",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system access attempts"
+ },
+ {
+  "id": "21764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cyber security corporate policies"
+ },
+ {
+  "id": "21765",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security audit reports"
+ },
+ {
+  "id": "21766",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security control quality metrics"
+ },
+ {
+  "id": "21767",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security breach investigations"
+ },
+ {
+  "id": "21768",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security policy documentation"
+ },
+ {
+  "id": "21769",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network intrusion monitoring"
+ },
+ {
+  "id": "21770",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vulnerability assessments"
+ },
+ {
+  "id": "21771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "information security standards"
+ },
+ {
+  "id": "21772",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "threat detection software tools"
+ },
+ {
+  "id": "21773",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "firewall and encryption software"
+ },
+ {
+  "id": "21774",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "breach response strategies"
+ },
+ {
+  "id": "21775",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security problem solutions"
+ },
+ {
+  "id": "21776",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security weaknesses via pen tests"
+ },
+ {
+  "id": "21777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data safeguarding plans"
+ },
+ {
+  "id": "21778",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "risk assessment and system tests"
+ },
+ {
+  "id": "21779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security product user support"
+ },
+ {
+  "id": "21780",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security enhancement recommendations"
+ },
+ {
+  "id": "21781",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security assessment compliance reviews"
+ },
+ {
+  "id": "21782",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network vulnerability scans"
+ },
+ {
+  "id": "21783",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff security training"
+ },
+ {
+  "id": "21784",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security and network problems"
+ },
+ {
+  "id": "21785",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "breach investigation reports"
+ },
+ {
+  "id": "21786",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "digital media handling procedures"
+ },
+ {
+  "id": "21787",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "intrusion log analysis"
+ },
+ {
+  "id": "21788",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security measure analyses"
+ },
+ {
+  "id": "21789",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "system images as evidence"
+ },
+ {
+  "id": "21790",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "computer crime investigation plans"
+ },
+ {
+  "id": "21791",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data collection policies"
+ },
+ {
+  "id": "21792",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "digital evidence copies"
+ },
+ {
+  "id": "21793",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reverse-engineering tools"
+ },
+ {
+  "id": "21794",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cyber defense software hardware"
+ },
+ {
+  "id": "21795",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forensics laws and regulations"
+ },
+ {
+  "id": "21796",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "file signature verification"
+ },
+ {
+  "id": "21797",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "file system forensic investigations"
+ },
+ {
+  "id": "21798",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network traffic anomalies"
+ },
+ {
+  "id": "21799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "digital forensic evidence preservation"
+ },
+ {
+  "id": "21800",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cyber defense tool recommendations"
+ },
+ {
+  "id": "21801",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "seized data recovery"
+ },
+ {
+  "id": "21802",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data parsing scripts"
+ },
+ {
+  "id": "21803",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cyber defense white papers"
+ },
+ {
+  "id": "21804",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legal proceeding testimony and affidavits"
+ },
+ {
+  "id": "21805",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forensic technical summaries"
+ },
+ {
+  "id": "21806",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blockchain code and key threats"
+ },
+ {
+  "id": "21807",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software update deployment automation"
+ },
+ {
+  "id": "21808",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blockchain security design patterns"
+ },
+ {
+  "id": "21809",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "blockchain technologies for industries"
+ },
+ {
+  "id": "21810",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dashboards and data visualizations"
+ },
+ {
+  "id": "21811",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data repositories integration"
+ },
+ {
+  "id": "21812",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cryptographic protocols"
+ },
+ {
+  "id": "21813",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logging specifications implementation"
+ },
+ {
+  "id": "21814",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "object-oriented code base"
+ },
+ {
+  "id": "21815",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "system planning with architects"
+ },
+ {
+  "id": "21816",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "blockchain data requirements discussions"
+ },
+ {
+  "id": "21817",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "blockchain security risk evaluation"
+ },
+ {
+  "id": "21818",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new blockchain vendor products"
+ },
+ {
+  "id": "21819",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "catastrophic failure handlers"
+ },
+ {
+  "id": "21820",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "peer-to-peer network tests"
+ },
+ {
+  "id": "21821",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blockchain security and performance tests"
+ },
+ {
+  "id": "21822",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client server application updates"
+ },
+ {
+  "id": "14666",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "system requirements from staff clients"
+ },
+ {
+  "id": "14667",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project costs and design advice"
+ },
+ {
+  "id": "14668",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system design documentation"
+ },
+ {
+  "id": "14669",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "architecture stability and security checks"
+ },
+ {
+  "id": "14670",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design solution selection collaboration"
+ },
+ {
+  "id": "14671",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emerging technology evaluation"
+ },
+ {
+  "id": "14672",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical system troubleshooting guidance"
+ },
+ {
+  "id": "14673",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system components for user needs"
+ },
+ {
+  "id": "14674",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "secure implementation guidelines"
+ },
+ {
+  "id": "14675",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system operation monitoring"
+ },
+ {
+  "id": "14676",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "computer system development direction"
+ },
+ {
+  "id": "14677",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "component suitability recommendations"
+ },
+ {
+  "id": "14678",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hardware and software maintenance"
+ },
+ {
+  "id": "14679",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "server configuration"
+ },
+ {
+  "id": "14680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project plans schedules budgets"
+ },
+ {
+  "id": "14681",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "information system scope and impact"
+ },
+ {
+  "id": "14682",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system and software architectures"
+ },
+ {
+  "id": "14683",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hardware and software tests"
+ },
+ {
+  "id": "14684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system functional standards"
+ },
+ {
+  "id": "14685",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "existing system effectiveness"
+ },
+ {
+  "id": "14686",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software patches and fixes"
+ },
+ {
+  "id": "14687",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical presentations and white papers"
+ },
+ {
+  "id": "14688",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system performance models simulations"
+ },
+ {
+  "id": "14689",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "operating system and hardware installation"
+ },
+ {
+  "id": "14690",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "system user training"
+ },
+ {
+  "id": "14691",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software component security analysis"
+ },
+ {
+  "id": "14692",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "application-specific software"
+ },
+ {
+  "id": "14693",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "system controllers"
+ },
+ {
+  "id": "16151",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project risk response strategies"
+ },
+ {
+  "id": "16152",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project deliverables quality adherence"
+ },
+ {
+  "id": "16153",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "team member performance feedback"
+ },
+ {
+  "id": "16154",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project problem resolution with personnel"
+ },
+ {
+  "id": "16155",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer needs and priorities"
+ },
+ {
+  "id": "16156",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project meeting scheduling facilitation"
+ },
+ {
+  "id": "16157",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project milestone tracking"
+ },
+ {
+  "id": "16158",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stakeholder supplier resource negotiation"
+ },
+ {
+  "id": "16159",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project plan modifications"
+ },
+ {
+  "id": "16160",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor and consultant selection"
+ },
+ {
+  "id": "16161",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project communication plan"
+ },
+ {
+  "id": "16162",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project resource needs"
+ },
+ {
+  "id": "16163",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project personnel activity direction"
+ },
+ {
+  "id": "16164",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cost-benefit implementation plans"
+ },
+ {
+  "id": "16165",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project personnel recruitment"
+ },
+ {
+  "id": "16166",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "IT project annual budgets"
+ },
+ {
+  "id": "16167",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project staff duty assignment"
+ },
+ {
+  "id": "16168",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project status reports"
+ },
+ {
+  "id": "16169",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project budget schedule scope execution"
+ },
+ {
+  "id": "16170",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "IT project plans"
+ },
+ {
+  "id": "16171",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project work breakdown structure"
+ },
+ {
+  "id": "20951",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "reinsurance contract negotiation"
+ },
+ {
+  "id": "3500",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance premium rates and reserves"
+ },
+ {
+  "id": "3501",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mortality and morbidity rate estimates"
+ },
+ {
+  "id": "3502",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance and pension plan design"
+ },
+ {
+  "id": "3503",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new business line planning collaboration"
+ },
+ {
+  "id": "3504",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "company policy and technical explanations"
+ },
+ {
+  "id": "3505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legislative testimony before agencies"
+ },
+ {
+  "id": "3506",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contract consulting for clients"
+ },
+ {
+  "id": "3507",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "expert witness court testimony"
+ },
+ {
+  "id": "3508",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event probability tables"
+ },
+ {
+  "id": "3509",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance policy contract provisions"
+ },
+ {
+  "id": "3510",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit management and security pricing"
+ },
+ {
+  "id": "3511",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "financial institution risk advice"
+ },
+ {
+  "id": "3512",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surplus distribution basis"
+ },
+ {
+  "id": "3513",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contract provision changes explanation"
+ },
+ {
+  "id": "20191",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mathematical research reports and papers"
+ },
+ {
+  "id": "24002",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mentoring on mathematical techniques"
+ },
+ {
+  "id": "7367",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "practical problems via mathematical methods"
+ },
+ {
+  "id": "7368",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computational methods for problems"
+ },
+ {
+  "id": "7369",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mathematics field knowledge upkeep"
+ },
+ {
+  "id": "7370",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "numerical data computations"
+ },
+ {
+  "id": "7371",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mathematical statistical models"
+ },
+ {
+  "id": "7372",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assumption sets and consequences"
+ },
+ {
+  "id": "7373",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quantity and form relationships"
+ },
+ {
+  "id": "7374",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new mathematical principles"
+ },
+ {
+  "id": "7375",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "encryption systems"
+ },
+ {
+  "id": "7376",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mathematical knowledge research"
+ },
+ {
+  "id": "20952",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "modeling results presentations to management"
+ },
+ {
+  "id": "20953",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff training on models"
+ },
+ {
+  "id": "23986",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research literature review"
+ },
+ {
+  "id": "7377",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mathematical simulation models"
+ },
+ {
+  "id": "7378",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "solution implementation collaboration"
+ },
+ {
+  "id": "7379",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational problem definition"
+ },
+ {
+  "id": "7380",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "model validation and testing"
+ },
+ {
+  "id": "7381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management objectives clarification"
+ },
+ {
+  "id": "7382",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data requirements and validation"
+ },
+ {
+  "id": "7383",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "alternative courses of action"
+ },
+ {
+  "id": "7384",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "management problem reports"
+ },
+ {
+  "id": "7385",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system components mathematical relationships"
+ },
+ {
+  "id": "7386",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "model computational methods"
+ },
+ {
+  "id": "7387",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "current system operation observation"
+ },
+ {
+  "id": "7388",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "experimental operational models"
+ },
+ {
+  "id": "7389",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project time and cost networks"
+ },
+ {
+  "id": "7390",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "business methods and procedures"
+ },
+ {
+  "id": "20192",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical analysis papers manuals"
+ },
+ {
+  "id": "20193",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical modeling software"
+ },
+ {
+  "id": "20194",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "statistical results presentations"
+ },
+ {
+  "id": "21100",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "statistical method appropriateness"
+ },
+ {
+  "id": "21101",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data warehouse structuring"
+ },
+ {
+  "id": "8953",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical results graphs tables"
+ },
+ {
+  "id": "8954",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "large data processing"
+ },
+ {
+  "id": "8955",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data relationships and trends"
+ },
+ {
+  "id": "8956",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical data interpretation"
+ },
+ {
+  "id": "8957",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "raw data cleaning weighting"
+ },
+ {
+  "id": "8958",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data collection method validity"
+ },
+ {
+  "id": "8959",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "information source reliability limits"
+ },
+ {
+  "id": "8960",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data collection plans sample sizes"
+ },
+ {
+  "id": "8961",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific research project designs"
+ },
+ {
+  "id": "8963",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "data collection workers supervision"
+ },
+ {
+  "id": "8964",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey sampling groups"
+ },
+ {
+  "id": "8965",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical methods for problems"
+ },
+ {
+  "id": "8966",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experimental designs and sampling"
+ },
+ {
+  "id": "8967",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "probability inference theory"
+ }
+]

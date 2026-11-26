@@ -1,0 +1,5 @@
+field,n,pct_exact,pct_within_1,weighted_kappa,mean_main,mean_reference
+ai_alone,968,0.802,0.995,0.788,1.014,0.927
+ai_speedup,968,0.865,0.999,0.836,0.893,0.845
+human_core,968,0.810,0.999,0.776,0.695,0.824
+physical,968,0.902,0.999,0.895,0.857,0.926

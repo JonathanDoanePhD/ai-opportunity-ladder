@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "17542",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "forecasting gang and terrorist activity"
+ },
+ {
+  "id": "17543",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research on narcotics, laundering, and threats"
+ },
+ {
+  "id": "17544",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "intelligence databases, GIS, and software tools"
+ },
+ {
+  "id": "17545",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "criminal profiles linking members to organizations"
+ },
+ {
+  "id": "17546",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phone communication records, group mapping"
+ },
+ {
+  "id": "17547",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "aerial photo and radar intelligence"
+ },
+ {
+  "id": "17548",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "field observation and confidential sources"
+ },
+ {
+  "id": "17549",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "law enforcement database information correlation"
+ },
+ {
+  "id": "17550",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "suspect-to-organization link charts"
+ },
+ {
+  "id": "17551",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surveillance cameras and radios"
+ },
+ {
+  "id": "17552",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "intelligence reports, maps, and charts"
+ },
+ {
+  "id": "17553",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "foreign transmission interception plans"
+ },
+ {
+  "id": "17554",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "suspect assets and money flows"
+ },
+ {
+  "id": "17555",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "known intelligence checked against sources"
+ },
+ {
+  "id": "17556",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "inter-agency information sharing coordination"
+ },
+ {
+  "id": "17557",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "defense plans and tactics"
+ },
+ {
+  "id": "17558",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "witness and suspect interrogation"
+ },
+ {
+  "id": "17559",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "codes and foreign language translation"
+ },
+ {
+  "id": "21199",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "criminal activity patterns and trends"
+ },
+ {
+  "id": "21200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "presenting analytic findings"
+ },
+ {
+  "id": "23997",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "gaps in available information"
+ },
+ {
+  "id": "20582",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court evidence compilation and presentation"
+ },
+ {
+  "id": "20583",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hunting accidents and game violations"
+ },
+ {
+  "id": "20584",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "warnings, citations, and violation reports"
+ },
+ {
+  "id": "20585",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "warrants and arrests"
+ },
+ {
+  "id": "20586",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "search-and-rescue operations"
+ },
+ {
+  "id": "20587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "illegally taken fish or game"
+ },
+ {
+  "id": "20588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment used in violations"
+ },
+ {
+  "id": "20589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "firefighting efforts"
+ },
+ {
+  "id": "7915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrolling land and water areas"
+ },
+ {
+  "id": "7918",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "native wildlife, plants, ecosystems"
+ },
+ {
+  "id": "7919",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hunter and trapper safety training"
+ },
+ {
+  "id": "7921",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assisting local law enforcement"
+ },
+ {
+  "id": "7922",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "talks on wildlife conservation rules"
+ },
+ {
+  "id": "7923",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hunting regulation and management revisions"
+ },
+ {
+  "id": "7924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "commercial fish and wildlife operations"
+ },
+ {
+  "id": "7925",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wildlife population and habitat conditions"
+ },
+ {
+  "id": "7926",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hunter bag counts survey"
+ },
+ {
+  "id": "7928",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crop, property, habitat damage causes"
+ },
+ {
+  "id": "7929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wildlife damage control measures"
+ },
+ {
+  "id": "7930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "damage extent and loss estimates"
+ },
+ {
+  "id": "7931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "seasonal workers"
+ },
+ {
+  "id": "7932",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "licenses and permits"
+ },
+ {
+  "id": "7933",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "park visitors needing advice"
+ },
+ {
+  "id": "7934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility structures, weeds, pests"
+ },
+ {
+  "id": "7935",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parking compliance patrol"
+ },
+ {
+  "id": "7936",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "radio and phone dispatcher communication"
+ },
+ {
+  "id": "7937",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "parking warnings and citations"
+ },
+ {
+  "id": "7938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chalk marks on tires"
+ },
+ {
+  "id": "7939",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "radio dispatch calls about violations"
+ },
+ {
+  "id": "7940",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new or temporary staff training"
+ },
+ {
+  "id": "7941",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vehicles violating parking codes"
+ },
+ {
+  "id": "7942",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "enforcement vehicle upkeep"
+ },
+ {
+  "id": "7943",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "street hazards and missing signs"
+ },
+ {
+  "id": "7944",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contested parking citations"
+ },
+ {
+  "id": "7945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "enforcement equipment and supplies"
+ },
+ {
+  "id": "7946",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "public parking and location questions"
+ },
+ {
+  "id": "7947",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "contested citation court hearings"
+ },
+ {
+  "id": "7948",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "towing illegally parked vehicles"
+ },
+ {
+  "id": "7949",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "barricades, signs, traffic direction"
+ },
+ {
+  "id": "7950",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "stranded motorists"
+ },
+ {
+  "id": "7951",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle registration lookups"
+ },
+ {
+  "id": "7952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coins in meters"
+ },
+ {
+  "id": "7953",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "enforcement logs and citation records"
+ },
+ {
+  "id": "7954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "lost, stolen, counterfeit parking permits"
+ },
+ {
+  "id": "7955",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parking meter clocks"
+ },
+ {
+  "id": "7956",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinates' work"
+ },
+ {
+  "id": "23051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "suspects and perpetrators"
+ },
+ {
+  "id": "23052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "public safety and community order"
+ },
+ {
+  "id": "23053",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incident facts for written reports"
+ },
+ {
+  "id": "23054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "injured accident survivors"
+ },
+ {
+  "id": "23055",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "illegal or suspicious activities"
+ },
+ {
+  "id": "23056",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "incident facts versus statutes"
+ },
+ {
+  "id": "23057",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "suspicious persons and hazards in patrol area"
+ },
+ {
+  "id": "23058",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "courtroom testimony"
+ },
+ {
+  "id": "23059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patrol driving to detect violators"
+ },
+ {
+  "id": "23060",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motorist traffic regulation compliance"
+ },
+ {
+  "id": "23061",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "complaint information relayed to dispatchers"
+ },
+ {
+  "id": "23062",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal charges against offenders"
+ },
+ {
+  "id": "23063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "crime scenes and eyewitnesses"
+ },
+ {
+  "id": "23064",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency requests and response needs"
+ },
+ {
+  "id": "23065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "arrest warrants"
+ },
+ {
+  "id": "23066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrolling area responding to calls"
+ },
+ {
+  "id": "23067",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "accident causes and possible crimes"
+ },
+ {
+  "id": "23068",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic flow and rerouting"
+ },
+ {
+  "id": "23069",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patrol units notified of custody needs"
+ },
+ {
+  "id": "23070",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "court orders and subpoenas"
+ },
+ {
+  "id": "23071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "people entering secured areas"
+ },
+ {
+  "id": "23072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "courthouse security patrol"
+ },
+ {
+  "id": "23073",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoners transported to courts, jails"
+ },
+ {
+  "id": "23074",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "citizens' community services information"
+ },
+ {
+  "id": "23075",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "property confiscated by court order"
+ },
+ {
+  "id": "23076",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "road information for motorists"
+ },
+ {
+  "id": "23077",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoner booking and status records"
+ },
+ {
+  "id": "23078",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "law enforcement staff"
+ },
+ {
+  "id": "23079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "people in protective custody"
+ },
+ {
+  "id": "23080",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community drug and violence programs"
+ },
+ {
+  "id": "9450",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "immigration applications and traveler interviews"
+ },
+ {
+  "id": "9451",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "persons violating customs or immigration law"
+ },
+ {
+  "id": "9452",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contraband and undeclared merchandise"
+ },
+ {
+  "id": "9453",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "laws explained to travelers and shippers"
+ },
+ {
+  "id": "9454",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cargo, baggage, personal articles"
+ },
+ {
+  "id": "9455",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job activities and findings reports"
+ },
+ {
+  "id": "9456",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prosecutions of customs violators"
+ },
+ {
+  "id": "9457",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "testimony on decisions at appeals"
+ },
+ {
+  "id": "9458",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duties and taxes on goods"
+ },
+ {
+  "id": "9459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise samples"
+ },
+ {
+  "id": "9460",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "duty refund and penalty petitions"
+ },
+ {
+  "id": "21002",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "transit areas security checks"
+ },
+ {
+  "id": "21003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "transit traffic law violators"
+ },
+ {
+  "id": "21004",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "railroad safety training for others"
+ },
+ {
+  "id": "9475",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "railroad yards and facilities patrol"
+ },
+ {
+  "id": "9476",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "credentials of persons in secured areas"
+ },
+ {
+  "id": "9477",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "trespassers and thieves on property"
+ },
+ {
+  "id": "9478",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation activity reports"
+ },
+ {
+  "id": "9479",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "freight theft and rail crimes"
+ },
+ {
+  "id": "9480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "security at derailments and emergencies"
+ },
+ {
+  "id": "9481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security staff daily activities, training"
+ },
+ {
+  "id": "9482",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "references and work history interviews"
+ },
+ {
+  "id": "9484",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire and accident prevention programs"
+ },
+ {
+  "id": "7958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal attacks and cruelty reports"
+ },
+ {
+  "id": "7959",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stray or abused animals"
+ },
+ {
+  "id": "7960",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal injuries and malnutrition"
+ },
+ {
+  "id": "7961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "captured animals into shelter enclosures"
+ },
+ {
+  "id": "7962",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sick or injured animals euthanasia"
+ },
+ {
+  "id": "7963",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals' food, water, personal care"
+ },
+ {
+  "id": "7964",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pens, trucks, and equipment cleaning"
+ },
+ {
+  "id": "7965",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "animal treatment prosecutions and court evidence"
+ },
+ {
+  "id": "7966",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "public animal welfare and law education"
+ },
+ {
+  "id": "7967",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pet owners notified of impoundment"
+ },
+ {
+  "id": "7968",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "activity reports and impoundment files"
+ },
+ {
+  "id": "7969",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "animal-related warnings and citations"
+ },
+ {
+  "id": "7970",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public inquiries on animal control"
+ },
+ {
+  "id": "7971",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal licenses and housing establishments"
+ },
+ {
+  "id": "7972",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "unclaimed animals adoption"
+ },
+ {
+  "id": "7973",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "police dog handling techniques"
+ },
+ {
+  "id": "13095",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation reports and case summaries"
+ },
+ {
+  "id": "13096",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "databases and records on persons"
+ },
+ {
+  "id": "13097",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "suspect and crime information"
+ },
+ {
+  "id": "13099",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "paid private investigations"
+ },
+ {
+  "id": "13100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hearing and trial testimony"
+ },
+ {
+  "id": "13101",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "persons questioned for case evidence"
+ },
+ {
+  "id": "13102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "individuals' activities observed and filmed"
+ },
+ {
+  "id": "13103",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "suspects' locations alerts"
+ },
+ {
+  "id": "13104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "undercover posing as customers or employees"
+ },
+ {
+  "id": "13105",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company finances and embezzled funds"
+ },
+ {
+  "id": "13106",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fraudulent insurance claims and stolen funds"
+ },
+ {
+  "id": "13107",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "officials consulted on security problems"
+ },
+ {
+  "id": "13109",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash counts and sales transactions"
+ },
+ {
+  "id": "20758",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "individuals' background and pre-employment checks"
+ },
+ {
+  "id": "21145",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surveillance observation log"
+ },
+ {
+  "id": "21146",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surveillance equipment functioning checks"
+ },
+ {
+  "id": "21147",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "video surveillance footage"
+ },
+ {
+  "id": "4407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "casino operations irregularities and cheating"
+ },
+ {
+  "id": "4408",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "violations and suspicious behavior reports"
+ },
+ {
+  "id": "4409",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "gaming regulation and policy adherence"
+ },
+ {
+  "id": "4410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "security for management and customers"
+ },
+ {
+  "id": "4411",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "surveillance observers"
+ },
+ {
+  "id": "20894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building doors and gates"
+ },
+ {
+  "id": "20895",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "medical emergencies and first aid"
+ },
+ {
+  "id": "2131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "premises patrol for intrusion signs"
+ },
+ {
+  "id": "2132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "alarms and disturbances"
+ },
+ {
+  "id": "2133",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "entrance and departure of visitors"
+ },
+ {
+  "id": "2134",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily activity and irregularity reports"
+ },
+ {
+  "id": "2135",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency calls to police or fire"
+ },
+ {
+  "id": "2136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visitors, patrons, employees on premises"
+ },
+ {
+  "id": "2137",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "after-hours telephone calls"
+ },
+ {
+  "id": "2138",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "rule violators removed from premises"
+ },
+ {
+  "id": "2139",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "individuals screened for prohibited articles"
+ },
+ {
+  "id": "2140",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "individuals escorted or driven"
+ },
+ {
+  "id": "2141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "security systems and equipment"
+ },
+ {
+  "id": "2143",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "building air, heating, boiler controls"
+ },
+ {
+  "id": "11116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic gaps for pedestrians"
+ },
+ {
+  "id": "11117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pedestrians escorted across streets"
+ },
+ {
+  "id": "11118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle and pedestrian traffic"
+ },
+ {
+  "id": "11119",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "traffic and crossing rules for students"
+ },
+ {
+  "id": "11120",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "children's unsafe behavior to school"
+ },
+ {
+  "id": "11121",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "license numbers of violating vehicles"
+ },
+ {
+  "id": "11122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic movement with flags and signs"
+ },
+ {
+  "id": "11123",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "street sign locations in patrol area"
+ },
+ {
+  "id": "11124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "speeding vehicles stopped and warned"
+ },
+ {
+  "id": "11125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic signs and markers"
+ },
+ {
+  "id": "11126",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "traffic routing plans with superiors"
+ },
+ {
+  "id": "11127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drivers detoured around construction"
+ },
+ {
+  "id": "20129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pool water chemical levels"
+ },
+ {
+  "id": "5039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "distressed swimmers rescue"
+ },
+ {
+  "id": "5040",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency medical personnel contacted"
+ },
+ {
+  "id": "5041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recreational areas patrol"
+ },
+ {
+  "id": "5042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "injured persons first aid and CPR"
+ },
+ {
+  "id": "5043",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "skiing and swimming instruction safety"
+ },
+ {
+  "id": "5044",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "participants warned of hazards"
+ },
+ {
+  "id": "5045",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "weather, beach, treatment incident records"
+ },
+ {
+  "id": "5046",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lifts and recreational equipment condition"
+ },
+ {
+  "id": "5047",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff selection, training, supervision"
+ },
+ {
+  "id": "5048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recreational facility cleanliness"
+ },
+ {
+  "id": "5049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assigned areas observed for hazards"
+ },
+ {
+  "id": "5050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ski lift users' equipment use"
+ },
+ {
+  "id": "5051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater recovery units"
+ },
+ {
+  "id": "5052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "resort guest demonstrations"
+ }
+]

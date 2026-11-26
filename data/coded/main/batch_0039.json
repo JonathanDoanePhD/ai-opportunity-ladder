@@ -1,0 +1,1418 @@
+[
+ {
+  "id": "17019",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "travel to student locations"
+ },
+ {
+  "id": "17020",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tutoring appointment scheduling"
+ },
+ {
+  "id": "17021",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "learning materials research"
+ },
+ {
+  "id": "17022",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "small group academic sessions"
+ },
+ {
+  "id": "17023",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "tutor professional training"
+ },
+ {
+  "id": "17024",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical tutoring space setup"
+ },
+ {
+  "id": "17025",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student performance in academic settings"
+ },
+ {
+  "id": "17026",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "reviewing class material with students"
+ },
+ {
+  "id": "17027",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "encouraging feedback to students"
+ },
+ {
+  "id": "17028",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "tutoring lesson plans"
+ },
+ {
+  "id": "17029",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student assessment progress records"
+ },
+ {
+  "id": "17030",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student intervention and tutoring plans"
+ },
+ {
+  "id": "17031",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "handouts study materials quizzes"
+ },
+ {
+  "id": "17032",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student progress reports"
+ },
+ {
+  "id": "17033",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student needs planning with stakeholders"
+ },
+ {
+  "id": "17034",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student progress during sessions"
+ },
+ {
+  "id": "17035",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic assessments scoring"
+ },
+ {
+  "id": "17036",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "study and test-taking skills"
+ },
+ {
+  "id": "17037",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "private instruction for students"
+ },
+ {
+  "id": "7630",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "archive databases and electronic storage"
+ },
+ {
+  "id": "7631",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "archival records classification"
+ },
+ {
+  "id": "7632",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "historical documents authenticity"
+ },
+ {
+  "id": "7633",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "archival reference assistance for users"
+ },
+ {
+  "id": "7634",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers arranging and cataloguing collections"
+ },
+ {
+  "id": "7635",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "archival record descriptions"
+ },
+ {
+  "id": "7636",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "copying and preserving records"
+ },
+ {
+  "id": "7637",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public access policy guidelines"
+ },
+ {
+  "id": "7638",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "acquisition and display of materials"
+ },
+ {
+  "id": "7639",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "origins of archival materials"
+ },
+ {
+  "id": "7640",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "history research for collection retention"
+ },
+ {
+  "id": "7641",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "archive outreach tours workshops"
+ },
+ {
+  "id": "7642",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "documents for publication and display"
+ },
+ {
+  "id": "1644",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "museum registration and catalog records"
+ },
+ {
+  "id": "1645",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "holdings information for staff and public"
+ },
+ {
+  "id": "1646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "premises repair and pest inspection"
+ },
+ {
+  "id": "1647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "curatorial staff training supervision"
+ },
+ {
+  "id": "1648",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collection purchase and loan negotiation"
+ },
+ {
+  "id": "1649",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "special research projects"
+ },
+ {
+  "id": "1651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "board policy budget operations"
+ },
+ {
+  "id": "1652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "promotion and fundraising at events"
+ },
+ {
+  "id": "1653",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event scheduling and logistics"
+ },
+ {
+  "id": "1654",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grants articles reports publicity"
+ },
+ {
+  "id": "1655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing acquisitions authenticity and value"
+ },
+ {
+  "id": "1656",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance for loaned objects"
+ },
+ {
+  "id": "1657",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "reproduction specifications"
+ },
+ {
+  "id": "18641",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "collection acquisition and exhibition planning"
+ },
+ {
+  "id": "18642",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "tours workshops for visitors"
+ },
+ {
+  "id": "18643",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "staff handling art objects"
+ },
+ {
+  "id": "18644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographing objects for documentation"
+ },
+ {
+  "id": "18645",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "museum tours and educational courses"
+ },
+ {
+  "id": "18646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artwork courier delivery"
+ },
+ {
+  "id": "21065",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "museum collection database entry"
+ },
+ {
+  "id": "3806",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing artifacts for exhibition"
+ },
+ {
+  "id": "3807",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "exhibit installation coordination"
+ },
+ {
+  "id": "3808",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "object repair needs and methods"
+ },
+ {
+  "id": "3809",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning artifacts with solvents"
+ },
+ {
+  "id": "3810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packing artifacts for storage"
+ },
+ {
+  "id": "3811",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "volunteer supervision"
+ },
+ {
+  "id": "3813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specializing in object material types"
+ },
+ {
+  "id": "3814",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "preservation procedure recommendations"
+ },
+ {
+  "id": "3815",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "artifact numbering and inventory control"
+ },
+ {
+  "id": "3817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "on-site field work"
+ },
+ {
+  "id": "3818",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artifact restoration and repair"
+ },
+ {
+  "id": "3819",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conservation lab condition reports"
+ },
+ {
+  "id": "3820",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "object testing and documentation study"
+ },
+ {
+  "id": "3822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conservation requirement tests"
+ },
+ {
+  "id": "3823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "restoration method research"
+ },
+ {
+  "id": "3824",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "notifying superior about experts"
+ },
+ {
+  "id": "3825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "restoration cost estimates"
+ },
+ {
+  "id": "3826",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "preserving objects with plaster resin"
+ },
+ {
+  "id": "3827",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building steps scaffolds walkways"
+ },
+ {
+  "id": "22407",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "library book checkout"
+ },
+ {
+  "id": "22408",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching patrons computer skills"
+ },
+ {
+  "id": "22409",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "library materials selection and ordering"
+ },
+ {
+  "id": "22410",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "circulation records and inventory"
+ },
+ {
+  "id": "22411",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patron reference questions"
+ },
+ {
+  "id": "22412",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patron information requests"
+ },
+ {
+  "id": "22413",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "library operations budget personnel"
+ },
+ {
+  "id": "22414",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "information literacy classes"
+ },
+ {
+  "id": "22415",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "library programs and collection decisions"
+ },
+ {
+  "id": "22416",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "library materials cataloging"
+ },
+ {
+  "id": "22417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints resolution"
+ },
+ {
+  "id": "22418",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "library facilities and policies explanation"
+ },
+ {
+  "id": "22419",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client-centered library programs"
+ },
+ {
+  "id": "22420",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "unusual information requests"
+ },
+ {
+  "id": "22421",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audio-visual equipment problems"
+ },
+ {
+  "id": "22422",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "library policies and procedures"
+ },
+ {
+  "id": "22423",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "library staff direction and training"
+ },
+ {
+  "id": "22424",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "outdated library materials weeding"
+ },
+ {
+  "id": "22425",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "databases bibliographies web pages tutorials"
+ },
+ {
+  "id": "22426",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own professional development"
+ },
+ {
+  "id": "22427",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "subject reading lists"
+ },
+ {
+  "id": "22428",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "course materials with teachers"
+ },
+ {
+  "id": "22429",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendor evaluation contracts orders"
+ },
+ {
+  "id": "22430",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "interlibrary loan arrangements"
+ },
+ {
+  "id": "22431",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "committee representation"
+ },
+ {
+  "id": "22432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audio-visual equipment for events"
+ },
+ {
+  "id": "22433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "display materials arrangement"
+ },
+ {
+  "id": "22434",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "audio-visual equipment inventory"
+ },
+ {
+  "id": "22435",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "computers and media hardware software"
+ },
+ {
+  "id": "22436",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "faculty training on software equipment"
+ },
+ {
+  "id": "1688",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "library material circulation"
+ },
+ {
+  "id": "1689",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patron records data entry"
+ },
+ {
+  "id": "1690",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "helping students locate materials"
+ },
+ {
+  "id": "1693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff and volunteer training scheduling"
+ },
+ {
+  "id": "1695",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reference searches in databases"
+ },
+ {
+  "id": "1696",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivering library items by hand"
+ },
+ {
+  "id": "1697",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "disruptive patrons in library"
+ },
+ {
+  "id": "1698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "interlibrary loan processing"
+ },
+ {
+  "id": "1699",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing materials for collection"
+ },
+ {
+  "id": "1700",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "central database retrieval to library"
+ },
+ {
+  "id": "1701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "periodicals and reference materials"
+ },
+ {
+  "id": "1702",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "circulation and equipment records"
+ },
+ {
+  "id": "1703",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "fines and fine complaints"
+ },
+ {
+  "id": "1704",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "borrower ID cards"
+ },
+ {
+  "id": "1705",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bibliographic data verification"
+ },
+ {
+  "id": "1706",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "classification numbers and headings"
+ },
+ {
+  "id": "1707",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "overdue and lost book notices"
+ },
+ {
+  "id": "1710",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audio-visual equipment operation"
+ },
+ {
+  "id": "1714",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "book content summaries"
+ },
+ {
+  "id": "1717",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "library promotional posters displays"
+ },
+ {
+  "id": "1718",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bibliographies and abstracts"
+ },
+ {
+  "id": "18510",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patrons finding resources and technical help"
+ },
+ {
+  "id": "18511",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "routine reference inquiries"
+ },
+ {
+  "id": "18512",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sorting and shelving library materials"
+ },
+ {
+  "id": "18513",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "library equipment troubleshooting"
+ },
+ {
+  "id": "18514",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ordering library materials payments"
+ },
+ {
+  "id": "18515",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged library materials repair"
+ },
+ {
+  "id": "18516",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "missing periodical claims"
+ },
+ {
+  "id": "18517",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "children and community programs"
+ },
+ {
+  "id": "18518",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "library usage statistical reports"
+ },
+ {
+  "id": "20989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "library mail and packages"
+ },
+ {
+  "id": "10974",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "producer production problems"
+ },
+ {
+  "id": "10975",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classes on farming and home management"
+ },
+ {
+  "id": "10976",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "farmers livestock and finance advice"
+ },
+ {
+  "id": "10977",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "farmer information requests"
+ },
+ {
+  "id": "10978",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "educational leaflets and pamphlets"
+ },
+ {
+  "id": "10979",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "community program needs data"
+ },
+ {
+  "id": "10980",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service and advice records"
+ },
+ {
+  "id": "10981",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "farmer visit scheduling"
+ },
+ {
+  "id": "10982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community activities and 4-H clubs"
+ },
+ {
+  "id": "10983",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "family home management advice"
+ },
+ {
+  "id": "10984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "field demonstrations of techniques"
+ },
+ {
+  "id": "10985",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "agricultural research data reports"
+ },
+ {
+  "id": "10986",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advocacy for farmers groups"
+ },
+ {
+  "id": "10987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "farm products supplies and sampling"
+ },
+ {
+  "id": "10988",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production targets monitoring"
+ },
+ {
+  "id": "22437",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructional content for learner types"
+ },
+ {
+  "id": "22438",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instructional performance data analysis"
+ },
+ {
+  "id": "22439",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructional effectiveness assessment"
+ },
+ {
+  "id": "22440",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "learning needs assessments"
+ },
+ {
+  "id": "22441",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "learning objectives definition"
+ },
+ {
+  "id": "22442",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instructional aids design"
+ },
+ {
+  "id": "22443",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web-based learning products"
+ },
+ {
+  "id": "22444",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lesson plans handouts exams"
+ },
+ {
+  "id": "22445",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course documentation and manuals"
+ },
+ {
+  "id": "22446",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instruction effectiveness measurement tools"
+ },
+ {
+  "id": "22447",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instructional materials editing"
+ },
+ {
+  "id": "22448",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subject-matter expert interviews"
+ },
+ {
+  "id": "22449",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "course design recommendations presentation"
+ },
+ {
+  "id": "22450",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "curriculum design analytical support"
+ },
+ {
+  "id": "22451",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curriculum change recommendations"
+ },
+ {
+  "id": "22452",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emerging instructional technology research"
+ },
+ {
+  "id": "22453",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teaching instructors technology use"
+ },
+ {
+  "id": "6863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student welfare workshops and committees"
+ },
+ {
+  "id": "6864",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teacher training programs"
+ },
+ {
+  "id": "6865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff curriculum advice"
+ },
+ {
+  "id": "6866",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructional materials purchasing"
+ },
+ {
+  "id": "6867",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "education code enforcement"
+ },
+ {
+  "id": "6870",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and methods recommendations"
+ },
+ {
+  "id": "6871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "teaching staff observation"
+ },
+ {
+  "id": "6873",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grant proposals budgets policies"
+ },
+ {
+  "id": "6875",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "educational program content updates"
+ },
+ {
+  "id": "6876",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public audience program support"
+ },
+ {
+  "id": "6877",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advising and teaching students"
+ },
+ {
+  "id": "6878",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "education policy manuals and reports"
+ },
+ {
+  "id": "6881",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "curriculum library workers coordination"
+ }
+]

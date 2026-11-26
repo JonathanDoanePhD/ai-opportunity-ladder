@@ -1,0 +1,1538 @@
+[
+ {
+  "id": "18167",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lean improvement of production processes"
+ },
+ {
+  "id": "18168",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment and workspace layout"
+ },
+ {
+  "id": "18170",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production schedules and capabilities information"
+ },
+ {
+  "id": "18172",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manufacturing equipment installation and faults"
+ },
+ {
+  "id": "18174",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "costs and times for new designs"
+ },
+ {
+  "id": "18175",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manufactured products against quality specs"
+ },
+ {
+  "id": "18177",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "operational bottlenecks and material variances"
+ },
+ {
+  "id": "18178",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new process documentation"
+ },
+ {
+  "id": "18179",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and parts purchasing"
+ },
+ {
+  "id": "18180",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product designs for manufacturability"
+ },
+ {
+  "id": "18181",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product design and process problems"
+ },
+ {
+  "id": "18182",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manufacturing performance trend reports"
+ },
+ {
+  "id": "18183",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "technical support for manufacturing"
+ },
+ {
+  "id": "18184",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional learning about manufacturing developments"
+ },
+ {
+  "id": "18185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technicians and engineers supervised"
+ },
+ {
+  "id": "18186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production staff method training"
+ },
+ {
+  "id": "19649",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial impact of sustainable manufacturing"
+ },
+ {
+  "id": "19650",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sustainable manufacturing technology development"
+ },
+ {
+  "id": "19651",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental sustainability of manufacturing processes"
+ },
+ {
+  "id": "19652",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product packaging redesign"
+ },
+ {
+  "id": "20960",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "process and product improvement opportunities"
+ },
+ {
+  "id": "20961",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new manufacturing methods in operations"
+ },
+ {
+  "id": "20962",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "failure root causes via statistics"
+ },
+ {
+  "id": "20963",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tests of products and processes"
+ },
+ {
+  "id": "21887",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ship hull and superstructure design"
+ },
+ {
+  "id": "21888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "engineers and crew supervised"
+ },
+ {
+  "id": "21889",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "craft characteristics from design proposals"
+ },
+ {
+  "id": "21890",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ship regulatory compliance monitoring"
+ },
+ {
+  "id": "21891",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype construction and hull curves"
+ },
+ {
+  "id": "21892",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "craft performance during sea trials"
+ },
+ {
+  "id": "21893",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plans, estimates, and contract specifications"
+ },
+ {
+  "id": "21894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ship control and alarm systems"
+ },
+ {
+  "id": "21895",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "craft interior layout design"
+ },
+ {
+  "id": "21896",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marine equipment acceptance testing"
+ },
+ {
+  "id": "21897",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "captains and shore staff liaison"
+ },
+ {
+  "id": "21898",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marine machinery performance tests"
+ },
+ {
+  "id": "21899",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marine machinery inspection and work requests"
+ },
+ {
+  "id": "21900",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layouts, drawings, and schematics"
+ },
+ {
+  "id": "21901",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery tests for standards compliance"
+ },
+ {
+  "id": "21902",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering department activity records"
+ },
+ {
+  "id": "21903",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulators coordination on repairs"
+ },
+ {
+  "id": "21904",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marine apparatus testing and repair"
+ },
+ {
+  "id": "21905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical reports for management"
+ },
+ {
+  "id": "21906",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marine repair materials procurement"
+ },
+ {
+  "id": "21907",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contractor and client reports"
+ },
+ {
+  "id": "21908",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "marine machinery repair coordination"
+ },
+ {
+  "id": "21909",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "researchers consulted on design problems"
+ },
+ {
+  "id": "21910",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "studies for marine product designs"
+ },
+ {
+  "id": "21911",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test conditions and sequences"
+ },
+ {
+  "id": "21912",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work requests versus past costs"
+ },
+ {
+  "id": "21913",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product proposal feasibility data"
+ },
+ {
+  "id": "21914",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine overhaul and servicing schedules"
+ },
+ {
+  "id": "21915",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ship stability and structural analyses"
+ },
+ {
+  "id": "21916",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machinery room equipment arrangement"
+ },
+ {
+  "id": "21167",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical presentations at conferences"
+ },
+ {
+  "id": "9001",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product failure data and lab results"
+ },
+ {
+  "id": "9002",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material performance and deterioration"
+ },
+ {
+  "id": "9003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technologists and engineers supervised"
+ },
+ {
+  "id": "9004",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "testing and processing control procedures"
+ },
+ {
+  "id": "9005",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications and economics of designs"
+ },
+ {
+  "id": "9006",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw and finished material quality tests"
+ },
+ {
+  "id": "9007",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "proposals, budgets, and labor costs"
+ },
+ {
+  "id": "9008",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "multi-field engineering problems"
+ },
+ {
+  "id": "9009",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new project planning and evaluation"
+ },
+ {
+  "id": "9010",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material selection for product plans"
+ },
+ {
+  "id": "9011",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "processing plant and equipment design"
+ },
+ {
+  "id": "9012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal alloy properties via treatments"
+ },
+ {
+  "id": "9013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical staff guidance on materials"
+ },
+ {
+  "id": "9014",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "laboratory operations and fabrication procedures"
+ },
+ {
+  "id": "9015",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fabricating and joining methods"
+ },
+ {
+  "id": "9016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer training on material products"
+ },
+ {
+  "id": "9017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "production and testing processes supervised"
+ },
+ {
+  "id": "9018",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical articles for publications"
+ },
+ {
+  "id": "9019",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer replication of material characteristics"
+ },
+ {
+  "id": "9020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "college students taught materials"
+ },
+ {
+  "id": "1411",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and technical drawings"
+ },
+ {
+  "id": "1412",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "colleagues consulted on procedures and malfunctions"
+ },
+ {
+  "id": "1413",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer design proposals and specifications"
+ },
+ {
+  "id": "1418",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design engineer feedback on customer needs"
+ },
+ {
+  "id": "1419",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "installation and operation of equipment"
+ },
+ {
+  "id": "1420",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment feasibility and performance research"
+ },
+ {
+  "id": "1421",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design changes to fix malfunctions"
+ },
+ {
+  "id": "1423",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "production methods and fabrication monitoring"
+ },
+ {
+  "id": "1427",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance and safety procedures"
+ },
+ {
+  "id": "1429",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "performance requirements for projects"
+ },
+ {
+  "id": "1430",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering principles for emerging fields"
+ },
+ {
+  "id": "1431",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "test apparatus and procedures design"
+ },
+ {
+  "id": "19627",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "building energy loss calculations"
+ },
+ {
+  "id": "19628",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "integrated mechanical energy-efficient systems"
+ },
+ {
+  "id": "19629",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "renewable energy equipment installation and repair"
+ },
+ {
+  "id": "19630",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical design energy performance"
+ },
+ {
+  "id": "19631",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "utility and energy service recommendations"
+ },
+ {
+  "id": "19632",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cogeneration equipment selection and installation"
+ },
+ {
+  "id": "20733",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mechanical products and systems work"
+ },
+ {
+  "id": "20734",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment failures diagnosis"
+ },
+ {
+  "id": "20735",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alternate design models and feasibility"
+ },
+ {
+  "id": "20736",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system components specification"
+ },
+ {
+  "id": "20737",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "structural drafting of products"
+ },
+ {
+  "id": "20738",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project cost estimates and bids"
+ },
+ {
+  "id": "20739",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production workers and engineers supervised"
+ },
+ {
+  "id": "20740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new business solicitation"
+ },
+ {
+  "id": "20741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer technical service"
+ },
+ {
+  "id": "20742",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial process and equipment placement"
+ },
+ {
+  "id": "16398",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical reports and proposals"
+ },
+ {
+  "id": "16399",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new technology awareness for fuel cells"
+ },
+ {
+  "id": "16403",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fuel cell design validation"
+ },
+ {
+  "id": "16405",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell system simulations"
+ },
+ {
+  "id": "16406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell system design changes"
+ },
+ {
+  "id": "16407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fuel cell technical consultation"
+ },
+ {
+  "id": "16408",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel cell material experiments"
+ },
+ {
+  "id": "16410",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electric drive vehicle integration"
+ },
+ {
+  "id": "16411",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell vehicle integration challenges"
+ },
+ {
+  "id": "16412",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel cell prototype components"
+ },
+ {
+  "id": "16413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel cell materials and test equipment"
+ },
+ {
+  "id": "16414",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel cell post-service failure analysis"
+ },
+ {
+  "id": "16415",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell testing programs"
+ },
+ {
+  "id": "16417",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fuel cell component performance maps"
+ },
+ {
+  "id": "16418",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell efficiency and power calculations"
+ },
+ {
+  "id": "16419",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell test data statistics"
+ },
+ {
+  "id": "16420",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell system and component design"
+ },
+ {
+  "id": "19945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test stations and data acquisition setup"
+ },
+ {
+  "id": "19946",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fuel cell cost reduction projects"
+ },
+ {
+  "id": "19947",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineering and test schedules coordination"
+ },
+ {
+  "id": "19948",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "release of fuel cell parts"
+ },
+ {
+  "id": "19949",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell battery hybrid architecture"
+ },
+ {
+  "id": "19950",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel cell testing with analytical instruments"
+ },
+ {
+  "id": "19951",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell material specifications"
+ },
+ {
+  "id": "19952",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hydrogen storage systems"
+ },
+ {
+  "id": "19953",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel cell design power, cost, impact"
+ },
+ {
+  "id": "16421",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "automotive technology awareness"
+ },
+ {
+  "id": "16422",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production and quality control standards"
+ },
+ {
+  "id": "16423",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical and project status reports"
+ },
+ {
+  "id": "16424",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operating methods and procedures"
+ },
+ {
+  "id": "16425",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering documentation"
+ },
+ {
+  "id": "16426",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new automotive engineering concepts"
+ },
+ {
+  "id": "16427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production activities coordination across units"
+ },
+ {
+  "id": "16428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineers and support staff direction"
+ },
+ {
+  "id": "16429",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "failure and root cause analyses"
+ },
+ {
+  "id": "16430",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "control feature requirements"
+ },
+ {
+  "id": "16431",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications and costs for design concepts"
+ },
+ {
+  "id": "16432",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "calibration and test methodologies"
+ },
+ {
+  "id": "16433",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "automotive design reviews"
+ },
+ {
+  "id": "16434",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vehicle systems and control software calibration"
+ },
+ {
+  "id": "16435",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "models for algorithm verification testing"
+ },
+ {
+  "id": "16436",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "designs altered for performance"
+ },
+ {
+  "id": "16437",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "automobile system design analysis"
+ },
+ {
+  "id": "16438",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "system-level vehicle testing"
+ },
+ {
+  "id": "16439",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle control systems and algorithms"
+ },
+ {
+  "id": "19633",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle component design alternatives"
+ },
+ {
+  "id": "19634",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle recyclability and renewable materials"
+ },
+ {
+  "id": "19635",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lightweight vehicle design"
+ },
+ {
+  "id": "19636",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alternative fuel vehicle specifications"
+ },
+ {
+  "id": "19637",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computerized automotive applications research"
+ },
+ {
+  "id": "19638",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green automotive technologies"
+ },
+ {
+  "id": "18610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "mine personnel supervised and trained"
+ },
+ {
+  "id": "3561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mining areas safety inspection"
+ },
+ {
+  "id": "3562",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mining operations planning and location"
+ },
+ {
+  "id": "3563",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "deposit maps and drilling data"
+ },
+ {
+  "id": "3565",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mine schedules, reports, and cost estimates"
+ },
+ {
+  "id": "3566",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mine production rate data"
+ },
+ {
+  "id": "3567",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mine, facility, and equipment development"
+ },
+ {
+  "id": "3568",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mineral extraction method selection"
+ },
+ {
+  "id": "3569",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mining technical reports"
+ },
+ {
+  "id": "3570",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "mine safety programs and rescue equipment"
+ },
+ {
+  "id": "3571",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mine air toxic gases"
+ },
+ {
+  "id": "3572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mining computer applications"
+ },
+ {
+  "id": "3573",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ore materials-handling methods"
+ },
+ {
+  "id": "3574",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "land reclamation and pollution solutions"
+ },
+ {
+  "id": "3575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "mine construction operations supervised"
+ },
+ {
+  "id": "3576",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data for new mining processes"
+ },
+ {
+  "id": "3577",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mining experiments to test findings"
+ },
+ {
+  "id": "3578",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mining equipment and machinery design"
+ },
+ {
+  "id": "19639",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear environmental impact studies"
+ },
+ {
+  "id": "19640",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear fuel cycle waste models"
+ },
+ {
+  "id": "19641",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radiation site remediation plans"
+ },
+ {
+  "id": "19642",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nuclear plant environmental compliance"
+ },
+ {
+  "id": "19643",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental impact statements"
+ },
+ {
+  "id": "20956",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test result technical reports"
+ },
+ {
+  "id": "20957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear research projects and models"
+ },
+ {
+  "id": "20958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "scientists consulted on experiment parameters"
+ },
+ {
+  "id": "20959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "construction proposals with vendors and boards"
+ },
+ {
+  "id": "5379",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "accident data for preventive design"
+ },
+ {
+  "id": "5380",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "nuclear facility safety violations monitoring"
+ },
+ {
+  "id": "5381",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear field developments awareness"
+ },
+ {
+  "id": "5382",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nuclear material usage experiments"
+ },
+ {
+  "id": "5383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nuclear reactor design and construction"
+ },
+ {
+  "id": "5384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear equipment and shielding design"
+ },
+ {
+  "id": "5385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency corrective actions and shutdowns"
+ },
+ {
+  "id": "5386",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nuclear handling preventive measures"
+ },
+ {
+  "id": "5387",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear plant operational instructions"
+ },
+ {
+  "id": "5388",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nuclear fuel and machinery performance tests"
+ },
+ {
+  "id": "5389",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nuclear plant operations directed"
+ }
+]

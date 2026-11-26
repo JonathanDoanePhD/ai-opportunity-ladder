@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "21063",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student IEP documents"
+ },
+ {
+  "id": "21064",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coordination with co-teachers on student support"
+ },
+ {
+  "id": "6744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student behavior rules and classroom order"
+ },
+ {
+  "id": "6745",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student records and required reports"
+ },
+ {
+  "id": "6746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom materials and room setup"
+ },
+ {
+  "id": "6747",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "IEP meetings with parents and professionals"
+ },
+ {
+  "id": "6748",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instruction strategies for disabled students"
+ },
+ {
+  "id": "6749",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student social behavior teaching"
+ },
+ {
+  "id": "6750",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "general curriculum modified for disabilities"
+ },
+ {
+  "id": "6751",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sensory and cognitive skill instruction"
+ },
+ {
+  "id": "6752",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent conferences on student problems"
+ },
+ {
+  "id": "6753",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classroom lectures and discussions"
+ },
+ {
+  "id": "6754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "placing students into mainstream classes"
+ },
+ {
+  "id": "6755",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent meetings on student progress"
+ },
+ {
+  "id": "6756",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student tests and assignments"
+ },
+ {
+  "id": "6757",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling students on adjustment problems"
+ },
+ {
+  "id": "6758",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student performance and behavior observation"
+ },
+ {
+  "id": "6759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson and project objectives"
+ },
+ {
+  "id": "6760",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student independence and self-advocacy skills"
+ },
+ {
+  "id": "6761",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hands-on instructional activities"
+ },
+ {
+  "id": "6762",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class preparation and written plans"
+ },
+ {
+  "id": "6763",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teacher assistant adherence to program requirements"
+ },
+ {
+  "id": "6764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "standardized test administration and interpretation"
+ },
+ {
+  "id": "6765",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course objectives and outlines"
+ },
+ {
+  "id": "6766",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent guidance on community resources"
+ },
+ {
+  "id": "6767",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson planning with staff"
+ },
+ {
+  "id": "6768",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teacher assistants and volunteer assignments"
+ },
+ {
+  "id": "6769",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student equipment safety and care"
+ },
+ {
+  "id": "6770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom materials and student work displays"
+ },
+ {
+  "id": "6771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computers and audio-visual aids in lessons"
+ },
+ {
+  "id": "6772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional meetings and training workshops"
+ },
+ {
+  "id": "6773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student games and recreational activities"
+ },
+ {
+  "id": "6774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hall, cafeteria and bus supervision"
+ },
+ {
+  "id": "6775",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff meetings and committees"
+ },
+ {
+  "id": "6776",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "class projects and field trips"
+ },
+ {
+  "id": "6777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom supplies ordering and inventory"
+ },
+ {
+  "id": "6778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student daily living skills"
+ },
+ {
+  "id": "6780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assistive devices and facility access"
+ },
+ {
+  "id": "6781",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "vocational instruction for students"
+ },
+ {
+  "id": "6782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "tutoring students with sensory impairments"
+ },
+ {
+  "id": "6784",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student records and required reports"
+ },
+ {
+  "id": "6785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student social behavior teaching"
+ },
+ {
+  "id": "6786",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom materials and room setup"
+ },
+ {
+  "id": "6787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student behavior rules and classroom order"
+ },
+ {
+  "id": "6788",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "IEP meetings with parents and professionals"
+ },
+ {
+  "id": "6789",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classroom lectures and discussions"
+ },
+ {
+  "id": "6790",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sensory and cognitive skill instruction"
+ },
+ {
+  "id": "6791",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hands-on instructional activities"
+ },
+ {
+  "id": "6792",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student independence and self-advocacy skills"
+ },
+ {
+  "id": "6793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student motivation and perseverance"
+ },
+ {
+  "id": "6794",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson and project objectives"
+ },
+ {
+  "id": "6795",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instruction strategies for disabled students"
+ },
+ {
+  "id": "6796",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "general curriculum modified for disabilities"
+ },
+ {
+  "id": "6797",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meetings with professionals about students"
+ },
+ {
+  "id": "6798",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent conferences on student problems"
+ },
+ {
+  "id": "6799",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent meetings on student progress"
+ },
+ {
+  "id": "6800",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling students on adjustment problems"
+ },
+ {
+  "id": "6801",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "placing students into mainstream classes"
+ },
+ {
+  "id": "6802",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student performance and behavior observation"
+ },
+ {
+  "id": "6803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teacher assistant adherence to program requirements"
+ },
+ {
+  "id": "6804",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student tests and assignments"
+ },
+ {
+  "id": "6805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student daily living skills"
+ },
+ {
+  "id": "6806",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent guidance on community resources"
+ },
+ {
+  "id": "6807",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "vocational instruction for students"
+ },
+ {
+  "id": "6808",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course objectives and outlines"
+ },
+ {
+  "id": "6809",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson planning with staff"
+ },
+ {
+  "id": "6810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student equipment safety and care"
+ },
+ {
+  "id": "6811",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computers and audio-visual aids in lessons"
+ },
+ {
+  "id": "6812",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "standardized test administration and interpretation"
+ },
+ {
+  "id": "6813",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "secondary school program development with colleagues"
+ },
+ {
+  "id": "6814",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class preparation and written plans"
+ },
+ {
+  "id": "6815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional meetings and training workshops"
+ },
+ {
+  "id": "6816",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "class projects and field trips"
+ },
+ {
+  "id": "6817",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff meetings and committees"
+ },
+ {
+  "id": "6818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom supplies ordering and inventory"
+ },
+ {
+  "id": "6819",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hall, cafeteria and bus supervision"
+ },
+ {
+  "id": "6820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assistive devices and facility access"
+ },
+ {
+  "id": "6821",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "tutoring students with sensory impairments"
+ },
+ {
+  "id": "6822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "Braille and sign language classroom materials"
+ },
+ {
+  "id": "6823",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "clubs and extracurricular student activities"
+ },
+ {
+  "id": "17000",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "adapted PE program regulatory compliance"
+ },
+ {
+  "id": "17001",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physical education equipment orders"
+ },
+ {
+  "id": "17002",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student performance and development reports"
+ },
+ {
+  "id": "17003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "in-service training and workshops"
+ },
+ {
+  "id": "17004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "IEPs for disabled students"
+ },
+ {
+  "id": "17005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student encouragement through positive feedback"
+ },
+ {
+  "id": "17006",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "adapted PE instruction for students"
+ },
+ {
+  "id": "17007",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson plans following student IEPs"
+ },
+ {
+  "id": "17008",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student attendance and progress records"
+ },
+ {
+  "id": "17009",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "instructional equipment inventory"
+ },
+ {
+  "id": "17010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student motor needs evaluation"
+ },
+ {
+  "id": "17011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student behavior standards and safety"
+ },
+ {
+  "id": "17012",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "progress reports to parents and teachers"
+ },
+ {
+  "id": "17013",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student screening and program placement"
+ },
+ {
+  "id": "17014",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student physical progress assessment"
+ },
+ {
+  "id": "17015",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advising staff on student accommodations"
+ },
+ {
+  "id": "17016",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "instruction adapted to student age and skill"
+ },
+ {
+  "id": "17017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "adapted PE services for disabled students"
+ },
+ {
+  "id": "17018",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "fitness and motor skill instruction"
+ },
+ {
+  "id": "21186",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "inclusive programs with educational staff"
+ },
+ {
+  "id": "6824",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "teaching methods and materials for varied learners"
+ },
+ {
+  "id": "6825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student work evaluation and feedback"
+ },
+ {
+  "id": "6826",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instruction and work time activities"
+ },
+ {
+  "id": "6827",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individual and group instruction"
+ },
+ {
+  "id": "6828",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student records"
+ },
+ {
+  "id": "6829",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom materials and room setup"
+ },
+ {
+  "id": "6830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson and project objectives"
+ },
+ {
+  "id": "6831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classes teaching language, life, work skills"
+ },
+ {
+  "id": "6832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student motivation toward further education"
+ },
+ {
+  "id": "6833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student behavior rules and order"
+ },
+ {
+  "id": "6834",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "GED exam guidance and preparation"
+ },
+ {
+  "id": "6835",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "class work and homework grading"
+ },
+ {
+  "id": "6836",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student abilities and interests observation"
+ },
+ {
+  "id": "6837",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new student registration and assessment"
+ },
+ {
+  "id": "6838",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "remedial programs for struggling students"
+ },
+ {
+  "id": "6839",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student tests and grades"
+ },
+ {
+  "id": "6840",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computers and audio-visual aids in lessons"
+ },
+ {
+  "id": "6841",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course objectives and outlines"
+ },
+ {
+  "id": "6842",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling students on academic problems"
+ },
+ {
+  "id": "6843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student administration policies enforcement"
+ },
+ {
+  "id": "6844",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "course content and evaluation review"
+ },
+ {
+  "id": "6845",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson planning with staff"
+ },
+ {
+  "id": "6846",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meetings with professionals about students"
+ },
+ {
+  "id": "6847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional meetings and workshops"
+ },
+ {
+  "id": "6848",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class preparation and written plans"
+ },
+ {
+  "id": "6849",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student and activity reports"
+ },
+ {
+  "id": "6850",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "course books and supplies ordering"
+ },
+ {
+  "id": "6851",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instructional program development with colleagues"
+ },
+ {
+  "id": "6852",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "publicity and student recruitment"
+ },
+ {
+  "id": "6853",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff meetings and committees"
+ },
+ {
+  "id": "6854",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "class projects and field trips"
+ },
+ {
+  "id": "6855",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student internships and job placement advice"
+ },
+ {
+  "id": "6856",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class times and attendance"
+ },
+ {
+  "id": "6858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assistive devices and facility access"
+ },
+ {
+  "id": "6859",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "tutors and literacy volunteers"
+ },
+ {
+  "id": "6860",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "government and community group coordination"
+ },
+ {
+  "id": "6861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "other instructors' performance"
+ },
+ {
+  "id": "8664",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "teaching methods and materials for varied learners"
+ },
+ {
+  "id": "8665",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "hands-on enrichment classes and workshops"
+ },
+ {
+  "id": "8666",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student performance monitoring and suggestions"
+ },
+ {
+  "id": "8667",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student abilities and interests observation"
+ },
+ {
+  "id": "8668",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "individual and group instruction"
+ },
+ {
+  "id": "8669",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson and project objectives"
+ },
+ {
+  "id": "8670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student equipment safety and care"
+ },
+ {
+  "id": "8671",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student motivation and perseverance"
+ },
+ {
+  "id": "8672",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom materials and room setup"
+ },
+ {
+  "id": "8673",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student policies and rules enforcement"
+ },
+ {
+  "id": "8674",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "instruction and hands-on activities"
+ },
+ {
+  "id": "8675",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program objectives, outlines, lesson plans"
+ },
+ {
+  "id": "8676",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student records"
+ },
+ {
+  "id": "8677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "publicity and student recruitment"
+ },
+ {
+  "id": "8678",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "class projects and field trips"
+ },
+ {
+  "id": "8679",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional meetings and workshops"
+ },
+ {
+  "id": "8680",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructor meetings about students"
+ },
+ {
+  "id": "8681",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lesson planning with colleagues"
+ },
+ {
+  "id": "8682",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff meetings and committees"
+ },
+ {
+  "id": "8683",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student tests and grades"
+ },
+ {
+  "id": "8684",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class times and attendance"
+ },
+ {
+  "id": "8685",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "class work and homework grading"
+ },
+ {
+  "id": "8686",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "remedial programs for struggling students"
+ },
+ {
+  "id": "8687",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "course content and evaluation review"
+ },
+ {
+  "id": "8688",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent meetings on child progress"
+ },
+ {
+  "id": "8689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student games and recreational activities"
+ },
+ {
+  "id": "8690",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computers and audio-visual aids in lessons"
+ },
+ {
+  "id": "8691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "other instructors' performance"
+ },
+ {
+  "id": "8692",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "course books and supplies ordering"
+ },
+ {
+  "id": "8693",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instructional articles on assigned subjects"
+ },
+ {
+  "id": "22389",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student questions in class"
+ },
+ {
+  "id": "22390",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students boarding and exiting buses"
+ },
+ {
+  "id": "22391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional meetings and workshops"
+ },
+ {
+  "id": "22392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling students on problems"
+ },
+ {
+  "id": "22393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tests and homework handouts and collection"
+ },
+ {
+  "id": "22394",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "textbooks and supplies handed out"
+ },
+ {
+  "id": "22395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "class and school rules order"
+ },
+ {
+  "id": "22396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "absent teacher's lesson plans"
+ },
+ {
+  "id": "22397",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student assignments and exams grading"
+ },
+ {
+  "id": "22398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "classroom computers and audio-visual equipment"
+ },
+ {
+  "id": "22399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student games and recreational activities"
+ },
+ {
+  "id": "22400",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assistive devices and facility access"
+ },
+ {
+  "id": "22401",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "classroom teaching supplies restocking"
+ },
+ {
+  "id": "22402",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "students at recess, lunch, field trips"
+ },
+ {
+  "id": "22403",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class attendance records"
+ },
+ {
+  "id": "22404",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classroom subjects instruction"
+ },
+ {
+  "id": "22405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student social skills teaching"
+ },
+ {
+  "id": "22406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individual and small group tutoring"
+ }
+]

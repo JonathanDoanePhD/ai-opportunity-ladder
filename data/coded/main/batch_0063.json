@@ -1,0 +1,1410 @@
+[
+ {
+  "id": "20258",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry trends and treatment research"
+ },
+ {
+  "id": "8069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sterilizing equipment and work areas"
+ },
+ {
+  "id": "8070",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client preference and service records"
+ },
+ {
+  "id": "8071",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "teaching clients skin care regimens"
+ },
+ {
+  "id": "8072",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "client skin condition examination"
+ },
+ {
+  "id": "8073",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "applying cosmetic creams and lotions"
+ },
+ {
+  "id": "8074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cleansing client skin"
+ },
+ {
+  "id": "8075",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facial treatments, peels and masks"
+ },
+ {
+  "id": "8076",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "referring clients with serious skin problems"
+ },
+ {
+  "id": "8077",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "choosing products and colors for skin"
+ },
+ {
+  "id": "8078",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "blackhead extraction"
+ },
+ {
+  "id": "8079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facial and body massage"
+ },
+ {
+  "id": "8080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wax hair removal"
+ },
+ {
+  "id": "8081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "chemical peels for fine lines"
+ },
+ {
+  "id": "8082",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "makeup advice and application instruction"
+ },
+ {
+  "id": "8083",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "selling makeup to clients"
+ },
+ {
+  "id": "8084",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pre and postoperative skin care collaboration"
+ },
+ {
+  "id": "8086",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eyelash and eyebrow tinting"
+ },
+ {
+  "id": "2314",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hauling guest luggage and packages"
+ },
+ {
+  "id": "2315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "giving guests directions and information"
+ },
+ {
+  "id": "2316",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "baggage claim checks"
+ },
+ {
+  "id": "2317",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "greeting and escorting guests to rooms"
+ },
+ {
+  "id": "2318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "assisting guests with disabilities"
+ },
+ {
+  "id": "2319",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "security team presence at hotels"
+ },
+ {
+  "id": "2320",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "delivering messages, orders, guest errands"
+ },
+ {
+  "id": "2321",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "explaining room features to guests"
+ },
+ {
+  "id": "2322",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "baggage shipment weighing and billing"
+ },
+ {
+  "id": "2323",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning lobbies and entrances"
+ },
+ {
+  "id": "2324",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "transporting guests or arranging transportation"
+ },
+ {
+  "id": "2325",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "charge slips and service records"
+ },
+ {
+  "id": "2326",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "paging guests in public areas"
+ },
+ {
+  "id": "2327",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laundry and valet item pickup"
+ },
+ {
+  "id": "2328",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guest room inspection and stocking"
+ },
+ {
+  "id": "2329",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "baggage insurance forms"
+ },
+ {
+  "id": "2330",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "setting up conference rooms and displays"
+ },
+ {
+  "id": "20259",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patron reservations and event tickets"
+ },
+ {
+  "id": "20260",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "directions for guests"
+ },
+ {
+  "id": "20261",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "faxing and shipping for guests"
+ },
+ {
+  "id": "20262",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "planning events, parties and meetings"
+ },
+ {
+  "id": "20263",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "childcare arrangements for guests"
+ },
+ {
+  "id": "20264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning hotel lounge"
+ },
+ {
+  "id": "20265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food and beverage service"
+ },
+ {
+  "id": "21203",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flower orders for guests"
+ },
+ {
+  "id": "24009",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "airline, train, car and shuttle bookings"
+ },
+ {
+  "id": "24010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wheelchairs and equipment for guests"
+ },
+ {
+  "id": "4529",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "information on local shopping and dining"
+ },
+ {
+  "id": "4530",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sightseeing and tour travel arrangements"
+ },
+ {
+  "id": "4531",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "luggage and mail handling"
+ },
+ {
+  "id": "4532",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "temporary office duties"
+ },
+ {
+  "id": "4533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guest errands and item delivery"
+ },
+ {
+  "id": "4534",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "unusual guest requests"
+ },
+ {
+  "id": "4535",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "replacing travelers' lost items"
+ },
+ {
+  "id": "4536",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "arranging interpreters and translators"
+ },
+ {
+  "id": "20135",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "site history and client research for expeditions"
+ },
+ {
+  "id": "20136",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training guides and volunteers"
+ },
+ {
+  "id": "4538",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "educational activities for school children"
+ },
+ {
+  "id": "4539",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "escorting groups through places of interest"
+ },
+ {
+  "id": "4540",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "describing points of interest, answering questions"
+ },
+ {
+  "id": "4541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visitor compliance and safety monitoring"
+ },
+ {
+  "id": "4542",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "registering visitors and issuing badges"
+ },
+ {
+  "id": "4543",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "brochures, presentations at tour sites"
+ },
+ {
+  "id": "4544",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "directions and information for visitors"
+ },
+ {
+  "id": "4545",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "group physical safety and first aid"
+ },
+ {
+  "id": "4547",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "wildlife habitats and regulations information"
+ },
+ {
+  "id": "4548",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "collecting fees and tickets"
+ },
+ {
+  "id": "4549",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "teaching climbing skills and equipment use"
+ },
+ {
+  "id": "4550",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "selecting travel routes and sites"
+ },
+ {
+  "id": "4551",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "soliciting tour patronage, selling souvenirs"
+ },
+ {
+  "id": "4552",
+  "ai_alone": 1,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speaking foreign languages to visitors"
+ },
+ {
+  "id": "4553",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supplies and equipment before departure"
+ },
+ {
+  "id": "4554",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving visitors to tour sites"
+ },
+ {
+  "id": "4555",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "filing, typing and routing messages"
+ },
+ {
+  "id": "13155",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tour itineraries and travel routes"
+ },
+ {
+  "id": "13156",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "itinerary, service and lodging problems"
+ },
+ {
+  "id": "13157",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "selling travel packages"
+ },
+ {
+  "id": "13158",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tour accommodations, transport and equipment details"
+ },
+ {
+  "id": "13159",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "evaluating tour services and reporting"
+ },
+ {
+  "id": "13160",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "leading groups to tour sites"
+ },
+ {
+  "id": "13161",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "verifying expedition equipment amounts and quality"
+ },
+ {
+  "id": "13162",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paying bills and recording checks"
+ },
+ {
+  "id": "13163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "tour participants' special needs"
+ },
+ {
+  "id": "13164",
+  "ai_alone": 1,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sightseeing and shopping advice"
+ },
+ {
+  "id": "13165",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "permits, visas and currency help"
+ },
+ {
+  "id": "13166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "first aid for injured participants"
+ },
+ {
+  "id": "13167",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "piloting or driving tourist vehicles"
+ },
+ {
+  "id": "13168",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "setting up camps and cooking meals"
+ },
+ {
+  "id": "13169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "climbing and wilderness survival instruction"
+ },
+ {
+  "id": "13170",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "selling or renting expedition gear"
+ },
+ {
+  "id": "13171",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "explaining hunting and fishing laws"
+ },
+ {
+  "id": "18756",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "safe play environment"
+ },
+ {
+  "id": "18757",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "communicating with parents about children"
+ },
+ {
+  "id": "18758",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "preparing and serving children's meals"
+ },
+ {
+  "id": "18759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "developmentally appropriate lesson plans"
+ },
+ {
+  "id": "18760",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "children's rest periods"
+ },
+ {
+  "id": "18761",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance, paperwork and phone calls"
+ },
+ {
+  "id": "18762",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's games and field trips"
+ },
+ {
+  "id": "18763",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "care for children with disabilities"
+ },
+ {
+  "id": "18764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supervision, training and scheduling of staff"
+ },
+ {
+  "id": "2331",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "children's emotional and social development"
+ },
+ {
+  "id": "2332",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "caring for children in institutions"
+ },
+ {
+  "id": "2333",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sanitizing toys and play equipment"
+ },
+ {
+  "id": "2334",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "disciplining children and controlling behavior"
+ },
+ {
+  "id": "2335",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "spotting children's developmental problems"
+ },
+ {
+  "id": "2336",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "observing children's play"
+ },
+ {
+  "id": "2337",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "individual child daily records"
+ },
+ {
+  "id": "2338",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "teaching children health and personal habits"
+ },
+ {
+  "id": "2339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "reading, painting and songs with children"
+ },
+ {
+  "id": "2342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "toys and materials storage"
+ },
+ {
+  "id": "2344",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bottle sterilizing and formula"
+ },
+ {
+  "id": "2346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dressing and diapering children"
+ },
+ {
+  "id": "2347",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "children's homework help"
+ },
+ {
+  "id": "2348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laundry, cleaning and linens"
+ },
+ {
+  "id": "2349",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "escorting children to school and appointments"
+ },
+ {
+  "id": "21071",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "groceries and clothing for children"
+ },
+ {
+  "id": "2351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "first aid and CPR for children"
+ },
+ {
+  "id": "2352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "children's nap schedules"
+ },
+ {
+  "id": "2353",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "discussing children's development with parents"
+ },
+ {
+  "id": "2354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "children's meals and snacks"
+ },
+ {
+  "id": "2355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "teaching children safe behavior"
+ },
+ {
+  "id": "2356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's recreational activities"
+ },
+ {
+  "id": "2357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's health, temperature and medications"
+ },
+ {
+  "id": "2358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "modeling social behavior for children"
+ },
+ {
+  "id": "2359",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "child discipline programs with parents"
+ },
+ {
+  "id": "2360",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "family schedule"
+ },
+ {
+  "id": "2361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "children's homework supervision"
+ },
+ {
+  "id": "2362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "chores and praise for children"
+ },
+ {
+  "id": "2363",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "driving children to school and appointments"
+ },
+ {
+  "id": "2364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "housekeeping related to children"
+ },
+ {
+  "id": "2365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's eating, resting and toilet habits"
+ },
+ {
+  "id": "2366",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "play, meal and bill records"
+ },
+ {
+  "id": "2367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "age-appropriate play and reading activities"
+ },
+ {
+  "id": "2368",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hazards, boundaries and rules for children"
+ },
+ {
+  "id": "4556",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "safety rules for sports and equipment"
+ },
+ {
+  "id": "4557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "class alternatives for fitness levels"
+ },
+ {
+  "id": "4558",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "class routines, music and movements"
+ },
+ {
+  "id": "4559",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "participants' form and corrections"
+ },
+ {
+  "id": "4560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "breathing technique instruction"
+ },
+ {
+  "id": "4561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "participants' exertion levels"
+ },
+ {
+  "id": "4562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "demonstrating gymnastic and training equipment"
+ },
+ {
+  "id": "4563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fitness equipment maintenance"
+ },
+ {
+  "id": "4564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "therapeutic, recreational and athletic activities"
+ },
+ {
+  "id": "4565",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "participants' progress and program adjustments"
+ },
+ {
+  "id": "4566",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "individual fitness evaluation and training programs"
+ },
+ {
+  "id": "4567",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physical education program planning"
+ },
+ {
+  "id": "4568",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nutrition and weight control information"
+ },
+ {
+  "id": "4569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency first aid and injury referral"
+ },
+ {
+  "id": "4570",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advice on clothing and shoes"
+ },
+ {
+  "id": "4572",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "teaching individual and team sports"
+ },
+ {
+  "id": "4573",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "health club membership sales and records"
+ },
+ {
+  "id": "4575",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment inventories and issuing"
+ },
+ {
+  "id": "4576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "competitions and tournaments"
+ },
+ {
+  "id": "4577",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "heat, ultraviolet treatment and bath advice"
+ },
+ {
+  "id": "18557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "in-room visits with residents"
+ },
+ {
+  "id": "18558",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "community outings for residents"
+ },
+ {
+  "id": "21010",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "individuals' needs and activity planning"
+ },
+ {
+  "id": "21011",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment goal progress documentation"
+ },
+ {
+  "id": "21012",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individual treatment goals from assessments"
+ },
+ {
+  "id": "2380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility rules and safety enforcement"
+ },
+ {
+  "id": "2381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "recreational activities, crafts, sports, camping"
+ },
+ {
+  "id": "2382",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "daily recreational facility operations"
+ },
+ {
+  "id": "2383",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "first aid and emergency notification"
+ },
+ {
+  "id": "2385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "greeting newcomers and encouraging participation"
+ },
+ {
+  "id": "2386",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "recreation techniques and safety demonstrations"
+ },
+ {
+  "id": "2387",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "recreation areas, facilities and services evaluation"
+ },
+ {
+  "id": "2388",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time, attendance forms and inventory lists"
+ },
+ {
+  "id": "2389",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "participant complaints with management"
+ },
+ {
+  "id": "2390",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supervising and training recreation personnel"
+ },
+ {
+  "id": "2391",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collaborating on balanced recreational programs"
+ },
+ {
+  "id": "2392",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility maintenance and use schedule"
+ },
+ {
+  "id": "2393",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "special events like aquatics and gymnastics"
+ },
+ {
+  "id": "2394",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff meetings on rules and problems"
+ },
+ {
+  "id": "2395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "entertainment, decorations and equipment setup"
+ },
+ {
+  "id": "2396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "participants' leadership skills through discussion"
+ },
+ {
+  "id": "2397",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "liaison between administrators and instructors"
+ },
+ {
+  "id": "2398",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff performance evaluation forms"
+ },
+ {
+  "id": "2399",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "recreation facility purchase, design and upkeep"
+ }
+]

@@ -1,0 +1,1482 @@
+[
+{
+"id": "15265",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "warehouse load accuracy and delivery"
+},
+{
+"id": "15266",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pallet and vehicle cargo"
+},
+{
+"id": "3201",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "powered truck driving between areas"
+},
+{
+"id": "3202",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "forklift and hoist controls"
+},
+{
+"id": "3203",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "lifting devices and pallets"
+},
+{
+"id": "3205",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "truck cleaning, fueling, battery upkeep"
+},
+{
+"id": "3206",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "material weights and labels"
+},
+{
+"id": "3207",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "automatic stacking and packaging machines"
+},
+{
+"id": "3210",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "valves and chutes for bulk material"
+},
+{
+"id": "4992",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vehicle cleanliness and damage inspection"
+},
+{
+"id": "4993",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vehicle and equipment surfaces scrubbing"
+},
+{
+"id": "4994",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cleaning solution mixing"
+},
+{
+"id": "4995",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cleaning machine buttons"
+},
+{
+"id": "4996",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vehicle windows"
+},
+{
+"id": "4997",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "rinsed objects and surfaces drying"
+},
+{
+"id": "4998",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vehicles driven to workplaces"
+},
+{
+"id": "4999",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sprayer valves and pressure"
+},
+{
+"id": "5000",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "parts soaking in cleaning solutions"
+},
+{
+"id": "5001",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machinery lubrication and minor repairs"
+},
+{
+"id": "5002",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cleaning machine malfunction monitoring"
+},
+{
+"id": "5003",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine and vehicle parts"
+},
+{
+"id": "5004",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "hoses and pumps"
+},
+{
+"id": "5005",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "supply inventory levels"
+},
+{
+"id": "5006",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vehicle paint and polish"
+},
+{
+"id": "5007",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "valves, hoses, tank liquids"
+},
+{
+"id": "5008",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "loose debris and scrap"
+},
+{
+"id": "5009",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials moved by cart"
+},
+{
+"id": "5011",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "car interior plastic trim"
+},
+{
+"id": "5012",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "car spoilers and mud flaps"
+},
+{
+"id": "10778",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "container tags and markings"
+},
+{
+"id": "10779",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "work orders and instructions"
+},
+{
+"id": "10780",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "units handled on production sheets"
+},
+{
+"id": "10781",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "freight moved between locations"
+},
+{
+"id": "10782",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cargo sorting before loading"
+},
+{
+"id": "10783",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "crates built from lumber"
+},
+{
+"id": "10786",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "containers packing and repacking"
+},
+{
+"id": "10787",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tools and supplies carried"
+},
+{
+"id": "10788",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "bracing and padding for shipments"
+},
+{
+"id": "10789",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment storage area upkeep"
+},
+{
+"id": "10790",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "slings and hooks on cargo"
+},
+{
+"id": "10792",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "crane, boom, camera controls"
+},
+{
+"id": "10796",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "electrical equipment test hookup"
+},
+{
+"id": "17871",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "appliance refrigerant extraction"
+},
+{
+"id": "17872",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "recyclable materials sorting"
+},
+{
+"id": "17873",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "curbside recyclables collection"
+},
+{
+"id": "17874",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "recoverable materials onto conveyors"
+},
+{
+"id": "17876",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "collection vehicle operation"
+},
+{
+"id": "17877",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "balers compressing recyclables"
+},
+{
+"id": "17878",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "bales loaded with lift equipment"
+},
+{
+"id": "17879",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sorting and grinding machinery"
+},
+{
+"id": "17881",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "recycled material logs"
+},
+{
+"id": "17882",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metals separated by grade"
+},
+{
+"id": "17883",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metals cleaned for recycling"
+},
+{
+"id": "17884",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "recycling yard debris"
+},
+{
+"id": "17885",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "construction material sorting"
+},
+{
+"id": "17886",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "collection and processing equipment upkeep"
+},
+{
+"id": "14583",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "products and materials defect checking"
+},
+{
+"id": "14584",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products removed from machines"
+},
+{
+"id": "14585",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine start, stop, adjust controls"
+},
+{
+"id": "14586",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials and samples marking"
+},
+{
+"id": "14587",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine loading of materials"
+},
+{
+"id": "14588",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machinery and work area cleaning"
+},
+{
+"id": "14589",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "material weights and measurements"
+},
+{
+"id": "14590",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products fastened, packaged, stacked"
+},
+{
+"id": "14591",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "production data records"
+},
+{
+"id": "14592",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "chemicals added to machines"
+},
+{
+"id": "14593",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials moved by trucks"
+},
+{
+"id": "14594",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "conveyor gates"
+},
+{
+"id": "14595",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "shoveled materials"
+},
+{
+"id": "21216",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "packaging and product quality"
+},
+{
+"id": "3211",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "containers labeled with marking tools"
+},
+{
+"id": "3212",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "products counted and weighed"
+},
+{
+"id": "3214",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "packaging and order forms"
+},
+{
+"id": "3215",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "finished and defective products"
+},
+{
+"id": "3216",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "containers sealed by hand"
+},
+{
+"id": "3217",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "packaging machine loading"
+},
+{
+"id": "3218",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cartons assembled and padded"
+},
+{
+"id": "3219",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "containers and work areas cleaning"
+},
+{
+"id": "3220",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "packages carried to customer vehicles"
+},
+{
+"id": "3221",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products poured into containers"
+},
+{
+"id": "3222",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "products and orders moved and sorted"
+},
+{
+"id": "23871",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "order receipts"
+},
+{
+"id": "23872",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "merchandise from shelves"
+},
+{
+"id": "23873",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "order details and quantities"
+},
+{
+"id": "23874",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock items packed and unpacked"
+},
+{
+"id": "23875",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "items organized in storage"
+},
+{
+"id": "23876",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock wear and defects"
+},
+{
+"id": "23877",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "customer merchandise questions"
+},
+{
+"id": "23878",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "stock counted and recorded"
+},
+{
+"id": "23879",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "merchandise price tags"
+},
+{
+"id": "23880",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "shelves stocked with merchandise"
+},
+{
+"id": "23881",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "invoices compared to received items"
+},
+{
+"id": "23882",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "checkout totals and payments"
+},
+{
+"id": "23883",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "packages carried to vehicles"
+},
+{
+"id": "23884",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stock items tagged and labeled"
+},
+{
+"id": "23885",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "inventory needing reorder"
+},
+{
+"id": "23886",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 2,
+"notes": "supplies distributed on requisitions"
+},
+{
+"id": "23887",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "stockroom coworkers guided"
+},
+{
+"id": "23888",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "display cases and aisles"
+},
+{
+"id": "23889",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 2,
+"notes": "signs and merchandise displays"
+},
+{
+"id": "23890",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "customer purchases bagged"
+},
+{
+"id": "23891",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "damaged items disposal and return"
+},
+{
+"id": "23892",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tools and storage areas"
+},
+{
+"id": "23893",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "excess and obsolete stock"
+},
+{
+"id": "23894",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "stock use and damage records"
+},
+{
+"id": "23895",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "outgoing order records"
+},
+{
+"id": "23896",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "item and group prices"
+},
+{
+"id": "23897",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "merchandise requisitions to suppliers"
+},
+{
+"id": "23898",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "storage methods and stock locations"
+},
+{
+"id": "23899",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "forklift operation"
+},
+{
+"id": "23900",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sales floor merchandise unpacking"
+},
+{
+"id": "14596",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "meters and pressure gauges"
+},
+{
+"id": "14597",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "valves and equipment settings"
+},
+{
+"id": "14598",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "gas meter readings and records"
+},
+{
+"id": "14599",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "power-driven transfer pumps"
+},
+{
+"id": "14600",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "instrument readings in logs"
+},
+{
+"id": "14601",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "compressors and pumps startup"
+},
+{
+"id": "14602",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pressure regulating switches"
+},
+{
+"id": "14603",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 1,
+"notes": "equipment problems and instructing staff"
+},
+{
+"id": "14604",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "gas samples and quality tests"
+},
+{
+"id": "14605",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment cleaning and filter replacement"
+},
+{
+"id": "14606",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "daily facility operation reports"
+},
+{
+"id": "14607",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pipelines between pumps and containers"
+},
+{
+"id": "14608",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "station housekeeping and painting"
+},
+{
+"id": "14609",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "tank levels and gauge monitoring"
+},
+{
+"id": "14610",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "pumping operating data records"
+},
+{
+"id": "14611",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 1,
+"notes": "signals to coworkers for flows"
+},
+{
+"id": "14612",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "storage vessel levels"
+},
+{
+"id": "14613",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "valves and pumps for flows"
+},
+{
+"id": "14614",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "product routing through pipelines"
+},
+{
+"id": "14615",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "operating schedules and pumping amounts"
+},
+{
+"id": "14616",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pumps and vessels repair"
+},
+{
+"id": "14617",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sample solutions to laboratory"
+},
+{
+"id": "14618",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "hoses and pipelines connection"
+},
+{
+"id": "14619",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "auxiliary treatment and refrigeration equipment"
+},
+{
+"id": "14620",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "chemicals added to tanks"
+},
+{
+"id": "14621",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "materials blended in one tank"
+},
+{
+"id": "14622",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "material and solution testing"
+},
+{
+"id": "21159",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "pumps and flow line leaks"
+},
+{
+"id": "21160",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "oil and gas production gauging"
+},
+{
+"id": "21161",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "water filters"
+},
+{
+"id": "5013",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "control panel pumping readings"
+},
+{
+"id": "5014",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "well shutoff and tank switching"
+},
+{
+"id": "5015",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vehicle and equipment maintenance"
+},
+{
+"id": "5016",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "oil and gas meters repair"
+},
+{
+"id": "5017",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pipes and pumping equipment"
+},
+{
+"id": "5018",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pumps and hoses at wellheads"
+},
+{
+"id": "5019",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "compressor engines and oil diversion"
+},
+{
+"id": "5020",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "valves for well repressurization"
+},
+{
+"id": "5021",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "oil pumpers and field workers"
+},
+{
+"id": "5023",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "trucks and pumping service equipment"
+},
+{
+"id": "5025",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "acids, chemicals, dry cement"
+},
+{
+"id": "19932",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "special recyclable pickups"
+},
+{
+"id": "20313",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "refuse at disposal sites"
+},
+{
+"id": "7170",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "truck safety condition inspection"
+},
+{
+"id": "7171",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "truck fuel and fluids"
+},
+{
+"id": "7172",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "defective equipment reports"
+},
+{
+"id": "7174",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "collection truck on routes"
+},
+{
+"id": "7175",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "refuse compacting equipment"
+},
+{
+"id": "7176",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "hoisting devices for refuse bins"
+},
+{
+"id": "7177",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "garbage collected on foot"
+},
+{
+"id": "7178",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "dispatcher reports of delays and problems"
+},
+{
+"id": "7179",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "road and weather conditions"
+},
+{
+"id": "7180",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "customer containers tagged with problems"
+},
+{
+"id": "7181",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "trucks and compactor bodies cleaning"
+},
+{
+"id": "7183",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "refuse collection schedules"
+},
+{
+"id": "12792",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tank car load numbers"
+},
+{
+"id": "12793",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "spouts over passing cars"
+},
+{
+"id": "12794",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ship loading and handling equipment"
+},
+{
+"id": "12795",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "product movement and worker coordination"
+},
+{
+"id": "12796",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "pumping data records"
+},
+{
+"id": "12797",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vessel condition and weights"
+},
+{
+"id": "12798",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "industrial trucks and loaders"
+},
+{
+"id": "12799",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "static grounding cables"
+},
+{
+"id": "12800",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tank outlet valves sealing"
+},
+{
+"id": "12801",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "specific gravity sample tests"
+},
+{
+"id": "12802",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "tank car dome caps"
+},
+{
+"id": "12803",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tank contents gauging"
+},
+{
+"id": "12804",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tank interiors cleaning"
+},
+{
+"id": "12805",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "grain transfer conveyors"
+},
+{
+"id": "12806",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "vessel leaks and defective parts"
+},
+{
+"id": "12807",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "liquid unloading via compressed air"
+},
+{
+"id": "12808",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "load specifications on tanks"
+},
+{
+"id": "12809",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pumps and valves for product flow"
+},
+{
+"id": "12810",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "warehouse containers and orders"
+}
+]

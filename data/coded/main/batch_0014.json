@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "14638",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software test plans"
+ },
+ {
+  "id": "14639",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system modifications before release"
+ },
+ {
+  "id": "14640",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test program coverage areas"
+ },
+ {
+  "id": "14641",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software defect reports"
+ },
+ {
+  "id": "14642",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program function and output problems"
+ },
+ {
+  "id": "14643",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bug fix progress"
+ },
+ {
+  "id": "14644",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "known defect database"
+ },
+ {
+  "id": "14645",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "test schedules against delivery dates"
+ },
+ {
+  "id": "14646",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "product design review input"
+ },
+ {
+  "id": "14647",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software documentation accuracy"
+ },
+ {
+  "id": "14648",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test procedure documentation"
+ },
+ {
+  "id": "14649",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality and release readiness standards"
+ },
+ {
+  "id": "14650",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "automated test scripts"
+ },
+ {
+  "id": "14651",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer-reported software problems"
+ },
+ {
+  "id": "14652",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software testing tools"
+ },
+ {
+  "id": "14653",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "developer feedback on usability"
+ },
+ {
+  "id": "14654",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program performance monitoring"
+ },
+ {
+  "id": "14655",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "software compatibility across environments"
+ },
+ {
+  "id": "14656",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "replica production test environments"
+ },
+ {
+  "id": "14657",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "field problems with customers"
+ },
+ {
+  "id": "14658",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program deviations from standards"
+ },
+ {
+  "id": "14659",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "automated testing tools"
+ },
+ {
+  "id": "14660",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user or third-party testing"
+ },
+ {
+  "id": "14661",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logs and configuration for failures"
+ },
+ {
+  "id": "14662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "beta site software performance visits"
+ },
+ {
+  "id": "14663",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "testing and bug tracking software"
+ },
+ {
+  "id": "14664",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "historical test results"
+ },
+ {
+  "id": "21680",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing software errors"
+ },
+ {
+  "id": "21681",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "environmental control equipment purchase"
+ },
+ {
+  "id": "21682",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system capability data"
+ },
+ {
+  "id": "14694",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "websites"
+ },
+ {
+  "id": "14695",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website updates"
+ },
+ {
+  "id": "14697",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management and team priorities"
+ },
+ {
+  "id": "14698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website file backups"
+ },
+ {
+  "id": "14700",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web code validity and compatibility"
+ },
+ {
+  "id": "14701",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own web technology knowledge"
+ },
+ {
+  "id": "14702",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user technical requirements"
+ },
+ {
+  "id": "14704",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web application databases"
+ },
+ {
+  "id": "14705",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "domain registrations"
+ },
+ {
+  "id": "14706",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "e-commerce strategy"
+ },
+ {
+  "id": "14707",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web supporting code"
+ },
+ {
+  "id": "14708",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hosting and network issues"
+ },
+ {
+  "id": "14710",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website tests after revisions"
+ },
+ {
+  "id": "14711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programming languages and tools"
+ },
+ {
+  "id": "14713",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user email inquiries"
+ },
+ {
+  "id": "14714",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "website revision procedures"
+ },
+ {
+  "id": "14717",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "server directory structure"
+ },
+ {
+  "id": "14719",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web performance improvements"
+ },
+ {
+  "id": "14722",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web site specifications"
+ },
+ {
+  "id": "14723",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security logs"
+ },
+ {
+  "id": "14724",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web prototypes and models"
+ },
+ {
+  "id": "14725",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "server hardware and software"
+ },
+ {
+  "id": "14726",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test plans and results"
+ },
+ {
+  "id": "14727",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web architecture alternatives"
+ },
+ {
+  "id": "14728",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "server load and performance factors"
+ },
+ {
+  "id": "14729",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "HTTP servers and operating systems"
+ },
+ {
+  "id": "14730",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system sequence diagrams"
+ },
+ {
+  "id": "21683",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website security measures"
+ },
+ {
+  "id": "21684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "web design technical considerations"
+ },
+ {
+  "id": "21685",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "e-commerce strategy"
+ },
+ {
+  "id": "21686",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "web development project collaboration"
+ },
+ {
+  "id": "21687",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hosting and network issues"
+ },
+ {
+  "id": "21688",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user research and feedback"
+ },
+ {
+  "id": "21689",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management and team priorities"
+ },
+ {
+  "id": "21690",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web page search indices"
+ },
+ {
+  "id": "21691",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web prototypes and models"
+ },
+ {
+  "id": "21692",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "websites"
+ },
+ {
+  "id": "21693",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web content style guidelines"
+ },
+ {
+  "id": "21694",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "visual design concepts"
+ },
+ {
+  "id": "21695",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "website revision procedures"
+ },
+ {
+  "id": "21696",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system sequence diagrams"
+ },
+ {
+  "id": "21697",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "site maps and page templates"
+ },
+ {
+  "id": "21698",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "browser and device test routines"
+ },
+ {
+  "id": "21699",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "moodboards, storyboards and timeline"
+ },
+ {
+  "id": "21700",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "server load and performance factors"
+ },
+ {
+  "id": "21701",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website links"
+ },
+ {
+  "id": "21702",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "testing and feedback problems"
+ },
+ {
+  "id": "21703",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "web design technical considerations"
+ },
+ {
+  "id": "21704",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own web technology knowledge"
+ },
+ {
+  "id": "21705",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website updates"
+ },
+ {
+  "id": "21706",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website tests after revisions"
+ },
+ {
+  "id": "21707",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web site specifications"
+ },
+ {
+  "id": "21708",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "search engine site registration"
+ },
+ {
+  "id": "21709",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "innovative design and UX solutions"
+ },
+ {
+  "id": "21710",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web architecture alternatives"
+ },
+ {
+  "id": "21711",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user email inquiries"
+ },
+ {
+  "id": "21712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programming languages and design tools"
+ },
+ {
+  "id": "21713",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "interface product technical documentation"
+ },
+ {
+  "id": "21714",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web supporting code"
+ },
+ {
+  "id": "16194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competing media for game ideas"
+ },
+ {
+  "id": "16195",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "game test specifications"
+ },
+ {
+  "id": "16196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own industry knowledge"
+ },
+ {
+  "id": "16197",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "gameplay test plans"
+ },
+ {
+  "id": "16198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "colleague game design feedback"
+ },
+ {
+  "id": "16199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "gameplay balance"
+ },
+ {
+  "id": "16200",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "game text and dialogue"
+ },
+ {
+  "id": "16201",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design and technical staff feedback"
+ },
+ {
+  "id": "16202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production staff technical feedback"
+ },
+ {
+  "id": "16203",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "concept layouts and mock-ups"
+ },
+ {
+  "id": "16204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "game concept presentations"
+ },
+ {
+  "id": "16205",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "game sketches"
+ },
+ {
+  "id": "16206",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "gameplay testing oversight"
+ },
+ {
+  "id": "16207",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "development team design discussions"
+ },
+ {
+  "id": "16208",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "game missions and puzzles"
+ },
+ {
+  "id": "16209",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "game design documentation"
+ },
+ {
+  "id": "16210",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "game virtual features"
+ },
+ {
+  "id": "16211",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "gameplay prototypes"
+ },
+ {
+  "id": "16212",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production documentation and schedules"
+ },
+ {
+  "id": "16213",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stakeholder requirements for online features"
+ },
+ {
+  "id": "16214",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "game design reviews"
+ },
+ {
+  "id": "16215",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "game visual style"
+ },
+ {
+  "id": "16216",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "formal game design documents"
+ },
+ {
+  "id": "16217",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "storylines, mechanics and characters"
+ },
+ {
+  "id": "14731",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "application and data backups"
+ },
+ {
+  "id": "14732",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web page and server problems"
+ },
+ {
+  "id": "14733",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web content and links"
+ },
+ {
+  "id": "14734",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "intrusion and attack monitoring"
+ },
+ {
+  "id": "14735",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website security measures"
+ },
+ {
+  "id": "14736",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "web, file and mail servers"
+ },
+ {
+  "id": "14737",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "usability issues with developers"
+ },
+ {
+  "id": "14738",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "backup and recovery plans"
+ },
+ {
+  "id": "14739",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own web developments knowledge"
+ },
+ {
+  "id": "14740",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "updates and patches"
+ },
+ {
+  "id": "14741",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "backup and recovery plan documents"
+ },
+ {
+  "id": "14742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "web developers and campaigns"
+ },
+ {
+  "id": "14743",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "web server directory and files"
+ },
+ {
+  "id": "14744",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user feedback on problems"
+ },
+ {
+  "id": "14745",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website performance metrics"
+ },
+ {
+  "id": "14746",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "interoperability requirements"
+ },
+ {
+  "id": "14747",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "installation procedure documentation"
+ },
+ {
+  "id": "14748",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "access and security levels"
+ },
+ {
+  "id": "14749",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website usage data"
+ },
+ {
+  "id": "14750",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "integration, performance, security tests"
+ },
+ {
+  "id": "14751",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "website improvements and budgets"
+ },
+ {
+  "id": "14752",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user notices of problems and changes"
+ },
+ {
+  "id": "14753",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website change documentation"
+ },
+ {
+  "id": "14754",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "website revision procedures"
+ },
+ {
+  "id": "14755",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "web site user training"
+ },
+ {
+  "id": "14756",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "website effectiveness and usability"
+ },
+ {
+  "id": "14757",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "server hardware and software"
+ },
+ {
+  "id": "14758",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing-identified problems"
+ },
+ {
+  "id": "14759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web content style guidelines"
+ },
+ {
+  "id": "14760",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "home page marketing plans"
+ },
+ {
+  "id": "14761",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system and application logs"
+ },
+ {
+  "id": "14762",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "web server monitoring tools"
+ },
+ {
+  "id": "14763",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing routines and procedures"
+ },
+ {
+  "id": "14764",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "testing routine adequacy"
+ },
+ {
+  "id": "14765",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new software packages for web"
+ },
+ {
+  "id": "21715",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spatial data layers and maps"
+ },
+ {
+  "id": "21716",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS data graphics"
+ },
+ {
+  "id": "21717",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing GIS databases"
+ },
+ {
+  "id": "21718",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "GIS technical expertise for clients"
+ },
+ {
+  "id": "21719",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS programs and analysis"
+ },
+ {
+  "id": "21720",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS database entry"
+ },
+ {
+  "id": "21721",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incoming data quality"
+ },
+ {
+  "id": "21722",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial models and analysis"
+ },
+ {
+  "id": "21723",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "GIS database design"
+ },
+ {
+  "id": "21724",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scientific spatial analyses"
+ },
+ {
+  "id": "21725",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "map presentation elements"
+ },
+ {
+  "id": "21726",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "GIS user technical support"
+ },
+ {
+  "id": "21727",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing and map data"
+ },
+ {
+  "id": "21728",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aerial photographs"
+ },
+ {
+  "id": "21729",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client technical specifications meetings"
+ },
+ {
+  "id": "21730",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS models and mapping applications"
+ },
+ {
+  "id": "21731",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specialized software data conversion"
+ },
+ {
+  "id": "21732",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user application troubleshooting"
+ },
+ {
+  "id": "21733",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS applications and procedures"
+ },
+ {
+  "id": "21734",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specialized GIS software routines"
+ },
+ {
+  "id": "21735",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "GIS software and equipment upgrades"
+ },
+ {
+  "id": "21736",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user GIS requirements"
+ },
+ {
+  "id": "21737",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial data visualizations"
+ },
+ {
+  "id": "21738",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photograph information onto maps"
+ },
+ {
+  "id": "21739",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "GIS user training materials"
+ },
+ {
+  "id": "21740",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "3D and 4D geospatial data"
+ },
+ {
+  "id": "21741",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS and GPS software research"
+ },
+ {
+  "id": "21742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own GIS knowledge"
+ },
+ {
+  "id": "21743",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data accessibility procedure upgrades"
+ },
+ {
+  "id": "16219",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records management regulations"
+ },
+ {
+  "id": "16220",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document system test plans"
+ },
+ {
+  "id": "16221",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database and repository information"
+ },
+ {
+  "id": "16222",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electronic assets retrieval"
+ },
+ {
+  "id": "16223",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "content management system improvements"
+ },
+ {
+  "id": "16224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document system support materials"
+ },
+ {
+  "id": "16226",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "document handling security"
+ },
+ {
+  "id": "16227",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "scanning and imaging procedures"
+ },
+ {
+  "id": "16228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "content management system specifications"
+ },
+ {
+  "id": "16229",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document management standards"
+ },
+ {
+  "id": "16230",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user electronic content access problems"
+ },
+ {
+  "id": "16231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department document management needs"
+ },
+ {
+  "id": "16232",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document classification taxonomies"
+ },
+ {
+  "id": "16233",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "document management system acquisition"
+ },
+ {
+  "id": "16234",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "document access policies"
+ },
+ {
+  "id": "16235",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document system performance data"
+ },
+ {
+  "id": "16236",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "digitized document import"
+ },
+ {
+  "id": "16237",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document access rights and revisions"
+ },
+ {
+  "id": "16238",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "document processing systems"
+ },
+ {
+  "id": "16239",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document classification and metadata"
+ },
+ {
+  "id": "16240",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document system features and workflows"
+ },
+ {
+  "id": "20367",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own document technology knowledge"
+ },
+ {
+  "id": "20368",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "official document changes and approval"
+ }
+]

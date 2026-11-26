@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "1335",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineering staff activities"
+ },
+ {
+  "id": "1337",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "prototype stress tests"
+ },
+ {
+  "id": "1339",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mathematical design analysis models"
+ },
+ {
+  "id": "1340",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical documentation for staff or customers"
+ },
+ {
+  "id": "1341",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project proposals feasibility and cost"
+ },
+ {
+  "id": "1344",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor selection approval"
+ },
+ {
+  "id": "1345",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer technical problem investigations"
+ },
+ {
+  "id": "1346",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "performance report records"
+ },
+ {
+  "id": "19601",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emission-reducing aerospace system design"
+ },
+ {
+  "id": "19602",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emission filtration system design"
+ },
+ {
+  "id": "19603",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biofuel specification feasibility"
+ },
+ {
+  "id": "20724",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conceptual aerospace product design"
+ },
+ {
+  "id": "20725",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design conformance to standards"
+ },
+ {
+  "id": "20726",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design criteria for aerospace products"
+ },
+ {
+  "id": "20727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product performance problem diagnosis"
+ },
+ {
+  "id": "20728",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "aerospace research programs"
+ },
+ {
+  "id": "5325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental and construction sites"
+ },
+ {
+  "id": "5326",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "agricultural machinery CAD design"
+ },
+ {
+  "id": "5327",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "agricultural machinery performance testing"
+ },
+ {
+  "id": "5328",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "crop and animal structures"
+ },
+ {
+  "id": "5329",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "water quality and pollution advice"
+ },
+ {
+  "id": "5330",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "farmer education programs"
+ },
+ {
+  "id": "5331",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "plans with clients and contractors"
+ },
+ {
+  "id": "5332",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "food processing plant operations"
+ },
+ {
+  "id": "5333",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "land reclamation projects"
+ },
+ {
+  "id": "5334",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "rural power and irrigation construction"
+ },
+ {
+  "id": "5335",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food processing plant design"
+ },
+ {
+  "id": "5336",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering reports, drawings, budgets"
+ },
+ {
+  "id": "5337",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client needs meetings"
+ },
+ {
+  "id": "5338",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological study instrumentation design"
+ },
+ {
+  "id": "18603",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinician equipment training"
+ },
+ {
+  "id": "18604",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical equipment protocol documents"
+ },
+ {
+  "id": "21839",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bioproduction process problems"
+ },
+ {
+  "id": "21840",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specification sheets and procedures"
+ },
+ {
+  "id": "21841",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulator licensing communications"
+ },
+ {
+  "id": "21842",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplier equipment specifications"
+ },
+ {
+  "id": "21843",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design and production compatibility"
+ },
+ {
+  "id": "21844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "novel technology evaluation consultation"
+ },
+ {
+  "id": "21845",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "prosthetic devices for disabled people"
+ },
+ {
+  "id": "21846",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "follow-up process experiments"
+ },
+ {
+  "id": "21847",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "medical diagnostic instrumentation design"
+ },
+ {
+  "id": "21848",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bench or pilot production experiments"
+ },
+ {
+  "id": "21849",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bioremediation pollution treatment processes"
+ },
+ {
+  "id": "21850",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lab-to-factory process transfer"
+ },
+ {
+  "id": "21851",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical models and simulations"
+ },
+ {
+  "id": "21852",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "process sequence studies"
+ },
+ {
+  "id": "21853",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experiment results databases"
+ },
+ {
+  "id": "21854",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineering team management"
+ },
+ {
+  "id": "21855",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility improvement project plans"
+ },
+ {
+  "id": "21856",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical and scientific reports"
+ },
+ {
+  "id": "21857",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scientific and trade literature"
+ },
+ {
+  "id": "21858",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process and equipment recommendations"
+ },
+ {
+  "id": "21859",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manufacturing process yield review"
+ },
+ {
+  "id": "8968",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biomedical equipment safety evaluation"
+ },
+ {
+  "id": "8970",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hospital equipment advice"
+ },
+ {
+  "id": "8972",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new implant materials"
+ },
+ {
+  "id": "8973",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biobehavioral system simulations"
+ },
+ {
+  "id": "8975",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "biological systems engineering research"
+ },
+ {
+  "id": "8979",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical hardware and software"
+ },
+ {
+  "id": "8980",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new medical procedure outcomes"
+ },
+ {
+  "id": "18471",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical manufacturing process problems"
+ },
+ {
+  "id": "18472",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical equipment optimization and compliance"
+ },
+ {
+  "id": "18473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production process variable testing"
+ },
+ {
+  "id": "20955",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process and experiment data"
+ },
+ {
+  "id": "24003",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "chemical process computer models"
+ },
+ {
+  "id": "3552",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "worker safety procedures near reactions"
+ },
+ {
+  "id": "3553",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process operation arrangement"
+ },
+ {
+  "id": "3554",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production cost estimates and progress reports"
+ },
+ {
+  "id": "3555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "equipment construction workers"
+ },
+ {
+  "id": "3556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new product lab and pilot studies"
+ },
+ {
+  "id": "3557",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "separation and electrochemical processes"
+ },
+ {
+  "id": "3558",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new chemical manufacturing processes"
+ },
+ {
+  "id": "3559",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plant measurement and control systems"
+ },
+ {
+  "id": "3560",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment layout planning"
+ },
+ {
+  "id": "147",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "load, grade and flow calculations"
+ },
+ {
+  "id": "148",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "project site inspection"
+ },
+ {
+  "id": "150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "survey layout of installations"
+ },
+ {
+  "id": "151",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material and labor cost quantities"
+ },
+ {
+  "id": "152",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public engineering reports and proposals"
+ },
+ {
+  "id": "153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil and material strength tests"
+ },
+ {
+  "id": "155",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "traffic and environmental studies"
+ },
+ {
+  "id": "19607",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy-efficient civil structure design"
+ },
+ {
+  "id": "19608",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "toxic waste disposal systems"
+ },
+ {
+  "id": "19609",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "contaminated site cleanup solutions"
+ },
+ {
+  "id": "19610",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineering activities regulatory compliance"
+ },
+ {
+  "id": "19611",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project environmental risk strategies"
+ },
+ {
+  "id": "20489",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design and repair technical advice"
+ },
+ {
+  "id": "20490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "construction or maintenance site operations"
+ },
+ {
+  "id": "20491",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation and hydraulic system design"
+ },
+ {
+  "id": "20492",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey maps and geologic data"
+ },
+ {
+  "id": "16303",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public hearing presentations"
+ },
+ {
+  "id": "16304",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "development plan traffic impact"
+ },
+ {
+  "id": "16305",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic operation reports"
+ },
+ {
+  "id": "16306",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "transportation systems modification needs"
+ },
+ {
+  "id": "16307",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "traffic control device needs"
+ },
+ {
+  "id": "16308",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation software"
+ },
+ {
+  "id": "16309",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project budgets and schedules"
+ },
+ {
+  "id": "16310",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "final layout drawings and calculations"
+ },
+ {
+  "id": "16311",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "existing transportation structure alterations"
+ },
+ {
+  "id": "16312",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contract bidding and negotiation"
+ },
+ {
+  "id": "16313",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation scenario models"
+ },
+ {
+  "id": "16314",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "traffic flow and safety problems"
+ },
+ {
+  "id": "16315",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction materials compliance testing"
+ },
+ {
+  "id": "16316",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "completed transportation project inspection"
+ },
+ {
+  "id": "16317",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surveying and staking of projects"
+ },
+ {
+  "id": "16318",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation project costs"
+ },
+ {
+  "id": "16319",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contractor and agency coordination"
+ },
+ {
+  "id": "16320",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plans and calculations accuracy"
+ },
+ {
+  "id": "16321",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental impact statements"
+ },
+ {
+  "id": "16322",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "transportation system maintenance crews"
+ },
+ {
+  "id": "16323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new transportation system plans"
+ },
+ {
+  "id": "19612",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drainage and erosion control design"
+ },
+ {
+  "id": "19613",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainable transportation structure design"
+ },
+ {
+  "id": "19614",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "deconstruction plans for roadways"
+ },
+ {
+  "id": "19615",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials environmental standards compliance"
+ },
+ {
+  "id": "19616",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental compliance of finished projects"
+ },
+ {
+  "id": "16324",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water resources technical reports"
+ },
+ {
+  "id": "16325",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water treatment proposals and designs"
+ },
+ {
+  "id": "16326",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "water issues support to agencies"
+ },
+ {
+  "id": "16327",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "junior engineers and technicians"
+ },
+ {
+  "id": "16328",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new water resource design alternatives"
+ },
+ {
+  "id": "16329",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water resource and efficiency plans"
+ },
+ {
+  "id": "16330",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wastewater processing equipment"
+ },
+ {
+  "id": "16331",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water pollutant source studies"
+ },
+ {
+  "id": "16332",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water resource mathematical models"
+ },
+ {
+  "id": "16333",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrological simulation of water movement"
+ },
+ {
+  "id": "16334",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water distribution network hydraulics"
+ },
+ {
+  "id": "16335",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "on-site wastewater system construction"
+ },
+ {
+  "id": "16336",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water use data demand forecast"
+ },
+ {
+  "id": "16337",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water facility feasibility studies"
+ },
+ {
+  "id": "16338",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water system environmental impact"
+ },
+ {
+  "id": "16339",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water facility cost-benefit"
+ },
+ {
+  "id": "16340",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water delivery structure efficiency"
+ },
+ {
+  "id": "16341",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stormwater and floodplain drainage"
+ },
+ {
+  "id": "16342",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sludge treatment and disposal methods"
+ },
+ {
+  "id": "16343",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wastewater treatment method recommendations"
+ },
+ {
+  "id": "16344",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water storage facility design"
+ },
+ {
+  "id": "16345",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "runoff and water supply networks"
+ },
+ {
+  "id": "16346",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lift stations and wells design"
+ },
+ {
+  "id": "16347",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water distribution system design"
+ },
+ {
+  "id": "16348",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sludge treatment plant design"
+ },
+ {
+  "id": "16349",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pumping and sewer system design"
+ },
+ {
+  "id": "16350",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water treatment plant design"
+ },
+ {
+  "id": "21166",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water system operation and maintenance"
+ },
+ {
+  "id": "7391",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer technology knowledge"
+ },
+ {
+  "id": "7392",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "product development team technical support"
+ },
+ {
+  "id": "7393",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardware test data and specifications"
+ },
+ {
+  "id": "7394",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment function and specifications"
+ },
+ {
+  "id": "7395",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer system layout planning"
+ },
+ {
+  "id": "7396",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardware product prototypes"
+ },
+ {
+  "id": "7397",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "user needs and hardware recommendation"
+ },
+ {
+  "id": "7398",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technicians and design personnel"
+ },
+ {
+  "id": "7399",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hardware software interface evaluation"
+ },
+ {
+  "id": "7400",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hardware and material selection"
+ },
+ {
+  "id": "7401",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system capability data"
+ },
+ {
+  "id": "7402",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hardware functional specifications"
+ },
+ {
+  "id": "7403",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "power supply requirements"
+ },
+ {
+  "id": "7404",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "designer and user training"
+ },
+ {
+  "id": "7405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "existing equipment modification"
+ },
+ {
+  "id": "7406",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hardware configuration factors"
+ },
+ {
+  "id": "7407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer hardware design"
+ },
+ {
+  "id": "7408",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "installation environment control equipment"
+ },
+ {
+  "id": "1347",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineering project discussions"
+ },
+ {
+  "id": "1348",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electrical systems and equipment"
+ },
+ {
+  "id": "1349",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering design software operation"
+ },
+ {
+  "id": "1350",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "manufacturing and installation activities"
+ },
+ {
+  "id": "1351",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "standards and specification calculations"
+ },
+ {
+  "id": "1353",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electrical engineering research methods"
+ },
+ {
+  "id": "1354",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material and equipment purchase specifications"
+ },
+ {
+  "id": "1355",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project team members"
+ },
+ {
+  "id": "1356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vendor and competitor products"
+ },
+ {
+  "id": "1357",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project schedule and budget oversight"
+ },
+ {
+  "id": "1358",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electrical drawings and specifications"
+ },
+ {
+  "id": "1361",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "capital project programs"
+ },
+ {
+  "id": "1363",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering study reports"
+ },
+ {
+  "id": "1364",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electrical system development and load data"
+ },
+ {
+  "id": "1365",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power system problems field surveys"
+ },
+ {
+  "id": "19617",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy-saving electrical system design"
+ },
+ {
+  "id": "19618",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "renewable electricity systems"
+ },
+ {
+  "id": "19619",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "renewable integration with electrical systems"
+ },
+ {
+  "id": "20729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor and construction cost estimates"
+ },
+ {
+  "id": "20730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer and public complaints"
+ },
+ {
+  "id": "20731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "completed electrical installations"
+ },
+ {
+  "id": "23956",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electrical control software"
+ }
+]

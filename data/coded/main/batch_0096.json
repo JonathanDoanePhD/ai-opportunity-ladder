@@ -1,0 +1,1514 @@
+[
+ {
+  "id": "10613",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "airfield safety procedures"
+ },
+ {
+  "id": "10614",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "airfield construction projects"
+ },
+ {
+  "id": "10615",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agencies supporting airfield management"
+ },
+ {
+  "id": "10616",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft movements on airfield"
+ },
+ {
+  "id": "10617",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radio contact with aircraft commanders"
+ },
+ {
+  "id": "10618",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "operations staff training"
+ },
+ {
+  "id": "10619",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight and airfield status updates"
+ },
+ {
+  "id": "10620",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight planning publications and charts"
+ },
+ {
+  "id": "10621",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "communications between ATC and maintenance"
+ },
+ {
+  "id": "10622",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "airfield management functions"
+ },
+ {
+  "id": "10623",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "message traffic handling"
+ },
+ {
+  "id": "10624",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "weather and flight plan data"
+ },
+ {
+  "id": "10625",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight and event logs"
+ },
+ {
+  "id": "10626",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "aircrew lodging, fuel, transport arrangements"
+ },
+ {
+  "id": "10627",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight schedules and crew assignments"
+ },
+ {
+  "id": "10628",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight itinerary changes with ATC"
+ },
+ {
+  "id": "10629",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aircraft equipment needs for flights"
+ },
+ {
+  "id": "10630",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "aircrew flight planning information"
+ },
+ {
+  "id": "10631",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "aircrew departure and arrival briefings"
+ },
+ {
+  "id": "10632",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "landing and navigation aid equipment"
+ },
+ {
+  "id": "10633",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "status and display boards"
+ },
+ {
+  "id": "10634",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "military flight plans with civilian agencies"
+ },
+ {
+  "id": "20456",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "aircraft and medical emergency response"
+ },
+ {
+  "id": "20457",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wildlife around airport grounds"
+ },
+ {
+  "id": "23939",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "airfield conditions regulatory compliance"
+ },
+ {
+  "id": "23940",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "airport perimeter access control"
+ },
+ {
+  "id": "23941",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "runway snow removal coordination"
+ },
+ {
+  "id": "23942",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "passenger behavior safety threats"
+ },
+ {
+  "id": "9636",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "passenger emergency evacuation"
+ },
+ {
+  "id": "9637",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "safety procedure demonstrations"
+ },
+ {
+  "id": "9638",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passenger compliance before takeoff"
+ },
+ {
+  "id": "9639",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "onboard emergency equipment condition"
+ },
+ {
+  "id": "9640",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "passengers in medical distress"
+ },
+ {
+  "id": "9641",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "preflight briefings"
+ },
+ {
+  "id": "9642",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers and cabin for landing"
+ },
+ {
+  "id": "9643",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "passenger special assistance needs"
+ },
+ {
+  "id": "9644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "onboard supplies and equipment stock"
+ },
+ {
+  "id": "9645",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "anxious passengers during turbulence"
+ },
+ {
+  "id": "9646",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight delay announcements"
+ },
+ {
+  "id": "9647",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "passenger tickets and destinations"
+ },
+ {
+  "id": "9648",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "passenger questions about flights"
+ },
+ {
+  "id": "9649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers boarding and disembarking"
+ },
+ {
+  "id": "9650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft cabin cleanliness"
+ },
+ {
+  "id": "9651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "boarding passengers and seat assignments"
+ },
+ {
+  "id": "9652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passenger comfort items distribution"
+ },
+ {
+  "id": "9653",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "headsets, alcohol, and cash inventory"
+ },
+ {
+  "id": "9654",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cabin audio and video systems"
+ },
+ {
+  "id": "9655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers' carry-on luggage storage"
+ },
+ {
+  "id": "9656",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight and passenger incident reports"
+ },
+ {
+  "id": "9657",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "payments for meals and beverages"
+ },
+ {
+  "id": "9658",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prepared food for passengers"
+ },
+ {
+  "id": "9659",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "alcoholic beverage sales to passengers"
+ },
+ {
+  "id": "21028",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ambulance minor maintenance"
+ },
+ {
+  "id": "21029",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ambulance and equipment cleaning"
+ },
+ {
+  "id": "8606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ambulance driving of patients"
+ },
+ {
+  "id": "8607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soiled linens and equipment"
+ },
+ {
+  "id": "8608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients onto stretchers and ambulances"
+ },
+ {
+  "id": "8609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assisting EMTs on calls"
+ },
+ {
+  "id": "8610",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own certifications"
+ },
+ {
+  "id": "8611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ambulance supplies and disposables"
+ },
+ {
+  "id": "8612",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency facts to hospital or police"
+ },
+ {
+  "id": "8613",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "first aid for patients"
+ },
+ {
+  "id": "8614",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "violent patients restraint"
+ },
+ {
+  "id": "3154",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer payments and receipts"
+ },
+ {
+  "id": "3155",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints on products"
+ },
+ {
+  "id": "3156",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regular customers about products and prices"
+ },
+ {
+  "id": "3157",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer orders and sales contracts"
+ },
+ {
+  "id": "3158",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivery truck driving"
+ },
+ {
+  "id": "3159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vending machine coins and restocking"
+ },
+ {
+  "id": "3161",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily sales and delivery records"
+ },
+ {
+  "id": "3162",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer lists and truck loading"
+ },
+ {
+  "id": "3163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise and promotion displays"
+ },
+ {
+  "id": "3164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trucks and food dispensing equipment"
+ },
+ {
+  "id": "3165",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food specialties sold to patrons"
+ },
+ {
+  "id": "10635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dangerous goods transport procedures"
+ },
+ {
+  "id": "10636",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "truck mechanical and safety equipment"
+ },
+ {
+  "id": "10637",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "working hours and vehicle logs"
+ },
+ {
+  "id": "10638",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "delivery receipts, signatures and payments"
+ },
+ {
+  "id": "10640",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trucks into loading positions"
+ },
+ {
+  "id": "10641",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy truck driving and delivery"
+ },
+ {
+  "id": "10642",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cargo securing for transport"
+ },
+ {
+  "id": "10643",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bills of lading assignment details"
+ },
+ {
+  "id": "10644",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle defects and accident reports"
+ },
+ {
+  "id": "10645",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps for vehicle routes"
+ },
+ {
+  "id": "10646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trailer coupling and uncoupling"
+ },
+ {
+  "id": "10647",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery instructions and routes"
+ },
+ {
+  "id": "10650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trailer condition after unloading"
+ },
+ {
+  "id": "10651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trailer landing gear"
+ },
+ {
+  "id": "10653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "basic truck maintenance"
+ },
+ {
+  "id": "10655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "goods quantities and condition"
+ },
+ {
+  "id": "10656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "debris in loaded trailers"
+ },
+ {
+  "id": "10658",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "special cargo refrigeration and livestock"
+ },
+ {
+  "id": "10659",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "laborers packing and loading goods"
+ },
+ {
+  "id": "10660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire chains and plow equipment"
+ },
+ {
+  "id": "10662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roadside truck repairs"
+ },
+ {
+  "id": "19922",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "idle reduction and auxiliary power systems"
+ },
+ {
+  "id": "19923",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "truck routes for fuel efficiency"
+ },
+ {
+  "id": "20692",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cargo security in loads"
+ },
+ {
+  "id": "20693",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "load documentation completeness and accuracy"
+ },
+ {
+  "id": "20694",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "truck driving to weigh stations"
+ },
+ {
+  "id": "20695",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cab computer and radio communications"
+ },
+ {
+  "id": "20696",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trucks loading and unloading"
+ },
+ {
+  "id": "20697",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "goods wrapping and securing"
+ },
+ {
+  "id": "8615",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic laws while driving"
+ },
+ {
+  "id": "8616",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle supplies and equipment condition"
+ },
+ {
+  "id": "8617",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle mechanical problem reports"
+ },
+ {
+  "id": "8618",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "delivery bills, receipts and payments"
+ },
+ {
+  "id": "8619",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trucks, vans, and cars loading"
+ },
+ {
+  "id": "8620",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inventory loads against shipping papers"
+ },
+ {
+  "id": "8621",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "delivery receipts and money"
+ },
+ {
+  "id": "8622",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle logs and billing records"
+ },
+ {
+  "id": "8623",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and verbal directions"
+ },
+ {
+  "id": "8624",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delays and accidents reporting"
+ },
+ {
+  "id": "8626",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "light truck driving of materials"
+ },
+ {
+  "id": "8628",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weighing and measuring equipment on vehicles"
+ },
+ {
+  "id": "8629",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "emergency vehicle repairs"
+ },
+ {
+  "id": "23715",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "school bus condition and safety equipment"
+ },
+ {
+  "id": "23716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic regulations while driving"
+ },
+ {
+  "id": "23717",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "school bus driving of students"
+ },
+ {
+  "id": "23718",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "small children crossing roads"
+ },
+ {
+  "id": "23719",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students boarding and exiting safely"
+ },
+ {
+  "id": "23720",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "school bus interior cleanliness"
+ },
+ {
+  "id": "23721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "first-aid procedures knowledge"
+ },
+ {
+  "id": "23722",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student order during trips"
+ },
+ {
+  "id": "23723",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor bus repairs"
+ },
+ {
+  "id": "23724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students at neighborhood stops on schedule"
+ },
+ {
+  "id": "23725",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student, trip, mileage, fuel reports"
+ },
+ {
+  "id": "23726",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and verbal directions"
+ },
+ {
+  "id": "23727",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bus routes records"
+ },
+ {
+  "id": "23728",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bus heating, lighting, ventilation"
+ },
+ {
+  "id": "23729",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bus malfunction reports"
+ },
+ {
+  "id": "23730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delays and accidents reports by radio"
+ },
+ {
+  "id": "23731",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent student behavior reports"
+ },
+ {
+  "id": "18794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bus driving on scheduled routes"
+ },
+ {
+  "id": "18795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "elderly and disabled passengers boarding"
+ },
+ {
+  "id": "18796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "passenger emergencies and disruptions"
+ },
+ {
+  "id": "18797",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cash receipts, fares, log book"
+ },
+ {
+  "id": "18798",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "passenger tickets and cash fares"
+ },
+ {
+  "id": "18799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bus or coach cleanliness"
+ },
+ {
+  "id": "21085",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stop announcements to passengers"
+ },
+ {
+  "id": "21086",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps for bus route planning"
+ },
+ {
+  "id": "3144",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle and fluid levels before departure"
+ },
+ {
+  "id": "3146",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle parking at loading areas"
+ },
+ {
+  "id": "3148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delays or accidents reporting"
+ },
+ {
+  "id": "3149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passengers seated and orderly"
+ },
+ {
+  "id": "3150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bus heating, lighting, ventilation"
+ },
+ {
+  "id": "3151",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "baggage compartment loading"
+ },
+ {
+  "id": "23732",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer pickups on regular schedule"
+ },
+ {
+  "id": "23733",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle tires, brakes, lights, safety equipment"
+ },
+ {
+  "id": "23734",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "passenger fares and vouchers"
+ },
+ {
+  "id": "23735",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dispatcher communications and service requests"
+ },
+ {
+  "id": "23736",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "accident reports"
+ },
+ {
+  "id": "23737",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic regulations while driving"
+ },
+ {
+  "id": "23738",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "shuttles and limousines passenger driving"
+ },
+ {
+  "id": "23739",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vehicle operation safety regulations"
+ },
+ {
+  "id": "23740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "first-aid procedures knowledge"
+ },
+ {
+  "id": "23741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle problems notification"
+ },
+ {
+  "id": "23742",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wheelchair lift passenger securing"
+ },
+ {
+  "id": "23743",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer errands and packages"
+ },
+ {
+  "id": "23744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor vehicle repairs"
+ },
+ {
+  "id": "23745",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "routine vehicle maintenance"
+ },
+ {
+  "id": "23746",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers at scheduled neighborhood locations"
+ },
+ {
+  "id": "23747",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers meeting by request or schedule"
+ },
+ {
+  "id": "23748",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "passenger, trip, mileage, fare reports"
+ },
+ {
+  "id": "23749",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers entering vehicles and luggage"
+ },
+ {
+  "id": "23750",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local area information for passengers"
+ },
+ {
+  "id": "23751",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and verbal directions"
+ },
+ {
+  "id": "23752",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle routes records"
+ },
+ {
+  "id": "23753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle heating, lighting, ventilation"
+ },
+ {
+  "id": "23754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle malfunction reports"
+ },
+ {
+  "id": "23755",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delays and accidents by radio"
+ },
+ {
+  "id": "23756",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle lights, brakes, horns, wipers"
+ },
+ {
+  "id": "23757",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automobile interiors and exteriors"
+ },
+ {
+  "id": "23758",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "passenger fares and vouchers"
+ },
+ {
+  "id": "23759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dispatcher communications and service requests"
+ },
+ {
+  "id": "23760",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "accident reports"
+ },
+ {
+  "id": "23761",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trip fares from distance and time"
+ },
+ {
+  "id": "23762",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "taxi passenger driving"
+ },
+ {
+  "id": "23763",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vehicle operation safety regulations"
+ },
+ {
+  "id": "23764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle problems notification"
+ },
+ {
+  "id": "23765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor vehicle repairs"
+ },
+ {
+  "id": "23766",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "routine vehicle maintenance"
+ },
+ {
+  "id": "23767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers at stands or streets"
+ },
+ {
+  "id": "23768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers entering vehicles and luggage"
+ },
+ {
+  "id": "23769",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local area information for passengers"
+ },
+ {
+  "id": "23770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vehicle assignments at garage"
+ },
+ {
+  "id": "23771",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle lights, brakes, horns, wipers"
+ },
+ {
+  "id": "23772",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "taximeter on and off"
+ },
+ {
+  "id": "23773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "taxicab interiors and exteriors"
+ }
+]

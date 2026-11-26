@@ -1,0 +1,1578 @@
+[
+ {
+  "id": "13788",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance disassembly for diagnosis"
+ },
+ {
+  "id": "13789",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer repair invoices and payment"
+ },
+ {
+  "id": "13790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance electrical circuits and faults"
+ },
+ {
+  "id": "13791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "household appliance service and repair"
+ },
+ {
+  "id": "13792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn appliance parts"
+ },
+ {
+  "id": "13793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer reports of appliance malfunction"
+ },
+ {
+  "id": "13794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired appliance units"
+ },
+ {
+  "id": "13795",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appliance repair records"
+ },
+ {
+  "id": "13796",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "repair cost estimates and replacement advice"
+ },
+ {
+  "id": "13797",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "appliance parts inventory"
+ },
+ {
+  "id": "13798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance parts cleaning and reinstalling"
+ },
+ {
+  "id": "13799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating appliance malfunction signs"
+ },
+ {
+  "id": "13800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "newly installed appliance testing"
+ },
+ {
+  "id": "13801",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "schematics and manuals for diagnosis"
+ },
+ {
+  "id": "13802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer appliance operation instruction"
+ },
+ {
+  "id": "13803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new or reconditioned appliances assembly"
+ },
+ {
+  "id": "13804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installed appliance cleaning and touch-up"
+ },
+ {
+  "id": "13805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refrigerant recovery and recycling"
+ },
+ {
+  "id": "13806",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refrigerator leveling doors water lines"
+ },
+ {
+  "id": "13807",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance thermostat settings"
+ },
+ {
+  "id": "13808",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "washing machine leveling and hoses"
+ },
+ {
+  "id": "13809",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas pipes and water lines"
+ },
+ {
+  "id": "13810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency gas leak calls"
+ },
+ {
+  "id": "13811",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance installation"
+ },
+ {
+  "id": "13812",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair assignments from supervisors"
+ },
+ {
+  "id": "13813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas stove pilot lights and burners"
+ },
+ {
+  "id": "13814",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas pipelines leak testing"
+ },
+ {
+  "id": "13815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe cutting threading and connecting"
+ },
+ {
+  "id": "13816",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance fit measurements and carpentry"
+ },
+ {
+  "id": "11813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery disassembly for repair"
+ },
+ {
+  "id": "11814",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broken machinery components"
+ },
+ {
+  "id": "11815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "industrial machinery operating condition"
+ },
+ {
+  "id": "11816",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts defect examination"
+ },
+ {
+  "id": "11817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery reassembly after repair"
+ },
+ {
+  "id": "11818",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery malfunction diagnosis with testers"
+ },
+ {
+  "id": "11819",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired machinery verification operation"
+ },
+ {
+  "id": "11820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery parts cleaning lubricating adjusting"
+ },
+ {
+  "id": "11821",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test results and error messages"
+ },
+ {
+  "id": "11822",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair and maintenance records"
+ },
+ {
+  "id": "11823",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and manuals for installation"
+ },
+ {
+  "id": "11824",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts usage records and orders"
+ },
+ {
+  "id": "11825",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal parts cutting and welding"
+ },
+ {
+  "id": "11826",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "machine operators equipment demonstration"
+ },
+ {
+  "id": "11827",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer-controlled machinery programming"
+ },
+ {
+  "id": "23935",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work crew schedules"
+ },
+ {
+  "id": "11828",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine reassembly after repair"
+ },
+ {
+  "id": "11829",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine operation observation"
+ },
+ {
+  "id": "11830",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged machine parts inspection"
+ },
+ {
+  "id": "11831",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine lubrication and adhesives"
+ },
+ {
+  "id": "11832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts and attachments"
+ },
+ {
+  "id": "11833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine dismantling with hoists"
+ },
+ {
+  "id": "11834",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production and maintenance records"
+ },
+ {
+  "id": "11835",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and specifications"
+ },
+ {
+  "id": "11836",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine setup and operation"
+ },
+ {
+  "id": "11837",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "coworker collaboration moving machines"
+ },
+ {
+  "id": "11838",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine parts inventory requisitions"
+ },
+ {
+  "id": "11839",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts transport"
+ },
+ {
+  "id": "11840",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn parts and refuse removal"
+ },
+ {
+  "id": "11841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines cleaning"
+ },
+ {
+  "id": "11842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine linings and compartments"
+ },
+ {
+  "id": "11843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardened material on machines"
+ },
+ {
+  "id": "11844",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical cleaning solutions"
+ },
+ {
+  "id": "11845",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine containers refilling"
+ },
+ {
+  "id": "18785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine preventive maintenance and lubrication"
+ },
+ {
+  "id": "18786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment welding and fabrication"
+ },
+ {
+  "id": "18787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts cutting and dismantling"
+ },
+ {
+  "id": "18788",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment electrical hydraulic troubleshooting"
+ },
+ {
+  "id": "21083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine alignment using hoists"
+ },
+ {
+  "id": "3041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts clearances and alignment"
+ },
+ {
+  "id": "3043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power unit connection and testing"
+ },
+ {
+  "id": "3045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment assembly and installation"
+ },
+ {
+  "id": "3046",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel beams under bedplates"
+ },
+ {
+  "id": "3047",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crane operator signaling"
+ },
+ {
+  "id": "3048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shims bolts and clearances"
+ },
+ {
+  "id": "3049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery moving with hoists"
+ },
+ {
+  "id": "3050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moving parts attached to assembly"
+ },
+ {
+  "id": "3051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine assembly and fastening"
+ },
+ {
+  "id": "3052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mounting holes layout and drilling"
+ },
+ {
+  "id": "3053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plates and journals bolting"
+ },
+ {
+  "id": "3054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bedplate leveling and centerline"
+ },
+ {
+  "id": "3055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine dismantling with hand tools"
+ },
+ {
+  "id": "3056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bushings gears shrink-fitting"
+ },
+ {
+  "id": "3057",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "machinery dismantling for shipment"
+ },
+ {
+  "id": "3058",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine foundation construction"
+ },
+ {
+  "id": "3059",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robot installation and programming"
+ },
+ {
+  "id": "3060",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts lathe machining"
+ },
+ {
+  "id": "13819",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ladle and spout refractory relining"
+ },
+ {
+  "id": "13820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slag from ladle linings"
+ },
+ {
+  "id": "13821",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refractory clay and mortar mixing"
+ },
+ {
+  "id": "13822",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furnace wall measuring and cutting block"
+ },
+ {
+  "id": "13824",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new linings drying and baking"
+ },
+ {
+  "id": "13825",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn furnace refractory linings"
+ },
+ {
+  "id": "13827",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cupola surfaces spray refractory"
+ },
+ {
+  "id": "13829",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stopper heads and rods mortar"
+ },
+ {
+  "id": "13830",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clay tamped into molds"
+ },
+ {
+  "id": "13832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clay structures to ovens forklift"
+ },
+ {
+  "id": "8412",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "work area safety barriers equipment"
+ },
+ {
+  "id": "8413",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power line switches and grounding"
+ },
+ {
+  "id": "8414",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pole and bucket climbing"
+ },
+ {
+  "id": "8415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "insulation over conductors and joints"
+ },
+ {
+  "id": "8416",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical distribution and transmission systems"
+ },
+ {
+  "id": "8417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective electrical devices diagnosis"
+ },
+ {
+  "id": "8418",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle driving to job sites"
+ },
+ {
+  "id": "8419",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "crew work assignment coordination"
+ },
+ {
+  "id": "8420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power lines inspection and testing"
+ },
+ {
+  "id": "8421",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire conductors strung between poles"
+ },
+ {
+  "id": "8422",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conductors testing before connection"
+ },
+ {
+  "id": "8423",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged poles replacement"
+ },
+ {
+  "id": "8424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "watt-hour meters and service drops"
+ },
+ {
+  "id": "8425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cross-arms and insulators on poles"
+ },
+ {
+  "id": "8426",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power lines inspection by travel"
+ },
+ {
+  "id": "8427",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pole holes digging and setting"
+ },
+ {
+  "id": "8428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous trees near wires"
+ },
+ {
+  "id": "8429",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable splicing and soldering"
+ },
+ {
+  "id": "8430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable sheathing and insulation removal"
+ },
+ {
+  "id": "8431",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conductors cleaning tinning splicing"
+ },
+ {
+  "id": "8432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable pulling from reels"
+ },
+ {
+  "id": "8433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underground cable laying in trenches"
+ },
+ {
+  "id": "8434",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable trenches cutting"
+ },
+ {
+  "id": "11846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer premises equipment installation repair"
+ },
+ {
+  "id": "11847",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "line test results and faults"
+ },
+ {
+  "id": "11848",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable splicing"
+ },
+ {
+  "id": "11849",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "signal strength at poles"
+ },
+ {
+  "id": "11850",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer service setup and testing"
+ },
+ {
+  "id": "11851",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conductor insulation and splice sealing"
+ },
+ {
+  "id": "11852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "line stringing and terminal boxes"
+ },
+ {
+  "id": "11853",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables strung and tensioned"
+ },
+ {
+  "id": "11854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "amplifiers and repeaters installation"
+ },
+ {
+  "id": "11855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underground cable in trenches"
+ },
+ {
+  "id": "11857",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools and test equipment upkeep"
+ },
+ {
+  "id": "11858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "subscriber service explanation and fees"
+ },
+ {
+  "id": "11859",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wire impedance computation"
+ },
+ {
+  "id": "11860",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction equipment for installations"
+ },
+ {
+  "id": "11861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trenches for underground cables"
+ },
+ {
+  "id": "11862",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pole holes and setting poles"
+ },
+ {
+  "id": "11863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holes filling and tamping"
+ },
+ {
+  "id": "20806",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable pulling from reels"
+ },
+ {
+  "id": "20807",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable pulling through ducts"
+ },
+ {
+  "id": "20808",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft camera housings electrical assemblies"
+ },
+ {
+  "id": "8435",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "light meters and shutter calibration"
+ },
+ {
+  "id": "8436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment disassembly to find defects"
+ },
+ {
+  "id": "8437",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "camera mechanisms and lens adjustment"
+ },
+ {
+  "id": "8438",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cameras cleaning lubricating lens polishing"
+ },
+ {
+  "id": "8439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts dimensions and camera settings"
+ },
+ {
+  "id": "8440",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "camera equipment performance testing"
+ },
+ {
+  "id": "8441",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "camera malfunction diagnosis from reports"
+ },
+ {
+  "id": "8442",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts requisitions"
+ },
+ {
+  "id": "8443",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering drawings and specifications"
+ },
+ {
+  "id": "8444",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective components fabrication on machines"
+ },
+ {
+  "id": "8445",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cameras and photographic equipment assembly"
+ },
+ {
+  "id": "8447",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test data and fabrication reports"
+ },
+ {
+  "id": "8448",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machining reference points on parts"
+ },
+ {
+  "id": "8449",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "photographic equipment design change recommendations"
+ },
+ {
+  "id": "23980",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical equipment troubleshooting and testing"
+ },
+ {
+  "id": "23981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical equipment installation"
+ },
+ {
+  "id": "3062",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "medical equipment safety hazards compliance"
+ },
+ {
+  "id": "3063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "malfunctioning equipment parts replacement"
+ },
+ {
+  "id": "3064",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment maintenance records"
+ },
+ {
+  "id": "3065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical equipment preventive maintenance"
+ },
+ {
+  "id": "3066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment components calibration testing"
+ },
+ {
+  "id": "3067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff equipment operation demonstration"
+ },
+ {
+  "id": "3068",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical manuals and training"
+ },
+ {
+  "id": "3069",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "work assignments from technical documents"
+ },
+ {
+  "id": "3070",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loose connections soldering"
+ },
+ {
+  "id": "3071",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "excess equipment serviceability classification"
+ },
+ {
+  "id": "3072",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair parts catalogs and requisitions"
+ },
+ {
+  "id": "3073",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment technical specifications evaluation"
+ },
+ {
+  "id": "3074",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "maintenance standard operating procedures"
+ },
+ {
+  "id": "3075",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power and space requirements installation"
+ },
+ {
+  "id": "3076",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinate personnel supervision"
+ },
+ {
+  "id": "3077",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shop equipment and furniture repair"
+ },
+ {
+  "id": "3078",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wiring load computations"
+ },
+ {
+  "id": "3079",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment modification for unique needs"
+ },
+ {
+  "id": "11865",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument sound quality evaluation"
+ },
+ {
+  "id": "11866",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "string tension tuning"
+ },
+ {
+  "id": "11867",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument disassembly"
+ },
+ {
+  "id": "11868",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "instrument defects and value inspection"
+ },
+ {
+  "id": "11869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cracks in instruments"
+ },
+ {
+  "id": "11870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument reassembly after repair"
+ },
+ {
+  "id": "11871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument pitch tuning comparison"
+ },
+ {
+  "id": "11872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "strings bridges and trusses"
+ },
+ {
+  "id": "11873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument strings keys and parts"
+ },
+ {
+  "id": "11874",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument polishing"
+ },
+ {
+  "id": "11875",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument parts shaping for tone"
+ },
+ {
+  "id": "11876",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacement wood parts"
+ },
+ {
+  "id": "11877",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "glue for instrument repair"
+ },
+ {
+  "id": "11878",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wind instrument pads and keys"
+ },
+ {
+  "id": "11879",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "piano felt hammers"
+ },
+ {
+  "id": "11880",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument posts and parts soldering"
+ },
+ {
+  "id": "11881",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dents and burrs in instruments"
+ },
+ {
+  "id": "11882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal instruments lacquer stripping"
+ },
+ {
+  "id": "11884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument refinishing and varnish"
+ },
+ {
+  "id": "11885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "piano delivery"
+ },
+ {
+  "id": "11887",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "piano cabinets refinishing"
+ },
+ {
+  "id": "11891",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "piano pins strings hammers irregularities"
+ },
+ {
+  "id": "11896",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument bar tones evaluation"
+ },
+ {
+  "id": "11898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe organs and pianos installation"
+ }
+]

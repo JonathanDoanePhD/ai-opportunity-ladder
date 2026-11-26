@@ -1,0 +1,1434 @@
+[
+ {
+  "id": "10865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employment practices and discrimination allegations"
+ },
+ {
+  "id": "10866",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "civil rights law interpretation"
+ },
+ {
+  "id": "10867",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equal opportunity complaint issues"
+ },
+ {
+  "id": "10869",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "complaint handling procedures"
+ },
+ {
+  "id": "10870",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "selection statistics and corrective recommendations"
+ },
+ {
+  "id": "10871",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "workplace survey discrimination analysis"
+ },
+ {
+  "id": "10873",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company contracts for equal opportunity terms"
+ },
+ {
+  "id": "10874",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "newly hired employees and civil rights"
+ },
+ {
+  "id": "10875",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supervisor training on employment topics"
+ },
+ {
+  "id": "10876",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job description regulatory compliance"
+ },
+ {
+  "id": "10878",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community technical assistance agreements"
+ },
+ {
+  "id": "10879",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "search committees and coordinator role"
+ },
+ {
+  "id": "10880",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "recruitment events and outreach"
+ },
+ {
+  "id": "20719",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equal opportunity investigation reports"
+ },
+ {
+  "id": "20720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "complaint witnesses and case information"
+ },
+ {
+  "id": "20721",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "complaint disputes between parties"
+ },
+ {
+  "id": "20722",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nondiscriminatory employment guidelines"
+ },
+ {
+  "id": "20723",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "guideline implementation and impact"
+ },
+ {
+  "id": "12890",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection reports and correspondence"
+ },
+ {
+  "id": "12891",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records and documents for discrepancies"
+ },
+ {
+  "id": "12892",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "investigations of suspected offenders"
+ },
+ {
+  "id": "12893",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "case evidence"
+ },
+ {
+  "id": "12894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manufactured products against specifications"
+ },
+ {
+  "id": "12895",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "law enforcement agency coordination"
+ },
+ {
+  "id": "12896",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "investigation findings in court"
+ },
+ {
+  "id": "12898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "government equipment held by contractors"
+ },
+ {
+  "id": "12899",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal action to protect property"
+ },
+ {
+  "id": "12900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples sent to laboratories"
+ },
+ {
+  "id": "20843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "government property and construction sites"
+ },
+ {
+  "id": "20844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "license and permit violations"
+ },
+ {
+  "id": "20845",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "special license and permit applications"
+ },
+ {
+  "id": "20181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "autopsy and laboratory workers"
+ },
+ {
+  "id": "8912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bodies in medicolegal examinations"
+ },
+ {
+  "id": "8913",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "causes and circumstances of deaths"
+ },
+ {
+  "id": "8915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "death certificates and cause of death"
+ },
+ {
+  "id": "8916",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "body positions and evidence conditions"
+ },
+ {
+  "id": "8917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "decedent medical history"
+ },
+ {
+  "id": "8918",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "objects related to deaths"
+ },
+ {
+  "id": "8919",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case-finalizing reports and forms"
+ },
+ {
+  "id": "8920",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bodies at death scenes"
+ },
+ {
+  "id": "8921",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "witnesses at death scenes"
+ },
+ {
+  "id": "8922",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "inquest and trial testimony"
+ },
+ {
+  "id": "8923",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "relatives of the deceased"
+ },
+ {
+  "id": "8924",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "next of kin records"
+ },
+ {
+  "id": "8925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public health and police officials"
+ },
+ {
+  "id": "8926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "personal effects from bodies"
+ },
+ {
+  "id": "8927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "release of effects and unclaimed remains"
+ },
+ {
+  "id": "8928",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "next of kin notification"
+ },
+ {
+  "id": "8929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "minor children care arrangements"
+ },
+ {
+  "id": "8930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "wills and burial documents"
+ },
+ {
+  "id": "8931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "judicially ordered death certification"
+ },
+ {
+  "id": "18045",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "regulatory agencies and submission strategies"
+ },
+ {
+  "id": "18048",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory submissions"
+ },
+ {
+  "id": "18049",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory rule changes"
+ },
+ {
+  "id": "18050",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data for submission accuracy"
+ },
+ {
+  "id": "18051",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labeling and promotional materials compliance"
+ },
+ {
+  "id": "18052",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project teams on regulatory requirements"
+ },
+ {
+  "id": "18053",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory documentation databases"
+ },
+ {
+  "id": "18054",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory document preparation efforts"
+ },
+ {
+  "id": "18055",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "required regulatory submission types"
+ },
+ {
+  "id": "18056",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee regulatory training"
+ },
+ {
+  "id": "18058",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emerging regulations and guidance knowledge"
+ },
+ {
+  "id": "18059",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "updated laws and standards information"
+ },
+ {
+  "id": "18060",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "internal and external audits"
+ },
+ {
+  "id": "18061",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory agency information requests"
+ },
+ {
+  "id": "18062",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical files for product approval"
+ },
+ {
+  "id": "18063",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "company procedures after regulation changes"
+ },
+ {
+  "id": "18064",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer regulatory information requests"
+ },
+ {
+  "id": "18065",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical protocols data needs"
+ },
+ {
+  "id": "18066",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "standard operating procedures"
+ },
+ {
+  "id": "18067",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product recall activities"
+ },
+ {
+  "id": "18068",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality metrics"
+ },
+ {
+  "id": "18069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "laboratory samples for agencies"
+ },
+ {
+  "id": "18070",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "adverse drug reaction reports"
+ },
+ {
+  "id": "19552",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "packaging waste regulations"
+ },
+ {
+  "id": "19553",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazardous waste requirements"
+ },
+ {
+  "id": "19554",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ozone-depleting substance legal implications"
+ },
+ {
+  "id": "19557",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "agricultural biotechnology regulations"
+ },
+ {
+  "id": "21094",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "guidance documents and standards"
+ },
+ {
+  "id": "21095",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "government inspectors during inspections"
+ },
+ {
+  "id": "21096",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product complaint adjudication"
+ },
+ {
+  "id": "15924",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client documents under power of attorney"
+ },
+ {
+  "id": "15925",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "shipping options and carriers"
+ },
+ {
+  "id": "15926",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "import bonds"
+ },
+ {
+  "id": "15927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cargo insurance"
+ },
+ {
+  "id": "15928",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "line releases for shippers"
+ },
+ {
+  "id": "15929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "freight forwarder contracts"
+ },
+ {
+  "id": "15930",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transport and warehousing for shipments"
+ },
+ {
+  "id": "15931",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product packaging and labeling methods"
+ },
+ {
+  "id": "15932",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "import documentation"
+ },
+ {
+  "id": "15933",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "import export law changes"
+ },
+ {
+  "id": "15934",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duty and tax rate quotes"
+ },
+ {
+  "id": "15935",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duty appeal papers"
+ },
+ {
+  "id": "15936",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duty and tax payments"
+ },
+ {
+  "id": "15937",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment location tracking"
+ },
+ {
+  "id": "15938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "port broker relationships"
+ },
+ {
+  "id": "15939",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "duty reduction steps for importers"
+ },
+ {
+  "id": "15940",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agency officials on goods clearance"
+ },
+ {
+  "id": "15941",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods tariff classification"
+ },
+ {
+  "id": "15942",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duty and tariff amounts"
+ },
+ {
+  "id": "15943",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tariff concessions and refund applications"
+ },
+ {
+  "id": "15944",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "import export restrictions for customers"
+ },
+ {
+  "id": "15945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "import export documentation"
+ },
+ {
+  "id": "15946",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "goods clearing through customs"
+ },
+ {
+  "id": "20846",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "historical cost data"
+ },
+ {
+  "id": "80",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints for cost estimates"
+ },
+ {
+  "id": "81",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost effectiveness versus bids"
+ },
+ {
+  "id": "82",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients and vendors on estimates"
+ },
+ {
+  "id": "83",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "estimate changes with project parties"
+ },
+ {
+  "id": "84",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "management planning estimates"
+ },
+ {
+  "id": "85",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vendor and subcontractor estimates"
+ },
+ {
+  "id": "86",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "make-or-buy component costs"
+ },
+ {
+  "id": "87",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project cost and expenditure statements"
+ },
+ {
+  "id": "88",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier and contractor directory"
+ },
+ {
+  "id": "89",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost monitoring systems"
+ },
+ {
+  "id": "90",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "tendering process and negotiations"
+ },
+ {
+  "id": "91",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "standard hour and cost studies"
+ },
+ {
+  "id": "92",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction site access and utilities"
+ },
+ {
+  "id": "18852",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee harassment and work complaints"
+ },
+ {
+  "id": "18853",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employment data and required reports"
+ },
+ {
+  "id": "18854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departing employees and termination paperwork"
+ },
+ {
+  "id": "18855",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicant references and backgrounds"
+ },
+ {
+  "id": "18856",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel policies with management"
+ },
+ {
+  "id": "18857",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicant status notifications"
+ },
+ {
+  "id": "18858",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recruiting strategies for staffing needs"
+ },
+ {
+  "id": "18859",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new employees and hiring paperwork"
+ },
+ {
+  "id": "18860",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "applicant job and benefit details"
+ },
+ {
+  "id": "18861",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "human resources policies and laws"
+ },
+ {
+  "id": "18862",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "job applicants work history"
+ },
+ {
+  "id": "18863",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "handbooks and organizational charts"
+ },
+ {
+  "id": "18864",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equal employment laws knowledge"
+ },
+ {
+  "id": "18865",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "qualified job candidate searches"
+ },
+ {
+  "id": "18866",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employment event records in software"
+ },
+ {
+  "id": "18867",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "managers on interviewing and appraisals"
+ },
+ {
+  "id": "18868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applications against job requirements"
+ },
+ {
+  "id": "18869",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "employee tests scheduling and administration"
+ },
+ {
+  "id": "18870",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new employee orientations"
+ },
+ {
+  "id": "18871",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "job applicants for hiring"
+ },
+ {
+  "id": "18872",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "management on recruiting and retention"
+ },
+ {
+  "id": "18873",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "temporary staffing agencies"
+ },
+ {
+  "id": "18874",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recruitment selection criteria standards"
+ },
+ {
+  "id": "18875",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "selection testing technique effectiveness"
+ },
+ {
+  "id": "18876",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicant licensing qualifications"
+ },
+ {
+  "id": "21097",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee benefit plans"
+ },
+ {
+  "id": "14838",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "farm laborer wages"
+ },
+ {
+  "id": "14839",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food water sanitation for workers"
+ },
+ {
+  "id": "14840",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "agricultural workers recruiting"
+ },
+ {
+  "id": "14841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "foremen directing workers"
+ },
+ {
+  "id": "14842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "contracted farm employees"
+ },
+ {
+  "id": "14843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools for workers"
+ },
+ {
+  "id": "14844",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workers transported to sites"
+ },
+ {
+  "id": "18877",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management on contracts and discipline"
+ },
+ {
+  "id": "18878",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "union and company labor discussions"
+ },
+ {
+  "id": "18879",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bargaining contract proposals"
+ },
+ {
+  "id": "18880",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "collective bargaining rules"
+ },
+ {
+  "id": "18881",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "alternatives to labor proposals"
+ },
+ {
+  "id": "18882",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "collective bargaining agreement terms"
+ },
+ {
+  "id": "18883",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "union complaints viability"
+ },
+ {
+  "id": "18884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employer and employee representatives disputes"
+ },
+ {
+  "id": "18885",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "workforce adherence to labor agreements"
+ },
+ {
+  "id": "18886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collective bargaining agreements"
+ },
+ {
+  "id": "18887",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "governmental labor relations forms"
+ },
+ {
+  "id": "18888",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee satisfaction reports"
+ },
+ {
+  "id": "18889",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "company or labor position at arbitration"
+ },
+ {
+  "id": "18890",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "labor negotiation resolutions"
+ },
+ {
+  "id": "18891",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bargaining strategies and goals"
+ },
+ {
+  "id": "18892",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee disciplinary actions"
+ },
+ {
+  "id": "18893",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employer practices for contract compliance"
+ },
+ {
+  "id": "18894",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "grievance hearing scheduling"
+ },
+ {
+  "id": "18895",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "labor relations letters"
+ },
+ {
+  "id": "18896",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bargaining strategy risk levels"
+ },
+ {
+  "id": "18897",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "union proposals operational impact"
+ },
+ {
+  "id": "18898",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee health and safety policies"
+ },
+ {
+  "id": "18899",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee satisfaction monitoring methods"
+ },
+ {
+  "id": "18900",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disciplinary hearing evidence and witnesses"
+ },
+ {
+  "id": "18901",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "labor relations expert testimony"
+ },
+ {
+  "id": "18902",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case law and hearing outcomes"
+ },
+ {
+  "id": "18903",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mediators and arbitrators selection"
+ },
+ {
+  "id": "18904",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "managers on labor relations topics"
+ }
+]

@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "11362",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "products and work process conformance"
+ },
+ {
+  "id": "11363",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules and work orders"
+ },
+ {
+  "id": "11364",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "progress talks with supervisors"
+ },
+ {
+  "id": "11365",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production schedules under disruptions"
+ },
+ {
+  "id": "11366",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordination with vendors and customers"
+ },
+ {
+  "id": "11367",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production volume and material data"
+ },
+ {
+  "id": "11368",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material and supply inventory requisitions"
+ },
+ {
+  "id": "11369",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor, material, cost figures"
+ },
+ {
+  "id": "11370",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules to departments"
+ },
+ {
+  "id": "11371",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production status report data"
+ },
+ {
+  "id": "11372",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "delivery of parts and supplies"
+ },
+ {
+  "id": "11373",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier shipment details"
+ },
+ {
+  "id": "11374",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance and cost record files"
+ },
+ {
+  "id": "11375",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production timetables from forecasts"
+ },
+ {
+  "id": "11376",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production construction directions and costs"
+ },
+ {
+  "id": "11377",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production sequencing and order documents"
+ },
+ {
+  "id": "11378",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delay and cost change explanations"
+ },
+ {
+  "id": "19834",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping route environmental impact"
+ },
+ {
+  "id": "20276",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shipment contents versus manifests"
+ },
+ {
+  "id": "20277",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packages for shipping"
+ },
+ {
+  "id": "20278",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials moved between departments"
+ },
+ {
+  "id": "20279",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping methods, routes, rates"
+ },
+ {
+  "id": "4737",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping and routing documents"
+ },
+ {
+  "id": "4739",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment weight and discrepancy data"
+ },
+ {
+  "id": "4740",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "carrier arrangements and instructions"
+ },
+ {
+  "id": "4741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "shipment damage and shortage problems"
+ },
+ {
+  "id": "4742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shipping supply stock"
+ },
+ {
+  "id": "4744",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping and storage charge amounts"
+ },
+ {
+  "id": "11379",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measurement labels on products"
+ },
+ {
+  "id": "11380",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quantity, quality, weight records"
+ },
+ {
+  "id": "11381",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "labels versus shipping documents"
+ },
+ {
+  "id": "11382",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received and shipped item counts"
+ },
+ {
+  "id": "11383",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials weighed and measured"
+ },
+ {
+  "id": "11384",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer and vendor information exchange"
+ },
+ {
+  "id": "11386",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples for lab"
+ },
+ {
+  "id": "11387",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming shipments"
+ },
+ {
+  "id": "11388",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scalehouse weight data"
+ },
+ {
+  "id": "11389",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product orders and samples"
+ },
+ {
+  "id": "11390",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products sorted into groupings"
+ },
+ {
+  "id": "11391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workers moving or checking products"
+ },
+ {
+  "id": "11393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished product sample storage"
+ },
+ {
+  "id": "11394",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "substandard products removed from stock"
+ },
+ {
+  "id": "11395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scale house work areas"
+ },
+ {
+  "id": "11397",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products for damage and defects"
+ },
+ {
+  "id": "11398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials moved to storage areas"
+ },
+ {
+  "id": "11400",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "defect and rejection records"
+ },
+ {
+  "id": "18573",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "incoming phone calls"
+ },
+ {
+  "id": "18574",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "office supplies and records"
+ },
+ {
+  "id": "18575",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting agendas and arrangements"
+ },
+ {
+  "id": "18576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "office services for executives"
+ },
+ {
+  "id": "18577",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "other departments' clerical work"
+ },
+ {
+  "id": "18578",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll data"
+ },
+ {
+  "id": "18579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clerical staff training and supervision"
+ },
+ {
+  "id": "2770",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "executive calendar"
+ },
+ {
+  "id": "2771",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business documents and reports"
+ },
+ {
+  "id": "2772",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incoming memos and reports"
+ },
+ {
+  "id": "2773",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incoming mail and email"
+ },
+ {
+  "id": "2774",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "corporate documents and records"
+ },
+ {
+  "id": "2775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visitors at the front desk"
+ },
+ {
+  "id": "2776",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "routine correspondence replies"
+ },
+ {
+  "id": "2779",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "executive travel bookings"
+ },
+ {
+  "id": "2780",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research papers for boards"
+ },
+ {
+  "id": "2781",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting minutes"
+ },
+ {
+  "id": "2782",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "meeting minutes taken in person"
+ },
+ {
+  "id": "2784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "meetings on behalf of executives"
+ },
+ {
+  "id": "2785",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "office administrative policies"
+ },
+ {
+  "id": "2787",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "office workflow and expenses"
+ },
+ {
+  "id": "2788",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "policies explained to employees"
+ },
+ {
+  "id": "18780",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client invoices"
+ },
+ {
+  "id": "21078",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legal court documents"
+ },
+ {
+  "id": "21079",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attorney travel bookings"
+ },
+ {
+  "id": "764",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "legal correspondence delivery"
+ },
+ {
+  "id": "765",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "telephone calls"
+ },
+ {
+  "id": "766",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointments"
+ },
+ {
+  "id": "767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photocopies of documents"
+ },
+ {
+  "id": "768",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "law library and case files"
+ },
+ {
+  "id": "769",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "records for attorney cases"
+ },
+ {
+  "id": "770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "legal meeting notes"
+ },
+ {
+  "id": "771",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "office memos"
+ },
+ {
+  "id": "772",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laws and court decisions"
+ },
+ {
+  "id": "773",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "search results for attorneys"
+ },
+ {
+  "id": "774",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client forms and reports"
+ },
+ {
+  "id": "20438",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient test scheduling"
+ },
+ {
+  "id": "775",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient appointments"
+ },
+ {
+  "id": "776",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical charts and reports"
+ },
+ {
+  "id": "777",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "telephone calls"
+ },
+ {
+  "id": "778",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "messages and lab results"
+ },
+ {
+  "id": "779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visitors at clinic"
+ },
+ {
+  "id": "780",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patients for intake forms"
+ },
+ {
+  "id": "781",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical records and files"
+ },
+ {
+  "id": "782",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports and invoices using software"
+ },
+ {
+  "id": "783",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records sent by mail or email"
+ },
+ {
+  "id": "784",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "office supplies inventory"
+ },
+ {
+  "id": "786",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recorded diagnoses into records"
+ },
+ {
+  "id": "787",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "billing and financial records"
+ },
+ {
+  "id": "788",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance claim forms"
+ },
+ {
+  "id": "789",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physician reports and articles"
+ },
+ {
+  "id": "20280",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database and word processing work"
+ },
+ {
+  "id": "20281",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database information"
+ },
+ {
+  "id": "20282",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "filing systems and documents"
+ },
+ {
+  "id": "20283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "office equipment and repairs"
+ },
+ {
+  "id": "20284",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "notes, correspondence, and reports"
+ },
+ {
+  "id": "20285",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll timekeeping"
+ },
+ {
+  "id": "20286",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash deposits and account balances"
+ },
+ {
+  "id": "20287",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "conferences and special events"
+ },
+ {
+  "id": "20288",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company web sites"
+ },
+ {
+  "id": "20289",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff computer use"
+ },
+ {
+  "id": "20290",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event flyers and invitations"
+ },
+ {
+  "id": "2790",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "phone callers and messages"
+ },
+ {
+  "id": "2791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visitors and callers"
+ },
+ {
+  "id": "2793",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "files for incoming correspondence"
+ },
+ {
+  "id": "2794",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "incoming mail and routine letters"
+ },
+ {
+  "id": "2795",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company forms"
+ },
+ {
+  "id": "2796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "copies of printed material"
+ },
+ {
+  "id": "2797",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "colleagues' work spelling and format"
+ },
+ {
+  "id": "2799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new office technologies"
+ },
+ {
+  "id": "2800",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event and scheduling calendars"
+ },
+ {
+  "id": "2801",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointments"
+ },
+ {
+  "id": "2802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "projects and committee work"
+ },
+ {
+  "id": "2803",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mailed newsletters and materials"
+ },
+ {
+  "id": "2804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "office supplies"
+ },
+ {
+  "id": "2805",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "information searches online"
+ },
+ {
+  "id": "2806",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer orders and account information"
+ },
+ {
+  "id": "2808",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "checks"
+ },
+ {
+  "id": "2809",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clerical staff work schedules"
+ },
+ {
+  "id": "2812",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conference and travel reservations"
+ },
+ {
+  "id": "2813",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "email systems and information flow"
+ },
+ {
+  "id": "2814",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clerical staff supervision and training"
+ },
+ {
+  "id": "11401",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "source documents into data fields"
+ },
+ {
+  "id": "11402",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data before entry"
+ },
+ {
+  "id": "11403",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data versus source documents"
+ },
+ {
+  "id": "11404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed documents stored"
+ },
+ {
+  "id": "11405",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data entry errors"
+ },
+ {
+  "id": "11406",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "activity and work logs"
+ },
+ {
+  "id": "11407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials for work assignments"
+ },
+ {
+  "id": "11408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines loaded with media"
+ },
+ {
+  "id": "11409",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "garbled messages"
+ },
+ {
+  "id": "21014",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting and appointment schedules"
+ },
+ {
+  "id": "790",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "completed work spelling and format"
+ },
+ {
+  "id": "791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "miscellaneous clerical duties"
+ },
+ {
+  "id": "792",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material to be typed"
+ },
+ {
+  "id": "793",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence and reports typed"
+ },
+ {
+  "id": "794",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document files"
+ },
+ {
+  "id": "795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "printed copies"
+ },
+ {
+  "id": "796",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records of work performed"
+ },
+ {
+  "id": "797",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "report and bill totals"
+ },
+ {
+  "id": "798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "report pages collated"
+ },
+ {
+  "id": "799",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "text and numerical data"
+ },
+ {
+  "id": "800",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document formatting"
+ },
+ {
+  "id": "801",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stored character searches"
+ },
+ {
+  "id": "802",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document format settings"
+ },
+ {
+  "id": "803",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "envelopes and labels"
+ },
+ {
+  "id": "804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "printers and computers resupplied"
+ },
+ {
+  "id": "805",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work transmitted electronically"
+ },
+ {
+  "id": "806",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical tables and reports"
+ },
+ {
+  "id": "807",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "data scanned into computers"
+ },
+ {
+  "id": "2815",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publication proofs for errors"
+ },
+ {
+  "id": "2816",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publication layouts"
+ },
+ {
+  "id": "2817",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work-in-progress monitor feedback"
+ },
+ {
+  "id": "2818",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "text typed with type styles"
+ },
+ {
+  "id": "2819",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publication copies"
+ },
+ {
+  "id": "2820",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "text and art page layout"
+ },
+ {
+  "id": "2821",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "digitized data into prepress"
+ },
+ {
+  "id": "2822",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "graphics and photo editing"
+ },
+ {
+  "id": "2823",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "text and art files imported"
+ },
+ {
+  "id": "2824",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sample layouts for approval"
+ },
+ {
+  "id": "2825",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layout and design instructions"
+ },
+ {
+  "id": "2826",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "disks or tapes loaded"
+ },
+ {
+  "id": "2827",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "file conversion for print or web"
+ },
+ {
+  "id": "2828",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image coordinates and color settings"
+ },
+ {
+  "id": "2829",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "color separations"
+ },
+ {
+  "id": "2830",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publication master to printer"
+ },
+ {
+  "id": "2831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design collaboration with creatives"
+ },
+ {
+  "id": "2832",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image effects and animation"
+ },
+ {
+  "id": "23313",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance claim forms"
+ },
+ {
+  "id": "23314",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim amount"
+ },
+ {
+  "id": "23315",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim file information"
+ },
+ {
+  "id": "23316",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claims transmitted for payment"
+ },
+ {
+  "id": "23317",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "missing claim information from insured"
+ },
+ {
+  "id": "23318",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policy coverage"
+ },
+ {
+  "id": "23319",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new policies and claims"
+ },
+ {
+  "id": "23320",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "detailed office records"
+ },
+ {
+  "id": "23321",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "claimants needing instructions or referrals"
+ },
+ {
+  "id": "23322",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insured and agent correspondence"
+ },
+ {
+  "id": "23323",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "application and policy data"
+ },
+ {
+  "id": "23324",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policy reinstatement approval"
+ },
+ {
+  "id": "23325",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policyholder letters and applications"
+ },
+ {
+  "id": "23326",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data into worksheets and computer"
+ },
+ {
+  "id": "23327",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policy cancellation notices"
+ },
+ {
+  "id": "23328",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "small claim payments"
+ },
+ {
+  "id": "23329",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance forms and applications"
+ },
+ {
+  "id": "23330",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "initial premiums and receipts"
+ },
+ {
+  "id": "23332",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients and claim calls"
+ },
+ {
+  "id": "23333",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policy cancellation records"
+ },
+ {
+  "id": "23334",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business correspondence for managers"
+ },
+ {
+  "id": "23336",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "premiums, refunds, commissions"
+ },
+ {
+  "id": "23337",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claims data into databases"
+ },
+ {
+  "id": "23338",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing policies and claims"
+ },
+ {
+  "id": "23339",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policyholder files"
+ }
+]

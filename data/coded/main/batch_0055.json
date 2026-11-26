@@ -1,0 +1,1530 @@
+[
+ {
+  "id": "18702",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crash cart medical supplies"
+ },
+ {
+  "id": "18703",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and equipment usage records"
+ },
+ {
+  "id": "4291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgical instrument trays"
+ },
+ {
+  "id": "4292",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "used surgical instruments"
+ },
+ {
+  "id": "4293",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steam autoclaves and load logs"
+ },
+ {
+  "id": "4294",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sterilizer test result records"
+ },
+ {
+  "id": "4295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hospital equipment for sterilization"
+ },
+ {
+  "id": "4296",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment gauges and operation"
+ },
+ {
+  "id": "4297",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment wear and leaks"
+ },
+ {
+  "id": "4298",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "defective equipment reports to supervisors"
+ },
+ {
+  "id": "4299",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sterile supply expiration dates"
+ },
+ {
+  "id": "4301",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hospital in-service training attendance"
+ },
+ {
+  "id": "4302",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment waste flushing"
+ },
+ {
+  "id": "4303",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment delivery to locations"
+ },
+ {
+  "id": "4304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "hospital patient care assistance"
+ },
+ {
+  "id": "20254",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dictated speech to text"
+ },
+ {
+  "id": "9413",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical dictation transcription"
+ },
+ {
+  "id": "9414",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transcribed report text quality"
+ },
+ {
+  "id": "9415",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical homonyms and term errors"
+ },
+ {
+  "id": "9416",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "finished transcribed reports"
+ },
+ {
+  "id": "9417",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical abbreviations expansion"
+ },
+ {
+  "id": "9419",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "report errors queried with doctors"
+ },
+ {
+  "id": "9420",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical record data entry"
+ },
+ {
+  "id": "9421",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical reports and administrative material"
+ },
+ {
+  "id": "9422",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "inquiries about medical case progress"
+ },
+ {
+  "id": "9423",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical files and databases"
+ },
+ {
+  "id": "9424",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clerical office tasks and claims"
+ },
+ {
+  "id": "9425",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "report content inclusion decisions"
+ },
+ {
+  "id": "9426",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient reception and scheduling"
+ },
+ {
+  "id": "9427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "telephone calls and visitors"
+ },
+ {
+  "id": "18704",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pharmacy stock and medication inventory"
+ },
+ {
+  "id": "2045",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "prescription intake information"
+ },
+ {
+  "id": "2046",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "telephone inquiries to pharmacy"
+ },
+ {
+  "id": "2048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers locating merchandise"
+ },
+ {
+  "id": "2049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming merchandise unpacking and labeling"
+ },
+ {
+  "id": "2050",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescription labels"
+ },
+ {
+  "id": "2052",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "register cash and credit sales"
+ },
+ {
+  "id": "2053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shelf stock"
+ },
+ {
+  "id": "2054",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescription records and letters"
+ },
+ {
+  "id": "2055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment, work areas, shelves"
+ },
+ {
+  "id": "2057",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and delivery records"
+ },
+ {
+  "id": "2058",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance claims and copayments"
+ },
+ {
+  "id": "2059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pharmaceutical products compounding"
+ },
+ {
+  "id": "2062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medication delivery to locations"
+ },
+ {
+  "id": "21195",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply restocking orders"
+ },
+ {
+  "id": "4306",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals recovering from surgery"
+ },
+ {
+  "id": "4307",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgical anesthesia in animals"
+ },
+ {
+  "id": "4308",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "veterinary instruments and equipment"
+ },
+ {
+  "id": "4309",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal medication and immunizations"
+ },
+ {
+  "id": "4310",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sick or injured animals first aid"
+ },
+ {
+  "id": "4311",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kennels and animal areas"
+ },
+ {
+  "id": "4312",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals during procedures"
+ },
+ {
+  "id": "4313",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal lab tests and x-rays"
+ },
+ {
+  "id": "4314",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "medication prescriptions for animals"
+ },
+ {
+  "id": "4315",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal blood urine feces specimens"
+ },
+ {
+  "id": "4316",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal illness symptoms and behavior"
+ },
+ {
+  "id": "4317",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals during veterinary examination"
+ },
+ {
+  "id": "4318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgical equipment and instruments"
+ },
+ {
+  "id": "4319",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal enemas, catheters, ear flushes"
+ },
+ {
+  "id": "4320",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal feed from diet lists"
+ },
+ {
+  "id": "4321",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal exercise and companionship"
+ },
+ {
+  "id": "4322",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animal feeding and breeding records"
+ },
+ {
+  "id": "4323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client animal health advice"
+ },
+ {
+  "id": "4324",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal claws and teeth"
+ },
+ {
+  "id": "4325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "examination room supplies"
+ },
+ {
+  "id": "4326",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "animal euthanasia and disposal"
+ },
+ {
+  "id": "4327",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "reception scheduling and customer help"
+ },
+ {
+  "id": "4328",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals pest control"
+ },
+ {
+  "id": "4329",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports and research clerical records"
+ },
+ {
+  "id": "4330",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bookkeeping billing and inventories"
+ },
+ {
+  "id": "4332",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pet food sales to customers"
+ },
+ {
+  "id": "4333",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal coat grooming"
+ },
+ {
+  "id": "19373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient fluid or tissue samples"
+ },
+ {
+  "id": "19374",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biohazard fluid and tissue waste"
+ },
+ {
+  "id": "19375",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contaminated sharps disposal"
+ },
+ {
+  "id": "19376",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specimen route documentation"
+ },
+ {
+  "id": "19377",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "arterial blood draws"
+ },
+ {
+  "id": "19378",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "capillary blood draws"
+ },
+ {
+  "id": "19379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "venous blood draws"
+ },
+ {
+  "id": "19380",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "procedure explanation to patients"
+ },
+ {
+  "id": "19381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "requisition forms matched to tubes"
+ },
+ {
+  "id": "19382",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blood-drawing trays"
+ },
+ {
+  "id": "19383",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "subcutaneous or intramuscular injections"
+ },
+ {
+  "id": "19384",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plasma collection machines"
+ },
+ {
+  "id": "19385",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timed specimen collection"
+ },
+ {
+  "id": "19386",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "donor hemoglobin testing"
+ },
+ {
+  "id": "19387",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "standard blood tests"
+ },
+ {
+  "id": "19388",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "blood donor suitability determination"
+ },
+ {
+  "id": "19389",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient and billing data entry"
+ },
+ {
+  "id": "19390",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "blood donors during procedures"
+ },
+ {
+  "id": "19392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blood and fluid samples processing"
+ },
+ {
+  "id": "19393",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sample results to physicians"
+ },
+ {
+  "id": "19394",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "refreshments for donors"
+ },
+ {
+  "id": "19395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "phlebotomy training for personnel"
+ },
+ {
+  "id": "19396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specimen transport to laboratories"
+ },
+ {
+  "id": "17531",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client speech-language screenings"
+ },
+ {
+  "id": "17532",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "speech treatment plan implementation"
+ },
+ {
+  "id": "17533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client speech and language skills"
+ },
+ {
+  "id": "17534",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client performance data compilation"
+ },
+ {
+  "id": "17535",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client treatment progress documentation"
+ },
+ {
+  "id": "17536",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "speech therapy equipment"
+ },
+ {
+  "id": "17537",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "speech-language research projects"
+ },
+ {
+  "id": "17538",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training sessions and family education"
+ },
+ {
+  "id": "17539",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials, records, supplies, schedules"
+ },
+ {
+  "id": "17540",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client performance charts and graphs"
+ },
+ {
+  "id": "17541",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speech-language instructional materials"
+ },
+ {
+  "id": "17519",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "endoscopes and instruments cleaning"
+ },
+ {
+  "id": "17520",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "endoscopic equipment inventory"
+ },
+ {
+  "id": "17521",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment functioning checks"
+ },
+ {
+  "id": "17522",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "endoscopy procedure rooms"
+ },
+ {
+  "id": "17523",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "endoscopic equipment repair"
+ },
+ {
+  "id": "17524",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient positioning and transport"
+ },
+ {
+  "id": "17525",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "endoscopic procedures assistance"
+ },
+ {
+  "id": "17526",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "in-service training attendance"
+ },
+ {
+  "id": "17527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient specimens"
+ },
+ {
+  "id": "17528",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "equipment training sessions for staff"
+ },
+ {
+  "id": "17529",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "endoscopy professional literature and developments"
+ },
+ {
+  "id": "17530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient monitoring devices"
+ },
+ {
+  "id": "20255",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "offender records for attention issues"
+ },
+ {
+  "id": "21196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance evaluations"
+ },
+ {
+  "id": "9428",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inmate counts"
+ },
+ {
+  "id": "9429",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "inmate order and security"
+ },
+ {
+  "id": "9430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "emergencies such as escapes"
+ },
+ {
+  "id": "9431",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "institutional policies and rules"
+ },
+ {
+  "id": "9432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "correctional officers and inmate custody"
+ },
+ {
+  "id": "9433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "offenders using force"
+ },
+ {
+  "id": "9434",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "inmate searches for contraband"
+ },
+ {
+  "id": "9435",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "subordinates' professional behavior"
+ },
+ {
+  "id": "9436",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "administrative paperwork and records"
+ },
+ {
+  "id": "9437",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee instruction and training"
+ },
+ {
+  "id": "9438",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "officer roll calls"
+ },
+ {
+  "id": "9439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "searches, shakedowns, riot control"
+ },
+ {
+  "id": "9440",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "injured persons carried and aided"
+ },
+ {
+  "id": "9441",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "offender work detail security"
+ },
+ {
+  "id": "9442",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work and security procedures"
+ },
+ {
+  "id": "9443",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee work schedules"
+ },
+ {
+  "id": "9444",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inmate disputes"
+ },
+ {
+  "id": "9446",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "inmate behavior ratings"
+ },
+ {
+  "id": "9447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "offender transport"
+ },
+ {
+  "id": "9448",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "inmate mail regulation conformance"
+ },
+ {
+  "id": "9449",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "complaints relayed to superiors"
+ },
+ {
+  "id": "564",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "police operations explained to subordinates"
+ },
+ {
+  "id": "565",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulation and policy changes to personnel"
+ },
+ {
+  "id": "566",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "criminal case investigations"
+ },
+ {
+  "id": "567",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel problems and misconduct charges"
+ },
+ {
+  "id": "568",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "police staff procedure training"
+ },
+ {
+  "id": "569",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logs, reports, departmental records"
+ },
+ {
+  "id": "570",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinate performance and promotions"
+ },
+ {
+  "id": "571",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "evidence and prisoner property"
+ },
+ {
+  "id": "572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "departmental policies and procedures"
+ },
+ {
+  "id": "573",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "raids and suspect detention"
+ },
+ {
+  "id": "574",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules and duty assignments"
+ },
+ {
+  "id": "575",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff discipline for violations"
+ },
+ {
+  "id": "576",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "court cooperation and testimony"
+ },
+ {
+  "id": "577",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "written orders legal adherence"
+ },
+ {
+  "id": "578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facilities, vehicles, equipment"
+ },
+ {
+  "id": "579",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news releases and correspondence"
+ },
+ {
+  "id": "580",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment and supplies issued"
+ },
+ {
+  "id": "581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community groups and programs"
+ },
+ {
+  "id": "582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoner release or transfer"
+ },
+ {
+  "id": "583",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department budgets and expenditures"
+ },
+ {
+  "id": "22910",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "firefighter assignments at scenes"
+ },
+ {
+  "id": "22911",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "emergency medical and rescue"
+ },
+ {
+  "id": "22912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire extent and building condition"
+ },
+ {
+  "id": "22913",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "fire details by radio"
+ },
+ {
+  "id": "22914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "firefighting crew leadership"
+ },
+ {
+  "id": "22915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "firefighter personnel drills"
+ },
+ {
+  "id": "22916",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire suppression equipment"
+ },
+ {
+  "id": "22917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "firefighter performance evaluations"
+ },
+ {
+  "id": "22918",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "firefighter training programs"
+ },
+ {
+  "id": "22919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "firefighting equipment maintenance"
+ },
+ {
+  "id": "22920",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work assignments and priorities"
+ },
+ {
+  "id": "22921",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire suppression expenditures"
+ },
+ {
+  "id": "22922",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "fire safety and evacuation plans"
+ },
+ {
+  "id": "22923",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and records"
+ },
+ {
+  "id": "22924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crew carrier driving"
+ },
+ {
+  "id": "22925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "stations, uniforms, equipment inspection"
+ },
+ {
+  "id": "22926",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire station procedures"
+ },
+ {
+  "id": "22927",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "station maintenance duties"
+ },
+ {
+  "id": "22928",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel disciplinary and grievance actions"
+ },
+ {
+  "id": "22929",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "administrative records and reports"
+ },
+ {
+  "id": "22930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "arson, hazards, false alarms"
+ },
+ {
+  "id": "22931",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment modification and purchase recommendations"
+ },
+ {
+  "id": "22932",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "property fire code inspections"
+ },
+ {
+  "id": "22933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire protection systems"
+ },
+ {
+  "id": "22934",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire codes and permit procedures"
+ },
+ {
+  "id": "22935",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "burn conditions and postburn reports"
+ },
+ {
+  "id": "22936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire size, location, condition"
+ },
+ {
+  "id": "22937",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire laws and prevention tactics"
+ },
+ {
+  "id": "22938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "prescribed burn projects"
+ },
+ {
+  "id": "22939",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "firefighting personnel recruitment and hiring"
+ }
+]

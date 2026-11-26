@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "10140",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished workpiece dimensions"
+ },
+ {
+  "id": "10141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy workpieces on machine tables"
+ },
+ {
+  "id": "10142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding and polishing machines"
+ },
+ {
+  "id": "10143",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "running machine operation faults"
+ },
+ {
+  "id": "10144",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine control settings"
+ },
+ {
+  "id": "10145",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece measurement and layout"
+ },
+ {
+  "id": "10146",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine tooling choice"
+ },
+ {
+  "id": "10147",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and work orders"
+ },
+ {
+  "id": "10148",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools in machine chucks"
+ },
+ {
+  "id": "10149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine start-up switches"
+ },
+ {
+  "id": "10150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine indexing controls"
+ },
+ {
+  "id": "10151",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lubricant and coolant application"
+ },
+ {
+  "id": "10152",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine indexing calculations"
+ },
+ {
+  "id": "10153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buff spacers on spindles"
+ },
+ {
+  "id": "10154",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material feeding through abraders"
+ },
+ {
+  "id": "10155",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air cylinders and stops"
+ },
+ {
+  "id": "10156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine part repair"
+ },
+ {
+  "id": "10157",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine parts stock levels"
+ },
+ {
+  "id": "11991",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sample workpiece conformance"
+ },
+ {
+  "id": "11992",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and job orders"
+ },
+ {
+  "id": "11993",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lathe controls and tool settings"
+ },
+ {
+  "id": "11994",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting speeds and feed controls"
+ },
+ {
+  "id": "11995",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lathe operation monitoring"
+ },
+ {
+  "id": "11996",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cutting tool selection"
+ },
+ {
+  "id": "11997",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cycle timing adjustments"
+ },
+ {
+  "id": "11998",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal stock into machines"
+ },
+ {
+  "id": "11999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn cutting tools"
+ },
+ {
+  "id": "12000",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting tools in toolholders"
+ },
+ {
+  "id": "12001",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine dimensions and settings"
+ },
+ {
+  "id": "12002",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holding fixtures and stops"
+ },
+ {
+  "id": "12003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "toolholders along workpieces"
+ },
+ {
+  "id": "12004",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coolant flow valves"
+ },
+ {
+  "id": "12005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contour attachments on lathes"
+ },
+ {
+  "id": "20923",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine oil and coolant levels"
+ },
+ {
+  "id": "23998",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "CNC machine programs"
+ },
+ {
+  "id": "23999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area cleanliness"
+ },
+ {
+  "id": "14001",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "milled workpiece conformance"
+ },
+ {
+  "id": "14002",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "milling operation tolerances"
+ },
+ {
+  "id": "14003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces on milling machines"
+ },
+ {
+  "id": "14004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and work orders"
+ },
+ {
+  "id": "14005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting specifications and positions"
+ },
+ {
+  "id": "14006",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "workpiece dimensions and angles"
+ },
+ {
+  "id": "14007",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece alignment on machines"
+ },
+ {
+  "id": "14008",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cutting speeds and feeds"
+ },
+ {
+  "id": "14009",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutters and material feed"
+ },
+ {
+  "id": "14010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn milling tools"
+ },
+ {
+  "id": "14011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting tools and accessories"
+ },
+ {
+  "id": "14012",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production output records"
+ },
+ {
+  "id": "14013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coolant and lubricant flow"
+ },
+ {
+  "id": "14014",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "templates and cutting tools"
+ },
+ {
+  "id": "14015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine attachments and tools"
+ },
+ {
+  "id": "19905",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scrap and waste disposal"
+ },
+ {
+  "id": "19906",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recyclable scrap materials"
+ },
+ {
+  "id": "20292",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "part dimensions and tolerances"
+ },
+ {
+  "id": "20293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "precision machine tools"
+ },
+ {
+  "id": "20294",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine tool upkeep"
+ },
+ {
+  "id": "20295",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sample parts and blueprints"
+ },
+ {
+  "id": "20296",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine tool malfunctions"
+ },
+ {
+  "id": "20297",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "machining procedure efficiency"
+ },
+ {
+  "id": "3094",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal parts being machined"
+ },
+ {
+  "id": "3095",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed units for defects"
+ },
+ {
+  "id": "3097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holding fixtures and cutting tools"
+ },
+ {
+  "id": "3098",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine feed and speed"
+ },
+ {
+  "id": "3101",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal stock cut layout"
+ },
+ {
+  "id": "3103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece lubrication and cooling"
+ },
+ {
+  "id": "3106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment operational efficiency"
+ },
+ {
+  "id": "3107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired parts into equipment"
+ },
+ {
+  "id": "3109",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client advice on materials"
+ },
+ {
+  "id": "3110",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "numerically controlled machine programs"
+ },
+ {
+  "id": "3112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical information with colleagues"
+ },
+ {
+  "id": "3113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines dismantled for defective parts"
+ },
+ {
+  "id": "3114",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "fabrication work procedures"
+ },
+ {
+  "id": "3115",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "metalworking projects start to finish"
+ },
+ {
+  "id": "3116",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "NC programs with programmers"
+ },
+ {
+  "id": "3117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine tool parts assembly"
+ },
+ {
+  "id": "3119",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fixtures and tooling designs"
+ },
+ {
+  "id": "3120",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product appearance sketches"
+ },
+ {
+  "id": "3121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "experimental parts into machines"
+ },
+ {
+  "id": "3122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metalworking and welding equipment"
+ },
+ {
+  "id": "3123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "experimental models under simulation"
+ },
+ {
+  "id": "10158",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molten metal samples and materials"
+ },
+ {
+  "id": "10159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molten metal into molds"
+ },
+ {
+  "id": "10160",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production data logs"
+ },
+ {
+  "id": "10161",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal workpieces from furnaces"
+ },
+ {
+  "id": "10162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials weighed for furnaces"
+ },
+ {
+  "id": "10163",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "furnace fuel air and temperature"
+ },
+ {
+  "id": "10164",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furnaces and equipment wear"
+ },
+ {
+  "id": "10165",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furnace temperature and metal appearance"
+ },
+ {
+  "id": "10166",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "furnace interior camera monitoring"
+ },
+ {
+  "id": "10167",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "impurities on molten metal"
+ },
+ {
+  "id": "10168",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel shoveled into furnaces"
+ },
+ {
+  "id": "10169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemicals on molten metal"
+ },
+ {
+  "id": "10170",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "furnace repair work crews"
+ },
+ {
+  "id": "10171",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material prepared for furnace loading"
+ },
+ {
+  "id": "10172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal oxides on floors and molds"
+ },
+ {
+  "id": "12006",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal samples for analysis"
+ },
+ {
+  "id": "12007",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molten metal into molds"
+ },
+ {
+  "id": "12008",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "melting temperature and furnace flames"
+ },
+ {
+  "id": "12009",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold cleanliness and coating"
+ },
+ {
+  "id": "12010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ladles and pouring equipment"
+ },
+ {
+  "id": "12011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slag and excess metal"
+ },
+ {
+  "id": "12012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water cooling for molds"
+ },
+ {
+  "id": "12013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molds topped up for shrinkage"
+ },
+ {
+  "id": "12014",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ladle stoppers and molten steel"
+ },
+ {
+  "id": "12015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal and flux into furnaces"
+ },
+ {
+  "id": "12016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solidified steel in nozzles"
+ },
+ {
+  "id": "12017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cores in casting frames"
+ },
+ {
+  "id": "12018",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingots and cores from molds"
+ },
+ {
+  "id": "12019",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingots moved by forklift"
+ },
+ {
+  "id": "12020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingot identification stencils"
+ },
+ {
+  "id": "12021",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal forms and equipment repair"
+ },
+ {
+  "id": "12022",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and drawings"
+ },
+ {
+  "id": "12023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype fabrication machines"
+ },
+ {
+  "id": "12024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products against specifications"
+ },
+ {
+  "id": "12025",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal parts being cut and formed"
+ },
+ {
+  "id": "12026",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reference marks on materials"
+ },
+ {
+  "id": "12027",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holes in parts"
+ },
+ {
+  "id": "12028",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts ground to dimension"
+ },
+ {
+  "id": "12029",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "model specifications and dimensions"
+ },
+ {
+  "id": "12030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "model parts reworked"
+ },
+ {
+  "id": "12031",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "model parts joined"
+ },
+ {
+  "id": "12032",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "developmental problems with engineers"
+ },
+ {
+  "id": "12033",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype components assembly"
+ },
+ {
+  "id": "12034",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools dies and fixtures"
+ },
+ {
+  "id": "12035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical connections soldered"
+ },
+ {
+  "id": "20924",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "CNC programs for model parts"
+ },
+ {
+  "id": "20925",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "CAD CAM model parts"
+ },
+ {
+  "id": "12036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "castings and patterns machining"
+ },
+ {
+  "id": "12037",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and pattern plans"
+ },
+ {
+  "id": "12038",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pattern dimensions against specifications"
+ },
+ {
+  "id": "12039",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "CNC machine programs"
+ },
+ {
+  "id": "12040",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "templates patterns and coreboxes"
+ },
+ {
+  "id": "12041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pattern sections assembly"
+ },
+ {
+  "id": "12042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "templates and patterns repair"
+ },
+ {
+  "id": "12043",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pattern outlines on material"
+ },
+ {
+  "id": "12044",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patterns cleaned and finished"
+ },
+ {
+  "id": "12045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fixtures and jigs for patterns"
+ },
+ {
+  "id": "12046",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "identification marks on patterns"
+ },
+ {
+  "id": "12047",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern material choice"
+ },
+ {
+  "id": "12048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plastic pattern coatings"
+ },
+ {
+  "id": "12049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patterns painted or lacquered"
+ },
+ {
+  "id": "21025",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer models of patterns"
+ },
+ {
+  "id": "12050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molds cores and core boxes"
+ },
+ {
+  "id": "12051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold sections moved by crane"
+ },
+ {
+  "id": "12052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parting agents on patterns"
+ },
+ {
+  "id": "12053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patterns in mold sections"
+ },
+ {
+  "id": "12054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cores in molds"
+ },
+ {
+  "id": "12055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sand packed into molds"
+ },
+ {
+  "id": "12056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shell mold bonding machines"
+ },
+ {
+  "id": "12057",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spouts and runner holes in molds"
+ },
+ {
+  "id": "12058",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold sections lifted apart"
+ },
+ {
+  "id": "12059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slab cores and mold reinforcement"
+ },
+ {
+  "id": "12060",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molten metal into molds"
+ },
+ {
+  "id": "12061",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sweep boards for symmetrical molds"
+ },
+ {
+  "id": "12062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "core ovens and metal furnaces"
+ },
+ {
+  "id": "10173",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "automatic machine operation faults"
+ },
+ {
+  "id": "10174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molded product defects"
+ },
+ {
+  "id": "10175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molding and casting machines"
+ },
+ {
+  "id": "10176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces secured and feeding started"
+ },
+ {
+  "id": "10177",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine pressure temperature and cycle"
+ },
+ {
+  "id": "10178",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished products from molds"
+ },
+ {
+  "id": "10179",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dross from molten metal"
+ },
+ {
+  "id": "10180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess material trimmed from parts"
+ },
+ {
+  "id": "10181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products cooled after processing"
+ },
+ {
+  "id": "10182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dies installed on presses"
+ },
+ {
+  "id": "10183",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "compounds mixed and loaded"
+ },
+ {
+  "id": "10184",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "meter readings of process conditions"
+ },
+ {
+  "id": "10185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold coating and insulation"
+ },
+ {
+  "id": "10186",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications and work orders"
+ },
+ {
+  "id": "10187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold frames and fixtures"
+ },
+ {
+  "id": "10188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dies removed after runs"
+ },
+ {
+  "id": "10189",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material and product inventory records"
+ },
+ {
+  "id": "10190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal or sand into furnaces"
+ },
+ {
+  "id": "10191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished products packed and stored"
+ },
+ {
+  "id": "10192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "die cooling water hoses"
+ },
+ {
+  "id": "10193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dies and plastic preheating"
+ },
+ {
+  "id": "10194",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dies positioned by hoist"
+ },
+ {
+  "id": "10195",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold inner surfaces cleaned"
+ },
+ {
+  "id": "10196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patterns moved and secured"
+ },
+ {
+  "id": "10197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and oiling"
+ },
+ {
+  "id": "10198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged molds and equipment"
+ },
+ {
+  "id": "10199",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials inventory levels"
+ },
+ {
+  "id": "10200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coolant and lubricant choice"
+ },
+ {
+  "id": "10203",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blades and tool attachments"
+ }
+]

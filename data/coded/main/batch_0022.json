@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "19686",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "contaminant natural attenuation in environments"
+ },
+ {
+  "id": "19687",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pollutant transport models"
+ },
+ {
+  "id": "19688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field sampling equipment cleaning"
+ },
+ {
+  "id": "19689",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cleanup technology selection"
+ },
+ {
+  "id": "19690",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pollutant treatment process models"
+ },
+ {
+  "id": "19691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental samples for shipping"
+ },
+ {
+  "id": "20033",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental permit applications"
+ },
+ {
+  "id": "20513",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lab and field data records"
+ },
+ {
+  "id": "20514",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air and groundwater pollution samples"
+ },
+ {
+  "id": "3640",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental testing equipment"
+ },
+ {
+  "id": "3641",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project logbook and program files"
+ },
+ {
+  "id": "3643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "environmental quality work"
+ },
+ {
+  "id": "3644",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical document completeness review"
+ },
+ {
+  "id": "3646",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work plan activity schedules"
+ },
+ {
+  "id": "3647",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vendor information and supply orders"
+ },
+ {
+  "id": "3648",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hazardous material disposal arrangements"
+ },
+ {
+  "id": "3649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility regulatory compliance inspection"
+ },
+ {
+  "id": "3650",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project planning environmental compliance support"
+ },
+ {
+  "id": "3651",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "chemical processes toxic emissions"
+ },
+ {
+  "id": "3652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "support staff supervision"
+ },
+ {
+  "id": "3653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hazardous spill cleanup"
+ },
+ {
+  "id": "3654",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental assessment reports"
+ },
+ {
+  "id": "3655",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "process parameters and anomalies"
+ },
+ {
+  "id": "3656",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer environmental impact assessment"
+ },
+ {
+  "id": "3657",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pollution data statistical analysis"
+ },
+ {
+  "id": "3658",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project work plans specifications"
+ },
+ {
+  "id": "19692",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "industrial hazardous waste compliance"
+ },
+ {
+  "id": "20516",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products at production stages"
+ },
+ {
+  "id": "20518",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "worker equipment operation observation"
+ },
+ {
+  "id": "22022",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "safety and environmental rule adherence"
+ },
+ {
+  "id": "22023",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production cost analysis"
+ },
+ {
+  "id": "22024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prototype and product development"
+ },
+ {
+  "id": "22025",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring equipment calibration"
+ },
+ {
+  "id": "22026",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design cost statistical comparison"
+ },
+ {
+  "id": "22027",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "equipment purchases and installations"
+ },
+ {
+  "id": "22028",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering drawings and blueprints"
+ },
+ {
+  "id": "22029",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "plant layout design"
+ },
+ {
+  "id": "22030",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "manufacturing infrastructure for new processes"
+ },
+ {
+  "id": "22031",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "production safety quality programs"
+ },
+ {
+  "id": "22032",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production inventory quality programs"
+ },
+ {
+  "id": "22033",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainable manufacturing technologies"
+ },
+ {
+  "id": "22034",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "automation equipment improvement opportunities"
+ },
+ {
+  "id": "22035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production processes and equipment"
+ },
+ {
+  "id": "22036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment start-up and qualification"
+ },
+ {
+  "id": "22037",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "production process inspection"
+ },
+ {
+  "id": "22038",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machinery layouts and drawings"
+ },
+ {
+  "id": "22039",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production documents and procedures"
+ },
+ {
+  "id": "22040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "other technicians advice"
+ },
+ {
+  "id": "22041",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality corrective action recommendations"
+ },
+ {
+  "id": "22042",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cleaning materials and tools"
+ },
+ {
+  "id": "22043",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material quantities and processing methods"
+ },
+ {
+  "id": "22044",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production equipment setup operation"
+ },
+ {
+  "id": "3660",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "time and motion of operations"
+ },
+ {
+  "id": "3663",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work assignment plans"
+ },
+ {
+  "id": "3668",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "worker logs and spec sheets"
+ },
+ {
+  "id": "3672",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product quality statistical data"
+ },
+ {
+  "id": "22045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanotechnology production equipment"
+ },
+ {
+  "id": "22046",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleanroom work area"
+ },
+ {
+  "id": "22047",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanomaterial images and measurements"
+ },
+ {
+  "id": "22048",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "experiments with scientists engineers"
+ },
+ {
+  "id": "22049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanotechnology equipment repairs"
+ },
+ {
+  "id": "22050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemicals mixed per formulas"
+ },
+ {
+  "id": "22051",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment operating pressure temperature"
+ },
+ {
+  "id": "22052",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanotechnology research data"
+ },
+ {
+  "id": "22053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanotechnology equipment calibration"
+ },
+ {
+  "id": "22054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hazardous waste cleanup monitoring"
+ },
+ {
+  "id": "22055",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "grant and patent application text"
+ },
+ {
+  "id": "22056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "thin film inspection"
+ },
+ {
+  "id": "22057",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanomaterial performance comparison"
+ },
+ {
+  "id": "22058",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "wet chemistry lab techniques"
+ },
+ {
+  "id": "22059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanoparticle processing"
+ },
+ {
+  "id": "22060",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "nanomaterial manufacturing methods"
+ },
+ {
+  "id": "22061",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "presentations for engineers and management"
+ },
+ {
+  "id": "22062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nano-enhanced assembly functional tests"
+ },
+ {
+  "id": "22063",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanoproduction batch records"
+ },
+ {
+  "id": "22064",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "component assembly bonding"
+ },
+ {
+  "id": "22065",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process transfer documentation training materials"
+ },
+ {
+  "id": "22066",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nanomaterial life cycle environmental impact"
+ },
+ {
+  "id": "22067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nanoparticle emission measurement"
+ },
+ {
+  "id": "22068",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "nanomaterial characterization assistance"
+ },
+ {
+  "id": "22069",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process specifications documentation"
+ },
+ {
+  "id": "1474",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts sketches work orders requests"
+ },
+ {
+  "id": "1475",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "detail drawings for fabrication"
+ },
+ {
+  "id": "1476",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project blueprints and test specs"
+ },
+ {
+  "id": "1477",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fabrication assembly testing requirements"
+ },
+ {
+  "id": "1480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment unit and component tests"
+ },
+ {
+  "id": "1482",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "test results against specifications"
+ },
+ {
+  "id": "1483",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tool drawing designs dimensions"
+ },
+ {
+  "id": "1485",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system equipment capacity calculations"
+ },
+ {
+  "id": "1486",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test procedures and results records"
+ },
+ {
+  "id": "1487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dials and meters readings"
+ },
+ {
+  "id": "1488",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor and material cost estimates"
+ },
+ {
+  "id": "1489",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype test apparatus setup"
+ },
+ {
+  "id": "22070",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy requirements and distribution systems"
+ },
+ {
+  "id": "22071",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production cost estimates"
+ },
+ {
+  "id": "22072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "complex mechanical systems assembly"
+ },
+ {
+  "id": "22073",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "engineering design and manufacture assistance"
+ },
+ {
+  "id": "22074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crash test instrumentation setup"
+ },
+ {
+  "id": "22075",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "failure analysis and corrective actions"
+ },
+ {
+  "id": "22076",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design cost statistical comparison"
+ },
+ {
+  "id": "22077",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "molds tools dies fixtures"
+ },
+ {
+  "id": "22078",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialized equipment designs"
+ },
+ {
+  "id": "22079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical components fabrication"
+ },
+ {
+  "id": "22080",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design changes with staff"
+ },
+ {
+  "id": "22082",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering sketches and specifications"
+ },
+ {
+  "id": "22083",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection and reliability schedules"
+ },
+ {
+  "id": "22084",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machinery and plant layouts"
+ },
+ {
+  "id": "22085",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical energy system designs"
+ },
+ {
+  "id": "22086",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee mechanical design support"
+ },
+ {
+  "id": "22087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines components materials tests"
+ },
+ {
+  "id": "23944",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical equipment inspection testing"
+ },
+ {
+  "id": "16597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test instrumentation and equipment"
+ },
+ {
+  "id": "16598",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test equipment and parts orders"
+ },
+ {
+  "id": "16599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical hydraulic electric test equipment"
+ },
+ {
+  "id": "16600",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "test conditions and standards"
+ },
+ {
+  "id": "16601",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "computer-controlled test equipment"
+ },
+ {
+  "id": "16602",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and schematics"
+ },
+ {
+  "id": "16603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test equipment maintenance"
+ },
+ {
+  "id": "16604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test instrumentation and engines installation"
+ },
+ {
+  "id": "16605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts defects and malfunctions"
+ },
+ {
+  "id": "16606",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "test result documentation"
+ },
+ {
+  "id": "16607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype components and fixtures"
+ },
+ {
+  "id": "16608",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "automotive test data"
+ },
+ {
+  "id": "16610",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "component design improvement recommendations"
+ },
+ {
+  "id": "16611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automotive component performance tests"
+ },
+ {
+  "id": "19696",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel efficiency redesigned vehicle performance"
+ },
+ {
+  "id": "19697",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lightweight material vehicle testing"
+ },
+ {
+  "id": "19698",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "computerized automotive application testing"
+ },
+ {
+  "id": "19699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "alternative fuel vehicle performance"
+ },
+ {
+  "id": "22088",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calibration test data defects"
+ },
+ {
+  "id": "22089",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "training sessions on tools"
+ },
+ {
+  "id": "22090",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "devices compared to measurement standards"
+ },
+ {
+  "id": "22091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment calibration tests"
+ },
+ {
+  "id": "22092",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "calibration methods and techniques"
+ },
+ {
+  "id": "22093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment disassembly reassembly"
+ },
+ {
+  "id": "22094",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "jigs fixtures instrument plans"
+ },
+ {
+  "id": "22095",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measurement device repair"
+ },
+ {
+  "id": "22096",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metalworking machine fabrication"
+ },
+ {
+  "id": "22097",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "replacement parts orders"
+ },
+ {
+  "id": "22098",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calibration test sequences"
+ },
+ {
+  "id": "22099",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints schematics technical orders"
+ },
+ {
+  "id": "22100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part dimensions precision measurement"
+ },
+ {
+  "id": "22101",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment surface defects"
+ },
+ {
+  "id": "22102",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calibration test reports"
+ },
+ {
+  "id": "16612",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "testing trainees and staff supervision"
+ },
+ {
+  "id": "16613",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiographic images of objects"
+ },
+ {
+  "id": "16614",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material properties measurement"
+ },
+ {
+  "id": "16615",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new non-destructive testing methods"
+ },
+ {
+  "id": "16616",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "non-destructive testing documentation"
+ },
+ {
+  "id": "16617",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "internal imperfections sonic mapping"
+ },
+ {
+  "id": "16618",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiographic flaw detection images"
+ },
+ {
+  "id": "16619",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "corrosion cracks visual examination"
+ },
+ {
+  "id": "16620",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "test results against codes"
+ },
+ {
+  "id": "16621",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building material defects thermal imaging"
+ },
+ {
+  "id": "16622",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solid material defects ultrasonic"
+ },
+ {
+  "id": "16623",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing equipment selection calibration"
+ },
+ {
+  "id": "16624",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface cracks penetrant testing"
+ },
+ {
+  "id": "16625",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "non-destructive testing reports"
+ },
+ {
+  "id": "16626",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "non-destructive test result interpretation"
+ },
+ {
+  "id": "16627",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft bridges pipelines structures"
+ },
+ {
+  "id": "16709",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory levels and supply orders"
+ },
+ {
+  "id": "16710",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clean room environment"
+ },
+ {
+  "id": "16714",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "optical product testing failure analysis"
+ },
+ {
+  "id": "16715",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "photonic experiments with scientists"
+ },
+ {
+  "id": "16716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing steps diagnostic analyses"
+ },
+ {
+  "id": "16718",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing chemicals and gases"
+ },
+ {
+  "id": "16719",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembly fixtures"
+ },
+ {
+  "id": "16720",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machining cutting lines layout"
+ },
+ {
+  "id": "16721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new products tools processes development"
+ },
+ {
+  "id": "16722",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype parts assembly adjustment"
+ },
+ {
+  "id": "16723",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "optical fiber splicing"
+ },
+ {
+  "id": "16724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fiber cable connectors"
+ },
+ {
+  "id": "16725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototype test apparatus"
+ },
+ {
+  "id": "16726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laser and assembly processing equipment"
+ },
+ {
+  "id": "16727",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgical laser repair calibration"
+ },
+ {
+  "id": "16729",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "optoelectronic semiconductor devices"
+ },
+ {
+  "id": "16730",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "optomechanical prototype devices"
+ },
+ {
+  "id": "16731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fiber optic component assembly"
+ },
+ {
+  "id": "16732",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lasers and optical equipment adjustment"
+ },
+ {
+  "id": "19731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "optical communication system assembly"
+ },
+ {
+  "id": "20384",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photonic test data"
+ },
+ {
+  "id": "20385",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calibration procedure documentation"
+ },
+ {
+  "id": "20386",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "optical design cost reduction recommendations"
+ },
+ {
+  "id": "20387",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photonic process parameters prototypes"
+ }
+]

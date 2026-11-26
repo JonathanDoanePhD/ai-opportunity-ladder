@@ -1,0 +1,1434 @@
+[
+ {
+  "id": "20981",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lab data into databases"
+ },
+ {
+  "id": "20982",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory equipment purchase orders"
+ },
+ {
+  "id": "3737",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work activity logs"
+ },
+ {
+  "id": "3738",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "lab work compliance monitoring"
+ },
+ {
+  "id": "3739",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biological specimens preparation"
+ },
+ {
+  "id": "3740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "computer and robotic lab equipment"
+ },
+ {
+  "id": "3741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "research sample collection"
+ },
+ {
+  "id": "3742",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab and field equipment upkeep"
+ },
+ {
+  "id": "3743",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "scientist technical support"
+ },
+ {
+  "id": "3744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab supplies and work areas"
+ },
+ {
+  "id": "3745",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pharmaceutical preparation work"
+ },
+ {
+  "id": "3746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "standardized product lab tests"
+ },
+ {
+  "id": "3747",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experimental data and findings"
+ },
+ {
+  "id": "3748",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "compounds and solutions measuring"
+ },
+ {
+  "id": "3749",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "experiments and test data"
+ },
+ {
+  "id": "3750",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals and specimens for disease"
+ },
+ {
+  "id": "3752",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock and lab animals"
+ },
+ {
+  "id": "1535",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product quality standards"
+ },
+ {
+  "id": "1536",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical tests and analyses"
+ },
+ {
+  "id": "1537",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material laboratory test analyses"
+ },
+ {
+  "id": "1538",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test results"
+ },
+ {
+  "id": "1539",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "chemist and engineer support"
+ },
+ {
+  "id": "1540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical solutions by formula"
+ },
+ {
+  "id": "1541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab instruments cleaning"
+ },
+ {
+  "id": "1542",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experimental results reports"
+ },
+ {
+  "id": "1543",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material inventory orders"
+ },
+ {
+  "id": "1544",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sampling and analysis program"
+ },
+ {
+  "id": "1545",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "chemical production workers"
+ },
+ {
+  "id": "1546",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "experimental pilot plant operation"
+ },
+ {
+  "id": "1547",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new chemical processes"
+ },
+ {
+  "id": "1548",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "experimental apparatus"
+ },
+ {
+  "id": "18477",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workplace safety program and audits"
+ },
+ {
+  "id": "20538",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new employee equipment training"
+ },
+ {
+  "id": "1549",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test data reports"
+ },
+ {
+  "id": "1550",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental pollutant samples"
+ },
+ {
+  "id": "1552",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public health and safety information"
+ },
+ {
+  "id": "1553",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microscopes and test instruments"
+ },
+ {
+  "id": "1554",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "unsafe workplace conditions"
+ },
+ {
+  "id": "1555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "public facility sanitation"
+ },
+ {
+  "id": "1556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "samples and photomicrographs"
+ },
+ {
+  "id": "1557",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pollutant concentration calculations"
+ },
+ {
+  "id": "1558",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "violating establishments enforcement"
+ },
+ {
+  "id": "1559",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical amounts for treatment"
+ },
+ {
+  "id": "1560",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "test results with customers"
+ },
+ {
+  "id": "1561",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazard and exposure records"
+ },
+ {
+  "id": "1562",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental data statistics"
+ },
+ {
+  "id": "1563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pollutant monitoring stations"
+ },
+ {
+  "id": "1564",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "permits and cleanup plans"
+ },
+ {
+  "id": "1565",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "workplace health hazard inspection"
+ },
+ {
+  "id": "1566",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "collected sample particles"
+ },
+ {
+  "id": "1567",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contaminants under microscopes"
+ },
+ {
+  "id": "1570",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pollution monitoring programs"
+ },
+ {
+  "id": "19797",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "process change environmental impacts"
+ },
+ {
+  "id": "19798",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "recycling and hazardous waste programs"
+ },
+ {
+  "id": "19799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "emission control devices"
+ },
+ {
+  "id": "20869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "spills and outbreaks investigation"
+ },
+ {
+  "id": "20870",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "laboratory workers"
+ },
+ {
+  "id": "20871",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing procedures"
+ },
+ {
+  "id": "22262",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geological sample analysis"
+ },
+ {
+  "id": "22263",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solid and fluid samples"
+ },
+ {
+  "id": "22264",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing and operational data"
+ },
+ {
+  "id": "22265",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "geological notes and maps"
+ },
+ {
+  "id": "22266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geological field surveys"
+ },
+ {
+  "id": "22267",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sampling and testing reports"
+ },
+ {
+  "id": "22268",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing and mechanical equipment"
+ },
+ {
+  "id": "22269",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospecting reports information"
+ },
+ {
+  "id": "22270",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "individuals and public databases"
+ },
+ {
+  "id": "22271",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aerial photos and well logs"
+ },
+ {
+  "id": "22272",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "library and record information"
+ },
+ {
+  "id": "22273",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geological data equipment"
+ },
+ {
+  "id": "22274",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "equipment operator crews"
+ },
+ {
+  "id": "22275",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geological data instruments"
+ },
+ {
+  "id": "22276",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "oil and gas readings"
+ },
+ {
+  "id": "22277",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "photographic information recordings"
+ },
+ {
+  "id": "22278",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil and gas characteristics"
+ },
+ {
+  "id": "22279",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "possible mining locations"
+ },
+ {
+  "id": "22280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "subsurface development impacts"
+ },
+ {
+  "id": "22281",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "core samples and cuttings"
+ },
+ {
+  "id": "22282",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "well drilling activities"
+ },
+ {
+  "id": "22283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines for wear"
+ },
+ {
+  "id": "22285",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "groundwater circulation evaluation"
+ },
+ {
+  "id": "22286",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "seismic imaging deposits"
+ },
+ {
+  "id": "22287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underground reservoir data"
+ },
+ {
+  "id": "22288",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal site data"
+ },
+ {
+  "id": "22289",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental site suitability data"
+ },
+ {
+  "id": "22290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wind and solar site surveys"
+ },
+ {
+  "id": "22291",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "seismic data"
+ },
+ {
+  "id": "22292",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water ecological data"
+ },
+ {
+  "id": "22293",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hydrology technical questions"
+ },
+ {
+  "id": "22294",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research for environmental impacts"
+ },
+ {
+  "id": "22295",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "abandoned well sealing programs"
+ },
+ {
+  "id": "22296",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water and soil samples"
+ },
+ {
+  "id": "22297",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrologic prediction models"
+ },
+ {
+  "id": "22298",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "municipal project costs benefits"
+ },
+ {
+  "id": "22299",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "public waters complaints"
+ },
+ {
+  "id": "22300",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "glaciers, ice and permafrost"
+ },
+ {
+  "id": "22301",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "requested data for customers"
+ },
+ {
+  "id": "22302",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water levels and flow"
+ },
+ {
+  "id": "22303",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrologic data quality checks"
+ },
+ {
+  "id": "22304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydrologic study equipment"
+ },
+ {
+  "id": "22305",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flood event real time data"
+ },
+ {
+  "id": "22306",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "groundwater contamination reports"
+ },
+ {
+  "id": "22307",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research publication materials"
+ },
+ {
+  "id": "22308",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nuclear equipment procedures"
+ },
+ {
+  "id": "22309",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nuclear equipment surveillance testing"
+ },
+ {
+  "id": "22310",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "reactor equipment performance"
+ },
+ {
+  "id": "22311",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment testing"
+ },
+ {
+  "id": "22312",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment safety tags"
+ },
+ {
+  "id": "22313",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiation worker safety procedures"
+ },
+ {
+  "id": "22314",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nuclear equipment modification"
+ },
+ {
+  "id": "22315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "instruments and gauges readings"
+ },
+ {
+  "id": "22316",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "accelerator systems maintenance"
+ },
+ {
+  "id": "22318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiation hazard warnings"
+ },
+ {
+  "id": "22319",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating factor calculations"
+ },
+ {
+  "id": "22320",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiation intensity measurement"
+ },
+ {
+  "id": "22321",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "accelerator maintenance coordination"
+ },
+ {
+  "id": "22323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "decontamination procedure selection"
+ },
+ {
+  "id": "22324",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contaminated objects cleaning"
+ },
+ {
+  "id": "22326",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioactivity samples"
+ },
+ {
+  "id": "22327",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "decontamination procedure recommendation"
+ },
+ {
+  "id": "22328",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiation detection equipment"
+ },
+ {
+  "id": "20539",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker radiation briefings"
+ },
+ {
+  "id": "20540",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air and water samples"
+ },
+ {
+  "id": "20541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioactive waste containers"
+ },
+ {
+  "id": "7597",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "safe exposure time calculations"
+ },
+ {
+  "id": "7598",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiation alarm response"
+ },
+ {
+  "id": "7599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "personnel radiation exposure"
+ },
+ {
+  "id": "7600",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exposure limit notifications"
+ },
+ {
+  "id": "7601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "radiation safety instruction"
+ },
+ {
+  "id": "7602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiation in work areas"
+ },
+ {
+  "id": "7603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contamination samples"
+ },
+ {
+  "id": "7604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radiation detection equipment"
+ },
+ {
+  "id": "7605",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "decontamination procedure recommendation"
+ },
+ {
+  "id": "7606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contaminated objects cleaning"
+ },
+ {
+  "id": "7608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical instrumentation sensors"
+ },
+ {
+  "id": "7610",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nuclear event data"
+ },
+ {
+  "id": "7612",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "decontamination test reports"
+ },
+ {
+  "id": "12952",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research databases"
+ },
+ {
+  "id": "12953",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports and presentations"
+ },
+ {
+  "id": "12954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "research subject consent"
+ },
+ {
+  "id": "12955",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research data statistics"
+ },
+ {
+  "id": "12956",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database entry accuracy"
+ },
+ {
+  "id": "12957",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research results tables and reports"
+ },
+ {
+  "id": "12958",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research protocols documentation"
+ },
+ {
+  "id": "12959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research quality control procedures"
+ },
+ {
+  "id": "12960",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "internet and library research"
+ },
+ {
+  "id": "12961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "research findings to groups"
+ },
+ {
+  "id": "12962",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project data entry clerical"
+ },
+ {
+  "id": "12963",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical analysis programs"
+ },
+ {
+  "id": "12964",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data for computer entry"
+ },
+ {
+  "id": "12965",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survey instruments design"
+ },
+ {
+  "id": "12966",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "potential study subjects"
+ },
+ {
+  "id": "12967",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "research subjects tests interviews"
+ },
+ {
+  "id": "12968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research participants scheduling"
+ },
+ {
+  "id": "12969",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research participants follow-up"
+ },
+ {
+  "id": "12970",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laboratory space and resources"
+ },
+ {
+  "id": "12971",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "survey interviewers"
+ },
+ {
+  "id": "12972",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory supplies expenses"
+ },
+ {
+  "id": "12973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client research needs"
+ },
+ {
+  "id": "21061",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forest tract map data"
+ },
+ {
+  "id": "5563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "forest conservation seasonal workers"
+ },
+ {
+  "id": "5564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "logging contractor activities"
+ },
+ {
+  "id": "5565",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees for thinning"
+ },
+ {
+  "id": "5566",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees weeds undergrowth"
+ },
+ {
+  "id": "5567",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "forest fire protection"
+ },
+ {
+  "id": "5568",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forest roads and areas"
+ },
+ {
+  "id": "5569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "park and forest areas"
+ },
+ {
+  "id": "5570",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "conservation regulations public"
+ },
+ {
+  "id": "5571",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "log condition records"
+ },
+ {
+  "id": "5572",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "nursery harvesting operations"
+ },
+ {
+  "id": "5573",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire and timber permits"
+ },
+ {
+  "id": "5574",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer databases"
+ },
+ {
+  "id": "5575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "survey distances and sightlines"
+ },
+ {
+  "id": "5576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "forest access routes"
+ },
+ {
+  "id": "5577",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "forestry public advice"
+ },
+ {
+  "id": "5578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reforestation and nursery work"
+ },
+ {
+  "id": "5579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plants animals insects soils"
+ },
+ {
+  "id": "5580",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forestry research support"
+ },
+ {
+  "id": "5581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees for damage samples"
+ }
+]

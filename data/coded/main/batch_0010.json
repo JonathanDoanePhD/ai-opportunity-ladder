@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "100",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training participant recruitment and placement"
+ },
+ {
+  "id": "101",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instructor-prepared training materials"
+ },
+ {
+  "id": "102",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "alternative training methods for poor results"
+ },
+ {
+  "id": "103",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee training needs assessment"
+ },
+ {
+  "id": "105",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructor selection and assignment"
+ },
+ {
+  "id": "106",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "executive potential development programs"
+ },
+ {
+  "id": "108",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client training contract terms and fees"
+ },
+ {
+  "id": "111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "trainee referrals to placement or social services"
+ },
+ {
+  "id": "19558",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental efficiency and recycling training programs"
+ },
+ {
+  "id": "19559",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training delivery modes, cost, environmental impact"
+ },
+ {
+  "id": "20474",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee and customer orientation programs"
+ },
+ {
+  "id": "20475",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training manuals, guides, course materials"
+ },
+ {
+  "id": "20476",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training costs and budget reports"
+ },
+ {
+  "id": "20477",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instructor supervision, evaluation, and referral"
+ },
+ {
+  "id": "93",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional journals, books, articles"
+ },
+ {
+  "id": "94",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "in-person instructional presentation to trainees"
+ },
+ {
+  "id": "95",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class schedules, rooms, equipment, instructors"
+ },
+ {
+  "id": "97",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker skill maintenance training programs"
+ },
+ {
+  "id": "98",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training activities and program effectiveness"
+ },
+ {
+  "id": "99",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meetings and seminars for training information"
+ },
+ {
+  "id": "5433",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer demographics, preferences, buying data"
+ },
+ {
+  "id": "5434",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research findings reports with graphics"
+ },
+ {
+  "id": "5435",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer and employee satisfaction"
+ },
+ {
+  "id": "5436",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing and sales trend forecasts"
+ },
+ {
+  "id": "5437",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company marketplace position information"
+ },
+ {
+  "id": "5438",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing and advertising program effectiveness"
+ },
+ {
+  "id": "5439",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "consumer opinion and marketing strategy research"
+ },
+ {
+  "id": "5440",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff conferences giving management proposals"
+ },
+ {
+  "id": "5441",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competitor prices, sales, marketing methods"
+ },
+ {
+  "id": "5442",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry statistics and trade literature"
+ },
+ {
+  "id": "5443",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey and questionnaire data collection methods"
+ },
+ {
+  "id": "5444",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertising needs identification procedures"
+ },
+ {
+  "id": "5445",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "trained survey interviewers"
+ },
+ {
+  "id": "16172",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government regulations and web technology developments"
+ },
+ {
+  "id": "16173",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product availability problems with customer service"
+ },
+ {
+  "id": "16174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "online customer service processes"
+ },
+ {
+  "id": "16175",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing campaign hardware and software"
+ },
+ {
+  "id": "16176",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web application interfacing with enterprise systems"
+ },
+ {
+  "id": "16177",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product requirements from market research"
+ },
+ {
+  "id": "16178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor and online partner contracts"
+ },
+ {
+  "id": "16179",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "campaign proposals to marketing executives"
+ },
+ {
+  "id": "16180",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online transaction and security policies"
+ },
+ {
+  "id": "16181",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "e-commerce design prototypes and mock-ups"
+ },
+ {
+  "id": "16182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "online marketing strategy development"
+ },
+ {
+  "id": "16183",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commerce functionality technical specifications"
+ },
+ {
+  "id": "16184",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transactional web applications code"
+ },
+ {
+  "id": "16185",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "promotion coordination with merchandising and inventory staff"
+ },
+ {
+  "id": "16186",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "search trends and competitor market analysis"
+ },
+ {
+  "id": "16187",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online marketing financial models, revenue forecasts"
+ },
+ {
+  "id": "16188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hyperlink placement with merchants and bloggers"
+ },
+ {
+  "id": "16189",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cross-channel marketing strategy with colleagues"
+ },
+ {
+  "id": "16190",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "search engine patterns and keyword placement"
+ },
+ {
+  "id": "16191",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paid ads, affiliate, email, social campaigns"
+ },
+ {
+  "id": "16192",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web metrics like visits and conversions"
+ },
+ {
+  "id": "16193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "brand-conforming web content with design staff"
+ },
+ {
+  "id": "20318",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "visitor behavior analytics tools"
+ },
+ {
+  "id": "20319",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "secondary data with keyword research"
+ },
+ {
+  "id": "20320",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "website architecture with developers for search"
+ },
+ {
+  "id": "20321",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital media content strategies"
+ },
+ {
+  "id": "20322",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emerging media technologies recommendations"
+ },
+ {
+  "id": "20323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "communications with digital journalists and bloggers"
+ },
+ {
+  "id": "20324",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "banner and video ad campaigns"
+ },
+ {
+  "id": "20325",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "social media campaigns for search tactics"
+ },
+ {
+  "id": "20326",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "KPIs and digital campaign metrics"
+ },
+ {
+  "id": "20327",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "search activities A/B optimization tests"
+ },
+ {
+  "id": "20328",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "search activity tracking and executive analyses"
+ },
+ {
+  "id": "20329",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital assets for SEO and display"
+ },
+ {
+  "id": "20330",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shopping cart experience and conversion rates"
+ },
+ {
+  "id": "20331",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local search listings and directory placement"
+ },
+ {
+  "id": "15947",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "disaster testing activity summary reports"
+ },
+ {
+  "id": "15948",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "IT applications and network blueprints"
+ },
+ {
+  "id": "15949",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government regulations and codes compliance"
+ },
+ {
+  "id": "15950",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "intelligence collection targets"
+ },
+ {
+  "id": "15951",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disaster communication call trees"
+ },
+ {
+  "id": "15952",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk mitigation products and services"
+ },
+ {
+  "id": "15953",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuity and disaster recovery budgets"
+ },
+ {
+  "id": "15954",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training and awareness presentations"
+ },
+ {
+  "id": "15955",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional meetings and literature on continuity"
+ },
+ {
+  "id": "15956",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "documented disaster recovery plans testing"
+ },
+ {
+  "id": "15957",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing disaster recovery and continuity plans"
+ },
+ {
+  "id": "15958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "methods to monitor operational interruptions"
+ },
+ {
+  "id": "15959",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational results and accomplishment reports"
+ },
+ {
+  "id": "15960",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business function risk and recovery times"
+ },
+ {
+  "id": "15961",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "strategic improvement of interruption risks"
+ },
+ {
+  "id": "15962",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "disaster recovery plans for data centers"
+ },
+ {
+  "id": "15963",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations restoration disruption scenarios"
+ },
+ {
+  "id": "15964",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contingency plan integration and operation"
+ },
+ {
+  "id": "15965",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency management and continuity plans"
+ },
+ {
+  "id": "15966",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "corporate intelligence collection against fraud and threats"
+ },
+ {
+  "id": "15967",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "corporate intelligence threat trends and patterns"
+ },
+ {
+  "id": "15968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability proposals and policies"
+ },
+ {
+  "id": "15969",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory and market sustainability issues"
+ },
+ {
+  "id": "15970",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "environmental policy violations"
+ },
+ {
+  "id": "15971",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability indicators"
+ },
+ {
+  "id": "15972",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability grant and rebate applications"
+ },
+ {
+  "id": "15973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability program support"
+ },
+ {
+  "id": "15974",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "resources for sustainability projects"
+ },
+ {
+  "id": "15975",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability project plans and documents"
+ },
+ {
+  "id": "15976",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability initiative effectiveness reports and presentations"
+ },
+ {
+  "id": "15977",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability brochures and web outreach media"
+ },
+ {
+  "id": "15978",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "waste stream and green building information"
+ },
+ {
+  "id": "15979",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability initiative cost and feasibility"
+ },
+ {
+  "id": "15980",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy, resource, waste, recycling indicators"
+ },
+ {
+  "id": "15981",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability project goals and strategies"
+ },
+ {
+  "id": "15702",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online retailing trends and security threats"
+ },
+ {
+  "id": "15703",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photos and video for online storefront"
+ },
+ {
+  "id": "15704",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchandise orders for inventory levels"
+ },
+ {
+  "id": "15705",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shipping supplies inventory"
+ },
+ {
+  "id": "15706",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "online and physical retailing strategy"
+ },
+ {
+  "id": "15707",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product prices"
+ },
+ {
+  "id": "15708",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchant information and transaction terms"
+ },
+ {
+  "id": "15709",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction and shipment email confirmations"
+ },
+ {
+  "id": "15710",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders and invoices in software"
+ },
+ {
+  "id": "15711",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer accounts database"
+ },
+ {
+  "id": "15712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "offline brochures, cards, signage"
+ },
+ {
+  "id": "15713",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing content placement with shopping specialists"
+ },
+ {
+  "id": "15714",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer orders cancellation"
+ },
+ {
+  "id": "15715",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital media delivery to customers"
+ },
+ {
+  "id": "15716",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web hosting, merchant accounts, cart software"
+ },
+ {
+  "id": "15717",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product promotion in online communities"
+ },
+ {
+  "id": "15718",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packaged items and shipping documentation"
+ },
+ {
+  "id": "15719",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website usage data for search returns"
+ },
+ {
+  "id": "15720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sources for used items and collectibles"
+ },
+ {
+  "id": "15721",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "products and markets merchandising viability"
+ },
+ {
+  "id": "15722",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online auctions on hosting sites"
+ },
+ {
+  "id": "15723",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online business security practices"
+ },
+ {
+  "id": "15724",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "domain name and web address"
+ },
+ {
+  "id": "15725",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online business plans"
+ },
+ {
+  "id": "15726",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product listing locations for exposure"
+ },
+ {
+  "id": "15727",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online storefront customer interface"
+ },
+ {
+  "id": "15728",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer questions and complaints correspondence"
+ },
+ {
+  "id": "15729",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product images using cameras and lighting"
+ },
+ {
+  "id": "15730",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase subtotals, taxes, shipping costs"
+ },
+ {
+  "id": "15731",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer electronic payments"
+ },
+ {
+  "id": "15732",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "storefront marketing material and descriptions"
+ },
+ {
+  "id": "15733",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "items bought for resale"
+ },
+ {
+  "id": "15734",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchandise descriptions for online listings"
+ },
+ {
+  "id": "15735",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "revenue, sales, expenses in spreadsheets"
+ },
+ {
+  "id": "21482",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "physical security threat level"
+ },
+ {
+  "id": "21483",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security design work budget and schedule"
+ },
+ {
+  "id": "21484",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physical security and staff safety vulnerabilities"
+ },
+ {
+  "id": "21485",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security policies for alarms and access cards"
+ },
+ {
+  "id": "21486",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "security, surveillance, CCTV system requirements"
+ },
+ {
+  "id": "21487",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conceptual security system designs"
+ },
+ {
+  "id": "21488",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security system design specifications"
+ },
+ {
+  "id": "21489",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "security systems and electronics installation and repair"
+ },
+ {
+  "id": "21490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire and intruder detection systems"
+ },
+ {
+  "id": "21491",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical security installations compliance with standards"
+ },
+ {
+  "id": "21492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "witnesses and suspects in security breaches"
+ },
+ {
+  "id": "21493",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surveillance recordings to identify losses"
+ },
+ {
+  "id": "21494",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contractors building security systems"
+ },
+ {
+  "id": "21495",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system security criteria for pre-bid meetings"
+ },
+ {
+  "id": "21496",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security risk analyses and countermeasures"
+ },
+ {
+  "id": "21497",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case reports and court documentation"
+ },
+ {
+  "id": "21498",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security procedures and system drawings"
+ },
+ {
+  "id": "21499",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security system design and integration recommendations"
+ },
+ {
+  "id": "21500",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security system and procedure improvements"
+ },
+ {
+  "id": "21501",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "on-call emergency situations"
+ },
+ {
+  "id": "21502",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design drawings and technical documents"
+ },
+ {
+  "id": "21503",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "security measures acceptance testing"
+ },
+ {
+  "id": "21504",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "personnel security procedures and equipment training"
+ },
+ {
+  "id": "21505",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audit findings reports"
+ },
+ {
+  "id": "21506",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "asset utilization and audit results for management"
+ },
+ {
+  "id": "21507",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data on control deficiencies, fraud, non-compliance"
+ },
+ {
+  "id": "21508",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "account books and accounting systems"
+ },
+ {
+  "id": "21509",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "audit supervision and investigation scope"
+ },
+ {
+  "id": "21510",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "company officials on financial and regulatory matters"
+ },
+ {
+  "id": "21511",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial and information systems controls"
+ },
+ {
+  "id": "21512",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash, notes, securities, canceled checks"
+ },
+ {
+  "id": "21513",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "records and workers for transaction compliance"
+ },
+ {
+  "id": "21514",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accounting records and financial statements"
+ },
+ {
+  "id": "21515",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "adjusting journal entries"
+ },
+ {
+  "id": "21516",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "account discrepancies and reconciliation"
+ },
+ {
+  "id": "21517",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tables of accounts and entry assignment"
+ },
+ {
+  "id": "21518",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inventory verifying journal and ledger entries"
+ },
+ {
+  "id": "21519",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "business operations, costs, revenue projections"
+ },
+ {
+  "id": "21520",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "establishment finances report to management"
+ },
+ {
+  "id": "21521",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recordkeeping and accounting systems"
+ },
+ {
+  "id": "21522",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "taxpayer finances and tax liability"
+ },
+ {
+  "id": "21523",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizational objectives and employee understanding"
+ },
+ {
+  "id": "21524",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll and personnel records for premiums and tax"
+ },
+ {
+  "id": "21525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "taxpayer accounts and audits"
+ },
+ {
+  "id": "21526",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "taxes owed and tax returns"
+ },
+ {
+  "id": "21527",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client advice on benefits, systems, estate plans"
+ },
+ {
+  "id": "21529",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "financial records personnel direction"
+ },
+ {
+  "id": "21530",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pre-implementation audits of systems"
+ },
+ {
+  "id": "21531",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets and budget-versus-actual reports"
+ },
+ {
+  "id": "21532",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "annual reports and financial statements"
+ },
+ {
+  "id": "21533",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "invoices for payment"
+ },
+ {
+  "id": "21534",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assets, liabilities, income, expenditure data"
+ }
+]

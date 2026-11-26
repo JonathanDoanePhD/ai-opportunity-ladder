@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "21635",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loan eligibility certification records"
+ },
+ {
+  "id": "21636",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "collection letters needing authorization"
+ },
+ {
+  "id": "21637",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client debt and payoff calculations"
+ },
+ {
+  "id": "21638",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mortgage application problems with underwriters"
+ },
+ {
+  "id": "21639",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "applicant paperwork questions and completion"
+ },
+ {
+  "id": "21640",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "delinquent borrower repayment negotiation"
+ },
+ {
+  "id": "21641",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' personal financial problems"
+ },
+ {
+  "id": "21642",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payment priority ordering by interest"
+ },
+ {
+  "id": "21643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student financial aid information sessions"
+ },
+ {
+  "id": "21644",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "account records updating and categorizing"
+ },
+ {
+  "id": "21645",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student needs matched to aid programs"
+ },
+ {
+  "id": "21646",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent accounts for write-off"
+ },
+ {
+  "id": "21647",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "billing accuracy checks"
+ },
+ {
+  "id": "3407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan approval within authority limits"
+ },
+ {
+  "id": "3408",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "applicants' loan application information"
+ },
+ {
+  "id": "3409",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "applicant finances and credit feasibility"
+ },
+ {
+  "id": "3410",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan types and terms for customers"
+ },
+ {
+  "id": "3411",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicant credit and financial documents"
+ },
+ {
+  "id": "3412",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit and loan file records"
+ },
+ {
+  "id": "3413",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loan agreement completeness against policy"
+ },
+ {
+  "id": "3414",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loan payment schedules"
+ },
+ {
+  "id": "3415",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new loan products knowledge"
+ },
+ {
+  "id": "3416",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applications routed to credit analysts"
+ },
+ {
+  "id": "3417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints resolution"
+ },
+ {
+  "id": "3418",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' financial goals planning"
+ },
+ {
+  "id": "3421",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bank products marketing to customers"
+ },
+ {
+  "id": "3422",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "loan staff supervision"
+ },
+ {
+  "id": "3423",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit policies and standards"
+ },
+ {
+  "id": "3425",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan markets and referral networks"
+ },
+ {
+  "id": "3426",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delinquent account reports"
+ },
+ {
+  "id": "20016",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "taxpayer questions and form completion"
+ },
+ {
+  "id": "5288",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "tax collection from taxpayers"
+ },
+ {
+  "id": "5289",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax code changes knowledge"
+ },
+ {
+  "id": "5290",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case contact records"
+ },
+ {
+  "id": "5291",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "taxpayer return issues discussion"
+ },
+ {
+  "id": "5292",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "taxpayer discrepancy notices and requests"
+ },
+ {
+  "id": "5293",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delinquent account notices"
+ },
+ {
+  "id": "5294",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "overpayment and underpayment notifications"
+ },
+ {
+  "id": "5296",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "claimed credits and deductions on returns"
+ },
+ {
+  "id": "5297",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "returns selected for audit scope"
+ },
+ {
+  "id": "5298",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax return data entry"
+ },
+ {
+  "id": "5299",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "accounting systems compliance examination"
+ },
+ {
+  "id": "5301",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent taxpayer payment deadlines"
+ },
+ {
+  "id": "5302",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax form names and computations"
+ },
+ {
+  "id": "5303",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent tax assets and liabilities"
+ },
+ {
+  "id": "5305",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent debt settlement method choice"
+ },
+ {
+  "id": "5306",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "taxpayer agreement on assessments"
+ },
+ {
+  "id": "5307",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "court case briefs and record seizure"
+ },
+ {
+  "id": "5308",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "legal documents served on taxpayers"
+ },
+ {
+  "id": "5310",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "taxpayer inability-to-pay claims research"
+ },
+ {
+  "id": "5312",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "informal appeals hearings participation"
+ },
+ {
+  "id": "20363",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client questions and tax planning"
+ },
+ {
+  "id": "20364",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "federal and state tax laws explanation"
+ },
+ {
+  "id": "21165",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client appointment scheduling"
+ },
+ {
+  "id": "7358",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "taxes owed computation and form entries"
+ },
+ {
+  "id": "7359",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "individual and small business tax returns"
+ },
+ {
+  "id": "7360",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client adjustments, deductions and credits"
+ },
+ {
+  "id": "7361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' income and expense information"
+ },
+ {
+  "id": "7362",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial records to select forms"
+ },
+ {
+  "id": "7363",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "taxpayer form completion advice"
+ },
+ {
+  "id": "7364",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax law references for atypical returns"
+ },
+ {
+  "id": "7365",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "form preparation fee calculation"
+ },
+ {
+  "id": "7366",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forms prepared by others"
+ },
+ {
+  "id": "15982",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "software developer requirements documents"
+ },
+ {
+  "id": "15983",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "researchers' and traders' valuation support"
+ },
+ {
+  "id": "15984",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trading system operation metrics"
+ },
+ {
+  "id": "15985",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "analytical software development and testing"
+ },
+ {
+  "id": "15986",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new financial products research"
+ },
+ {
+  "id": "15987",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial analytic models maintenance"
+ },
+ {
+  "id": "15988",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial research summary reports"
+ },
+ {
+  "id": "15989",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial analysis results interpretation"
+ },
+ {
+  "id": "15990",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quantitative model libraries"
+ },
+ {
+  "id": "15991",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "model specifications and data collection"
+ },
+ {
+  "id": "15992",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "traders' analytical application needs"
+ },
+ {
+  "id": "15993",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "trading strategies discussion with peers"
+ },
+ {
+  "id": "15994",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "structured solutions with product teams"
+ },
+ {
+  "id": "15995",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "portfolio and pricing analytical tools"
+ },
+ {
+  "id": "15996",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "independent verification models"
+ },
+ {
+  "id": "15997",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical techniques for finance problems"
+ },
+ {
+  "id": "19572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carbon trading product pricing risks"
+ },
+ {
+  "id": "19573",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate impact on business finances"
+ },
+ {
+  "id": "19574",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "corporate ESG performance measures"
+ },
+ {
+  "id": "19575",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client carbon exposure hedging solutions"
+ },
+ {
+  "id": "19576",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green financial product assessment tools"
+ },
+ {
+  "id": "16035",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "money laundering trends knowledge"
+ },
+ {
+  "id": "16036",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fraud detection training of others"
+ },
+ {
+  "id": "16037",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fraud detection technology evaluation"
+ },
+ {
+  "id": "16038",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "court evidence presentation preparation"
+ },
+ {
+  "id": "16039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "subpoenas obtained and served"
+ },
+ {
+  "id": "16040",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fraud loss recovery negotiation"
+ },
+ {
+  "id": "16041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "case field surveillance"
+ },
+ {
+  "id": "16042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "fraud suspects arrested"
+ },
+ {
+  "id": "16043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court testimony on findings"
+ },
+ {
+  "id": "16044",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client fraud detection improvement advice"
+ },
+ {
+  "id": "16045",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "suspected fraud reports triage"
+ },
+ {
+  "id": "16046",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation findings written reports"
+ },
+ {
+  "id": "16047",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fraud case action recommendations"
+ },
+ {
+  "id": "16048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "fraud investigation teams"
+ },
+ {
+  "id": "16049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "witness and suspect statements"
+ },
+ {
+  "id": "16050",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fraud detection tools and procedures"
+ },
+ {
+  "id": "16051",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "investigation financial documents gathering"
+ },
+ {
+  "id": "16052",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "business operations fraud risk areas"
+ },
+ {
+  "id": "16053",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigative activity documentation"
+ },
+ {
+  "id": "16054",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fraud activity logs and databases"
+ },
+ {
+  "id": "16055",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "investigations with law enforcement attorneys"
+ },
+ {
+  "id": "16056",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "suspicious financial activity investigation"
+ },
+ {
+  "id": "16057",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial data irregularity analysis"
+ },
+ {
+  "id": "20950",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program and system malfunctions"
+ },
+ {
+  "id": "3464",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "users' computer problems assistance"
+ },
+ {
+  "id": "3465",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer programs and systems testing"
+ },
+ {
+  "id": "3466",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "object-oriented programming development"
+ },
+ {
+  "id": "3467",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' computation needs for programs"
+ },
+ {
+  "id": "3468",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "organization computer systems integration"
+ },
+ {
+  "id": "3469",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management agreement on system principles"
+ },
+ {
+  "id": "3470",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system modification for new purposes"
+ },
+ {
+  "id": "3471",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers' information processing observation"
+ },
+ {
+  "id": "3472",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software and hardware requirements"
+ },
+ {
+  "id": "3473",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff training on computer systems"
+ },
+ {
+  "id": "3474",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer system design and data models"
+ },
+ {
+  "id": "3475",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pre-developed application packages"
+ },
+ {
+  "id": "3476",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system goals and flow charts"
+ },
+ {
+  "id": "3477",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system design and test procedures"
+ },
+ {
+  "id": "3478",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "code problems from performance indicators"
+ },
+ {
+  "id": "3479",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and software recommendations"
+ },
+ {
+  "id": "3480",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical reading for program development"
+ },
+ {
+  "id": "3481",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "programmers and analysts supervision"
+ },
+ {
+  "id": "3482",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business problem computer analysis"
+ },
+ {
+  "id": "3483",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system cost-benefit and ROI analyses"
+ },
+ {
+  "id": "3484",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system inputs and results distribution"
+ },
+ {
+  "id": "18088",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "health informatics solutions and decision support"
+ },
+ {
+  "id": "18089",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nursing informatics information dissemination"
+ },
+ {
+  "id": "18090",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nurses and engineers translation"
+ },
+ {
+  "id": "18091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "home telehealth technology installation"
+ },
+ {
+  "id": "18092",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "health IT applications for clinical problems"
+ },
+ {
+  "id": "18093",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data management tools for nurses"
+ },
+ {
+  "id": "18094",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient and nursing data analysis"
+ },
+ {
+  "id": "18095",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technologies applicability to nursing practice"
+ },
+ {
+  "id": "18096",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "informatics theory applied with colleagues"
+ },
+ {
+  "id": "18097",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient information privacy policies"
+ },
+ {
+  "id": "18098",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nursing informatics research support"
+ },
+ {
+  "id": "18099",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health IT training programs and manuals"
+ },
+ {
+  "id": "18100",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nursing IT introduction strategies"
+ },
+ {
+  "id": "18101",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nursing care data collection and recording"
+ },
+ {
+  "id": "18102",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "informatics literature and developments"
+ },
+ {
+  "id": "18103",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nurses' hardware and software configuration"
+ },
+ {
+  "id": "18104",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health information management policies"
+ },
+ {
+  "id": "5313",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user security awareness training"
+ },
+ {
+  "id": "5314",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plans to safeguard computer files"
+ },
+ {
+  "id": "5315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users' access needs and violations"
+ },
+ {
+  "id": "5316",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "virus reports for protection updates"
+ },
+ {
+  "id": "5317",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security files and access status"
+ },
+ {
+  "id": "5318",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "system plan with personnel and vendors"
+ },
+ {
+  "id": "5319",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data file use and access"
+ },
+ {
+  "id": "5320",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data system risk assessments and tests"
+ },
+ {
+  "id": "5321",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data transmission encryption and firewalls"
+ },
+ {
+  "id": "5322",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security and emergency policies documentation"
+ },
+ {
+  "id": "5323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security violators and procedure discussion"
+ },
+ {
+  "id": "14623",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hardware and software problem solutions"
+ },
+ {
+  "id": "14624",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work priorities task assignment"
+ },
+ {
+  "id": "14625",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project plans feasibility assessment"
+ },
+ {
+  "id": "14626",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new technology from theoretical expertise"
+ },
+ {
+  "id": "14627",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users' and vendors' computing needs"
+ },
+ {
+  "id": "14628",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "managers and vendors cooperation"
+ },
+ {
+  "id": "14629",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical problems mathematical models"
+ },
+ {
+  "id": "14630",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizational goals, policies and procedures"
+ },
+ {
+  "id": "14631",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staffing decisions and subordinate training"
+ },
+ {
+  "id": "14632",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "performance standards and work evaluation"
+ },
+ {
+  "id": "14633",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer and software design"
+ },
+ {
+  "id": "14634",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "network hardware, software and security"
+ },
+ {
+  "id": "14635",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "multidisciplinary virtual reality robotics projects"
+ },
+ {
+  "id": "14636",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational budgets"
+ },
+ {
+  "id": "14637",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department daily operations coordination"
+ },
+ {
+  "id": "18989",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network usage and server data"
+ },
+ {
+  "id": "18990",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "network equipment installation parameters"
+ },
+ {
+  "id": "18991",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security settings and access permissions"
+ },
+ {
+  "id": "18992",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "network routers configuration"
+ },
+ {
+  "id": "18993",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network support activity documentation"
+ },
+ {
+  "id": "18994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network performance data evaluation"
+ },
+ {
+  "id": "18995",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "networking problem causes diagnosis"
+ },
+ {
+  "id": "18996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wireless networking equipment installation"
+ },
+ {
+  "id": "18997",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network and firewall software installation"
+ },
+ {
+  "id": "18998",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new hardware and software integration"
+ },
+ {
+  "id": "18999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "network and fiber optic cables"
+ },
+ {
+  "id": "19000",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "networking components routine repairs"
+ },
+ {
+  "id": "19001",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "software and hardware testing"
+ },
+ {
+  "id": "19002",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "users' connectivity problems"
+ },
+ {
+  "id": "19003",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network security breach analysis reports"
+ },
+ {
+  "id": "19004",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network data backups"
+ },
+ {
+  "id": "19005",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user instructions and manuals"
+ },
+ {
+  "id": "19006",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network installation technical documentation"
+ },
+ {
+  "id": "19007",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "help desk requests and resolutions"
+ },
+ {
+  "id": "19008",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network activity logs"
+ },
+ {
+  "id": "19009",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry patch and virus information"
+ },
+ {
+  "id": "19010",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "networking telephone support"
+ },
+ {
+  "id": "19011",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "networking hardware and software products"
+ },
+ {
+  "id": "19012",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "monthly network reports"
+ },
+ {
+  "id": "19013",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired items operation testing"
+ },
+ {
+  "id": "19014",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users' network software training"
+ }
+]

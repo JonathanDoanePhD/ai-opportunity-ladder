@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "18783",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle and equipment preventative maintenance"
+ },
+ {
+  "id": "18784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sweeping, mowing, snow removal with equipment"
+ },
+ {
+  "id": "4871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "warning motorists of roadwork"
+ },
+ {
+  "id": "4872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "placing signs and cones"
+ },
+ {
+  "id": "4874",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "asphalt patching of pavement"
+ },
+ {
+  "id": "4875",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving crew trucks to sites"
+ },
+ {
+  "id": "4876",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drainage systems and structures inspection repair"
+ },
+ {
+  "id": "4877",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spreading fill material on shoulders"
+ },
+ {
+  "id": "4878",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guardrails and highway fixtures installation"
+ },
+ {
+  "id": "4879",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roadway litter and debris"
+ },
+ {
+  "id": "4880",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "culverts and drains debris clearing"
+ },
+ {
+  "id": "4881",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roadside brush and tree work"
+ },
+ {
+  "id": "4882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "painting traffic lines on roads"
+ },
+ {
+  "id": "4883",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "verifying marker installation accuracy"
+ },
+ {
+  "id": "4884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applying poison to roadside vegetation"
+ },
+ {
+  "id": "4885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring and marking marker locations"
+ },
+ {
+  "id": "4886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spraying oil on road surfaces"
+ },
+ {
+  "id": "4887",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing adhesive compounds for markers"
+ },
+ {
+  "id": "4888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "snow fences placement and removal"
+ },
+ {
+  "id": "13643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patrolling track for damage"
+ },
+ {
+  "id": "13644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clearing ice and snow from track"
+ },
+ {
+  "id": "13645",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track switch repair"
+ },
+ {
+  "id": "13646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine lubrication and fluids"
+ },
+ {
+  "id": "13647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding switch points and frogs"
+ },
+ {
+  "id": "13648",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting rails with saws"
+ },
+ {
+  "id": "13649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jacking up rails for tie replacement"
+ },
+ {
+  "id": "13650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track machine controls adjustment"
+ },
+ {
+  "id": "13651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling holes through rails and plates"
+ },
+ {
+  "id": "13652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding rail ends smooth"
+ },
+ {
+  "id": "13653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bolts at rail joints"
+ },
+ {
+  "id": "13654",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track levelness indicator observation"
+ },
+ {
+  "id": "13655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spike driving machines operation"
+ },
+ {
+  "id": "13656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rail laying mechanisms to gauge"
+ },
+ {
+  "id": "13657",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning and minor machine repair"
+ },
+ {
+  "id": "13658",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grading and cleaning track ballast"
+ },
+ {
+  "id": "13659",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ballast redistribution machines driving"
+ },
+ {
+  "id": "13660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pulling old spikes from ties"
+ },
+ {
+  "id": "13661",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving track-laying vehicles"
+ },
+ {
+  "id": "13662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turning machine wheels for alignment"
+ },
+ {
+  "id": "13663",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil spraying on ties and joints"
+ },
+ {
+  "id": "13664",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "closing grasping devices on rail"
+ },
+ {
+  "id": "13665",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "attaching guideline wire to rails"
+ },
+ {
+  "id": "13666",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tie-adzing machine operation"
+ },
+ {
+  "id": "13667",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "painting railroad signs"
+ },
+ {
+  "id": "20798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding track switch sections"
+ },
+ {
+  "id": "11601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving crew trucks with materials"
+ },
+ {
+  "id": "11602",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "radio contact with supervisors and coworkers"
+ },
+ {
+  "id": "11603",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance and repair work records"
+ },
+ {
+  "id": "11604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sewer cleaning equipment operation"
+ },
+ {
+  "id": "11605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "checking sewer joint seals"
+ },
+ {
+  "id": "11606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "examining cables for pipe deposits"
+ },
+ {
+  "id": "11607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing cutting knives on cables"
+ },
+ {
+  "id": "11608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring and marking excavation sites"
+ },
+ {
+  "id": "11609",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locating pipe problems with equipment"
+ },
+ {
+  "id": "11610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "septic tanks and sewer structures cleaning"
+ },
+ {
+  "id": "11611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feeding cables into sewer pipes"
+ },
+ {
+  "id": "11612",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment servicing and minor repairs"
+ },
+ {
+  "id": "11613",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manholes inspected for stoppages"
+ },
+ {
+  "id": "11614",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacing damaged pipe sections"
+ },
+ {
+  "id": "11615",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manual digging of sewer lines"
+ },
+ {
+  "id": "11616",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "breaking pavement to reach pipes"
+ },
+ {
+  "id": "11617",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "backfilling and packing repaired excavations"
+ },
+ {
+  "id": "11618",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tool and equipment orders"
+ },
+ {
+  "id": "11619",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manually rotating cleaning rods"
+ },
+ {
+  "id": "11620",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning flooded basements after sewage"
+ },
+ {
+  "id": "11621",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tapping sewer mains for saddles"
+ },
+ {
+  "id": "11622",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sewer maps and manhole charts"
+ },
+ {
+  "id": "8284",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laying base and bedding materials"
+ },
+ {
+  "id": "8285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "base preparation and soil compaction"
+ },
+ {
+  "id": "8286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sweeping sand from paved surface"
+ },
+ {
+  "id": "8287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "setting and aligning pavers"
+ },
+ {
+  "id": "8288",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sweeping sand into paver joints"
+ },
+ {
+  "id": "8289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "compacting sand and pavers"
+ },
+ {
+  "id": "8290",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "paver layout pattern design"
+ },
+ {
+  "id": "8291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "resurfacing outdoor areas with paving"
+ },
+ {
+  "id": "8292",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client design discussion"
+ },
+ {
+  "id": "8293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting paving stones"
+ },
+ {
+  "id": "8294",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "screeding bedding sand level"
+ },
+ {
+  "id": "8295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cementing paved area edges"
+ },
+ {
+  "id": "17787",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "building inspection for weatherization needs"
+ },
+ {
+  "id": "17788",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "recommending weatherization methods to clients"
+ },
+ {
+  "id": "17789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "airflow testing with analysis equipment"
+ },
+ {
+  "id": "17790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applying insulation in building spaces"
+ },
+ {
+  "id": "17791",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "explaining energy conservation to residents"
+ },
+ {
+  "id": "17792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing and sealing air ducts"
+ },
+ {
+  "id": "17793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing storm windows and doors"
+ },
+ {
+  "id": "17794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor building repairs"
+ },
+ {
+  "id": "17795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weatherstripping and caulking application"
+ },
+ {
+  "id": "17796",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "weatherization cost estimates and specifications"
+ },
+ {
+  "id": "17797",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wrapping ducts and water lines"
+ },
+ {
+  "id": "17798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wrapping water heaters with blankets"
+ },
+ {
+  "id": "17799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patching holes in walls"
+ },
+ {
+  "id": "17800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning and maintaining tools"
+ },
+ {
+  "id": "17801",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scheduling appointments with residents"
+ },
+ {
+  "id": "17802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "explaining recommendations to building owners"
+ },
+ {
+  "id": "17803",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "weatherization activity and financial logs"
+ },
+ {
+  "id": "17804",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bids, contracts, weatherization reports"
+ },
+ {
+  "id": "21204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing gas appliances combustion"
+ },
+ {
+  "id": "21205",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building air leakage blower door"
+ },
+ {
+  "id": "9889",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "derrick inspection before raising"
+ },
+ {
+  "id": "9890",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "derrick inspection cleaning and oiling"
+ },
+ {
+  "id": "9891",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drilling fluid viscosity and weight"
+ },
+ {
+  "id": "9892",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pumps and mud tank repair"
+ },
+ {
+  "id": "9893",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crown blocks bolted atop derricks"
+ },
+ {
+  "id": "9894",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "listening for mud pump problems"
+ },
+ {
+  "id": "9895",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starting mud circulation pumps"
+ },
+ {
+  "id": "9896",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "positioning derrick elements while climbing"
+ },
+ {
+  "id": "9897",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew supervision and training"
+ },
+ {
+  "id": "9898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guiding pipe into elevators"
+ },
+ {
+  "id": "9899",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mud reports and chemical additive instructions"
+ },
+ {
+  "id": "9900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clamping fixtures on hoisting cables"
+ },
+ {
+  "id": "9901",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing drilling mud with mixers"
+ },
+ {
+  "id": "9902",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stringing cables through pulleys"
+ },
+ {
+  "id": "9903",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steadying pipes during connection"
+ },
+ {
+  "id": "8296",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training crews on safe drilling"
+ },
+ {
+  "id": "8297",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gauges and levers controlling rotary table"
+ },
+ {
+  "id": "8298",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "counting drill rod sections for depth"
+ },
+ {
+  "id": "8299",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "levers controlling drawworks lifting pipe"
+ },
+ {
+  "id": "8300",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "connecting drill pipe sections"
+ },
+ {
+  "id": "8301",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drilling footage and strata records"
+ },
+ {
+  "id": "8302",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery maintenance and adjustment"
+ },
+ {
+  "id": "8303",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slush pump operation checks"
+ },
+ {
+  "id": "8304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recovering lost bits and pipes"
+ },
+ {
+  "id": "8305",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing drilling mud ingredients"
+ },
+ {
+  "id": "8306",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "directing rig crews"
+ },
+ {
+  "id": "8307",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling progress and bit selection"
+ },
+ {
+  "id": "8308",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repairing drill rig machinery"
+ },
+ {
+  "id": "8309",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oiling pulleys blocks and cables"
+ },
+ {
+  "id": "8310",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bolting pump and engine parts"
+ },
+ {
+  "id": "8311",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "core samples removal during drilling"
+ },
+ {
+  "id": "8312",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "capping wells and regulating flow"
+ },
+ {
+  "id": "8313",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lining holes with pipe, hardware"
+ },
+ {
+  "id": "8314",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "positioning truck-mounted derricks"
+ },
+ {
+  "id": "8315",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plugging observation wells, site restoration"
+ },
+ {
+  "id": "19874",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applying coiled tubing and fracturing techniques"
+ },
+ {
+  "id": "20451",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment safety inspections and maintenance"
+ },
+ {
+  "id": "20452",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "listening to engines for faults"
+ },
+ {
+  "id": "7074",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "gathering pipe and borehole information"
+ },
+ {
+  "id": "7075",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving truck-mounted units"
+ },
+ {
+  "id": "7076",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wellhead pressure-control devices installation"
+ },
+ {
+  "id": "7077",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "threading cables through pulleys"
+ },
+ {
+  "id": "7078",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pumping fluids through wells"
+ },
+ {
+  "id": "7079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sealing abandoned wells"
+ },
+ {
+  "id": "7080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "controls raising derricks leveling rigs"
+ },
+ {
+  "id": "7081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "directing drilling crews"
+ },
+ {
+  "id": "7082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "perforating well casings with explosives"
+ },
+ {
+  "id": "7083",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service reports for billing"
+ },
+ {
+  "id": "7084",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment removing well obstructions"
+ },
+ {
+  "id": "7085",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "selecting fishing tools for obstacles"
+ },
+ {
+  "id": "7086",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "unserviceable wells condition examination"
+ },
+ {
+  "id": "7087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inserting instruments into obstructed wells"
+ },
+ {
+  "id": "7088",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "instrument readings for obstruction depth"
+ },
+ {
+  "id": "7089",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sound waves for well fluid levels"
+ },
+ {
+  "id": "12777",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating shovels and backhoes"
+ },
+ {
+  "id": "12778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment setup and inspection"
+ },
+ {
+  "id": "12779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "following signals and grade stakes"
+ },
+ {
+  "id": "12780",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digging plans and machine limits"
+ },
+ {
+  "id": "12781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "backfilling and breaking rock"
+ },
+ {
+  "id": "12783",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lubricating and repairing machinery"
+ },
+ {
+  "id": "12784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moving materials over short distances"
+ },
+ {
+  "id": "12785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "verifying excavated material levels"
+ },
+ {
+  "id": "12786",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instructions about material movement"
+ },
+ {
+  "id": "12787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "adjusting dig face angles"
+ },
+ {
+  "id": "12788",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving machines to work sites"
+ },
+ {
+  "id": "12789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manual shoveling site preparation"
+ },
+ {
+  "id": "12790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "directing ground workers"
+ },
+ {
+  "id": "12791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "directing workers placing outriggers"
+ },
+ {
+  "id": "20458",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "creating inclines or ramps"
+ },
+ {
+  "id": "20459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "handling slides, mud, pit cleanings"
+ },
+ {
+  "id": "13668",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling pressure and speed by rock"
+ },
+ {
+  "id": "13669",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boring depths and alignment verification"
+ },
+ {
+  "id": "13671",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling speed and casing insertion"
+ },
+ {
+  "id": "13672",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "selecting drill by soil conditions"
+ },
+ {
+  "id": "13673",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stabilizing and aligning drill machines"
+ },
+ {
+  "id": "13674",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "attaching drill bits and rods"
+ },
+ {
+  "id": "13675",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling holes in rock"
+ },
+ {
+  "id": "13676",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flushing cuttings from drill holes"
+ },
+ {
+  "id": "13677",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "positioning and leveling truck rigs"
+ },
+ {
+  "id": "13678",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drill machinery routine maintenance"
+ },
+ {
+  "id": "13679",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving trucks and drills to sites"
+ },
+ {
+  "id": "13680",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drilling progress and geological data"
+ },
+ {
+  "id": "13681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "retrieving lost equipment from boreholes"
+ },
+ {
+  "id": "13682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembling augers and casing pipes"
+ },
+ {
+  "id": "13683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pumping water into wells"
+ },
+ {
+  "id": "13684",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating water-well drilling rigs"
+ },
+ {
+  "id": "13685",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "well pumping performance tests"
+ },
+ {
+  "id": "13686",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "geological formations encountered documentation"
+ },
+ {
+  "id": "13687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "withdrawing rods and extracting cores"
+ },
+ {
+  "id": "13688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "retracting augers to discharge dirt"
+ },
+ {
+  "id": "13689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing well screens and casings"
+ },
+ {
+  "id": "13690",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "well pumping system design"
+ },
+ {
+  "id": "13691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "disinfecting and redeveloping wells"
+ },
+ {
+  "id": "13692",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "drilling feasibility and cost estimates"
+ },
+ {
+  "id": "13694",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "signaling crane operators"
+ },
+ {
+  "id": "13695",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "core samples strata inspection"
+ },
+ {
+  "id": "13696",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabricating well casings"
+ },
+ {
+  "id": "21016",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drill and blast pattern designs"
+ },
+ {
+  "id": "23489",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gauges and sounds during drilling"
+ }
+]

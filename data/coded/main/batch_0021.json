@@ -1,0 +1,1530 @@
+[
+ {
+  "id": "16563",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV cell and module testing"
+ },
+ {
+  "id": "16564",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar design specifications"
+ },
+ {
+  "id": "16565",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "solar system thermal and cost analysis"
+ },
+ {
+  "id": "16566",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar installation procedures and standards"
+ },
+ {
+  "id": "16567",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vacuum tube collector design"
+ },
+ {
+  "id": "16568",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "installation crew technical support"
+ },
+ {
+  "id": "16569",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "PV energy production simulation"
+ },
+ {
+  "id": "16570",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar system functional requirements"
+ },
+ {
+  "id": "16571",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar development and monitoring plans"
+ },
+ {
+  "id": "16572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "solar electrical diagrams in CAD"
+ },
+ {
+  "id": "16573",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "installation inspection checklists"
+ },
+ {
+  "id": "16574",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "PV or thermal system design"
+ },
+ {
+  "id": "16575",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site structural and electrical audit"
+ },
+ {
+  "id": "21917",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "CAD or manual drawings"
+ },
+ {
+  "id": "21918",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction plans from sketches"
+ },
+ {
+  "id": "21919",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "multi-discipline building design coordination"
+ },
+ {
+  "id": "21920",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building codes affecting designs"
+ },
+ {
+  "id": "21921",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey-based maps and profiles"
+ },
+ {
+  "id": "21922",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commercial interior room layouts"
+ },
+ {
+  "id": "21923",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "drafting staff supervision and training"
+ },
+ {
+  "id": "21924",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawing work sequence and format"
+ },
+ {
+  "id": "21925",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawing sets for reproduction"
+ },
+ {
+  "id": "21926",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scale plans for structures"
+ },
+ {
+  "id": "21927",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey and well log data"
+ },
+ {
+  "id": "21928",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material dimensions and numbering"
+ },
+ {
+  "id": "21929",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "procedures from design specifications"
+ },
+ {
+  "id": "21930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "field surveys and inspections"
+ },
+ {
+  "id": "21931",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "drawings explained to construction teams"
+ },
+ {
+  "id": "21932",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site measurements for designs"
+ },
+ {
+  "id": "21933",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material quality and quantity lists"
+ },
+ {
+  "id": "21934",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey map geological symbols"
+ },
+ {
+  "id": "21935",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "freehand drawings and lettering"
+ },
+ {
+  "id": "21936",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "excavation tonnage and haul diagrams"
+ },
+ {
+  "id": "21937",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "colored landscape and interior drawings"
+ },
+ {
+  "id": "21938",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design weights volumes stress"
+ },
+ {
+  "id": "21939",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "borehole characteristic plots"
+ },
+ {
+  "id": "21940",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drawing copies and tracings"
+ },
+ {
+  "id": "21941",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building heat loss calculations"
+ },
+ {
+  "id": "21942",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "estimates, contracts and bidding documents"
+ },
+ {
+  "id": "21943",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "construction site design compliance"
+ },
+ {
+  "id": "21944",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sketches checked against design concepts"
+ },
+ {
+  "id": "21945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wiring drawings for installers"
+ },
+ {
+  "id": "21946",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawing sets and documentation packages"
+ },
+ {
+  "id": "21947",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineer design concept discussions"
+ },
+ {
+  "id": "21948",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction drawings and estimates review"
+ },
+ {
+  "id": "21949",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electronic schematics and drafting data"
+ },
+ {
+  "id": "21950",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineering problem discussions"
+ },
+ {
+  "id": "21951",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assembly and circuit board drawings"
+ },
+ {
+  "id": "21952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation distances and layout measurements"
+ },
+ {
+  "id": "21953",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project files and job records"
+ },
+ {
+  "id": "21954",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electrical and lighting system design"
+ },
+ {
+  "id": "21955",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scaled installation sketches"
+ },
+ {
+  "id": "21956",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work order service type"
+ },
+ {
+  "id": "21957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "drawings explained to production teams"
+ },
+ {
+  "id": "21958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work orders and vendor problem resolution"
+ },
+ {
+  "id": "21959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "working drawing copies"
+ },
+ {
+  "id": "21960",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "final layout output files"
+ },
+ {
+  "id": "21961",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layout commands and specifications"
+ },
+ {
+  "id": "21962",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "circuit board drafting team supervision"
+ },
+ {
+  "id": "21963",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logic element configurations"
+ },
+ {
+  "id": "21964",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawing work order and format"
+ },
+ {
+  "id": "21965",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "blueprints and assembler consultation"
+ },
+ {
+  "id": "21966",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation site sketches"
+ },
+ {
+  "id": "21967",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test head drill size"
+ },
+ {
+  "id": "21968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test point layouts and schematics"
+ },
+ {
+  "id": "21969",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical reports and data charts"
+ },
+ {
+  "id": "21970",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "circuit board drawing copies"
+ },
+ {
+  "id": "21971",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students learning drafting"
+ },
+ {
+  "id": "21972",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications and stress calculations"
+ },
+ {
+  "id": "21973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technician and drafter supervision"
+ },
+ {
+  "id": "21974",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drafting equipment and tools use"
+ },
+ {
+  "id": "1447",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical equipment design drawings"
+ },
+ {
+  "id": "1448",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coworker design problem consultation"
+ },
+ {
+  "id": "1449",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications and sketches analysis"
+ },
+ {
+  "id": "1450",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "component design formula computations"
+ },
+ {
+  "id": "1451",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawing instructions and comments"
+ },
+ {
+  "id": "1452",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design revisions for deficiencies"
+ },
+ {
+  "id": "1453",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specialty item blueprints"
+ },
+ {
+  "id": "1454",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material dimensions and numbering"
+ },
+ {
+  "id": "1455",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "component view layouts and drawings"
+ },
+ {
+  "id": "1456",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer schematic questions"
+ },
+ {
+  "id": "1457",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sketches, tracings and copies"
+ },
+ {
+  "id": "1458",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "drafter and technician supervision"
+ },
+ {
+  "id": "1459",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical manual illustrations"
+ },
+ {
+  "id": "1460",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shaded or colored drawings"
+ },
+ {
+  "id": "20964",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "three-dimensional CAD models"
+ },
+ {
+  "id": "10881",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test setups and equipment"
+ },
+ {
+  "id": "10882",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test data on parts"
+ },
+ {
+  "id": "10883",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineer test procedure discussions"
+ },
+ {
+  "id": "10884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "faulty test equipment components"
+ },
+ {
+  "id": "10885",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "test data plans and equipment setup"
+ },
+ {
+  "id": "10886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft part test facilities"
+ },
+ {
+  "id": "10887",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "computer test systems and data acquisition"
+ },
+ {
+  "id": "10888",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft system readiness testing"
+ },
+ {
+  "id": "10889",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test parts fabrication and installation"
+ },
+ {
+  "id": "10890",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle instrumentation work"
+ },
+ {
+  "id": "21102",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "avionic instrumentation system design"
+ },
+ {
+  "id": "1461",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dimensions and material quantities"
+ },
+ {
+  "id": "1462",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dimensional drawings and layouts"
+ },
+ {
+  "id": "1463",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "site factors and illustrative diagrams"
+ },
+ {
+  "id": "1464",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and structural specifications"
+ },
+ {
+  "id": "1465",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project activity reports"
+ },
+ {
+  "id": "1466",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supervisor project detail discussions"
+ },
+ {
+  "id": "1467",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "project site and contractor work"
+ },
+ {
+  "id": "1468",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field surveys of sites"
+ },
+ {
+  "id": "1469",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "installation plans and cost estimates"
+ },
+ {
+  "id": "1470",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "site maintenance problems and negotiation"
+ },
+ {
+  "id": "1471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction material testing"
+ },
+ {
+  "id": "1472",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public suggestions and complaints"
+ },
+ {
+  "id": "20965",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project budget estimates"
+ },
+ {
+  "id": "20966",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contractor price negotiation"
+ },
+ {
+  "id": "21975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electronics equipment repair"
+ },
+ {
+  "id": "21976",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective electronic components"
+ },
+ {
+  "id": "21977",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electronic test equipment diagnostics"
+ },
+ {
+  "id": "21978",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wiring diagrams and schematics"
+ },
+ {
+  "id": "21979",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "equipment malfunctions and parts sourcing"
+ },
+ {
+  "id": "21980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical system prototypes"
+ },
+ {
+  "id": "21981",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electrical plans code compliance"
+ },
+ {
+  "id": "21982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuitry and electronic components"
+ },
+ {
+  "id": "21983",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "outdated electrical engineering criteria"
+ },
+ {
+  "id": "21984",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing and operation logs"
+ },
+ {
+  "id": "21985",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electronics components for specifications"
+ },
+ {
+  "id": "21986",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design specs, estimates and budgets"
+ },
+ {
+  "id": "21987",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "equipment operator instruction"
+ },
+ {
+  "id": "21988",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "electronic equipment installation supervision"
+ },
+ {
+  "id": "21989",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "schematics and repair records"
+ },
+ {
+  "id": "21990",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical prototypes and assemblies"
+ },
+ {
+  "id": "21991",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "software and hardware integration"
+ },
+ {
+  "id": "21992",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts procurement and inventory records"
+ },
+ {
+  "id": "21993",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own continuing education"
+ },
+ {
+  "id": "21994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment sources and prices"
+ },
+ {
+  "id": "21995",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "user equipment support recommendations"
+ },
+ {
+  "id": "21996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality assurance procedures"
+ },
+ {
+  "id": "21997",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electronics control system drawings"
+ },
+ {
+  "id": "21998",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "control systems and automation equipment"
+ },
+ {
+  "id": "21999",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electrical distribution schematics"
+ },
+ {
+  "id": "22000",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test information for design problems"
+ },
+ {
+  "id": "22001",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production cost statistical comparison"
+ },
+ {
+  "id": "22002",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "consumer electronics components"
+ },
+ {
+  "id": "22003",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "green technology electrical testing"
+ },
+ {
+  "id": "22004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance standards"
+ },
+ {
+  "id": "10892",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electromechanical assembly performance testing"
+ },
+ {
+  "id": "10893",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assembly blueprints and schematics"
+ },
+ {
+  "id": "10894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical parts soldered in housings"
+ },
+ {
+  "id": "10895",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "component part assembly"
+ },
+ {
+  "id": "10896",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part surface defects"
+ },
+ {
+  "id": "10898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part dimensions and clearances"
+ },
+ {
+  "id": "10899",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metalworking machine fabrication"
+ },
+ {
+  "id": "10900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydraulic and pneumatic systems"
+ },
+ {
+  "id": "10901",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "people learning robot maintenance"
+ },
+ {
+  "id": "10902",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new robot programming and testing"
+ },
+ {
+  "id": "19683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "green production robotic equipment"
+ },
+ {
+  "id": "20743",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electromechanical test result documentation"
+ },
+ {
+  "id": "22005",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electromechanical engineering designs"
+ },
+ {
+  "id": "22007",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production cost statistical comparison"
+ },
+ {
+  "id": "22008",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "machinist design specification consultation"
+ },
+ {
+  "id": "22009",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "component environmental regulation compliance"
+ },
+ {
+  "id": "22010",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineering environmental impact programs"
+ },
+ {
+  "id": "22011",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and documentation records"
+ },
+ {
+  "id": "22012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical and electrical assemblies"
+ },
+ {
+  "id": "22013",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy-saving fabrication methods"
+ },
+ {
+  "id": "22014",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "microprocessor system software and hardware"
+ },
+ {
+  "id": "22015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electromechanical equipment repair"
+ },
+ {
+  "id": "22016",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electromechanical CAD drawings"
+ },
+ {
+  "id": "22017",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diagnostic techniques and test equipment"
+ },
+ {
+  "id": "22018",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electromechanical component selection"
+ },
+ {
+  "id": "22019",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality-control programs"
+ },
+ {
+  "id": "22021",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawings into design specifications"
+ },
+ {
+  "id": "23943",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "engineers' electromechanical design implementation"
+ },
+ {
+  "id": "16576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer robot training"
+ },
+ {
+  "id": "16577",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vision and robotic system programming"
+ },
+ {
+  "id": "16579",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robot equipment service records"
+ },
+ {
+  "id": "16580",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "housings and fixtures metalworking"
+ },
+ {
+  "id": "16581",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robotics test procedures and results"
+ },
+ {
+  "id": "16582",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "automation system 3D simulations"
+ },
+ {
+  "id": "16583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robot installation sites"
+ },
+ {
+  "id": "16584",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "robot movement programs"
+ },
+ {
+  "id": "16585",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "robot path motions"
+ },
+ {
+  "id": "16586",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring between controllers"
+ },
+ {
+  "id": "16587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "engineers' robotic system design"
+ },
+ {
+  "id": "16588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "component alignment and assembly"
+ },
+ {
+  "id": "16589",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "robotic system faults"
+ },
+ {
+  "id": "16590",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "robot task training software"
+ },
+ {
+  "id": "16591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robotic assembly performance testing"
+ },
+ {
+  "id": "16592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robotic system maintenance"
+ },
+ {
+  "id": "16593",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "controllers, tools and conveyors"
+ },
+ {
+  "id": "16594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robotic system installation"
+ },
+ {
+  "id": "16596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robotic devices assembly"
+ },
+ {
+  "id": "19684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial robot efficiency and calibration"
+ },
+ {
+  "id": "21059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robot circuit boards and sensors"
+ },
+ {
+  "id": "21060",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "robotic supply inventory"
+ }
+]

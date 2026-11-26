@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "19316",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physician-directed treatments on patients"
+ },
+ {
+  "id": "19317",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient call signals"
+ },
+ {
+  "id": "19318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wound dressings and bandages"
+ },
+ {
+  "id": "19319",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "medical equipment and patient care"
+ },
+ {
+  "id": "19320",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bed linens"
+ },
+ {
+  "id": "19321",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient rooms cleaning"
+ },
+ {
+  "id": "19322",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient specimens"
+ },
+ {
+  "id": "19323",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient feelings and emotional support"
+ },
+ {
+  "id": "19324",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient observations reports to nurses"
+ },
+ {
+  "id": "19325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients eating and drinking"
+ },
+ {
+  "id": "19326",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient condition information from staff"
+ },
+ {
+  "id": "19327",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patient intake and output records"
+ },
+ {
+  "id": "19328",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient symptoms observation"
+ },
+ {
+  "id": "19329",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients positioned for surgery"
+ },
+ {
+  "id": "19330",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food trays"
+ },
+ {
+  "id": "19331",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients daily living activities"
+ },
+ {
+  "id": "19332",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient height and weight"
+ },
+ {
+  "id": "19333",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient vital signs"
+ },
+ {
+  "id": "19334",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient medication reminders"
+ },
+ {
+  "id": "19335",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient room hygiene supplies"
+ },
+ {
+  "id": "19336",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient dietary restrictions and allergies"
+ },
+ {
+  "id": "19337",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treatment and testing equipment"
+ },
+ {
+  "id": "19338",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical supplies stock"
+ },
+ {
+  "id": "19339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bedpans"
+ },
+ {
+  "id": "19340",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport to units"
+ },
+ {
+  "id": "19341",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "bedridden patient positioning"
+ },
+ {
+  "id": "19342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dependent patient hygiene and dressing"
+ },
+ {
+  "id": "19343",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients prepared for procedures"
+ },
+ {
+  "id": "19344",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "restricted-mobility patient exercise"
+ },
+ {
+  "id": "19345",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medical instructions to patients"
+ },
+ {
+  "id": "19346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patients lifted onto beds"
+ },
+ {
+  "id": "19347",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "visitor information and directions"
+ },
+ {
+  "id": "19348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab and pharmacy items delivery"
+ },
+ {
+  "id": "19349",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient call signals"
+ },
+ {
+  "id": "19350",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "messages between departments"
+ },
+ {
+  "id": "19351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soiled linens"
+ },
+ {
+  "id": "19352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient rooms cleaning"
+ },
+ {
+  "id": "19353",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical equipment cleaning"
+ },
+ {
+  "id": "19354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous waste containers"
+ },
+ {
+  "id": "19355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soiled linen and trash"
+ },
+ {
+  "id": "19356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment disinfection"
+ },
+ {
+  "id": "19357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patients lifted onto beds"
+ },
+ {
+  "id": "19358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients positioned for surgery"
+ },
+ {
+  "id": "19359",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency calls and alarms"
+ },
+ {
+  "id": "19360",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients restrained for safety"
+ },
+ {
+  "id": "19361",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food trays"
+ },
+ {
+  "id": "19362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical supplies stock"
+ },
+ {
+  "id": "19363",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "utility room supplies"
+ },
+ {
+  "id": "19365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deceased bodies to morgue"
+ },
+ {
+  "id": "19366",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport to units"
+ },
+ {
+  "id": "19367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "portable equipment and supplies"
+ },
+ {
+  "id": "19368",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab and pharmacy items delivery"
+ },
+ {
+  "id": "19369",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "bedridden patient repositioning"
+ },
+ {
+  "id": "19370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients daily living activities"
+ },
+ {
+  "id": "19371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "waste materials sorting"
+ },
+ {
+  "id": "18696",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients behavior monitoring"
+ },
+ {
+  "id": "18697",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient records and notes"
+ },
+ {
+  "id": "18698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders, calls, facility information"
+ },
+ {
+  "id": "1994",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients with developmental disabilities care"
+ },
+ {
+  "id": "1996",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "care team collaboration"
+ },
+ {
+  "id": "1997",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patients adjusting to hospital routines"
+ },
+ {
+  "id": "1998",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient group activities"
+ },
+ {
+  "id": "1999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients nursing procedures"
+ },
+ {
+  "id": "2000",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient meals"
+ },
+ {
+  "id": "2001",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients restrained for safety"
+ },
+ {
+  "id": "2002",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "newly admitted patient interviews"
+ },
+ {
+  "id": "2003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient bathing and grooming"
+ },
+ {
+  "id": "2004",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "recreation with patients"
+ },
+ {
+  "id": "2005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient area restrictions"
+ },
+ {
+  "id": "2006",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients escorted to appointments"
+ },
+ {
+  "id": "2007",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rooms and furnishings cleaning"
+ },
+ {
+  "id": "20578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient emotional support"
+ },
+ {
+  "id": "18699",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "healthcare professional communication"
+ },
+ {
+  "id": "18700",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education classes"
+ },
+ {
+  "id": "18701",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "care plan meetings"
+ },
+ {
+  "id": "4254",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient progress records"
+ },
+ {
+  "id": "4255",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "attitude toward clients"
+ },
+ {
+  "id": "4256",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient therapy performance"
+ },
+ {
+  "id": "4257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "therapy activities for patients"
+ },
+ {
+  "id": "4258",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patients and families home programs"
+ },
+ {
+  "id": "4259",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client daily living skills"
+ },
+ {
+  "id": "4260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient dressing and grooming"
+ },
+ {
+  "id": "4261",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "treatment plans for clients"
+ },
+ {
+  "id": "4262",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient progress reports"
+ },
+ {
+  "id": "4263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "treatment program adjustments"
+ },
+ {
+  "id": "4264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "therapy and vocational programs"
+ },
+ {
+  "id": "4265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assistive devices and equipment"
+ },
+ {
+  "id": "4266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient therapy equipment"
+ },
+ {
+  "id": "4267",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient emotional coping"
+ },
+ {
+  "id": "4268",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scheduling, data, billing documentation"
+ },
+ {
+  "id": "4269",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport to therapy"
+ },
+ {
+  "id": "4270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "therapy techniques demonstration"
+ },
+ {
+  "id": "4271",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "treatment supply orders"
+ },
+ {
+  "id": "4272",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client diagnostic testing"
+ },
+ {
+  "id": "9398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient encouragement and physical needs"
+ },
+ {
+  "id": "9399",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient progress reports"
+ },
+ {
+  "id": "9400",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient attendance and progress records"
+ },
+ {
+  "id": "9401",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "infection control and equipment security"
+ },
+ {
+  "id": "9402",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client living skills"
+ },
+ {
+  "id": "9403",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area, materials, supply inventory"
+ },
+ {
+  "id": "9404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patients and families skills instruction"
+ },
+ {
+  "id": "9405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient work and craft projects"
+ },
+ {
+  "id": "9406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "therapy programs with therapists"
+ },
+ {
+  "id": "9407",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phones, supplies, paperwork, scheduling"
+ },
+ {
+  "id": "9408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "therapy techniques demonstration"
+ },
+ {
+  "id": "9409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport to therapy"
+ },
+ {
+  "id": "9410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assistive devices and environments"
+ },
+ {
+  "id": "9411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client diagnostic testing"
+ },
+ {
+  "id": "9412",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient outings and transportation"
+ },
+ {
+  "id": "15247",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient responses during treatment"
+ },
+ {
+  "id": "15248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "manual and modality therapy treatments"
+ },
+ {
+  "id": "15249",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "caregivers and family instruction"
+ },
+ {
+  "id": "15250",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education courses"
+ },
+ {
+  "id": "2008",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient exercises and activities"
+ },
+ {
+  "id": "2009",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient information with therapy staff"
+ },
+ {
+  "id": "2012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient joint motion and vitals"
+ },
+ {
+  "id": "2013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patients on therapy equipment"
+ },
+ {
+  "id": "2014",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients fitted for braces"
+ },
+ {
+  "id": "2015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients training with supportive devices"
+ },
+ {
+  "id": "2016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport and transfers"
+ },
+ {
+  "id": "2017",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment operation and treatment records"
+ },
+ {
+  "id": "2018",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area and equipment"
+ },
+ {
+  "id": "2019",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients dressing with supports"
+ },
+ {
+  "id": "2020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "traction equipment for pain"
+ },
+ {
+  "id": "2021",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory, phone, messages, forms"
+ },
+ {
+  "id": "2022",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treatment areas and electrotherapy equipment"
+ },
+ {
+  "id": "2023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "respiratory treatment and breathing exercises"
+ },
+ {
+  "id": "21192",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient progress notes"
+ },
+ {
+  "id": "21193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient body mechanics and mobility"
+ },
+ {
+  "id": "21194",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient wound care"
+ },
+ {
+  "id": "15251",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient appointments and therapist schedules"
+ },
+ {
+  "id": "4273",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area and equipment disinfection"
+ },
+ {
+  "id": "4274",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient responses during treatment"
+ },
+ {
+  "id": "4275",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient exercises and activities"
+ },
+ {
+  "id": "4276",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patients on therapy equipment"
+ },
+ {
+  "id": "4277",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient transport to treatment"
+ },
+ {
+  "id": "4278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient information with therapy staff"
+ },
+ {
+  "id": "4279",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "treatment and equipment records"
+ },
+ {
+  "id": "4280",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory, phone, messages, forms"
+ },
+ {
+  "id": "4281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "therapy equipment and furniture"
+ },
+ {
+  "id": "4282",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "manual and modality therapy treatments"
+ },
+ {
+  "id": "4283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "linens"
+ },
+ {
+  "id": "4284",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treatment supplies"
+ },
+ {
+  "id": "4285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients dressing with supports"
+ },
+ {
+  "id": "4286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient joint motion and vitals"
+ },
+ {
+  "id": "4287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients training with supportive devices"
+ },
+ {
+  "id": "4288",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients fitted for braces"
+ },
+ {
+  "id": "4289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "resident meals and bathing"
+ },
+ {
+  "id": "4290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "traction equipment for pain"
+ },
+ {
+  "id": "20757",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "adjunctive therapies for clients"
+ },
+ {
+  "id": "23928",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "massage area supplies and equipment"
+ },
+ {
+  "id": "7878",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client medical history and stress"
+ },
+ {
+  "id": "7879",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client body pressure points"
+ },
+ {
+  "id": "7880",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client muscles and soft tissue"
+ },
+ {
+  "id": "7881",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "treatment records"
+ },
+ {
+  "id": "7882",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client posture and exercise guidance"
+ },
+ {
+  "id": "7883",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client soft tissue and mobility"
+ },
+ {
+  "id": "7884",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client massage treatment plans"
+ },
+ {
+  "id": "7885",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client referrals to therapists"
+ },
+ {
+  "id": "7886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "heat, cold and water aids"
+ },
+ {
+  "id": "7887",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "treating clients at various locations"
+ },
+ {
+  "id": "7888",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment plans with health professionals"
+ },
+ {
+  "id": "7889",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "massage oils blending and application"
+ },
+ {
+  "id": "18552",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dental supplies inventory"
+ },
+ {
+  "id": "18553",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "orthodontic appliances for patients"
+ },
+ {
+  "id": "550",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dental procedure preparation and assistance"
+ },
+ {
+  "id": "551",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental x-rays"
+ },
+ {
+  "id": "552",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient treatment records"
+ },
+ {
+  "id": "553",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient histories and vital signs"
+ },
+ {
+  "id": "554",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "postoperative patient instructions"
+ },
+ {
+  "id": "555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dental emergencies assistance"
+ },
+ {
+  "id": "556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental study casts"
+ },
+ {
+  "id": "557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient oral hygiene instruction"
+ },
+ {
+  "id": "558",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental impressions"
+ },
+ {
+  "id": "559",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "removable dental appliances"
+ },
+ {
+  "id": "560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient teeth cleaning"
+ },
+ {
+  "id": "561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fluoride on teeth"
+ },
+ {
+  "id": "562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "temporary dental restorations"
+ },
+ {
+  "id": "563",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointments, billing, insurance, records"
+ },
+ {
+  "id": "2024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient interviews and measurements"
+ },
+ {
+  "id": "2025",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patients escorted to exam rooms"
+ },
+ {
+  "id": "2026",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient medical records"
+ },
+ {
+  "id": "2027",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physician-directed medications"
+ },
+ {
+  "id": "2028",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab specimens collection"
+ },
+ {
+  "id": "2029",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment and medication explanations"
+ },
+ {
+  "id": "2030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physician examinations and treatments"
+ },
+ {
+  "id": "2031",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescription refills and pharmacy information"
+ },
+ {
+  "id": "2032",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treatment rooms"
+ },
+ {
+  "id": "2033",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instruments sterilization and waste"
+ },
+ {
+  "id": "2034",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient appointments"
+ },
+ {
+  "id": "2035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wound dressings"
+ },
+ {
+  "id": "2036",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "arriving patients check-in"
+ },
+ {
+  "id": "2037",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test and admission scheduling"
+ },
+ {
+  "id": "2038",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phones, dictation, insurance forms"
+ },
+ {
+  "id": "2039",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies and equipment inventory"
+ },
+ {
+  "id": "2040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "routine laboratory tests"
+ },
+ {
+  "id": "2041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory equipment setup"
+ },
+ {
+  "id": "2042",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial records and patient billing"
+ },
+ {
+  "id": "2043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "routine diagnostic test equipment"
+ }
+]

@@ -1,0 +1,1578 @@
+[
+ {
+  "id": "15808",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee operations and safety training"
+ },
+ {
+  "id": "15809",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind site performance records"
+ },
+ {
+  "id": "15810",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical support for field customers"
+ },
+ {
+  "id": "15811",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "warranty repair services management"
+ },
+ {
+  "id": "15812",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts and equipment ordering"
+ },
+ {
+  "id": "15813",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and inspection forms"
+ },
+ {
+  "id": "15814",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wind farm contracts"
+ },
+ {
+  "id": "15815",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "operations staff and contractor selection"
+ },
+ {
+  "id": "15816",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily facility operation records"
+ },
+ {
+  "id": "15817",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations repair cost estimates"
+ },
+ {
+  "id": "15818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "wind field operational goals"
+ },
+ {
+  "id": "15819",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stakeholder relationships and communication"
+ },
+ {
+  "id": "15820",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operations procedures and transition processes"
+ },
+ {
+  "id": "15821",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind field operating budgets"
+ },
+ {
+  "id": "15822",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employees and subcontractors on site"
+ },
+ {
+  "id": "15823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wind field equipment maintenance oversight"
+ },
+ {
+  "id": "15824",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "subcontractor work quality"
+ },
+ {
+  "id": "15825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction and equipment RFPs"
+ },
+ {
+  "id": "15826",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "site assessments and environmental studies"
+ },
+ {
+  "id": "15827",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "tax, power purchase, land agreements"
+ },
+ {
+  "id": "15828",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project schedules and budgets updates"
+ },
+ {
+  "id": "15829",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contractor bids and proposals"
+ },
+ {
+  "id": "15830",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project status reports"
+ },
+ {
+  "id": "15831",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "civil and engineering documentation compliance"
+ },
+ {
+  "id": "15832",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "wind farm design and commissioning support"
+ },
+ {
+  "id": "15833",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind project diagrams and layouts"
+ },
+ {
+  "id": "15834",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wind project costs"
+ },
+ {
+  "id": "15835",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project function scope of work"
+ },
+ {
+  "id": "15836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "development and construction activities coordination"
+ },
+ {
+  "id": "15837",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "permit applications"
+ },
+ {
+  "id": "15838",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind project plans"
+ },
+ {
+  "id": "15839",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "remediation project proposals"
+ },
+ {
+  "id": "15840",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contaminant treatment facility designs"
+ },
+ {
+  "id": "15841",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hazardous waste cleanup training"
+ },
+ {
+  "id": "15842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contamination expert testimony"
+ },
+ {
+  "id": "15843",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "brownfield status reports and presentations"
+ },
+ {
+  "id": "15844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "remediation service contracts"
+ },
+ {
+  "id": "15845",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "demolition and cleanup permit applications"
+ },
+ {
+  "id": "15846",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "redevelopment decision records"
+ },
+ {
+  "id": "15847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contaminated site inspection"
+ },
+ {
+  "id": "15848",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "brownfield redevelopment projects"
+ },
+ {
+  "id": "15849",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contamination sources"
+ },
+ {
+  "id": "15850",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cleanup cost estimates"
+ },
+ {
+  "id": "15851",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "brownfield revegetation plans"
+ },
+ {
+  "id": "15852",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "groundwater remediation plans"
+ },
+ {
+  "id": "15853",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "demolition and debris removal plans"
+ },
+ {
+  "id": "15854",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contaminated site environmental quality"
+ },
+ {
+  "id": "15855",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "environmental restoration studies"
+ },
+ {
+  "id": "15856",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hazardous waste disposal"
+ },
+ {
+  "id": "15857",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "on-site cleanup activities"
+ },
+ {
+  "id": "15858",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quantitative risk assessments"
+ },
+ {
+  "id": "15859",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remediation feasibility studies"
+ },
+ {
+  "id": "15860",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "brownfield regeneration plans"
+ },
+ {
+  "id": "23901",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project funding applications"
+ },
+ {
+  "id": "12865",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client fees and commissions"
+ },
+ {
+  "id": "12866",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client career strategy"
+ },
+ {
+  "id": "12867",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "industry contacts for clients"
+ },
+ {
+  "id": "12868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client engagement schedules"
+ },
+ {
+  "id": "12869",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client contract terms"
+ },
+ {
+  "id": "12870",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry trends and deals"
+ },
+ {
+  "id": "12871",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client business and financial affairs"
+ },
+ {
+  "id": "12872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "potential client auditions"
+ },
+ {
+  "id": "12873",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client-related meetings"
+ },
+ {
+  "id": "12874",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client accounting statements"
+ },
+ {
+  "id": "12875",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial and legal matters"
+ },
+ {
+  "id": "12876",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "performance facilities and equipment"
+ },
+ {
+  "id": "12877",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "trainers and coaches for clients"
+ },
+ {
+  "id": "21163",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client promotional samples"
+ },
+ {
+  "id": "12878",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "farm products for processing"
+ },
+ {
+  "id": "12879",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "farmer production contracts"
+ },
+ {
+  "id": "12880",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "processing or resale of products"
+ },
+ {
+  "id": "12881",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product transport and storage"
+ },
+ {
+  "id": "12882",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders for product demand"
+ },
+ {
+  "id": "12883",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction and inventory records"
+ },
+ {
+  "id": "12884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crops and products quality"
+ },
+ {
+  "id": "12885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "workers handling farm products"
+ },
+ {
+  "id": "12886",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government grain quotas"
+ },
+ {
+  "id": "12887",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "farm supplies sales and financing"
+ },
+ {
+  "id": "12888",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "land production potential"
+ },
+ {
+  "id": "12889",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "growers on production techniques"
+ },
+ {
+  "id": "19547",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competing merchandise environmental aspects"
+ },
+ {
+  "id": "19548",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy-efficient transportation options"
+ },
+ {
+  "id": "19549",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "green product advertising strategies"
+ },
+ {
+  "id": "19550",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green commodity buying opportunities"
+ },
+ {
+  "id": "19551",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "consumer and environmental trends"
+ },
+ {
+  "id": "20710",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "merchandise for resale"
+ },
+ {
+  "id": "20711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier prices and terms"
+ },
+ {
+  "id": "20712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "merchandise selection and ordering"
+ },
+ {
+  "id": "20713",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mark-up and selling prices"
+ },
+ {
+  "id": "20714",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer preferences from staff"
+ },
+ {
+  "id": "20715",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendors and product development"
+ },
+ {
+  "id": "20716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "merchandise quality and value"
+ },
+ {
+  "id": "20717",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales meetings on new merchandise"
+ },
+ {
+  "id": "66",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales records and trends"
+ },
+ {
+  "id": "68",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "invoice payment and returns"
+ },
+ {
+  "id": "72",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "budgets and goods with managers"
+ },
+ {
+  "id": "76",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales and clerical staff"
+ },
+ {
+  "id": "77",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price tag information"
+ },
+ {
+  "id": "78",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertising features and media"
+ },
+ {
+  "id": "79",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competitor advertisements"
+ },
+ {
+  "id": "1142",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "merchandise price and quantity"
+ },
+ {
+  "id": "1143",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase orders and bids"
+ },
+ {
+  "id": "1144",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier evaluation"
+ },
+ {
+  "id": "1145",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price proposals and financial data"
+ },
+ {
+  "id": "1146",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicable purchasing laws"
+ },
+ {
+  "id": "1147",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier contracts"
+ },
+ {
+  "id": "1148",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment delivery tracking"
+ },
+ {
+  "id": "1149",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "defective goods corrective action"
+ },
+ {
+  "id": "1150",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier contract performance"
+ },
+ {
+  "id": "1151",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchasing and inventory records"
+ },
+ {
+  "id": "1152",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "catalogs and sources for goods"
+ },
+ {
+  "id": "1153",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales and inventory data"
+ },
+ {
+  "id": "1154",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "vendors and supplier facilities"
+ },
+ {
+  "id": "1155",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duty and freight payments"
+ },
+ {
+  "id": "1156",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "purchasing staff"
+ },
+ {
+  "id": "1157",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product specifications"
+ },
+ {
+  "id": "1158",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market conditions and price trends"
+ },
+ {
+  "id": "1159",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "procurement policies and procedures"
+ },
+ {
+  "id": "1160",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "networking at trade events"
+ },
+ {
+  "id": "21417",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance claim coverage documents"
+ },
+ {
+  "id": "21418",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation findings and recommendations"
+ },
+ {
+  "id": "21419",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "police reports and medical records"
+ },
+ {
+  "id": "21420",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "property damage estimates"
+ },
+ {
+  "id": "21421",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agents and claimants"
+ },
+ {
+  "id": "21422",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claim parties and witnesses"
+ },
+ {
+  "id": "21423",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "insurance claims settlement"
+ },
+ {
+  "id": "21424",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim reserves"
+ },
+ {
+  "id": "21425",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "complex severe claims"
+ },
+ {
+  "id": "21426",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim payments within authority"
+ },
+ {
+  "id": "21427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "questionable claims investigated"
+ },
+ {
+  "id": "21428",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim settlement data"
+ },
+ {
+  "id": "21429",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim payments and file entries"
+ },
+ {
+  "id": "21430",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "questionable claim referrals"
+ },
+ {
+  "id": "21431",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "evidence for contested claims"
+ },
+ {
+  "id": "21432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legal counsel on litigation claims"
+ },
+ {
+  "id": "21433",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "claimants, doctors and employers"
+ },
+ {
+  "id": "21434",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claim files and records"
+ },
+ {
+  "id": "21435",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claim committee case presentations"
+ },
+ {
+  "id": "21436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claims adjusters"
+ },
+ {
+  "id": "21437",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "litigation bill reviews"
+ },
+ {
+  "id": "21438",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "property title validity"
+ },
+ {
+  "id": "21439",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payment irregularities"
+ },
+ {
+  "id": "21440",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reinsurance broker information"
+ },
+ {
+  "id": "21441",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data processing department reports"
+ },
+ {
+  "id": "21442",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit information from banks"
+ },
+ {
+  "id": "21443",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "mediations and trials"
+ },
+ {
+  "id": "21444",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "former associates for background"
+ },
+ {
+  "id": "21445",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "claim settlements"
+ },
+ {
+  "id": "7246",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "auto repair parts and labor"
+ },
+ {
+  "id": "7247",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "repair estimates with shops"
+ },
+ {
+  "id": "7248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged vehicle"
+ },
+ {
+  "id": "7249",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "repair versus market value"
+ },
+ {
+  "id": "7250",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "salvage value of vehicles"
+ },
+ {
+  "id": "7251",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance repair estimate forms"
+ },
+ {
+  "id": "7252",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "second appraisals for disagreements"
+ },
+ {
+  "id": "21446",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "violators of regulations"
+ },
+ {
+  "id": "21447",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "eligibility and liability documents"
+ },
+ {
+  "id": "21448",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "licensing and permit regulations"
+ },
+ {
+  "id": "21449",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "activity and decision reports"
+ },
+ {
+  "id": "21450",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulation violations to agencies"
+ },
+ {
+  "id": "21451",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "applicants and officials for information"
+ },
+ {
+  "id": "21452",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "licenses for qualified individuals"
+ },
+ {
+  "id": "21453",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "license fees"
+ },
+ {
+  "id": "21454",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "license applicants testing"
+ },
+ {
+  "id": "21455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "establishments displaying valid licenses"
+ },
+ {
+  "id": "21456",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "applicant test scoring and observation"
+ },
+ {
+  "id": "21457",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "licensing decision correspondence"
+ },
+ {
+  "id": "21458",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compliance issues needing follow-up"
+ },
+ {
+  "id": "21459",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry changes and best practices"
+ },
+ {
+  "id": "21460",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "auditors in compliance reviews"
+ },
+ {
+  "id": "21461",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "firm and regulatory policy documentation"
+ },
+ {
+  "id": "10829",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "code violations and notices"
+ },
+ {
+  "id": "10830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "permits and licensing records"
+ },
+ {
+  "id": "10831",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection records"
+ },
+ {
+  "id": "10832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "individuals about suspected violations"
+ },
+ {
+  "id": "10833",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulation and enforcement reports"
+ },
+ {
+  "id": "10834",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "violation follow-up actions"
+ },
+ {
+  "id": "10835",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pollution and dumping complaints"
+ },
+ {
+  "id": "10836",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "waste treatment facilities"
+ },
+ {
+  "id": "10837",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "pollution regulations and findings"
+ },
+ {
+  "id": "10838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water and wastewater samples"
+ },
+ {
+  "id": "10839",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hazardous chemicals handling"
+ },
+ {
+  "id": "10840",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental laws and regulations"
+ },
+ {
+  "id": "10841",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sites and violation reports to investigate"
+ },
+ {
+  "id": "10842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field conditions and meter readings"
+ },
+ {
+  "id": "10843",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "safety precautions and regulations"
+ },
+ {
+  "id": "10844",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "label information accuracy"
+ },
+ {
+  "id": "10845",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health professionals and property owners"
+ },
+ {
+  "id": "10846",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pretreatment and runoff program requirements"
+ },
+ {
+  "id": "10847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wastewater sample laboratory tests"
+ },
+ {
+  "id": "10848",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product registration and discharge permits"
+ },
+ {
+  "id": "10849",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "discharge and wastewater calculations"
+ },
+ {
+  "id": "10850",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "spill prevention and hazardous waste rules"
+ },
+ {
+  "id": "10851",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work sites and equipment"
+ },
+ {
+  "id": "10852",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazardous waste management research"
+ },
+ {
+  "id": "10853",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "service charge inquiries"
+ },
+ {
+  "id": "20473",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sewer service charge data"
+ }
+]

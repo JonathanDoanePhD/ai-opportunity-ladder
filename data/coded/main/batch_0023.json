@@ -1,0 +1,1578 @@
+[
+ {
+  "id": "22103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vertical sighting rods"
+ },
+ {
+  "id": "22104",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "map layers accuracy"
+ },
+ {
+  "id": "22105",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geographic information databases"
+ },
+ {
+  "id": "22106",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mapping work quality"
+ },
+ {
+  "id": "22107",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "overlay maps"
+ },
+ {
+  "id": "22108",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "map print formatting settings"
+ },
+ {
+  "id": "22109",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction staking data"
+ },
+ {
+  "id": "22110",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database records for maps"
+ },
+ {
+  "id": "22111",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "land information systems"
+ },
+ {
+  "id": "22112",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey computations versus standards"
+ },
+ {
+  "id": "22113",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "aerial photographs"
+ },
+ {
+  "id": "22114",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property boundary records"
+ },
+ {
+  "id": "22115",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey coordinates and angles"
+ },
+ {
+  "id": "22116",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contours versus aerial images"
+ },
+ {
+  "id": "22117",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "topographic details on maps"
+ },
+ {
+  "id": "22118",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "field survey procedures"
+ },
+ {
+  "id": "22119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographic print mosaics"
+ },
+ {
+  "id": "22120",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public questions on maps"
+ },
+ {
+  "id": "22121",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parcel source notes"
+ },
+ {
+  "id": "22122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surveying instruments"
+ },
+ {
+  "id": "22123",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "source data for surveys"
+ },
+ {
+  "id": "22124",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "land features measurement"
+ },
+ {
+  "id": "22125",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GPS and deed data entry"
+ },
+ {
+  "id": "22126",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "survey measurement calculations"
+ },
+ {
+  "id": "22127",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mapping project costs"
+ },
+ {
+  "id": "22128",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "topographic maps"
+ },
+ {
+  "id": "22129",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field survey measurements"
+ },
+ {
+  "id": "22130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "survey corner markers"
+ },
+ {
+  "id": "22131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stakes and monuments"
+ },
+ {
+  "id": "22132",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mapping crew workers"
+ },
+ {
+  "id": "20865",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research findings communication"
+ },
+ {
+  "id": "5413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "animal nutrition research"
+ },
+ {
+  "id": "5414",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "producers on practices"
+ },
+ {
+  "id": "5415",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "animal nutritional requirements"
+ },
+ {
+  "id": "5416",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "animal product quality factors"
+ },
+ {
+  "id": "5417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "animal housing and feeding practices"
+ },
+ {
+  "id": "5418",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "animal breeding selection"
+ },
+ {
+  "id": "5419",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animal population genetics"
+ },
+ {
+  "id": "5420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal crossbreeding"
+ },
+ {
+  "id": "18611",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new food items"
+ },
+ {
+  "id": "18612",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food science literature"
+ },
+ {
+  "id": "7485",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new product sensory testing"
+ },
+ {
+  "id": "7486",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredients and finished foods"
+ },
+ {
+  "id": "7487",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "product development problems"
+ },
+ {
+  "id": "7488",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "food processing operations"
+ },
+ {
+  "id": "7489",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food composition and flavor"
+ },
+ {
+  "id": "7490",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food structure and changes"
+ },
+ {
+  "id": "7491",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food preservation methods"
+ },
+ {
+  "id": "7492",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "food production standards"
+ },
+ {
+  "id": "7493",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "products shown to clients"
+ },
+ {
+  "id": "7494",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food processing area sanitation"
+ },
+ {
+  "id": "7495",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "harmful food additives"
+ },
+ {
+  "id": "19750",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant-based green fuels"
+ },
+ {
+  "id": "19751",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weed and pest control"
+ },
+ {
+  "id": "19753",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "urban green space requirements"
+ },
+ {
+  "id": "19754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "agricultural sustainability methods"
+ },
+ {
+  "id": "20198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "composting waste programs"
+ },
+ {
+  "id": "20199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "land reclamation programs"
+ },
+ {
+  "id": "23903",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant growth mechanisms"
+ },
+ {
+  "id": "9021",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research results to audiences"
+ },
+ {
+  "id": "9022",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "land use advice to farmers"
+ },
+ {
+  "id": "9023",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil responses to management"
+ },
+ {
+  "id": "9024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "soil conservation methods"
+ },
+ {
+  "id": "9025",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new crop varieties"
+ },
+ {
+  "id": "9026",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil and water problems"
+ },
+ {
+  "id": "9027",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "soil classification"
+ },
+ {
+  "id": "9028",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "soil measurement techniques"
+ },
+ {
+  "id": "9029",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil formation processes"
+ },
+ {
+  "id": "9030",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "degraded soil improvement plans"
+ },
+ {
+  "id": "9031",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "land surveys for classification"
+ },
+ {
+  "id": "9033",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil microorganism chemistry"
+ },
+ {
+  "id": "9034",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "land reclamation regulatory standards"
+ },
+ {
+  "id": "9035",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weed and pest control"
+ },
+ {
+  "id": "9036",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "horticultural handling methods"
+ },
+ {
+  "id": "9037",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "soil problems for engineers"
+ },
+ {
+  "id": "9038",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "soil alteration for plants"
+ },
+ {
+  "id": "9039",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "insect habitat and spread"
+ },
+ {
+  "id": "9040",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "insect species identification"
+ },
+ {
+  "id": "9041",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bee disease factors"
+ },
+ {
+  "id": "12929",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research outcome reports"
+ },
+ {
+  "id": "12930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biological process study methods"
+ },
+ {
+  "id": "12931",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "laboratory team quality"
+ },
+ {
+  "id": "12932",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific articles and presentations"
+ },
+ {
+  "id": "12933",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "disease detection tests"
+ },
+ {
+  "id": "12934",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new drug testing"
+ },
+ {
+  "id": "12935",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cancer-linked mutations"
+ },
+ {
+  "id": "12936",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molecular structure imaging"
+ },
+ {
+  "id": "12937",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "living process chemistry"
+ },
+ {
+  "id": "12938",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "macromolecule three-dimensional structure"
+ },
+ {
+  "id": "12939",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pharmaceutical compound preparation"
+ },
+ {
+  "id": "12940",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "substance effects on tissues"
+ },
+ {
+  "id": "12941",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "inherited characteristics research"
+ },
+ {
+  "id": "12942",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food and drug processing methods"
+ },
+ {
+  "id": "12943",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gene expression research"
+ },
+ {
+  "id": "12944",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cell physical principles"
+ },
+ {
+  "id": "12945",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recombinant proteins production"
+ },
+ {
+  "id": "12946",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vitamins hormones and enzymes"
+ },
+ {
+  "id": "12947",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "experiments with lab equipment"
+ },
+ {
+  "id": "12948",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students teaching and supervision"
+ },
+ {
+  "id": "12949",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell substance transformations"
+ },
+ {
+  "id": "12950",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "immune system molecules"
+ },
+ {
+  "id": "12951",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "special laboratory equipment"
+ },
+ {
+  "id": "21168",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research funding grant proposals"
+ },
+ {
+  "id": "15212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microorganism cultures"
+ },
+ {
+  "id": "15213",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water food contamination testing"
+ },
+ {
+  "id": "15214",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sterilization and contamination detection"
+ },
+ {
+  "id": "3675",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microorganism specimen identification"
+ },
+ {
+  "id": "3676",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "health lab services"
+ },
+ {
+  "id": "3677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microorganism action on tissues"
+ },
+ {
+  "id": "3678",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "disease organism relationships"
+ },
+ {
+  "id": "3679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technicians and scientists"
+ },
+ {
+  "id": "3680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bacterial growth and structure"
+ },
+ {
+  "id": "3681",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical research reports"
+ },
+ {
+  "id": "3682",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissues cells pathogens toxins"
+ },
+ {
+  "id": "3683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specialized laboratory equipment"
+ },
+ {
+  "id": "3684",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical substance analyses"
+ },
+ {
+  "id": "3685",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microbial product development"
+ },
+ {
+  "id": "1492",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals in natural habitats"
+ },
+ {
+  "id": "1493",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wildlife population counts"
+ },
+ {
+  "id": "1494",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal classification traits"
+ },
+ {
+  "id": "1496",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reports papers and talks"
+ },
+ {
+  "id": "1497",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "animal characteristics research"
+ },
+ {
+  "id": "1498",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "zoo administration duties"
+ },
+ {
+  "id": "1499",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "live animal experiments"
+ },
+ {
+  "id": "1501",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "wildlife disease prevention"
+ },
+ {
+  "id": "1502",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "preserved specimens and slides"
+ },
+ {
+  "id": "1504",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal specimen dissection"
+ },
+ {
+  "id": "18615",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public wildlife inquiries"
+ },
+ {
+  "id": "18616",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental law compliance"
+ },
+ {
+  "id": "23957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "wildlife management plans"
+ },
+ {
+  "id": "23958",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "literature reviews"
+ },
+ {
+  "id": "16776",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational system improvements"
+ },
+ {
+  "id": "16777",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scientific literature updates"
+ },
+ {
+  "id": "16778",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departments product coordination"
+ },
+ {
+  "id": "16779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bioinformatics software collaboration"
+ },
+ {
+  "id": "16780",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bioinformatics tool testing"
+ },
+ {
+  "id": "16781",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genetic analysis computational tools"
+ },
+ {
+  "id": "16782",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "human genome summary statistics"
+ },
+ {
+  "id": "16783",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bioinformatics tool training"
+ },
+ {
+  "id": "16784",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software user interfaces"
+ },
+ {
+  "id": "16785",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technicians and IT staff"
+ },
+ {
+  "id": "16786",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scientific software applications"
+ },
+ {
+  "id": "16787",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data models and databases"
+ },
+ {
+  "id": "16788",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web-based bioinformatics tools"
+ },
+ {
+  "id": "16789",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bioinformatics algorithms"
+ },
+ {
+  "id": "16790",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "novel computational research methods"
+ },
+ {
+  "id": "16791",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genomic data compilation"
+ },
+ {
+  "id": "16792",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research results communication"
+ },
+ {
+  "id": "16793",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genomic databases"
+ },
+ {
+  "id": "16794",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "researchers computational strategies"
+ },
+ {
+  "id": "16795",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "large molecular datasets"
+ },
+ {
+  "id": "16796",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project resource usage"
+ },
+ {
+  "id": "16797",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "bioproduct development"
+ },
+ {
+  "id": "16798",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory supplies and equipment"
+ },
+ {
+  "id": "16799",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "viral management procedure guidelines"
+ },
+ {
+  "id": "16800",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cross-field research activities"
+ },
+ {
+  "id": "16801",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendors and equipment"
+ },
+ {
+  "id": "16802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical staff and postdocs"
+ },
+ {
+  "id": "16804",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project team scientific direction"
+ },
+ {
+  "id": "16805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "DNA and RNA lab procedures"
+ },
+ {
+  "id": "16806",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specialized laboratory equipment"
+ },
+ {
+  "id": "16807",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory records"
+ },
+ {
+  "id": "16808",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students in molecular biology"
+ },
+ {
+  "id": "16809",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new research technologies"
+ },
+ {
+  "id": "16810",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "laboratory activities"
+ },
+ {
+  "id": "16811",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell characteristic assays"
+ },
+ {
+  "id": "16812",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mutagenesis library databases"
+ },
+ {
+  "id": "16813",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "laboratory experiments and results"
+ },
+ {
+  "id": "16814",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experimental data analysis"
+ },
+ {
+  "id": "16815",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell function research"
+ },
+ {
+  "id": "16816",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applied biological research"
+ },
+ {
+  "id": "23904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research funding applications"
+ },
+ {
+  "id": "23905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reports manuscripts presentations"
+ },
+ {
+  "id": "16817",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research funding writing"
+ },
+ {
+  "id": "16818",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "genetic laboratory equipment"
+ },
+ {
+  "id": "16819",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "species collections programs"
+ },
+ {
+  "id": "16820",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "endangered species breeding"
+ },
+ {
+  "id": "16821",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "laboratory safety training"
+ },
+ {
+  "id": "16822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students genetic disorders methods"
+ },
+ {
+  "id": "16823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "genetic disease patients"
+ },
+ {
+  "id": "16824",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genetics databases"
+ },
+ {
+  "id": "16825",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "genetic data applications"
+ },
+ {
+  "id": "16826",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "genetic and biochemical analyses"
+ },
+ {
+  "id": "16827",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genetic research literature"
+ },
+ {
+  "id": "16828",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "genetics research staff"
+ },
+ {
+  "id": "16829",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "genetic laboratory results"
+ },
+ {
+  "id": "16830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genetic research methods"
+ },
+ {
+  "id": "16831",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experimental findings presentations"
+ },
+ {
+  "id": "16832",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory notebook records"
+ },
+ {
+  "id": "16833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "DNA extraction and tests"
+ },
+ {
+  "id": "16834",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genetic data statistics"
+ },
+ {
+  "id": "16835",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "genetic technique protocols"
+ },
+ {
+  "id": "16836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "genetic sampling plans"
+ },
+ {
+  "id": "16837",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "genetic data models"
+ },
+ {
+  "id": "16838",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "family medical genetics studies"
+ },
+ {
+  "id": "16839",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "genomic and biological research"
+ },
+ {
+  "id": "16840",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "inherited traits alteration"
+ }
+]

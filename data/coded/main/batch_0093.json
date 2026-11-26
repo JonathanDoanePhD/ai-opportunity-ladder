@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "7133",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dental prescriptions and impressions"
+ },
+ {
+  "id": "7134",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dentures crowns bridges"
+ },
+ {
+  "id": "7135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance occlusion accuracy"
+ },
+ {
+  "id": "7136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tooth models on articulator"
+ },
+ {
+  "id": "7137",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molten metal and pastes"
+ },
+ {
+  "id": "7138",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal framework surfaces"
+ },
+ {
+  "id": "7139",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prostheses polishing"
+ },
+ {
+  "id": "7140",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plaster mouth models"
+ },
+ {
+  "id": "7141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "porcelain furnace loading"
+ },
+ {
+  "id": "7142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wax teeth"
+ },
+ {
+  "id": "7143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "porcelain paste on frameworks"
+ },
+ {
+  "id": "7144",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chipped device surfaces"
+ },
+ {
+  "id": "7145",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wax bite blocks, trays"
+ },
+ {
+  "id": "7146",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wax denture gum contours"
+ },
+ {
+  "id": "7147",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dental lab staff"
+ },
+ {
+  "id": "7148",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged dentures"
+ },
+ {
+  "id": "7149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire and metal frames"
+ },
+ {
+  "id": "10512",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "appliances on patients"
+ },
+ {
+  "id": "10513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "orthotic and prosthetic devices"
+ },
+ {
+  "id": "10514",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "device prescriptions and specifications"
+ },
+ {
+  "id": "10515",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "braces and artificial limbs"
+ },
+ {
+  "id": "10516",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patients using prosthetics"
+ },
+ {
+  "id": "10517",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient limb measurements"
+ },
+ {
+  "id": "10518",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "casts of limbs"
+ },
+ {
+  "id": "10519",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabric and material shaping"
+ },
+ {
+  "id": "10520",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "device parts assembly"
+ },
+ {
+  "id": "10521",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part dimensions on material"
+ },
+ {
+  "id": "10522",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "device alignment and stability"
+ },
+ {
+  "id": "10523",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "device padding and coverings"
+ },
+ {
+  "id": "10524",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "braces and limbs polishing"
+ },
+ {
+  "id": "10525",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabrication machinery"
+ },
+ {
+  "id": "10526",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "skin-tone pigments for devices"
+ },
+ {
+  "id": "10527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens and frame alignment"
+ },
+ {
+  "id": "10528",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lenses into frames"
+ },
+ {
+  "id": "10529",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens blanks in machine holders"
+ },
+ {
+  "id": "10530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens edge shaping"
+ },
+ {
+  "id": "10531",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "eyeglass frame assembly"
+ },
+ {
+  "id": "10532",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lens blank flaws"
+ },
+ {
+  "id": "10533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished lenses cleaning"
+ },
+ {
+  "id": "10534",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lens blanks and tools"
+ },
+ {
+  "id": "10535",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "optical prescriptions and work orders"
+ },
+ {
+  "id": "10536",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens polishing machines"
+ },
+ {
+  "id": "10537",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens grinding machine setup"
+ },
+ {
+  "id": "10538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broken eyeglass parts"
+ },
+ {
+  "id": "10539",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting tool positioning"
+ },
+ {
+  "id": "10540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished lens measurements"
+ },
+ {
+  "id": "10541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lenses from molds"
+ },
+ {
+  "id": "10542",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens outlines on glass"
+ },
+ {
+  "id": "10543",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frames hardening or dyeing"
+ },
+ {
+  "id": "10544",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lens coating equipment"
+ },
+ {
+  "id": "3124",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "packaged product quality"
+ },
+ {
+  "id": "3125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packaging machine components"
+ },
+ {
+  "id": "3126",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packaging machine operation"
+ },
+ {
+  "id": "3127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished and rejected packages"
+ },
+ {
+  "id": "3128",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine flow and temperature"
+ },
+ {
+  "id": "3129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine jams and malfunctions"
+ },
+ {
+  "id": "3130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand-secured packages"
+ },
+ {
+  "id": "3131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product and packaging supplies"
+ },
+ {
+  "id": "3132",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective products and packaging"
+ },
+ {
+  "id": "3133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw products cleaning"
+ },
+ {
+  "id": "3134",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product weight and grade"
+ },
+ {
+  "id": "3135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packaging machinery upkeep"
+ },
+ {
+  "id": "3136",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "production line jams"
+ },
+ {
+  "id": "3137",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished packages into cartons"
+ },
+ {
+  "id": "3138",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "starting machine controls"
+ },
+ {
+  "id": "3139",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "finished and rejected counts"
+ },
+ {
+  "id": "3140",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product filling into packaging"
+ },
+ {
+  "id": "3141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feeding devices and unloading"
+ },
+ {
+  "id": "3142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "package labels and stencils"
+ },
+ {
+  "id": "3143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "containers and cartons"
+ },
+ {
+  "id": "12527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coatings on workpieces"
+ },
+ {
+  "id": "12528",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished surfaces retouching"
+ },
+ {
+  "id": "12529",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "painting tools cleaning"
+ },
+ {
+  "id": "12530",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "job orders and workpieces"
+ },
+ {
+  "id": "12531",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece surface preparation"
+ },
+ {
+  "id": "12532",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coated workpieces wiping"
+ },
+ {
+  "id": "12533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coated pieces in ovens"
+ },
+ {
+  "id": "12534",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coating mixtures"
+ },
+ {
+  "id": "12536",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dents and nicks filling"
+ },
+ {
+  "id": "12503",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gauges and machine deviations"
+ },
+ {
+  "id": "12504",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paint viscosity and quality"
+ },
+ {
+  "id": "12505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemicals and paints measuring"
+ },
+ {
+  "id": "12508",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "conveyor, temperature, spray controls"
+ },
+ {
+  "id": "12509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine start and stop"
+ },
+ {
+  "id": "12510",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "operational data forms"
+ },
+ {
+  "id": "12512",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "auxiliary coating equipment"
+ },
+ {
+  "id": "12513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coating material reservoirs"
+ },
+ {
+  "id": "12516",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "items through rollers, dryers"
+ },
+ {
+  "id": "12517",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoses and nozzles"
+ },
+ {
+  "id": "12518",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces from coating machines"
+ },
+ {
+  "id": "12521",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sample product conformance"
+ },
+ {
+  "id": "12522",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spray gun positioning"
+ },
+ {
+  "id": "23650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drying heat and ventilation controls"
+ },
+ {
+  "id": "23651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "primer on repairs"
+ },
+ {
+  "id": "23652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "undercoats, caulk, seams"
+ },
+ {
+  "id": "23653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paintwork buffing and waxing"
+ },
+ {
+  "id": "23654",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment and work areas"
+ },
+ {
+  "id": "23655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sprayer disassembly and cleaning"
+ },
+ {
+  "id": "23656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous paint waste"
+ },
+ {
+  "id": "23657",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dents and scratches filling"
+ },
+ {
+  "id": "23658",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paint color matching"
+ },
+ {
+  "id": "23659",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paint flaws and causes"
+ },
+ {
+  "id": "23660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lifting devices for access"
+ },
+ {
+  "id": "23661",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grease, rust, old paint"
+ },
+ {
+  "id": "23662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dried finish sanding, sealer"
+ },
+ {
+  "id": "23663",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ventilators, ladders, scaffolding"
+ },
+ {
+  "id": "23664",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "primers and finish coatings"
+ },
+ {
+  "id": "23665",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand-painted touchups"
+ },
+ {
+  "id": "12573",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "semiconductor processing cycle controls"
+ },
+ {
+  "id": "12574",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production and inspection reports"
+ },
+ {
+  "id": "12575",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "component defects and circuitry"
+ },
+ {
+  "id": "12576",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wafer cleaning"
+ },
+ {
+  "id": "12577",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and process charts"
+ },
+ {
+  "id": "12578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment chambers loading"
+ },
+ {
+  "id": "12579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment and bath cleaning"
+ },
+ {
+  "id": "12580",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wafers into holders"
+ },
+ {
+  "id": "12581",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "furnace power, temperature, vacuum"
+ },
+ {
+  "id": "12582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "wafer etching and polishing"
+ },
+ {
+  "id": "12583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "semiconductor material into furnace"
+ },
+ {
+  "id": "12584",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "processing machine adjustments"
+ },
+ {
+  "id": "12585",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processed items counting"
+ },
+ {
+  "id": "12586",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "etching time calculation"
+ },
+ {
+  "id": "12587",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment leaks and malfunctions"
+ },
+ {
+  "id": "12588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photomask alignment and exposure"
+ },
+ {
+  "id": "12589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "component identification marking"
+ },
+ {
+  "id": "12591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wafers into dice"
+ },
+ {
+  "id": "12592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reactor computer connection"
+ },
+ {
+  "id": "12595",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crystal growing materials"
+ },
+ {
+  "id": "19465",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer photo prints"
+ },
+ {
+  "id": "19466",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "print defects"
+ },
+ {
+  "id": "19467",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "processing machine tanks"
+ },
+ {
+  "id": "19468",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "film in developing solutions"
+ },
+ {
+  "id": "19469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prints into envelopes"
+ },
+ {
+  "id": "19470",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "film and paper loading"
+ },
+ {
+  "id": "19471",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "camera images to computer"
+ },
+ {
+  "id": "19472",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "processing quantities and charges"
+ },
+ {
+  "id": "19473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographic chemical solutions"
+ },
+ {
+  "id": "19474",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment malfunction detection"
+ },
+ {
+  "id": "19476",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "negatives and prints scanning"
+ },
+ {
+  "id": "19477",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "enlargement and film transfer equipment"
+ },
+ {
+  "id": "19478",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sensitized paper in frames"
+ },
+ {
+  "id": "19479",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "photographs, negatives, slides"
+ },
+ {
+  "id": "19480",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photo work orders"
+ },
+ {
+  "id": "19481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "original reprints for enlargement"
+ },
+ {
+  "id": "19482",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "negative and print defects"
+ },
+ {
+  "id": "19483",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital image quality"
+ },
+ {
+  "id": "19484",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital images for printing"
+ },
+ {
+  "id": "19486",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "photo machine controls"
+ },
+ {
+  "id": "19488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "darkroom equipment cleaning"
+ },
+ {
+  "id": "19491",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "retouching and restoration needs"
+ },
+ {
+  "id": "19492",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "film fades color correction"
+ },
+ {
+  "id": "19496",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "timed scene prints"
+ },
+ {
+  "id": "19498",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broken film splicing"
+ },
+ {
+  "id": "19499",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filmstrips in densitometers"
+ },
+ {
+  "id": "19500",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer images to websites"
+ },
+ {
+  "id": "11932",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished workpiece dimensions"
+ },
+ {
+  "id": "11933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dull cutting tools"
+ },
+ {
+  "id": "11934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools and workpieces on machines"
+ },
+ {
+  "id": "11935",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine sounds and vibration"
+ },
+ {
+  "id": "11936",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feed, speed, machine controls"
+ },
+ {
+  "id": "11937",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces and tooling changes"
+ },
+ {
+  "id": "11938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces lifted to machines"
+ },
+ {
+  "id": "11939",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cutting programs"
+ },
+ {
+  "id": "11940",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "speed and feed ratios"
+ },
+ {
+  "id": "11941",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "control unit instructions"
+ },
+ {
+  "id": "11942",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece lubrication and cooling"
+ },
+ {
+  "id": "11943",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "part dimensions in controller"
+ },
+ {
+  "id": "11944",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "computer-controlled metalworking machines"
+ },
+ {
+  "id": "11945",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "machine malfunctions with supervisors"
+ },
+ {
+  "id": "11946",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and operation sequences"
+ },
+ {
+  "id": "11947",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "control panel readings"
+ },
+ {
+  "id": "11948",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coolant systems"
+ },
+ {
+  "id": "11949",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines and worn tools"
+ },
+ {
+  "id": "11950",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished items stacking"
+ },
+ {
+  "id": "11951",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines and parts cleaning"
+ },
+ {
+  "id": "11952",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "controller program loading"
+ },
+ {
+  "id": "11953",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network command transfer to CNC"
+ },
+ {
+  "id": "11954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "upcoming job setups"
+ },
+ {
+  "id": "11955",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine program changes"
+ },
+ {
+  "id": "11956",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "simple machine tool programs"
+ },
+ {
+  "id": "11957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laser-trimmed electronic components"
+ },
+ {
+  "id": "11958",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shot peening areas and hoppers"
+ },
+ {
+  "id": "11959",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machining sequence and tools"
+ },
+ {
+  "id": "11960",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "program errors and retesting"
+ },
+ {
+  "id": "11961",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job orders and design data"
+ },
+ {
+  "id": "11962",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cutting paths and dimensions"
+ },
+ {
+  "id": "11963",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "trial runs and simulations"
+ },
+ {
+  "id": "11964",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "encoded programs against specifications"
+ },
+ {
+  "id": "11965",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hole location coordinates"
+ },
+ {
+  "id": "11966",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "controller-language machine programs"
+ },
+ {
+  "id": "11967",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing program efficiency"
+ },
+ {
+  "id": "11968",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stored parts patterns and programs"
+ },
+ {
+  "id": "11969",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geometric layouts from graphics"
+ },
+ {
+  "id": "11970",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "setup instructions and cutter lists"
+ },
+ {
+  "id": "11971",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shop orders grouping"
+ },
+ {
+  "id": "11973",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pattern film on optical programmers"
+ },
+ {
+  "id": "20922",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine maintenance and repairs"
+ },
+ {
+  "id": "24013",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tooling orders"
+ }
+]

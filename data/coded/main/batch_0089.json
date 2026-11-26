@@ -1,0 +1,1442 @@
+[
+ {
+  "id": "12175",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "customer garment fit assessment"
+ },
+ {
+  "id": "12176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment sewing"
+ },
+ {
+  "id": "12177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "garment alteration measurement marking"
+ },
+ {
+  "id": "12178",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment hems"
+ },
+ {
+  "id": "12179",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment seams fit"
+ },
+ {
+  "id": "12180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment parts basting assembly"
+ },
+ {
+  "id": "12181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment stitches removal"
+ },
+ {
+  "id": "12182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "alteration instruction tags"
+ },
+ {
+  "id": "12183",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "garment alteration tags"
+ },
+ {
+  "id": "12184",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "custom clothing fitting and making"
+ },
+ {
+  "id": "12185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment drape during alterations"
+ },
+ {
+  "id": "12186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment pressing"
+ },
+ {
+  "id": "12187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess fabric trimming"
+ },
+ {
+  "id": "12188",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "garment designs and patterns"
+ },
+ {
+  "id": "12189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment style changes"
+ },
+ {
+  "id": "12190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer body measurements"
+ },
+ {
+  "id": "12191",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "garment cost estimate"
+ },
+ {
+  "id": "12192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment part repair"
+ },
+ {
+  "id": "12193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer material and style preferences"
+ },
+ {
+  "id": "12194",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabric pattern placement cutting"
+ },
+ {
+  "id": "12195",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buttonholes and buttons"
+ },
+ {
+  "id": "12196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "padding and shaping materials"
+ },
+ {
+  "id": "14121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dye tank solutions"
+ },
+ {
+  "id": "14122",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment malfunction reports"
+ },
+ {
+  "id": "14123",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dyeing equipment controls"
+ },
+ {
+  "id": "14124",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dyeing machine operation observation"
+ },
+ {
+  "id": "14125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dyeing machine preparation test runs"
+ },
+ {
+  "id": "14126",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dyeing temperatures and flow rates"
+ },
+ {
+  "id": "14127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "textile processing machines"
+ },
+ {
+  "id": "14128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "textile product defects by touch"
+ },
+ {
+  "id": "14129",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production records"
+ },
+ {
+  "id": "14130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dye processing solutions testing"
+ },
+ {
+  "id": "14131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dyed articles from machines"
+ },
+ {
+  "id": "14132",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "machine setup specifications"
+ },
+ {
+  "id": "14133",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "order details coworker communication"
+ },
+ {
+  "id": "14134",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dyeing machinery inspection"
+ },
+ {
+  "id": "14136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cloth ends sewing"
+ },
+ {
+  "id": "14137",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "processing instructions entry"
+ },
+ {
+  "id": "14138",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "textile products soaking"
+ },
+ {
+  "id": "14139",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cloth threading through equipment"
+ },
+ {
+  "id": "14140",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cloth rolls mounting"
+ },
+ {
+  "id": "14141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine maintenance and repairs"
+ },
+ {
+  "id": "14142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cloth seams raveling"
+ },
+ {
+  "id": "14143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine components installation alignment"
+ },
+ {
+  "id": "23982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dye ingredients weighing"
+ },
+ {
+  "id": "14145",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabric layers cutting"
+ },
+ {
+  "id": "14146",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical malfunction reports"
+ },
+ {
+  "id": "14147",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts repair"
+ },
+ {
+  "id": "14148",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabric cutting techniques"
+ },
+ {
+  "id": "14149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting machinery inspection"
+ },
+ {
+  "id": "14150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting machine controls"
+ },
+ {
+  "id": "14152",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "order and process coworker communication"
+ },
+ {
+  "id": "14153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting machines operation"
+ },
+ {
+  "id": "14154",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and lubrication"
+ },
+ {
+  "id": "14155",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work completed records"
+ },
+ {
+  "id": "14156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "multilayer fabric cutting machines"
+ },
+ {
+  "id": "14157",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "setup specifications"
+ },
+ {
+  "id": "14158",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine test runs"
+ },
+ {
+  "id": "14159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stopping at quantity"
+ },
+ {
+  "id": "14160",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine components installation alignment"
+ },
+ {
+  "id": "14161",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electronic equipment programming"
+ },
+ {
+  "id": "14162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yarn threading through machine"
+ },
+ {
+  "id": "21156",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cut product quality inspection"
+ },
+ {
+  "id": "14163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cloth defects removal"
+ },
+ {
+  "id": "14164",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "woven product inspection"
+ },
+ {
+  "id": "14165",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "woven cloth defect observation"
+ },
+ {
+  "id": "14166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yarn threading through machine"
+ },
+ {
+  "id": "14167",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loom stoppage causes"
+ },
+ {
+  "id": "14168",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical malfunction notifications"
+ },
+ {
+  "id": "14169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "textile machines setup and operation"
+ },
+ {
+  "id": "14170",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "textile machines operation"
+ },
+ {
+  "id": "14171",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery repair inspection"
+ },
+ {
+  "id": "14172",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work and settings records"
+ },
+ {
+  "id": "14173",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "order and process coworker communication"
+ },
+ {
+  "id": "14174",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stopping at quantity"
+ },
+ {
+  "id": "14175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and lubrication"
+ },
+ {
+  "id": "14176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine test runs"
+ },
+ {
+  "id": "14178",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electronic equipment programming"
+ },
+ {
+  "id": "14179",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loom setup specifications"
+ },
+ {
+  "id": "14180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn needles replacement"
+ },
+ {
+  "id": "14181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine components installation alignment"
+ },
+ {
+  "id": "14182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine heat tension speed"
+ },
+ {
+  "id": "14183",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment malfunction notifications"
+ },
+ {
+  "id": "14184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winding machines operation"
+ },
+ {
+  "id": "14185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bobbin winding machines"
+ },
+ {
+  "id": "14186",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wound product inspection"
+ },
+ {
+  "id": "14187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yarn twisting machines"
+ },
+ {
+  "id": "14188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "supply packages replacement"
+ },
+ {
+  "id": "14189",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operation defects and shortages"
+ },
+ {
+  "id": "14190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yarn threading through machine"
+ },
+ {
+  "id": "14191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine test runs"
+ },
+ {
+  "id": "14192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery repair inspection"
+ },
+ {
+  "id": "14193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bobbins on spindles"
+ },
+ {
+  "id": "14195",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bobbin production data"
+ },
+ {
+  "id": "14196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stopping at quantity"
+ },
+ {
+  "id": "14197",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "setup specifications"
+ },
+ {
+  "id": "14198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bobbin size gauging"
+ },
+ {
+  "id": "14199",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine components installation alignment"
+ },
+ {
+  "id": "14200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spinning frames yarn"
+ },
+ {
+  "id": "14201",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yarn spools to bobbins"
+ },
+ {
+  "id": "14202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winding bobbins thread cutting"
+ },
+ {
+  "id": "14203",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine speed and tension"
+ },
+ {
+  "id": "14204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and lubrication"
+ },
+ {
+  "id": "14205",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spindles and bobbins removal"
+ },
+ {
+  "id": "14206",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn parts replacement"
+ },
+ {
+  "id": "14207",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filament removal from machines"
+ },
+ {
+  "id": "14208",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filament extruding machines"
+ },
+ {
+  "id": "14209",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "extruder material loading feed rates"
+ },
+ {
+  "id": "14210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filament extrusion flow observation"
+ },
+ {
+  "id": "14211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "extruding machine controls"
+ },
+ {
+  "id": "14212",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine malfunction records"
+ },
+ {
+  "id": "14213",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "defect notification and direction"
+ },
+ {
+  "id": "14214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stopping controls"
+ },
+ {
+  "id": "14215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finish flow across rollers"
+ },
+ {
+  "id": "14216",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine gauges malfunction detection"
+ },
+ {
+  "id": "14217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "threadlines cutting in cabinets"
+ },
+ {
+  "id": "14218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "polymer flow stopping"
+ },
+ {
+  "id": "14219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "polymer deposits cleaning"
+ },
+ {
+  "id": "14220",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "extruding machines maintenance"
+ },
+ {
+  "id": "14224",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "operational data tags"
+ },
+ {
+  "id": "14225",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molten filament catch pans"
+ },
+ {
+  "id": "14227",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finish rollers and trays"
+ },
+ {
+  "id": "12197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sample garments fit testing"
+ },
+ {
+  "id": "12198",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern joining detail marks"
+ },
+ {
+  "id": "12199",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern piece layout efficiency"
+ },
+ {
+  "id": "12200",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "graded master patterns"
+ },
+ {
+  "id": "12201",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern outlines from designs"
+ },
+ {
+  "id": "12202",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paper garment patterns"
+ },
+ {
+  "id": "12203",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pattern pieces cutting printing"
+ },
+ {
+  "id": "12204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "designer specifications into patterns"
+ },
+ {
+  "id": "12205",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern size and style labels"
+ },
+ {
+  "id": "12206",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern dimensions by size"
+ },
+ {
+  "id": "12207",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pattern parts and fabric quantities"
+ },
+ {
+  "id": "12208",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cardboard templates tracing cutting"
+ },
+ {
+  "id": "12209",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabric pattern tracing cutting"
+ },
+ {
+  "id": "20930",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern design specifications input"
+ },
+ {
+  "id": "20931",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patterns after fittings"
+ },
+ {
+  "id": "20932",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "garment sewing instructions"
+ },
+ {
+  "id": "14228",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture frame upholstery material"
+ },
+ {
+  "id": "14229",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture padding build-up"
+ },
+ {
+  "id": "14230",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture frames defects"
+ },
+ {
+  "id": "14231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "upholstery fasteners and trim"
+ },
+ {
+  "id": "14232",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "old upholstery removal"
+ },
+ {
+  "id": "14233",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders material requirements"
+ },
+ {
+  "id": "14234",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material cutting lines"
+ },
+ {
+  "id": "14235",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "custom upholstered furniture"
+ },
+ {
+  "id": "14236",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "upholstery covering cutting"
+ },
+ {
+  "id": "14237",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job time records"
+ },
+ {
+  "id": "14238",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer upholstery choices and estimates"
+ },
+ {
+  "id": "14239",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture frame repair refinishing"
+ },
+ {
+  "id": "14240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "upholstery sewing"
+ },
+ {
+  "id": "14241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture pickup and delivery"
+ },
+ {
+  "id": "14242",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture webbing"
+ },
+ {
+  "id": "14243",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material rips and tufting"
+ },
+ {
+  "id": "14244",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cut material edges"
+ },
+ {
+  "id": "14245",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "webbing padding springs"
+ },
+ {
+  "id": "14246",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "webbing and fabric stretching"
+ },
+ {
+  "id": "14247",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "upholstery cover patterns cutting plans"
+ },
+ {
+  "id": "14248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automobile upholstery and tops"
+ },
+ {
+  "id": "14249",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "room fabric coordination with designers"
+ },
+ {
+  "id": "12210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cabinet and furniture components"
+ },
+ {
+  "id": "12211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "piece dimensions and fit"
+ },
+ {
+  "id": "12212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "woodworking machines setup operation"
+ },
+ {
+  "id": "12213",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lumber dimensions marking"
+ },
+ {
+  "id": "12214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "joints reinforcement fasteners"
+ },
+ {
+  "id": "12215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "subassemblies joining"
+ },
+ {
+  "id": "12216",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "article specifications and methods"
+ },
+ {
+  "id": "12217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timber cutting and joints"
+ },
+ {
+  "id": "12218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wood color and grain matching"
+ },
+ {
+  "id": "12219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surfaces and joints sanding"
+ },
+ {
+  "id": "12220",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "screw and dowel holes"
+ },
+ {
+  "id": "12221",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machinery computer programming"
+ },
+ {
+  "id": "12222",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material amounts and costs"
+ },
+ {
+  "id": "12223",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "final surface touch-ups"
+ },
+ {
+  "id": "12224",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture hardware installation"
+ },
+ {
+  "id": "12226",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wooden furniture repair"
+ },
+ {
+  "id": "12227",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surfacing materials application"
+ },
+ {
+  "id": "12228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "furniture computer-aided design"
+ },
+ {
+  "id": "12229",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "protective finishes application"
+ },
+ {
+  "id": "20822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project specifications customer discussion"
+ }
+]

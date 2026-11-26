@@ -1,0 +1,1458 @@
+[
+ {
+  "id": "13762",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat motor parts"
+ },
+ {
+  "id": "13763",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motors mounted on boats"
+ },
+ {
+  "id": "13764",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "running motor performance"
+ },
+ {
+  "id": "13765",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection and repair records"
+ },
+ {
+  "id": "13766",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn engine parts"
+ },
+ {
+  "id": "13767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine cooling system"
+ },
+ {
+  "id": "13768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steering and throttle controls"
+ },
+ {
+  "id": "13769",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "running motor carburetor timing"
+ },
+ {
+  "id": "13770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tilts, bilge pumps, power takeoffs"
+ },
+ {
+  "id": "13771",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "propellers and shafts"
+ },
+ {
+  "id": "13772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts machined on shop tools"
+ },
+ {
+  "id": "13773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "generators and wiring"
+ },
+ {
+  "id": "20801",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine oil and filters"
+ },
+ {
+  "id": "20651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motorcycle tires"
+ },
+ {
+  "id": "20652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frames and engines"
+ },
+ {
+  "id": "20653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bent or cracked frames"
+ },
+ {
+  "id": "23934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motorcycle accessories"
+ },
+ {
+  "id": "8352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forks, brakes, chains, transmissions"
+ },
+ {
+  "id": "8353",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective motorcycle parts"
+ },
+ {
+  "id": "8354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine output test panels"
+ },
+ {
+  "id": "8355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "engine noises and customer complaints"
+ },
+ {
+  "id": "8356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rebuilt subassembly units"
+ },
+ {
+  "id": "8357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines and magnetos"
+ },
+ {
+  "id": "8358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cylinder heads and valves"
+ },
+ {
+  "id": "8359",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lights, horns, controls, mufflers"
+ },
+ {
+  "id": "8360",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "subassembly parts alignment"
+ },
+ {
+  "id": "13774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "small gasoline engines"
+ },
+ {
+  "id": "13775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "points, valves, carburetors, plugs"
+ },
+ {
+  "id": "13776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired engines"
+ },
+ {
+  "id": "13777",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair time and parts log"
+ },
+ {
+  "id": "13778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine cleaning and tuning"
+ },
+ {
+  "id": "13779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer problem and repair estimate"
+ },
+ {
+  "id": "13780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine malfunctions"
+ },
+ {
+  "id": "13781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "magnetos, pumps, gears, pistons"
+ },
+ {
+  "id": "13782",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "parts and equipment sales"
+ },
+ {
+  "id": "13783",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer equipment maintenance coaching"
+ },
+ {
+  "id": "13784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines and defective parts"
+ },
+ {
+  "id": "13785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment motors"
+ },
+ {
+  "id": "13786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine parts clearances"
+ },
+ {
+  "id": "13787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines on repair stands"
+ },
+ {
+  "id": "20915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bicycle brakes"
+ },
+ {
+  "id": "20916",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer bicycle fit and use"
+ },
+ {
+  "id": "20917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bicycles and accessories sales"
+ },
+ {
+  "id": "20918",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bicycle tires and tubes"
+ },
+ {
+  "id": "20919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bicycle parts cleaning"
+ },
+ {
+  "id": "20920",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bicycle parts orders"
+ },
+ {
+  "id": "20921",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wheel spokes"
+ },
+ {
+  "id": "5184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gears and speed mechanisms"
+ },
+ {
+  "id": "5185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new bicycles"
+ },
+ {
+  "id": "5186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "handlebars, lights, seats, stands"
+ },
+ {
+  "id": "5187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bicycle wheels"
+ },
+ {
+  "id": "5188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "axles and parts"
+ },
+ {
+  "id": "5189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacement parts shaping"
+ },
+ {
+  "id": "5190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "punctured tire tubes"
+ },
+ {
+  "id": "10004",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired RV systems"
+ },
+ {
+  "id": "10005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV plumbing and propane lines"
+ },
+ {
+  "id": "10006",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV problems and repairs"
+ },
+ {
+  "id": "10007",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV wiring faults"
+ },
+ {
+  "id": "10008",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer complaint and RV damage"
+ },
+ {
+  "id": "10009",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RV parts, costs, work plan"
+ },
+ {
+  "id": "10010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV electrical systems and appliances"
+ },
+ {
+  "id": "10011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV water plumbing"
+ },
+ {
+  "id": "10012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV exterior panels and frames"
+ },
+ {
+  "id": "10013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV doors, windows, drawers"
+ },
+ {
+  "id": "10014",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV leaks and pipes"
+ },
+ {
+  "id": "10015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV wood surfaces"
+ },
+ {
+  "id": "10016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV hardware"
+ },
+ {
+  "id": "10017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "modular unit open sides"
+ },
+ {
+  "id": "20802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "RV systems operation for customers"
+ },
+ {
+  "id": "20803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV brake systems"
+ },
+ {
+  "id": "20804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RV furnace and air conditioning"
+ },
+ {
+  "id": "20654",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle wheels"
+ },
+ {
+  "id": "20655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire size and inflation"
+ },
+ {
+  "id": "20656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanic assistance and oil changes"
+ },
+ {
+  "id": "20657",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shop cleanliness"
+ },
+ {
+  "id": "8363",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wheels on balancers"
+ },
+ {
+  "id": "8364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicles raised on jacks"
+ },
+ {
+  "id": "8365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wheels onto vehicles"
+ },
+ {
+  "id": "8366",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tubeless tire punctures"
+ },
+ {
+  "id": "8368",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tires on wheels"
+ },
+ {
+  "id": "8369",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "valve stems and puncturing objects"
+ },
+ {
+  "id": "8370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wheel counterweights"
+ },
+ {
+  "id": "8371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire positions on vehicles"
+ },
+ {
+  "id": "8372",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire casing defects"
+ },
+ {
+  "id": "8373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tubeless tire punctures"
+ },
+ {
+  "id": "8374",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire casing ruptures"
+ },
+ {
+  "id": "8376",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tubed tires and wheels"
+ },
+ {
+  "id": "8377",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inner tube patches"
+ },
+ {
+  "id": "8378",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inner tube leaks"
+ },
+ {
+  "id": "8379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "whitewall tire sides"
+ },
+ {
+  "id": "8380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buffed tire casings"
+ },
+ {
+  "id": "8381",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "service trucks and emergency calls"
+ },
+ {
+  "id": "8382",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rims and wheel drums"
+ },
+ {
+  "id": "8383",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tire and tube orders"
+ },
+ {
+  "id": "8385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inner tube defects"
+ },
+ {
+  "id": "20805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "doors for hardware"
+ },
+ {
+  "id": "8387",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door effort and openers"
+ },
+ {
+  "id": "8388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "large door springs"
+ },
+ {
+  "id": "8389",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "job site door suitability"
+ },
+ {
+  "id": "8390",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payment for completed job"
+ },
+ {
+  "id": "8391",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders paperwork"
+ },
+ {
+  "id": "8392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ceiling back-hangers and tracks"
+ },
+ {
+  "id": "8393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn door parts"
+ },
+ {
+  "id": "8394",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door springs and tracks"
+ },
+ {
+  "id": "8395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "doors and hardware sections"
+ },
+ {
+  "id": "8396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automatic door closers"
+ },
+ {
+  "id": "8397",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door frames, openers, closers"
+ },
+ {
+  "id": "8399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door tracks"
+ },
+ {
+  "id": "8400",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "low voltage ceiling wiring"
+ },
+ {
+  "id": "8401",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door stops and angle irons"
+ },
+ {
+  "id": "8402",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints for door openers"
+ },
+ {
+  "id": "8403",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy curtain doors"
+ },
+ {
+  "id": "8404",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "door springs and slats orders"
+ },
+ {
+  "id": "8405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor holes for installation"
+ },
+ {
+  "id": "8406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor treadles and power packs"
+ },
+ {
+  "id": "8407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door closer oil chambers"
+ },
+ {
+  "id": "8408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dock seals and bumpers"
+ },
+ {
+  "id": "8409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn door parts replacements"
+ },
+ {
+  "id": "8410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door closer parts"
+ },
+ {
+  "id": "8411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treadle floor coverings"
+ },
+ {
+  "id": "11774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meters service on or off"
+ },
+ {
+  "id": "11775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas meter flow rates"
+ },
+ {
+  "id": "11776",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "field hazards and damaged meters"
+ },
+ {
+  "id": "11777",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "meter readings and work orders"
+ },
+ {
+  "id": "11778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "regulators on test stands"
+ },
+ {
+  "id": "11779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "control devices and valves"
+ },
+ {
+  "id": "11780",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance records"
+ },
+ {
+  "id": "11781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective or unauthorized meters"
+ },
+ {
+  "id": "11782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical parts lubrication"
+ },
+ {
+  "id": "11783",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "valves and regulators leak tests"
+ },
+ {
+  "id": "11784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "regulators and gas meters"
+ },
+ {
+  "id": "11785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "service shutoff and repair notice"
+ },
+ {
+  "id": "11786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "valve parts defects"
+ },
+ {
+  "id": "11787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter seams leak test"
+ },
+ {
+  "id": "11788",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter parts"
+ },
+ {
+  "id": "11789",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer valve installation advice"
+ },
+ {
+  "id": "11790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "provers and meter connections"
+ },
+ {
+  "id": "11791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter components"
+ },
+ {
+  "id": "11792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "regulator parts"
+ },
+ {
+  "id": "11793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "illegal service line tapping"
+ },
+ {
+  "id": "11794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electric meters and relays"
+ },
+ {
+  "id": "11795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meters and house lines"
+ },
+ {
+  "id": "11796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electric meters and equipment"
+ },
+ {
+  "id": "11797",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "regulator valves and pistons"
+ },
+ {
+  "id": "11799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembled parts tolerances"
+ },
+ {
+  "id": "11800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heater thermostat valves"
+ },
+ {
+  "id": "11801",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter internal compartments"
+ },
+ {
+  "id": "11802",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electric meter components"
+ },
+ {
+  "id": "11804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "orifice seats and ports"
+ },
+ {
+  "id": "11810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter cables"
+ },
+ {
+  "id": "11811",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter housing deposits"
+ },
+ {
+  "id": "21024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meters, gauges, regulators calibration"
+ },
+ {
+  "id": "23552",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical circuit continuity"
+ },
+ {
+  "id": "23553",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective HVAC components"
+ },
+ {
+  "id": "23554",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "user complaints and repair verification"
+ },
+ {
+  "id": "23555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "HVAC fuel and refrigerant connections"
+ },
+ {
+  "id": "23556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "thermostats and timers"
+ },
+ {
+  "id": "23557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "safety standards and shop cleanliness"
+ },
+ {
+  "id": "23558",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and manufacturer specifications"
+ },
+ {
+  "id": "23559",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "valves, ducts, pipes, blowers"
+ },
+ {
+  "id": "23560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective joints and leaks"
+ },
+ {
+  "id": "23561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "control wiring"
+ },
+ {
+  "id": "23562",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "system compliance and malfunctions"
+ },
+ {
+  "id": "23563",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work order time and materials"
+ },
+ {
+  "id": "23564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "overhauls and refrigerant reclaiming"
+ },
+ {
+  "id": "23565",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "system controls balance"
+ },
+ {
+  "id": "23566",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "expansion and control valves"
+ },
+ {
+  "id": "23567",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dehumidifiers"
+ },
+ {
+  "id": "23568",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "HVAC preventive maintenance"
+ },
+ {
+  "id": "23569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floors, walls, roof holes"
+ },
+ {
+  "id": "23570",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "compressor and condenser mounting"
+ },
+ {
+  "id": "23571",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe and tubing"
+ },
+ {
+  "id": "23572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair and malfunction records"
+ },
+ {
+  "id": "23573",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air purification systems"
+ },
+ {
+  "id": "23574",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "maintenance materials and supplies"
+ },
+ {
+  "id": "23575",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer work scheduling and orders"
+ },
+ {
+  "id": "23576",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "assistants supervision and instruction"
+ },
+ {
+  "id": "23577",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation reference points"
+ },
+ {
+  "id": "23578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy components lifted"
+ },
+ {
+  "id": "23579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ground source heat pumps"
+ },
+ {
+  "id": "23580",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "HVAC efficiency servicing"
+ },
+ {
+  "id": "23581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipes and connection leaks"
+ }
+]

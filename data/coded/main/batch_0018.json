@@ -1,0 +1,1426 @@
+[
+ {
+  "id": "19621",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green consumer electronics applications research"
+ },
+ {
+  "id": "19623",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new green electronics technologies"
+ },
+ {
+  "id": "20493",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project material and equipment needs"
+ },
+ {
+  "id": "20494",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineering project work adequacy"
+ },
+ {
+  "id": "20495",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system requirements and project feasibility"
+ },
+ {
+  "id": "20496",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project discussions with engineers and customers"
+ },
+ {
+  "id": "20497",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering design software operation"
+ },
+ {
+  "id": "20498",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "repair or design modifications of components"
+ },
+ {
+  "id": "20499",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff and customer equipment support"
+ },
+ {
+  "id": "20500",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and installation cost estimates"
+ },
+ {
+  "id": "5339",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "electronic components and systems design"
+ },
+ {
+  "id": "5346",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "electronic equipment conformance inspection"
+ },
+ {
+  "id": "5348",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "proprietary hardware and software documentation"
+ },
+ {
+  "id": "5349",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "electronic equipment manufacturing and installation activities"
+ },
+ {
+  "id": "5350",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "testing and maintenance procedures"
+ },
+ {
+  "id": "5351",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electronic properties applications for performance"
+ },
+ {
+  "id": "5352",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering sketches and specifications"
+ },
+ {
+  "id": "5354",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance schedules and design documentation"
+ },
+ {
+  "id": "5355",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project criteria, procedures and plans"
+ },
+ {
+  "id": "5357",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employer positions at meetings and panels"
+ },
+ {
+  "id": "16351",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "application compliance with architectural standards"
+ },
+ {
+  "id": "16352",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry literature and technology developments"
+ },
+ {
+  "id": "16353",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "RFID technology technical support"
+ },
+ {
+  "id": "16354",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID systems analysis and programming"
+ },
+ {
+  "id": "16355",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID equipment and process details"
+ },
+ {
+  "id": "16356",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users on system operation"
+ },
+ {
+  "id": "16357",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID supply chain data"
+ },
+ {
+  "id": "16358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RFID tags readability testing"
+ },
+ {
+  "id": "16359",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID software functional testing"
+ },
+ {
+  "id": "16360",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "RFID tag selection and placement"
+ },
+ {
+  "id": "16361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "site analysis for system configuration"
+ },
+ {
+  "id": "16362",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "newly installed system acceptance testing"
+ },
+ {
+  "id": "16363",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational requirements for new systems"
+ },
+ {
+  "id": "16364",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new RFID technology usefulness"
+ },
+ {
+  "id": "16365",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID process flows and procedures"
+ },
+ {
+  "id": "16366",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID integration into applications"
+ },
+ {
+  "id": "16367",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID solution options comparison"
+ },
+ {
+  "id": "16368",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "RFID system simulations and models"
+ },
+ {
+  "id": "16369",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "RFID systems installation and maintenance"
+ },
+ {
+  "id": "16370",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "RFID tags, readers, software integration"
+ },
+ {
+  "id": "16371",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client hardware, software, process data"
+ },
+ {
+  "id": "1366",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental investigation reports"
+ },
+ {
+  "id": "1368",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plans, permits and operating procedures"
+ },
+ {
+  "id": "1369",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "remediation and litigation technical support"
+ },
+ {
+  "id": "1370",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental improvement program progress"
+ },
+ {
+  "id": "1371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility environmental compliance inspection"
+ },
+ {
+  "id": "1372",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project data and documentation administration"
+ },
+ {
+  "id": "1373",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project objectives and progress reporting"
+ },
+ {
+  "id": "1374",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contaminated site cleanup procedures advice"
+ },
+ {
+  "id": "1375",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental policies and standards advice"
+ },
+ {
+  "id": "1376",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental issues communication to employees"
+ },
+ {
+  "id": "1377",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "land use project environmental impact"
+ },
+ {
+  "id": "1378",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budget implementation and forecasts"
+ },
+ {
+  "id": "1379",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "site health and safety protocols"
+ },
+ {
+  "id": "1380",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental projects and assigned work"
+ },
+ {
+  "id": "1381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agency liaison on waste requirements"
+ },
+ {
+  "id": "1383",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazardous waste manifests and notifications"
+ },
+ {
+  "id": "1385",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental compliance training sessions"
+ },
+ {
+  "id": "1387",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "natural resource conservation plans"
+ },
+ {
+  "id": "1388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unknown materials sorting and packing"
+ },
+ {
+  "id": "1389",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier and consultant bid requests"
+ },
+ {
+  "id": "1390",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory analysis and database development"
+ },
+ {
+  "id": "15210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "water, air, soil remediation systems design"
+ },
+ {
+  "id": "19624",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental monitoring devices installation"
+ },
+ {
+  "id": "19625",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public briefings on project status"
+ },
+ {
+  "id": "19626",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental newsletter and web articles"
+ },
+ {
+  "id": "20195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collaboration among environmental specialists"
+ },
+ {
+  "id": "20196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "multimedia facility inspection team sampling"
+ },
+ {
+  "id": "20197",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality assurance documentation"
+ },
+ {
+  "id": "23987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "professional conference attendance"
+ },
+ {
+  "id": "21860",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "industrial accident causes investigation"
+ },
+ {
+  "id": "21861",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product safety level research"
+ },
+ {
+  "id": "21862",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product design safety evaluation"
+ },
+ {
+  "id": "21863",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker safety training"
+ },
+ {
+  "id": "21864",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policies, regulations and process knowledge"
+ },
+ {
+  "id": "21865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hazard detection and prevention procedures"
+ },
+ {
+  "id": "21866",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accident and inspection findings reports"
+ },
+ {
+  "id": "21867",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hazards from product misuse"
+ },
+ {
+  "id": "21868",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "corrective actions for inspection violations"
+ },
+ {
+  "id": "21869",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "safety regulations interpretation for others"
+ },
+ {
+  "id": "21870",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machinery plans safety requirements"
+ },
+ {
+  "id": "21871",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product usage and warning labels"
+ },
+ {
+  "id": "21872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employer and employee incident interviews"
+ },
+ {
+  "id": "21873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "expert litigation testimony"
+ },
+ {
+  "id": "21874",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee safety programs adequacy"
+ },
+ {
+  "id": "21875",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air, noise, temperature, radiation testing"
+ },
+ {
+  "id": "21876",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizational health problem advice"
+ },
+ {
+  "id": "21877",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product safety industry standards"
+ },
+ {
+  "id": "21878",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "emergency responder organization liaison"
+ },
+ {
+  "id": "21879",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial hygiene research"
+ },
+ {
+  "id": "21880",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "occupational illness and accident statistics"
+ },
+ {
+  "id": "21881",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "safety regulations and codes"
+ },
+ {
+  "id": "21882",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health risks with medical professionals"
+ },
+ {
+  "id": "21883",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "safety equipment design and building"
+ },
+ {
+  "id": "21884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "plant floor load strength"
+ },
+ {
+  "id": "21885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facilities and machinery hazard inspection"
+ },
+ {
+  "id": "21886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery safety device installation"
+ },
+ {
+  "id": "20383",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire prevention issue reports"
+ },
+ {
+  "id": "23902",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "fire protection systems purchase and installation"
+ },
+ {
+  "id": "24004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building plans fire code compliance"
+ },
+ {
+  "id": "8982",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fire detection and suppression systems"
+ },
+ {
+  "id": "8983",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "building fire protection requirements inspection"
+ },
+ {
+  "id": "8984",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "builders on fire code compliance"
+ },
+ {
+  "id": "8986",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire causes and prevention"
+ },
+ {
+  "id": "8988",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "authority consultation on safety regulations"
+ },
+ {
+  "id": "8989",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire, wind, water damage prevention plans"
+ },
+ {
+  "id": "8990",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ignition sources and materials relationships"
+ },
+ {
+  "id": "8991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire protection workshops and conferences"
+ },
+ {
+  "id": "8992",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fire protection training materials and sessions"
+ },
+ {
+  "id": "8993",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire department performance and regulations"
+ },
+ {
+  "id": "8994",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fire retardants and material safety research"
+ },
+ {
+  "id": "1391",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product specification statistics and quality objectives"
+ },
+ {
+  "id": "1392",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "manufacturing methods and cost systems"
+ },
+ {
+  "id": "1393",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "personnel, material, utility utilization improvements"
+ },
+ {
+  "id": "1394",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fabrication and assembly operation sequence"
+ },
+ {
+  "id": "1395",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manufacturing statistics and calculations"
+ },
+ {
+  "id": "1398",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and workspace layout drafts"
+ },
+ {
+  "id": "1399",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules and engineering specifications"
+ },
+ {
+  "id": "1400",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production and design standards with management"
+ },
+ {
+  "id": "1402",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality sampling procedures and forms"
+ },
+ {
+  "id": "1403",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering drawings and production problem records"
+ },
+ {
+  "id": "1404",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations flow and worker functions"
+ },
+ {
+  "id": "1405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inspection and testing workers"
+ },
+ {
+  "id": "1406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "defective parts disposition procedures"
+ },
+ {
+  "id": "1407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "production equipment accuracy corrective plan"
+ },
+ {
+  "id": "1408",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production reports and purchase orders"
+ },
+ {
+  "id": "1409",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production deliveries scheduling"
+ },
+ {
+  "id": "1410",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "workflow schedules and manufacturing sequences"
+ },
+ {
+  "id": "18607",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production cost estimates for management"
+ },
+ {
+  "id": "18608",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "quality control activities for production problems"
+ },
+ {
+  "id": "18609",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients, vendors and staff communication"
+ },
+ {
+  "id": "16372",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "proposals, test plans and procedures"
+ },
+ {
+  "id": "16373",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "users on ergonomic principles"
+ },
+ {
+  "id": "16374",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "injury and compensation records review"
+ },
+ {
+  "id": "16375",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "human factors technical expertise"
+ },
+ {
+  "id": "16376",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "human design considerations for habitats"
+ },
+ {
+  "id": "16377",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research project time estimates"
+ },
+ {
+  "id": "16378",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user interviews and surveys"
+ },
+ {
+  "id": "16379",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "workplace changes for health and safety"
+ },
+ {
+  "id": "16380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client workplace fixtures and task rearrangement"
+ },
+ {
+  "id": "16381",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "human factors results reports"
+ },
+ {
+  "id": "16382",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistical and modeling analyses"
+ },
+ {
+  "id": "16383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "task and anthropometric analysis"
+ },
+ {
+  "id": "16384",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental and ergonomic testing equipment"
+ },
+ {
+  "id": "16385",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "human factors requirements in hardware"
+ },
+ {
+  "id": "16386",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "human-machine interface requirements"
+ },
+ {
+  "id": "16387",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "work site physical hazards"
+ },
+ {
+  "id": "16388",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "human performance research protocols"
+ },
+ {
+  "id": "16389",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prototype evaluation methods and statistical plans"
+ },
+ {
+  "id": "16390",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cognitive aids and decision support"
+ },
+ {
+  "id": "16391",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment design and training solutions research"
+ },
+ {
+  "id": "16392",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product usability characteristics"
+ },
+ {
+  "id": "16393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work activities and tests observation"
+ },
+ {
+  "id": "16394",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "human behavior forecasting models"
+ },
+ {
+  "id": "16395",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "complex system development potential"
+ },
+ {
+  "id": "16396",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "end users in collaboration"
+ },
+ {
+  "id": "16397",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "human work systems design"
+ },
+ {
+  "id": "18127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "process and equipment validation tests"
+ },
+ {
+  "id": "18128",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation sampling and testing methods"
+ },
+ {
+  "id": "18129",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation plans, test cases, procedures"
+ },
+ {
+  "id": "18130",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation and qualification protocols"
+ },
+ {
+  "id": "18131",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation test data analysis"
+ },
+ {
+  "id": "18132",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "validation process compliance audits"
+ },
+ {
+  "id": "18133",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation tracking databases"
+ },
+ {
+  "id": "18134",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "validation activities and protocols"
+ },
+ {
+  "id": "18137",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation test results reports"
+ },
+ {
+  "id": "18139",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "testing methods and objectives revision"
+ },
+ {
+  "id": "18141",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "operators on validation protocols"
+ },
+ {
+  "id": "18142",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "regulator communication on validation"
+ },
+ {
+  "id": "18143",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "validation testing scheduling with departments"
+ },
+ {
+  "id": "18144",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "validation test equipment maintenance"
+ },
+ {
+  "id": "18145",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation principles training programs"
+ },
+ {
+  "id": "18146",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "validation and compliance documentation"
+ },
+ {
+  "id": "19647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sustainable products electronic characterization"
+ },
+ {
+  "id": "21051",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product characteristics and validation standards"
+ },
+ {
+  "id": "21052",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "deviations from product standards"
+ },
+ {
+  "id": "21053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw material and product samples"
+ },
+ {
+  "id": "21054",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automated lab test stations"
+ }
+]

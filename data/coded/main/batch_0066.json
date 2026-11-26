@@ -1,0 +1,1490 @@
+[
+ {
+  "id": "21155",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "previous clients for referral business"
+ },
+ {
+  "id": "2440",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "purchase offers presented to sellers"
+ },
+ {
+  "id": "2441",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "escrow lenders inspectors purchase agreement terms"
+ },
+ {
+  "id": "2442",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' desired property types interview"
+ },
+ {
+  "id": "2443",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "representation contracts, deeds, closing documents"
+ },
+ {
+  "id": "2444",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "property closings, signing, fund disbursement"
+ },
+ {
+  "id": "2445",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "negotiations between buyers and sellers"
+ },
+ {
+  "id": "2446",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "property advertisements, open houses, listings"
+ },
+ {
+  "id": "2447",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "comparable sold properties for market price"
+ },
+ {
+  "id": "2448",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointments for home showings"
+ },
+ {
+  "id": "2449",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property lists matching buyers' needs"
+ },
+ {
+  "id": "2450",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "displaying properties and explaining features"
+ },
+ {
+  "id": "2451",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "title searches for clear titles"
+ },
+ {
+  "id": "2452",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new construction plans options with clients"
+ },
+ {
+  "id": "2453",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client questions on construction and financing"
+ },
+ {
+  "id": "2454",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "premises condition, maintenance arrangements"
+ },
+ {
+  "id": "2455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "buyers during property visits and inspections"
+ },
+ {
+  "id": "2456",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "advising sellers on home appeal"
+ },
+ {
+  "id": "2457",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "buyer-seller meetings for negotiation"
+ },
+ {
+  "id": "2458",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advising clients on market and mortgages"
+ },
+ {
+  "id": "2459",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mortgage options and rates"
+ },
+ {
+  "id": "2460",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "listings, journals, meetings for market knowledge"
+ },
+ {
+  "id": "2461",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clients' financial and credit status"
+ },
+ {
+  "id": "2462",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "property owners solicited for listings"
+ },
+ {
+  "id": "2463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "referral network of attorneys and lenders"
+ },
+ {
+  "id": "2464",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "properties visited before showings"
+ },
+ {
+  "id": "2465",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "utility companies for service hookups"
+ },
+ {
+  "id": "2466",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales agent seminars and training"
+ },
+ {
+  "id": "2467",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "property appraisal for loan values"
+ },
+ {
+  "id": "2468",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rental property listings compilation"
+ },
+ {
+  "id": "2469",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "construction or purchase financing"
+ },
+ {
+  "id": "2470",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "renting or leasing properties for clients"
+ },
+ {
+  "id": "2471",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "undeveloped areas appraised for building sites"
+ },
+ {
+  "id": "9678",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product configurations for customer needs"
+ },
+ {
+  "id": "9679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customers and engineers on equipment needs"
+ },
+ {
+  "id": "9680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "collaboration with sales teams"
+ },
+ {
+  "id": "9681",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer orders renewal and delivery"
+ },
+ {
+  "id": "9682",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "proposals and RFP responses"
+ },
+ {
+  "id": "9683",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technically complex product sales"
+ },
+ {
+  "id": "9684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "installed equipment problem diagnosis"
+ },
+ {
+  "id": "9685",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "improved materials or machinery recommendations"
+ },
+ {
+  "id": "9686",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical presentations to customers"
+ },
+ {
+  "id": "9687",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client support on equipment use"
+ },
+ {
+  "id": "9688",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "potential customers research"
+ },
+ {
+  "id": "9689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "prospective buyers visited with samples"
+ },
+ {
+  "id": "9690",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales or service contracts"
+ },
+ {
+  "id": "9691",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "equipment demonstrations and trial installations"
+ },
+ {
+  "id": "9692",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry news, competitors, product developments"
+ },
+ {
+  "id": "9693",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company training seminars attended"
+ },
+ {
+  "id": "9694",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "information for custom-made machinery"
+ },
+ {
+  "id": "9695",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical documentation for products"
+ },
+ {
+  "id": "9696",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales plans for new markets"
+ },
+ {
+  "id": "9697",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "resale opportunities and support"
+ },
+ {
+  "id": "9698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "account activities, reports, transaction records"
+ },
+ {
+  "id": "9699",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "team members trained on customer applications"
+ },
+ {
+  "id": "9700",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales forecasting reports"
+ },
+ {
+  "id": "9701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "trade shows and seminars attended"
+ },
+ {
+  "id": "9702",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospective firms' credit ratings report"
+ },
+ {
+  "id": "4618",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prepared scripted sales talks by phone"
+ },
+ {
+  "id": "4619",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "telephone solicitation of sales or donations"
+ },
+ {
+  "id": "4620",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "products, prices, customer questions"
+ },
+ {
+  "id": "4621",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer information and order entry"
+ },
+ {
+  "id": "4622",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospect names, purchases, reactions recorded"
+ },
+ {
+  "id": "4623",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales scripts adjusted to individuals"
+ },
+ {
+  "id": "4624",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "potential customer names and phone numbers"
+ },
+ {
+  "id": "4625",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "incoming calls from solicited customers"
+ },
+ {
+  "id": "4626",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "follow-up calls or letters to customers"
+ },
+ {
+  "id": "4627",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contact, account, and order records"
+ },
+ {
+  "id": "4628",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointments for sales representatives"
+ },
+ {
+  "id": "4629",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client or market surveys"
+ },
+ {
+  "id": "13231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "merchandise delivery and payment collection"
+ },
+ {
+  "id": "13232",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "merchandise orders written or entered"
+ },
+ {
+  "id": "13233",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "explaining and demonstrating products in person"
+ },
+ {
+  "id": "13235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "buying parties and sponsorship solicitation"
+ },
+ {
+  "id": "13236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product feature and benefit questions"
+ },
+ {
+  "id": "13237",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "travel among customers to sell"
+ },
+ {
+  "id": "13238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospect lists"
+ },
+ {
+  "id": "13239",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product samples and literature distribution"
+ },
+ {
+  "id": "13240",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies ordered or purchased"
+ },
+ {
+  "id": "13241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sample merchandise displays at parties"
+ },
+ {
+  "id": "13242",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carts or stands stocking"
+ },
+ {
+  "id": "21075",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customers persuaded to buy"
+ },
+ {
+  "id": "9703",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer complaints and policy questions"
+ },
+ {
+  "id": "9704",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employees' quality, deadlines, error correction"
+ },
+ {
+  "id": "9705",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "guidance on difficult problems and escalations"
+ },
+ {
+  "id": "9706",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "policies and service standards implementation"
+ },
+ {
+  "id": "9707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee job performance problems discussed"
+ },
+ {
+  "id": "9708",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee training or instruction"
+ },
+ {
+  "id": "9709",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance evaluation and personnel action"
+ },
+ {
+  "id": "9710",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production, payroll, shipping records reviewed"
+ },
+ {
+  "id": "9711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee recruitment, interviews, selection"
+ },
+ {
+  "id": "9712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "work procedures and policies communicated"
+ },
+ {
+  "id": "9713",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules, deadlines, duty assignments"
+ },
+ {
+  "id": "9714",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory, personnel, order records"
+ },
+ {
+  "id": "9715",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "balances, totals, commissions calculation"
+ },
+ {
+  "id": "9716",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports and manuals for management"
+ },
+ {
+  "id": "9717",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordination with other supervisors and departments"
+ },
+ {
+  "id": "9718",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department financial activities and budget input"
+ },
+ {
+  "id": "9719",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "procedures, policies, standards"
+ },
+ {
+  "id": "9720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recommendations on staffing and procedures"
+ },
+ {
+  "id": "9721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "problems with equipment, quality, schedules"
+ },
+ {
+  "id": "9722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "subordinates' work participation"
+ },
+ {
+  "id": "9723",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training programs and performance criteria design"
+ },
+ {
+  "id": "9724",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules per budgets and workloads"
+ },
+ {
+  "id": "9725",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory levels and supply purchasing"
+ },
+ {
+  "id": "9727",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "office services, equipment, relocation, security"
+ },
+ {
+  "id": "9728",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance or repair arrangements"
+ },
+ {
+  "id": "9729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor-management agreement provisions"
+ },
+ {
+  "id": "9730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "shipping, receiving, distribution activities"
+ },
+ {
+  "id": "9731",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stockroom and warehouse layouts"
+ },
+ {
+  "id": "20427",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "directories, documents, schedules data entry"
+ },
+ {
+  "id": "20428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail, packages, deliveries processing"
+ },
+ {
+  "id": "20429",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders, appointments, meeting rooms, faxes"
+ },
+ {
+  "id": "20430",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency alarms, announcements, call routing"
+ },
+ {
+  "id": "20431",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "visitors greeted, logged, badged"
+ },
+ {
+  "id": "20432",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "payments, bank deposits, petty cash"
+ },
+ {
+  "id": "20433",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment, supplies, catering orders"
+ },
+ {
+  "id": "4630",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "telephone, intercom, radio, public address systems"
+ },
+ {
+  "id": "4631",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "incoming calls greeted, transferred, messages"
+ },
+ {
+  "id": "4633",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paging individuals about calls"
+ },
+ {
+  "id": "4634",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "written or verbal messages routed"
+ },
+ {
+  "id": "4635",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "telephone calls and conference calls"
+ },
+ {
+  "id": "4637",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alarm systems monitoring"
+ },
+ {
+  "id": "4638",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security staff contacted by radio"
+ },
+ {
+  "id": "4639",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calls placed and charges records"
+ },
+ {
+  "id": "4640",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "messages recorded with rewording"
+ },
+ {
+  "id": "4641",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "messages stamped and filed"
+ },
+ {
+  "id": "4642",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "simple questions using reference files"
+ },
+ {
+  "id": "4643",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales order forms"
+ },
+ {
+  "id": "13243",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer requests answered from directories"
+ },
+ {
+  "id": "13244",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alternate spellings and listing formats"
+ },
+ {
+  "id": "13245",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "callers unable to dial or in emergency"
+ },
+ {
+  "id": "13246",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switchboard signal lights and connections"
+ },
+ {
+  "id": "13247",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switchboards connecting local and emergency calls"
+ },
+ {
+  "id": "13248",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customers' special billing requests"
+ },
+ {
+  "id": "13250",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "automated collect call systems monitoring"
+ },
+ {
+  "id": "13251",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "typing, proofreading, sorting mail"
+ },
+ {
+  "id": "13253",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "busy lines interrupted in emergencies"
+ },
+ {
+  "id": "13254",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "relay service for deaf users"
+ },
+ {
+  "id": "13255",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "company products and savings plans promotion"
+ },
+ {
+  "id": "13256",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paging systems, bells, buzzers"
+ },
+ {
+  "id": "13257",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "directory information updates"
+ },
+ {
+  "id": "13258",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calls and toll charges records"
+ },
+ {
+  "id": "18559",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer account problem questions"
+ },
+ {
+  "id": "18560",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance claims status and appeal letters"
+ },
+ {
+  "id": "2472",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payments received and posted to accounts"
+ },
+ {
+  "id": "2473",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "overdue accounts located and monitored"
+ },
+ {
+  "id": "2474",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customers' financial status and collection records"
+ },
+ {
+  "id": "2475",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "delinquent customers notified for payment"
+ },
+ {
+  "id": "2476",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customers on reasons for overdue payments"
+ },
+ {
+  "id": "2477",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "debt repayment strategies advice"
+ },
+ {
+  "id": "2478",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customers persuaded to pay amounts due"
+ },
+ {
+  "id": "2479",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence sorting, filing, clerical duties"
+ },
+ {
+  "id": "2480",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "address changes, deceased customer records"
+ },
+ {
+  "id": "2481",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "debt repayment schedules"
+ },
+ {
+  "id": "2482",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "credit extension negotiations"
+ },
+ {
+  "id": "2483",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent customers traced to new addresses"
+ },
+ {
+  "id": "2484",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "repossession, disconnection, attorney referral of accounts"
+ },
+ {
+  "id": "23237",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stop-payment notices on protested checks"
+ },
+ {
+  "id": "23238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "billing data accuracy and errors"
+ },
+ {
+  "id": "23239",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "check signatures and required information"
+ },
+ {
+  "id": "23240",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "itemized statements, bills, invoices"
+ },
+ {
+  "id": "23241",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bookkeeping posting and cost records"
+ },
+ {
+  "id": "23242",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "typing, adding, billing machines"
+ },
+ {
+  "id": "23243",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accounting record discrepancies"
+ },
+ {
+  "id": "23244",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customers contacted about account information"
+ },
+ {
+  "id": "23245",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase orders and charge documents for fees"
+ },
+ {
+  "id": "23246",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "invoice and support document records"
+ },
+ {
+  "id": "23247",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "statements routed for mailing or delivery"
+ },
+ {
+  "id": "23248",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "billing equipment operation monitoring"
+ },
+ {
+  "id": "23249",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment jams and repair notification"
+ },
+ {
+  "id": "23250",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "envelopes weighed, postage affixed"
+ },
+ {
+  "id": "23251",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bank statements reconciled with canceled checks"
+ },
+ {
+  "id": "23253",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "imprinted check orders"
+ },
+ {
+  "id": "23254",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "checks encoded and canceled with bank machines"
+ },
+ {
+  "id": "23255",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rate books, manuals, tariff information"
+ },
+ {
+  "id": "23256",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client job hours and fees tracking"
+ },
+ {
+  "id": "23257",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuals updated for rate changes"
+ },
+ {
+  "id": "23258",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit terms, discounts, shipment charges"
+ },
+ {
+  "id": "23259",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines loaded, envelopes stuffed"
+ },
+ {
+  "id": "23260",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operating costs and revenues for rates"
+ },
+ {
+  "id": "23262",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "inquiries about rates, routing, procedures"
+ },
+ {
+  "id": "23263",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor, production, storage cost reports"
+ },
+ {
+  "id": "23264",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "billing documents, shipping labels, credit memos"
+ },
+ {
+  "id": "23265",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phones, appointments, supplies ordering"
+ },
+ {
+  "id": "23266",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "checks returned, account adjustments"
+ }
+]

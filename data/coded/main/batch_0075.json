@@ -1,0 +1,1546 @@
+[
+ {
+  "id": "11530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trench slope conformance"
+ },
+ {
+  "id": "11531",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe trench backfill"
+ },
+ {
+  "id": "11532",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe joints sealing"
+ },
+ {
+  "id": "11533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe lengths cutting"
+ },
+ {
+  "id": "11534",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sewer pipe systems"
+ },
+ {
+  "id": "11535",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surveying instruments on site"
+ },
+ {
+  "id": "11536",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trench base grading"
+ },
+ {
+  "id": "11537",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pipe route layout"
+ },
+ {
+  "id": "11538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipes before welding"
+ },
+ {
+  "id": "11539",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trench digging"
+ },
+ {
+  "id": "11540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction vehicles and equipment"
+ },
+ {
+  "id": "11541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pipe-laying trainees"
+ },
+ {
+  "id": "11542",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe holes for lines"
+ },
+ {
+  "id": "11543",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buried existing pipes"
+ },
+ {
+  "id": "23459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe cutting threading bending"
+ },
+ {
+  "id": "23460",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pipe system drawings"
+ },
+ {
+  "id": "23461",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "installed pipe system tests"
+ },
+ {
+  "id": "23462",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pipe system layout plan"
+ },
+ {
+  "id": "23463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipes attached to structures"
+ },
+ {
+  "id": "23464",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe system maintenance"
+ },
+ {
+  "id": "23465",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pipe sizes and materials"
+ },
+ {
+  "id": "23466",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe sections assembly"
+ },
+ {
+  "id": "23467",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plumbing fixtures installation"
+ },
+ {
+  "id": "23468",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe system automatic controls"
+ },
+ {
+  "id": "23469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steam water gas shutoff"
+ },
+ {
+  "id": "23470",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work assignment records"
+ },
+ {
+  "id": "23471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "plumbing helpers"
+ },
+ {
+  "id": "23472",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe leak pressure testing"
+ },
+ {
+  "id": "23473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "plumbing repairs and drains"
+ },
+ {
+  "id": "23474",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe installation positions"
+ },
+ {
+  "id": "23475",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and building codes"
+ },
+ {
+  "id": "23476",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ceiling steel pipe supports"
+ },
+ {
+  "id": "23477",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project time and costs"
+ },
+ {
+  "id": "23478",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underground piping systems"
+ },
+ {
+  "id": "23479",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "structures for pipe planning"
+ },
+ {
+  "id": "23480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "green plumbing fixtures"
+ },
+ {
+  "id": "23481",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structure openings for pipes"
+ },
+ {
+  "id": "23482",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "work site hazards"
+ },
+ {
+  "id": "23483",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water-saving fixtures"
+ },
+ {
+  "id": "23484",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal pipe systems"
+ },
+ {
+  "id": "23485",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "small pipe welding"
+ },
+ {
+  "id": "23486",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flooded area pumping"
+ },
+ {
+  "id": "23487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydraulic or air pumps"
+ },
+ {
+  "id": "23488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "system components replacement"
+ },
+ {
+  "id": "17766",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar thermal system design"
+ },
+ {
+  "id": "17767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solar thermal maintenance"
+ },
+ {
+  "id": "17768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "system component tags"
+ },
+ {
+  "id": "17769",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "collector site and roof"
+ },
+ {
+  "id": "17770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water heaters and tanks"
+ },
+ {
+  "id": "17771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "subsystem component locations"
+ },
+ {
+  "id": "17772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tanks and pipe leaks"
+ },
+ {
+  "id": "17773",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "installation hazards"
+ },
+ {
+  "id": "17774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circulating pumps"
+ },
+ {
+  "id": "17775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "copper or plastic plumbing"
+ },
+ {
+  "id": "17776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solar collectors on mounts"
+ },
+ {
+  "id": "17777",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heat exchangers and fluids"
+ },
+ {
+  "id": "17778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "monitoring gauges and meters"
+ },
+ {
+  "id": "17779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tank plumbing fittings"
+ },
+ {
+  "id": "17780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof collector mounts"
+ },
+ {
+  "id": "17781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "controllers and sensors"
+ },
+ {
+  "id": "17782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical electrical system function"
+ },
+ {
+  "id": "17783",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plumbing UV protection"
+ },
+ {
+  "id": "17784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof penetration seals"
+ },
+ {
+  "id": "17785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe insulation"
+ },
+ {
+  "id": "17786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "system owners demonstration"
+ },
+ {
+  "id": "20789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surfaces protected from splashes"
+ },
+ {
+  "id": "20790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "job site cleaning"
+ },
+ {
+  "id": "20791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scaffold setup"
+ },
+ {
+  "id": "20792",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job materials order"
+ },
+ {
+  "id": "9878",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plaster on walls ceilings"
+ },
+ {
+  "id": "9879",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mortar and plaster mixing"
+ },
+ {
+  "id": "9880",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finish coat textures"
+ },
+ {
+  "id": "9881",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exterior wall insulation system"
+ },
+ {
+  "id": "9882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fresh plaster curing"
+ },
+ {
+  "id": "9883",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface preparation for plaster"
+ },
+ {
+  "id": "9884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plaster undercoat scratching"
+ },
+ {
+  "id": "9885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exterior stucco coverings"
+ },
+ {
+  "id": "9886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guide wires and lath"
+ },
+ {
+  "id": "9887",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "acoustic texture spraying"
+ },
+ {
+  "id": "9888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ornamental plaster pieces"
+ },
+ {
+  "id": "13567",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rebar in concrete forms"
+ },
+ {
+  "id": "13568",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rods spaced and wired"
+ },
+ {
+  "id": "13569",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reinforcing rod quantities"
+ },
+ {
+  "id": "13570",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blocks under rebar"
+ },
+ {
+  "id": "13571",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rebar cutting"
+ },
+ {
+  "id": "13572",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire mesh in concrete"
+ },
+ {
+  "id": "13573",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel rods bending welding"
+ },
+ {
+  "id": "13574",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "problem roof repair assessment"
+ },
+ {
+  "id": "13575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof access scaffolding"
+ },
+ {
+  "id": "13578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flashing over joints"
+ },
+ {
+  "id": "13579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "single-ply roofing systems"
+ },
+ {
+  "id": "13580",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roofing felt shingles flashing"
+ },
+ {
+  "id": "13581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flat roof vapor barriers"
+ },
+ {
+  "id": "13583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exposed nailheads sealing"
+ },
+ {
+  "id": "13584",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "overlapping roofing layers"
+ },
+ {
+  "id": "13585",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof and wall coverings"
+ },
+ {
+  "id": "13586",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof snow and debris"
+ },
+ {
+  "id": "13587",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hot asphalt and paper layers"
+ },
+ {
+  "id": "13589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spray insulation and sealing"
+ },
+ {
+  "id": "13590",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "waterproofing walls and foundations"
+ },
+ {
+  "id": "13591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hot asphalt on roof"
+ },
+ {
+  "id": "13592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sloped roof underlayment"
+ },
+ {
+  "id": "13593",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rough spots before waterproofing"
+ },
+ {
+  "id": "13594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "top layer glazing bitumen"
+ },
+ {
+  "id": "13595",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gravel on roof"
+ },
+ {
+  "id": "13596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shingle holes punching"
+ },
+ {
+  "id": "19850",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "green roof soil grids"
+ },
+ {
+  "id": "19851",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reflective roof coatings"
+ },
+ {
+  "id": "19852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solar panels on roofs"
+ },
+ {
+  "id": "19853",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "attic ventilation systems"
+ },
+ {
+  "id": "19854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "green roof layers"
+ },
+ {
+  "id": "19855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof skylights"
+ },
+ {
+  "id": "20793",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "roofing materials and labor estimate"
+ },
+ {
+  "id": "20794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roofing paper strips"
+ },
+ {
+  "id": "18782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new employees and apprentices"
+ },
+ {
+  "id": "19858",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "high-efficiency HVAC duct fabrication"
+ },
+ {
+  "id": "19860",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "building mechanical systems commissioning"
+ },
+ {
+  "id": "19862",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "HVAC against green standards"
+ },
+ {
+  "id": "20638",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project requirements from blueprints"
+ },
+ {
+  "id": "20639",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sheet material dimension marking"
+ },
+ {
+  "id": "20641",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roofing units positioning"
+ },
+ {
+  "id": "20642",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts measured with instruments"
+ },
+ {
+  "id": "20644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof panel edges fastening"
+ },
+ {
+  "id": "5169",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints into shop drawings"
+ },
+ {
+  "id": "5170",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ducts gutters flashing installation"
+ },
+ {
+  "id": "5171",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sheet metal gauge selection"
+ },
+ {
+  "id": "5173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "seams and joints fastening"
+ },
+ {
+  "id": "5174",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts fabricated at site"
+ },
+ {
+  "id": "5175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembled part surfaces smoothing"
+ },
+ {
+  "id": "5176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts finishing with shears"
+ },
+ {
+  "id": "5177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shop equipment maintenance"
+ },
+ {
+  "id": "5178",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal shaped over forms"
+ },
+ {
+  "id": "5179",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prefabricated parts transport"
+ },
+ {
+  "id": "11544",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints material quantities"
+ },
+ {
+  "id": "11545",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel member alignment checks"
+ },
+ {
+  "id": "11546",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "columns beams girders bolting"
+ },
+ {
+  "id": "11548",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel members bolting"
+ },
+ {
+  "id": "11549",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel members riding positioning"
+ },
+ {
+  "id": "11550",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel frames fabrication"
+ },
+ {
+  "id": "11551",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel members positioning"
+ },
+ {
+  "id": "11552",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel pieces cutting welding"
+ },
+ {
+  "id": "11553",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel members to hoist"
+ },
+ {
+  "id": "11554",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoisting rigging equipment"
+ },
+ {
+  "id": "11555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "steel members final position"
+ },
+ {
+  "id": "11556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structural components erection"
+ },
+ {
+  "id": "11557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prefabricated steel units"
+ },
+ {
+  "id": "11558",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rivet holes alignment pins"
+ },
+ {
+  "id": "11559",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structures dismantling"
+ },
+ {
+  "id": "11560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sealing strips and fittings"
+ },
+ {
+  "id": "11562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blocks under reinforcing bars"
+ },
+ {
+  "id": "11563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rivets held for riveters"
+ },
+ {
+  "id": "20795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "steel beams hoisting"
+ },
+ {
+  "id": "17740",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solar modules and supports"
+ },
+ {
+  "id": "17741",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "active solar systems"
+ },
+ {
+  "id": "17742",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV systems per codes"
+ },
+ {
+  "id": "17743",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV system maintenance"
+ },
+ {
+  "id": "17744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV system activation"
+ },
+ {
+  "id": "17745",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "array weather sealing"
+ },
+ {
+  "id": "17746",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical wiring and grounding"
+ },
+ {
+  "id": "17747",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "overcurrent disconnect device sizing"
+ },
+ {
+  "id": "17748",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "PV utility connection interfaces"
+ },
+ {
+  "id": "17749",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "PV system design configurations"
+ },
+ {
+  "id": "17750",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "PV array layouts diagram"
+ },
+ {
+  "id": "17751",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "PV circuit current requirements"
+ },
+ {
+  "id": "17752",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV installation deficiencies"
+ },
+ {
+  "id": "17753",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV installation hazards"
+ },
+ {
+  "id": "17754",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "PV array installation locations"
+ },
+ {
+  "id": "17755",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "module layout and mounting methods"
+ },
+ {
+  "id": "17756",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "array interconnect wiring"
+ },
+ {
+  "id": "17757",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "system component labels"
+ },
+ {
+  "id": "17758",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "PV performance and parameters"
+ },
+ {
+  "id": "17759",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inverters and controls settings"
+ },
+ {
+  "id": "17760",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "mechanical design and installation plans"
+ },
+ {
+  "id": "17761",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating voltage testing"
+ },
+ {
+  "id": "17762",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "PV modules visual inspection"
+ },
+ {
+  "id": "17763",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system operation maintenance records"
+ },
+ {
+  "id": "17764",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "system functionality demonstration"
+ },
+ {
+  "id": "17765",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials and installation sequence"
+ },
+ {
+  "id": "13597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials cutting with saws"
+ },
+ {
+  "id": "13598",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scaffolding erection"
+ },
+ {
+  "id": "13599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials supplied to masons"
+ },
+ {
+  "id": "13600",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mortar plaster grout mixing"
+ },
+ {
+  "id": "13601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grout between joints"
+ },
+ {
+  "id": "13602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chipped bricks or tiles"
+ },
+ {
+  "id": "13603",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material handling procedures"
+ },
+ {
+  "id": "13604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "masonry surface installation assistance"
+ },
+ {
+  "id": "13605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation surfaces and tools"
+ },
+ {
+  "id": "13606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials and tools transport"
+ },
+ {
+  "id": "13607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marble slabs hoisting"
+ },
+ {
+  "id": "13608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess grout removal"
+ },
+ {
+  "id": "13609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged tile brick mortar"
+ },
+ {
+  "id": "13610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials and tools storage"
+ },
+ {
+  "id": "13611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "caulk and sealants"
+ }
+]

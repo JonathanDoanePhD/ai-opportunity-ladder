@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "12597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring finished bonded products with gauges"
+ },
+ {
+  "id": "12598",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine components set to material widths"
+ },
+ {
+  "id": "12599",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "watching bonding machine for malfunctions"
+ },
+ {
+  "id": "12600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work orders and coworker setting discussions"
+ },
+ {
+  "id": "12601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filling machine reservoirs with adhesive"
+ },
+ {
+  "id": "12602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading materials into gluing feed mechanisms"
+ },
+ {
+  "id": "12603",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production quantity and dimension records"
+ },
+ {
+  "id": "12604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starting bonding machine and setting controls"
+ },
+ {
+  "id": "12605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trial production runs of bonded products"
+ },
+ {
+  "id": "12606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clearing jammed material from machines"
+ },
+ {
+  "id": "12607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "positioning materials for adhesive application"
+ },
+ {
+  "id": "12608",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gauge and panel readings of machine"
+ },
+ {
+  "id": "12609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stacking finished products and restocking materials"
+ },
+ {
+  "id": "12610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning gluing machines with scrapers"
+ },
+ {
+  "id": "12611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forklift moving materials between storage areas"
+ },
+ {
+  "id": "12612",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing glue ingredients"
+ },
+ {
+  "id": "14367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tending washing machines for manufactured items"
+ },
+ {
+  "id": "14368",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "adding chemicals to cleaning solution"
+ },
+ {
+  "id": "14369",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "draining and refilling cleaning tanks"
+ },
+ {
+  "id": "14370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring and mixing cleaning solutions"
+ },
+ {
+  "id": "14371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sampling and testing cleaning solution"
+ },
+ {
+  "id": "14372",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "adjusting washer controls while observing gauges"
+ },
+ {
+  "id": "14373",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "setting cycle controls and starting pumps"
+ },
+ {
+  "id": "14374",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inspecting cleaning machines for malfunctions"
+ },
+ {
+  "id": "14375",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production log gauge readings"
+ },
+ {
+  "id": "14376",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lubricating machine parts with hand tools"
+ },
+ {
+  "id": "14377",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading and unloading items on conveyors"
+ },
+ {
+  "id": "8542",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "freezer speed and air intake"
+ },
+ {
+  "id": "8543",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gauges and product consistency adjustments"
+ },
+ {
+  "id": "8544",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "temperature and amount report forms"
+ },
+ {
+  "id": "8545",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "control panel dial readings and valves"
+ },
+ {
+  "id": "8546",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "freezing machinery jams and malfunctions"
+ },
+ {
+  "id": "8547",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starting pumps and turning product valves"
+ },
+ {
+  "id": "8548",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembling pipes and fittings"
+ },
+ {
+  "id": "8549",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frost and ice buildup on equipment"
+ },
+ {
+  "id": "8550",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weighing packages and filler head valves"
+ },
+ {
+  "id": "8551",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stirring mix with paddles"
+ },
+ {
+  "id": "8552",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "starting agitators and beater blades"
+ },
+ {
+  "id": "8553",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weighing ingredients into tanks and hoppers"
+ },
+ {
+  "id": "8554",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading wrappers and sticks into dispensers"
+ },
+ {
+  "id": "8555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forming fixtures on frozen product cutters"
+ },
+ {
+  "id": "8556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "containers placed in freezing equipment"
+ },
+ {
+  "id": "8557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flushing and sterilizing product lines"
+ },
+ {
+  "id": "8559",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing product sugar content and acidity"
+ },
+ {
+  "id": "8560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mechanical rakes moving ice from bins"
+ },
+ {
+  "id": "14378",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engraving cut depth and worktable height"
+ },
+ {
+  "id": "14379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand engraving patterns on metal glass items"
+ },
+ {
+  "id": "14380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clamping workpieces in holding fixtures"
+ },
+ {
+  "id": "14381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine settings for reproducing designs"
+ },
+ {
+  "id": "14382",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "checking engraving for burrs and roughness"
+ },
+ {
+  "id": "14383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lettering and pattern dimensions"
+ },
+ {
+  "id": "14384",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starting engraving machine and lowering tools"
+ },
+ {
+  "id": "14385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "polishing engraved areas"
+ },
+ {
+  "id": "14386",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sketches and photographs guiding etching decisions"
+ },
+ {
+  "id": "14388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diluting acid for etching solutions"
+ },
+ {
+  "id": "14391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandblasting glass surfaces with spray guns"
+ },
+ {
+  "id": "14392",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "reduction scale and pantograph settings"
+ },
+ {
+  "id": "14394",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "neutralizing acid and wax from workpieces"
+ },
+ {
+  "id": "14395",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "etching depth and uniformity inspection"
+ },
+ {
+  "id": "14396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "preparing workpieces with wax or resist"
+ },
+ {
+  "id": "14397",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "securing cutting bits with wrenches"
+ },
+ {
+  "id": "14398",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "proofs verifying engraving accuracy"
+ },
+ {
+  "id": "14399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "transferring images onto workpieces"
+ },
+ {
+  "id": "14400",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scribing layout lines on plates"
+ },
+ {
+  "id": "14401",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stylus tracing template onto workpiece"
+ },
+ {
+  "id": "14402",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "placing finished workpieces in trays"
+ },
+ {
+  "id": "14404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "removing wax or tape from glassware"
+ },
+ {
+  "id": "14407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filling etched characters with paste"
+ },
+ {
+  "id": "14408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "acid brushed to darken inscriptions"
+ },
+ {
+  "id": "14409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exposing workpieces to acid for patterns"
+ },
+ {
+  "id": "21027",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engraving pattern design in software"
+ },
+ {
+  "id": "23666",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "work orders and parts to produce"
+ },
+ {
+  "id": "23667",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trimming excess molded material"
+ },
+ {
+  "id": "23668",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applying parting agents to mold surfaces"
+ },
+ {
+  "id": "23669",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stamping identifying marks on products"
+ },
+ {
+  "id": "23670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inserting wires and cores into molds"
+ },
+ {
+  "id": "23671",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning and lubricating mold parts"
+ },
+ {
+  "id": "23672",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "separating patterns from molds and checking"
+ },
+ {
+  "id": "23673",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "casting temperature settings"
+ },
+ {
+  "id": "23674",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stacking filled molds in ovens"
+ },
+ {
+  "id": "23675",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aligning and assembling product parts"
+ },
+ {
+  "id": "23676",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "heating equipment for curing molds"
+ },
+ {
+  "id": "23677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "choosing mold sizes per instructions"
+ },
+ {
+  "id": "23678",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patching broken edges with clay"
+ },
+ {
+  "id": "23679",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "withdrawing cores after castings solidify"
+ },
+ {
+  "id": "23680",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repairing cracked molds"
+ },
+ {
+  "id": "23681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting products to dimension"
+ },
+ {
+  "id": "23682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "smoothing mold surfaces"
+ },
+ {
+  "id": "23683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing casting compounds by formula"
+ },
+ {
+  "id": "23684",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "leveling wet mold mixtures"
+ },
+ {
+  "id": "23687",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "verifying product dimensions with calipers"
+ },
+ {
+  "id": "23688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boring holes and spouts in molds"
+ },
+ {
+  "id": "23690",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tapping molds to distribute material"
+ },
+ {
+  "id": "23691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "constructing plaster molds for casting"
+ },
+ {
+  "id": "23692",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pouring plaster around molds"
+ },
+ {
+  "id": "12614",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carving stone designs in relief"
+ },
+ {
+  "id": "12615",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carving depth verification against specifications"
+ },
+ {
+  "id": "12616",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laying out designs on stone"
+ },
+ {
+  "id": "12617",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "models and blueprints for carving plan"
+ },
+ {
+  "id": "12618",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling holes and grooves in stone"
+ },
+ {
+  "id": "12619",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "touching up roughed-out carvings"
+ },
+ {
+  "id": "12620",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "selecting chisels and tool sequence"
+ },
+ {
+  "id": "12621",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feeling carving surfaces for smoothness"
+ },
+ {
+  "id": "12622",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chipping rough designs with mallet"
+ },
+ {
+  "id": "12623",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guiding sandblast nozzle along stencils"
+ },
+ {
+  "id": "12624",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shaping rough monumental stone blocks"
+ },
+ {
+  "id": "12625",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rubbing carvings with stones"
+ },
+ {
+  "id": "12626",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "changing stencils during blasting"
+ },
+ {
+  "id": "12627",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "copying drawings onto clay models"
+ },
+ {
+  "id": "12628",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading abrasives into sandblasting equipment"
+ },
+ {
+  "id": "12629",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bushhammering stone surfaces"
+ },
+ {
+  "id": "12630",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weighing and measuring glass products"
+ },
+ {
+  "id": "12631",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quantities and sizes of goods produced"
+ },
+ {
+  "id": "12632",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heating glass in flames"
+ },
+ {
+  "id": "12633",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blowing glass tubing into shapes"
+ },
+ {
+  "id": "12634",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "press stroke and oven temperature setup"
+ },
+ {
+  "id": "12635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bending and joining glass sections"
+ },
+ {
+  "id": "12637",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sketches converted into blueprint specifications"
+ },
+ {
+  "id": "12638",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "glass types and quantities needed"
+ },
+ {
+  "id": "12639",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoses on tubing ends"
+ },
+ {
+  "id": "12640",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bent tubing checked against patterns"
+ },
+ {
+  "id": "12644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oiling molds against glass adhesion"
+ },
+ {
+  "id": "12645",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting glass tubing lengths"
+ },
+ {
+  "id": "12646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "placing glass into press molds"
+ },
+ {
+  "id": "12647",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "designing and hand-blowing glass objects"
+ },
+ {
+  "id": "12648",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacing broken glass scrolls"
+ },
+ {
+  "id": "12649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "glass grinding and polishing machines"
+ },
+ {
+  "id": "15114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "thumbing hollows into spinning clay"
+ },
+ {
+  "id": "15115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wheel speed adjusted by clay feel"
+ },
+ {
+  "id": "15117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "centering clay balls on wheel"
+ },
+ {
+  "id": "15118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raising clay into vases on wheel"
+ },
+ {
+  "id": "15119",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sales networks and exhibition of pottery"
+ },
+ {
+  "id": "15120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "smoothing pottery with scrapers and sponges"
+ },
+ {
+  "id": "15121",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clay forms molds and decoration designs"
+ },
+ {
+  "id": "15122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moving pieces off wheels to dry"
+ },
+ {
+  "id": "15123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire separating finished pieces from wheel"
+ },
+ {
+  "id": "15124",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished ware defect examination"
+ },
+ {
+  "id": "15125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test-firing pottery for colors"
+ },
+ {
+  "id": "15126",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pottery tool and material supplies"
+ },
+ {
+  "id": "15127",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shape accuracy with calipers and templates"
+ },
+ {
+  "id": "15128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drying chambers for molded ceramics"
+ },
+ {
+  "id": "15129",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "panel board lights and machine units"
+ },
+ {
+  "id": "15130",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pressure temperature and trimming settings"
+ },
+ {
+  "id": "15131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blending clay in pug mills"
+ },
+ {
+  "id": "15133",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pottery class students"
+ },
+ {
+  "id": "21210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "firing pottery in kilns"
+ },
+ {
+  "id": "21211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing and spraying glazes"
+ },
+ {
+  "id": "21212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "attaching handles to pottery"
+ },
+ {
+  "id": "21213",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packing pottery for shipment"
+ },
+ {
+  "id": "21214",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "retail pottery display spaces"
+ },
+ {
+  "id": "12678",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed paper goods defects and machinery"
+ },
+ {
+  "id": "12679",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roll tension and glue temperature controls"
+ },
+ {
+  "id": "12680",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guide assemblies and folding mechanisms"
+ },
+ {
+  "id": "12681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gluing and folding attachments on machines"
+ },
+ {
+  "id": "12682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "saw blades and perforators spacing"
+ },
+ {
+  "id": "12683",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forming and glue flow malfunctions"
+ },
+ {
+  "id": "12684",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stamping dates on products"
+ },
+ {
+  "id": "12685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "threading paper through coating rollers"
+ },
+ {
+  "id": "12686",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "glue and paraffin reservoirs"
+ },
+ {
+  "id": "12687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting paperboard products to size"
+ },
+ {
+  "id": "12688",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cartons dropping into hoppers and chutes"
+ },
+ {
+  "id": "12689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repairing paper machine worn parts"
+ },
+ {
+  "id": "12690",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished cores stacked on conveyors"
+ },
+ {
+  "id": "12691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dumping carton totes into hoppers"
+ },
+ {
+  "id": "14410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winding plies around tire drums"
+ },
+ {
+  "id": "14411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rollers bonding tread to plies"
+ },
+ {
+  "id": "14413",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn tires for retreading suitability"
+ },
+ {
+  "id": "14414",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting and splicing plies"
+ },
+ {
+  "id": "14415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winding treads onto plies"
+ },
+ {
+  "id": "14417",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ply stitcher roller positioning"
+ },
+ {
+  "id": "14418",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tread built onto tire casings"
+ },
+ {
+  "id": "14419",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winding chafers and breakers"
+ },
+ {
+  "id": "14420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plies pulled from supply racks"
+ },
+ {
+  "id": "14422",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning and painting finished tires"
+ },
+ {
+  "id": "14423",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inner tubes and rubber layers"
+ },
+ {
+  "id": "14424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cement on drum edges"
+ },
+ {
+  "id": "14425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filling tire holes with hot rubber"
+ },
+ {
+  "id": "14426",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solvent applied to plies"
+ },
+ {
+  "id": "14427",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand rolling camelback adhesion"
+ },
+ {
+  "id": "14428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire size for mold selection"
+ },
+ {
+  "id": "14429",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "collapsing tire drums with pedals"
+ },
+ {
+  "id": "14430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trimming excess rubber on retreads"
+ },
+ {
+  "id": "14431",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "placing tires in tread molds"
+ },
+ {
+  "id": "21215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buffing tires to specified undertread depth"
+ }
+]

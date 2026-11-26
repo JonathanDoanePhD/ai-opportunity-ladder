@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "1127",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agency partnerships"
+ },
+ {
+  "id": "1128",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets, personnel records, reports"
+ },
+ {
+  "id": "1129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff and volunteer direction"
+ },
+ {
+  "id": "1130",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff and volunteer work quality"
+ },
+ {
+  "id": "1131",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "administrative procedures"
+ },
+ {
+  "id": "1132",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "eligibility and program policies"
+ },
+ {
+  "id": "1133",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "community needs research"
+ },
+ {
+  "id": "1134",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community group talks"
+ },
+ {
+  "id": "1135",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "volunteer and staff hiring"
+ },
+ {
+  "id": "1136",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agency relations with government, media"
+ },
+ {
+  "id": "1137",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program budgets"
+ },
+ {
+  "id": "1138",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "proposed legislation impacts"
+ },
+ {
+  "id": "1139",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agency staff regulatory consulting"
+ },
+ {
+  "id": "1141",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising and PR materials"
+ },
+ {
+  "id": "18463",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client referrals and complaints"
+ },
+ {
+  "id": "18464",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff and volunteer training"
+ },
+ {
+  "id": "7253",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency-related developments"
+ },
+ {
+  "id": "7254",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency response plans"
+ },
+ {
+  "id": "7255",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency procedure revisions"
+ },
+ {
+  "id": "7256",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency plan resource materials"
+ },
+ {
+  "id": "7257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "disaster response coordination"
+ },
+ {
+  "id": "7258",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "government agency liaisons"
+ },
+ {
+  "id": "7259",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency regulations"
+ },
+ {
+  "id": "7260",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency situation status reports"
+ },
+ {
+  "id": "7261",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disaster preparedness courses"
+ },
+ {
+  "id": "7262",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "emergency facilities and equipment"
+ },
+ {
+  "id": "7263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "institutions' emergency needs"
+ },
+ {
+  "id": "7264",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency plan tests"
+ },
+ {
+  "id": "7265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "emergency management meetings, conferences"
+ },
+ {
+  "id": "7266",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "disaster damage assessments"
+ },
+ {
+  "id": "7267",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public emergency instructional materials"
+ },
+ {
+  "id": "7268",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "local groups long-term planning"
+ },
+ {
+  "id": "7269",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizations' emergency plans"
+ },
+ {
+  "id": "7270",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency need surveys"
+ },
+ {
+  "id": "7271",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "other jurisdictions' emergency plans"
+ },
+ {
+  "id": "7272",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "federal emergency funding applications"
+ },
+ {
+  "id": "7273",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "radiological protection training"
+ },
+ {
+  "id": "7274",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "detection equipment inventory, distribution"
+ },
+ {
+  "id": "7275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community funding application assistance"
+ },
+ {
+  "id": "18830",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community events promoting funeral services"
+ },
+ {
+  "id": "18831",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "funeral market research"
+ },
+ {
+  "id": "18832",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "families' funeral arrangements"
+ },
+ {
+  "id": "18833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "funeral home staff direction"
+ },
+ {
+  "id": "18834",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "funeral home support services"
+ },
+ {
+  "id": "18835",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "funeral operations compliance"
+ },
+ {
+  "id": "18836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "prearranged funeral contracts"
+ },
+ {
+  "id": "18837",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "grieving families"
+ },
+ {
+  "id": "18838",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funeral service offerings"
+ },
+ {
+  "id": "18839",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "funeral home marketing"
+ },
+ {
+  "id": "18840",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "complaints, legal inquiries"
+ },
+ {
+  "id": "18841",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial and performance reports"
+ },
+ {
+  "id": "18842",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "funerals, burials, cremations schedule"
+ },
+ {
+  "id": "18843",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "funeral products sales"
+ },
+ {
+  "id": "18844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing and financial goals"
+ },
+ {
+  "id": "18845",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "funeral prices and credit terms"
+ },
+ {
+  "id": "18846",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "state documents, inventories"
+ },
+ {
+  "id": "18847",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor performance"
+ },
+ {
+  "id": "18848",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff goals and policies"
+ },
+ {
+  "id": "18849",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff skill needs"
+ },
+ {
+  "id": "18850",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new employee hiring"
+ },
+ {
+  "id": "18851",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff work schedules"
+ },
+ {
+  "id": "23984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "death certificates delivery"
+ },
+ {
+  "id": "15544",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wellness event attendance data"
+ },
+ {
+  "id": "15545",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "wellness and nutrition counseling"
+ },
+ {
+  "id": "15546",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fitness equipment maintenance"
+ },
+ {
+  "id": "15547",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wellness marketing campaigns"
+ },
+ {
+  "id": "15548",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wellness program surveys"
+ },
+ {
+  "id": "15549",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "fitness class participants"
+ },
+ {
+  "id": "15550",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wellness contractors selection"
+ },
+ {
+  "id": "15551",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wellness program inquiries"
+ },
+ {
+  "id": "15552",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new wellness offerings"
+ },
+ {
+  "id": "15553",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets and operational plans"
+ },
+ {
+  "id": "15554",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "health screening events"
+ },
+ {
+  "id": "15555",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "organized runs and walks"
+ },
+ {
+  "id": "15556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fitness equipment demonstration"
+ },
+ {
+  "id": "15557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fitness facilities safety, cleanliness"
+ },
+ {
+  "id": "15558",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wellness schedules, records, reports"
+ },
+ {
+  "id": "15559",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "wellness staff training"
+ },
+ {
+  "id": "15560",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wellness class offerings"
+ },
+ {
+  "id": "15561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fitness specialists supervision"
+ },
+ {
+  "id": "15562",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wellness programs and services"
+ },
+ {
+  "id": "20314",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance data for wellness programs"
+ },
+ {
+  "id": "20315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "wellness presentations, CPR training"
+ },
+ {
+  "id": "20316",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost-containment programs"
+ },
+ {
+  "id": "20317",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "websites, newsletters, databases"
+ },
+ {
+  "id": "23945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wellness program effectiveness"
+ },
+ {
+  "id": "17600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff expectations and policies"
+ },
+ {
+  "id": "17601",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "spa services and programs"
+ },
+ {
+  "id": "17602",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff product training"
+ },
+ {
+  "id": "17603",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance"
+ },
+ {
+  "id": "17604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spa equipment"
+ },
+ {
+  "id": "17605",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility schedules"
+ },
+ {
+  "id": "17606",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff service and retail goals"
+ },
+ {
+  "id": "17607",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spa budgets and financial goals"
+ },
+ {
+  "id": "17608",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "product inventory and supply orders"
+ },
+ {
+  "id": "17609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spa health and hygiene standards"
+ },
+ {
+  "id": "17610",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily cash, deposits, statements"
+ },
+ {
+  "id": "17611",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "spa employee hiring"
+ },
+ {
+  "id": "17612",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer inquiries, complaints"
+ },
+ {
+  "id": "17613",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff schedules"
+ },
+ {
+  "id": "17614",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff credentials"
+ },
+ {
+  "id": "17615",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spa marketing strategies"
+ },
+ {
+  "id": "17616",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility maintenance and repair"
+ },
+ {
+  "id": "17617",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client databases"
+ },
+ {
+  "id": "17618",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "own industry continuing education"
+ },
+ {
+  "id": "17619",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "guest appointments"
+ },
+ {
+  "id": "17620",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "spa products, memberships sales"
+ },
+ {
+  "id": "18022",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory agency submissions"
+ },
+ {
+  "id": "18023",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory policies and procedures"
+ },
+ {
+  "id": "18024",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory guidance to project teams"
+ },
+ {
+  "id": "18025",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory information for departments"
+ },
+ {
+  "id": "18026",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new product regulatory strategies"
+ },
+ {
+  "id": "18027",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory priorities and budgets"
+ },
+ {
+  "id": "18028",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "complaint processing systems"
+ },
+ {
+  "id": "18029",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product complaints investigation, submissions"
+ },
+ {
+  "id": "18030",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "relevant regulations knowledge"
+ },
+ {
+  "id": "18031",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "audits, inspections, recalls"
+ },
+ {
+  "id": "18032",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry regulation trends"
+ },
+ {
+  "id": "18034",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical trial protocols"
+ },
+ {
+  "id": "18035",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulator responses on products"
+ },
+ {
+  "id": "18036",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "company before regulatory agencies"
+ },
+ {
+  "id": "18037",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "agency submission materials review"
+ },
+ {
+  "id": "18038",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marketing literature, manuals compliance"
+ },
+ {
+  "id": "18039",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff regulatory training"
+ },
+ {
+  "id": "18040",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "strategic and operating plans"
+ },
+ {
+  "id": "18041",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal discovery and depositions"
+ },
+ {
+  "id": "18042",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "standard operating procedures"
+ },
+ {
+  "id": "18043",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document submission publishing systems"
+ },
+ {
+  "id": "18044",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publishing software, agency updates"
+ },
+ {
+  "id": "19529",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental regulators relationships"
+ },
+ {
+  "id": "19530",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green regulatory aspects"
+ },
+ {
+  "id": "19531",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainability alignment monitoring"
+ },
+ {
+  "id": "19532",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental regulatory trends"
+ },
+ {
+  "id": "21087",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compliance documentation efforts"
+ },
+ {
+  "id": "15636",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance monitoring software"
+ },
+ {
+  "id": "15637",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee confidential concerns"
+ },
+ {
+  "id": "15638",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance activity documentation"
+ },
+ {
+  "id": "15639",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal compliance issues with attorneys"
+ },
+ {
+  "id": "15641",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disciplinary action strategies"
+ },
+ {
+  "id": "15642",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "compliance program advice"
+ },
+ {
+  "id": "15643",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising communications review"
+ },
+ {
+  "id": "15644",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "compliance training"
+ },
+ {
+  "id": "15645",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "violations reporting to agencies"
+ },
+ {
+  "id": "15646",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "audit assistance"
+ },
+ {
+  "id": "15647",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance management reports"
+ },
+ {
+  "id": "15649",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance systems effectiveness"
+ },
+ {
+  "id": "15650",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance issues identification"
+ },
+ {
+  "id": "15652",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance policies distribution"
+ },
+ {
+  "id": "15653",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory compliance reports filing"
+ },
+ {
+  "id": "15654",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compliance communication, enforcement improvements"
+ },
+ {
+  "id": "15655",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "internal compliance audits"
+ },
+ {
+  "id": "15656",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "compliance issue investigations"
+ },
+ {
+  "id": "19533",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental reporting tools advice"
+ },
+ {
+  "id": "19534",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "environmental standards audits"
+ },
+ {
+  "id": "19536",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "environmental compliance programs"
+ },
+ {
+  "id": "19537",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental testing procedures"
+ },
+ {
+  "id": "19538",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental policies"
+ },
+ {
+  "id": "21088",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emerging compliance issues discussion"
+ },
+ {
+  "id": "21089",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory procedures documentation"
+ },
+ {
+  "id": "21090",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry changes and trends"
+ },
+ {
+  "id": "21091",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compliance policies development"
+ },
+ {
+  "id": "21092",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "risk management strategies"
+ },
+ {
+  "id": "21093",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compliance hotline systems"
+ },
+ {
+  "id": "15781",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loss exception reports, cash discrepancies"
+ },
+ {
+  "id": "15782",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "store cash audits"
+ },
+ {
+  "id": "15783",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crisis situations advice"
+ },
+ {
+  "id": "15784",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paperwork procedures"
+ },
+ {
+  "id": "15785",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "offender and alarm logs"
+ },
+ {
+  "id": "15786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "suspected theft interviews"
+ },
+ {
+  "id": "15787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "covert surveillance equipment installation"
+ },
+ {
+  "id": "15788",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loss-investigation procedures advice"
+ },
+ {
+  "id": "15789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "store compliance visits"
+ },
+ {
+  "id": "15790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical security systems"
+ },
+ {
+  "id": "15791",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "loss control training"
+ },
+ {
+  "id": "15792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "theft case surveillance supervision"
+ },
+ {
+  "id": "15793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loss prevention programs"
+ },
+ {
+  "id": "15794",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shrink inventory investigations"
+ },
+ {
+  "id": "15795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "loss prevention staff"
+ },
+ {
+  "id": "15796",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loss prevention documentation"
+ },
+ {
+  "id": "15797",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organized theft, fraud investigations"
+ },
+ {
+  "id": "15798",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "loss prevention audit programs"
+ },
+ {
+  "id": "15799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "law enforcement partnerships"
+ },
+ {
+  "id": "15800",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee theft internal investigations"
+ },
+ {
+  "id": "15801",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external theft with police"
+ },
+ {
+  "id": "15802",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "location security resource needs"
+ },
+ {
+  "id": "15803",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "retail theft trend data"
+ },
+ {
+  "id": "15804",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "retail legal compliance advice"
+ },
+ {
+  "id": "15805",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operational safety procedure compliance"
+ },
+ {
+  "id": "15806",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loss potential strategies"
+ },
+ {
+  "id": "15807",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loss reduction programs"
+ }
+]

@@ -1,0 +1,1530 @@
+[
+ {
+  "id": "20134",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locker room floors"
+ },
+ {
+  "id": "4465",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "locker space assignment to patrons"
+ },
+ {
+  "id": "4466",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer facility inquiries"
+ },
+ {
+  "id": "4467",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supply stock levels and orders"
+ },
+ {
+  "id": "4468",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "guest complaints passed to supervisors"
+ },
+ {
+  "id": "4469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patrons' footwear"
+ },
+ {
+  "id": "4470",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "safety hazard reports"
+ },
+ {
+  "id": "4471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laundry machines and soiled apparel"
+ },
+ {
+  "id": "4472",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patron conduct in facility"
+ },
+ {
+  "id": "4473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "requested food and beverage items"
+ },
+ {
+  "id": "4474",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "emergencies and injured patrons"
+ },
+ {
+  "id": "4475",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patrons' stored belongings"
+ },
+ {
+  "id": "4476",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "towels and sheets for clients"
+ },
+ {
+  "id": "4477",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soiled linen collection"
+ },
+ {
+  "id": "4478",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "facility temperature controls"
+ },
+ {
+  "id": "4479",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "athletic team clubhouse needs"
+ },
+ {
+  "id": "4480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "doors and patrons' bags"
+ },
+ {
+  "id": "4481",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment identification stencils"
+ },
+ {
+  "id": "4482",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clothing and linen inventory"
+ },
+ {
+  "id": "4483",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gym clothes and equipment issued"
+ },
+ {
+  "id": "4484",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lost-and-found items"
+ },
+ {
+  "id": "4485",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "athletic apparatus setup"
+ },
+ {
+  "id": "4486",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clothes pressing and repair arrangements"
+ },
+ {
+  "id": "20257",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "deceased person's transport"
+ },
+ {
+  "id": "23930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "embalming area cleaning"
+ },
+ {
+  "id": "4487",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "health and embalming law compliance"
+ },
+ {
+  "id": "4488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "deceased cosmetic application"
+ },
+ {
+  "id": "4489",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "abdominal organs fluid withdrawal"
+ },
+ {
+  "id": "4490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "body incisions suturing"
+ },
+ {
+  "id": "4491",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "disfigured body reconstruction"
+ },
+ {
+  "id": "4492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circulatory drainage and embalming fluid"
+ },
+ {
+  "id": "4493",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dressing deceased into casket"
+ },
+ {
+  "id": "4494",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "funeral activities coordination"
+ },
+ {
+  "id": "4495",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deceased's lips joining"
+ },
+ {
+  "id": "4496",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "family funeral arrangement interviews"
+ },
+ {
+  "id": "4497",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "embalming pump and organs"
+ },
+ {
+  "id": "4498",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "special remains transport preparation"
+ },
+ {
+  "id": "4499",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "embalming records and valuables list"
+ },
+ {
+  "id": "4500",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "eyelids under celluloid"
+ },
+ {
+  "id": "4501",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "body washing and drying"
+ },
+ {
+  "id": "4502",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "interstate transport arrangements"
+ },
+ {
+  "id": "4503",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "funeral staff supervision"
+ },
+ {
+  "id": "4504",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "body orifices packing"
+ },
+ {
+  "id": "4505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "caskets and cemetery procession"
+ },
+ {
+  "id": "4506",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "bereaved assistance and pallbearing"
+ },
+ {
+  "id": "4507",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "casket flowers and seating placement"
+ },
+ {
+  "id": "4508",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "funeral home equipment and maintenance"
+ },
+ {
+  "id": "4509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "coroner death scene assistance"
+ },
+ {
+  "id": "4510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lungs air evacuation from body"
+ },
+ {
+  "id": "23180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crematorium cleaning"
+ },
+ {
+  "id": "23181",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "divided remains documentation"
+ },
+ {
+  "id": "23182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "deceased preparation for viewing"
+ },
+ {
+  "id": "23183",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cremation process explanation to family"
+ },
+ {
+  "id": "23184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bereaved families comfort"
+ },
+ {
+  "id": "23185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "human or pet remains handling"
+ },
+ {
+  "id": "23186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "corpses into cremation machines"
+ },
+ {
+  "id": "23187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bone fragments pulverizing"
+ },
+ {
+  "id": "23188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "deceased identity documents"
+ },
+ {
+  "id": "23189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deceased person's jewelry"
+ },
+ {
+  "id": "23190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cremation chamber remains retrieval"
+ },
+ {
+  "id": "23191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deceased transport by vehicle"
+ },
+ {
+  "id": "20597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deceased transport to funeral home"
+ },
+ {
+  "id": "20598",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bereaved comfort and aftercare"
+ },
+ {
+  "id": "20599",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "typing documents and phone calls"
+ },
+ {
+  "id": "20600",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "funeral procession and parking"
+ },
+ {
+  "id": "20601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floral items to families"
+ },
+ {
+  "id": "20602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "funeral home equipment and grounds"
+ },
+ {
+  "id": "20603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "deceased embalming and dressing"
+ },
+ {
+  "id": "20605",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "death certificate and claim paperwork"
+ },
+ {
+  "id": "20607",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "newspaper obituaries"
+ },
+ {
+  "id": "4511",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "funeral service assistance"
+ },
+ {
+  "id": "4512",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "funeral home guests greeting"
+ },
+ {
+  "id": "4513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mourners entering limousines"
+ },
+ {
+  "id": "4514",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "casket closing during services"
+ },
+ {
+  "id": "4516",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "burial permits and death registration"
+ },
+ {
+  "id": "4517",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mourners escorted to chapels"
+ },
+ {
+  "id": "4518",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "caskets in chapels"
+ },
+ {
+  "id": "4519",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "funeral vehicles cleaning and driving"
+ },
+ {
+  "id": "4520",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flowers carried to vehicles"
+ },
+ {
+  "id": "4521",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "funeral parlor cleaning"
+ },
+ {
+  "id": "4522",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "casket floral and lights arrangement"
+ },
+ {
+  "id": "4523",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "charitable donation advice to mourners"
+ },
+ {
+  "id": "4525",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "funeral equipment issued and stored"
+ },
+ {
+  "id": "4526",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cremated remains processing"
+ },
+ {
+  "id": "4527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "casket carrying as pallbearer"
+ },
+ {
+  "id": "15200",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funeral and burial scheduling details"
+ },
+ {
+  "id": "15201",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "funeral home staff management"
+ },
+ {
+  "id": "15202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "funeral home facilities cleaning"
+ },
+ {
+  "id": "15203",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community promotion activities"
+ },
+ {
+  "id": "21009",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "deceased removal from death place"
+ },
+ {
+  "id": "3332",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "family funeral detail consultations"
+ },
+ {
+  "id": "3334",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "death certificate legal information"
+ },
+ {
+  "id": "3335",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "remains preparation oversight"
+ },
+ {
+  "id": "3336",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cemetery grave scheduling contact"
+ },
+ {
+  "id": "3337",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "funeral options and casket display"
+ },
+ {
+  "id": "3339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bereaved families counsel"
+ },
+ {
+  "id": "3340",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "casket closing and funeral cortege"
+ },
+ {
+  "id": "3341",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clergy arrangement"
+ },
+ {
+  "id": "3342",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "transport logistics between sites"
+ },
+ {
+  "id": "3343",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "embalming of deceased"
+ },
+ {
+  "id": "3344",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "body out-of-state burial shipment"
+ },
+ {
+  "id": "3345",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "prearranged funeral negotiations"
+ },
+ {
+  "id": "3346",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "survivors' eligible benefits"
+ },
+ {
+  "id": "3347",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "funeral home financial records"
+ },
+ {
+  "id": "3348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "casket placement and lighting"
+ },
+ {
+  "id": "3349",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pallbearer notification"
+ },
+ {
+  "id": "3350",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "service attendees seating"
+ },
+ {
+  "id": "8049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "barber tools sterilizing"
+ },
+ {
+  "id": "8050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "clients' hair cutting"
+ },
+ {
+  "id": "8051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "protective cloths on customers"
+ },
+ {
+  "id": "8052",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "desired haircut styles questioning"
+ },
+ {
+  "id": "8053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work stations and floors"
+ },
+ {
+  "id": "8054",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "service records and payments"
+ },
+ {
+  "id": "8055",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "barbershop supplies ordering"
+ },
+ {
+  "id": "8056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "beards and moustaches trimming"
+ },
+ {
+  "id": "8057",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "latest hair styles information"
+ },
+ {
+  "id": "8058",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hair problem treatment suggestions"
+ },
+ {
+  "id": "8059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customers' hair shampooing"
+ },
+ {
+  "id": "8060",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client record cards"
+ },
+ {
+  "id": "8061",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "shop records, bills, and personnel"
+ },
+ {
+  "id": "8062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hair chemical treatments"
+ },
+ {
+  "id": "8063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "beards and neck shaving"
+ },
+ {
+  "id": "8065",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cosmetic products recommendation and sales"
+ },
+ {
+  "id": "8066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "face neck scalp massage"
+ },
+ {
+  "id": "8067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "skin care and nail treatments"
+ },
+ {
+  "id": "20899",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "salon supplies ordering and display"
+ },
+ {
+  "id": "635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "salon work stations and tools"
+ },
+ {
+  "id": "636",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers' hair cutting"
+ },
+ {
+  "id": "637",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patrons' hair and features analysis"
+ },
+ {
+  "id": "638",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client appointment schedules"
+ },
+ {
+  "id": "639",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hair bleaching and dyeing"
+ },
+ {
+  "id": "640",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer service records"
+ },
+ {
+  "id": "641",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customers' hair washing"
+ },
+ {
+  "id": "642",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patron payments"
+ },
+ {
+  "id": "643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hair care product sales"
+ },
+ {
+  "id": "644",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new hair styles and techniques"
+ },
+ {
+  "id": "645",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hair setting and curling"
+ },
+ {
+  "id": "646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hair or wigs styling"
+ },
+ {
+  "id": "647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eyebrows and facial hair removal"
+ },
+ {
+  "id": "648",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "scalp conditions medication and referral"
+ },
+ {
+  "id": "649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "scalp massage and treatment"
+ },
+ {
+  "id": "650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "beards and moustaches shaving"
+ },
+ {
+  "id": "651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "stylists and assistants training"
+ },
+ {
+  "id": "652",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cosmetic use recommendations to patrons"
+ },
+ {
+  "id": "653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrons' facials"
+ },
+ {
+  "id": "654",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fingernails and toenails polishing"
+ },
+ {
+  "id": "656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wigs and hairpieces dressing"
+ },
+ {
+  "id": "14797",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "desired effects with production officials"
+ },
+ {
+  "id": "14798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "performers' appearance replication daily"
+ },
+ {
+  "id": "14799",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "makeup department budget"
+ },
+ {
+  "id": "14800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "performers' makeup application"
+ },
+ {
+  "id": "14801",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "performers' makeup during production"
+ },
+ {
+  "id": "14802",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "makeup shade selection and mixing"
+ },
+ {
+  "id": "14803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "performers' skin cleansing"
+ },
+ {
+  "id": "14804",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "performers' skin type assessment"
+ },
+ {
+  "id": "14805",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "script character appearance analysis"
+ },
+ {
+  "id": "14806",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "special effects materials acquisition"
+ },
+ {
+  "id": "14807",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "makeup sheets and look photos"
+ },
+ {
+  "id": "14808",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sketches and models for character image"
+ },
+ {
+  "id": "14809",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prostheses on performers"
+ },
+ {
+  "id": "14810",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "venue and lighting makeup needs"
+ },
+ {
+  "id": "14811",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "performer prostheses design"
+ },
+ {
+  "id": "14812",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "character drawings and period research"
+ },
+ {
+  "id": "14813",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hairdressers' character hairstyles advice"
+ },
+ {
+  "id": "14814",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production information for makeup needs"
+ },
+ {
+  "id": "14815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "performers' makeup removal"
+ },
+ {
+  "id": "14816",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wigs washing and resetting"
+ },
+ {
+  "id": "14817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "product demonstration and makeup instruction"
+ },
+ {
+  "id": "24008",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "makeup brushes cleaning"
+ },
+ {
+  "id": "20769",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clients' nail cuticles"
+ },
+ {
+  "id": "20770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customers' nails soaking and filing"
+ },
+ {
+  "id": "20771",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nails shaping with rotary wheels"
+ },
+ {
+  "id": "20772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "clients' hands skin and massage"
+ },
+ {
+  "id": "20773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nail repair by wrapping"
+ },
+ {
+  "id": "20774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artificial nail extensions"
+ },
+ {
+  "id": "8748",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nail salon tools and environment"
+ },
+ {
+  "id": "8749",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client appointments and payments"
+ },
+ {
+  "id": "8750",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nail polish removal"
+ },
+ {
+  "id": "8752",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nails shaping with files"
+ },
+ {
+  "id": "8753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nail polish application"
+ },
+ {
+  "id": "8754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clients' nail care advice"
+ },
+ {
+  "id": "8758",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supply inventories and service records"
+ },
+ {
+  "id": "8760",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fingernails roughening"
+ },
+ {
+  "id": "8761",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nail care product promotion"
+ },
+ {
+  "id": "8763",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nails powdered polish buffing"
+ },
+ {
+  "id": "8764",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underside of nails whitening"
+ },
+ {
+  "id": "8765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "nail decoration with ornaments"
+ },
+ {
+  "id": "14818",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrons' hair and scalp massage"
+ },
+ {
+  "id": "14819",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "scalp condition medical referral advice"
+ },
+ {
+  "id": "14820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "scalp conditions and hair loss"
+ },
+ {
+  "id": "14821",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "treatment records"
+ }
+]

@@ -1,0 +1,1418 @@
+[
+ {
+  "id": "3894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "live newscast video switching"
+ },
+ {
+  "id": "3895",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broadcast equipment function testing"
+ },
+ {
+  "id": "3896",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "broadcast content policy compliance"
+ },
+ {
+  "id": "3897",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "camera shot shading and composition"
+ },
+ {
+  "id": "3898",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineering and production communication"
+ },
+ {
+  "id": "3899",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical production staff duties"
+ },
+ {
+  "id": "3900",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "studio and editing facility bookings"
+ },
+ {
+  "id": "3901",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical program policies discussion"
+ },
+ {
+  "id": "3902",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "live remote broadcast equipment"
+ },
+ {
+  "id": "3903",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "staff equipment training"
+ },
+ {
+  "id": "3904",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "video source switching"
+ },
+ {
+  "id": "3905",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "video transitions and effects"
+ },
+ {
+  "id": "3906",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "on-air station promotions collaboration"
+ },
+ {
+  "id": "3907",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "filming lens and filter options"
+ },
+ {
+  "id": "3908",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "production director commands execution"
+ },
+ {
+  "id": "13033",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "scheduled team practice attendance"
+ },
+ {
+  "id": "13034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "competitive athletic events"
+ },
+ {
+  "id": "13035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "coached training exercises"
+ },
+ {
+  "id": "13036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sport equipment upkeep"
+ },
+ {
+  "id": "13037",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fitness training and nutrition plans"
+ },
+ {
+  "id": "13038",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "athletic performance post-event assessment"
+ },
+ {
+  "id": "13040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "team media and charity representation"
+ },
+ {
+  "id": "13041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "team captain leadership"
+ },
+ {
+  "id": "20882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coach instructions and performance discussion"
+ },
+ {
+  "id": "1742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "team practice sessions"
+ },
+ {
+  "id": "1745",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "game strategy and player selection"
+ },
+ {
+  "id": "1746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "athlete conditioning programs"
+ },
+ {
+  "id": "1747",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "coaching technique adjustment to athletes"
+ },
+ {
+  "id": "1748",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scouting reports on players"
+ },
+ {
+  "id": "1750",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "sport rules and technique instruction"
+ },
+ {
+  "id": "1751",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "opposing team strengths and weaknesses"
+ },
+ {
+  "id": "1752",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "athlete skill and potential evaluation"
+ },
+ {
+  "id": "1753",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sport rules and technique developments"
+ },
+ {
+  "id": "1754",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "athletes' safe equipment use"
+ },
+ {
+  "id": "1755",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competition schedules and programs"
+ },
+ {
+  "id": "1756",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "safety rules explanation and enforcement"
+ },
+ {
+  "id": "1757",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "live games organizing and refereeing"
+ },
+ {
+  "id": "1758",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "training equipment demonstration"
+ },
+ {
+  "id": "1760",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "training camps and tryouts"
+ },
+ {
+  "id": "1761",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sports equipment procurement and issue"
+ },
+ {
+  "id": "20109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "athlete training motivation and nutrition"
+ },
+ {
+  "id": "20110",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instructional courses and student advising"
+ },
+ {
+  "id": "20111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent questions and information"
+ },
+ {
+  "id": "20112",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "team travel logistics"
+ },
+ {
+  "id": "20113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coaching staff hiring and supervision"
+ },
+ {
+  "id": "20114",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "athlete and team performance records"
+ },
+ {
+  "id": "20115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student athlete personal counseling"
+ },
+ {
+  "id": "20116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "team community and media outreach"
+ },
+ {
+  "id": "20117",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student athlete academic eligibility"
+ },
+ {
+  "id": "20118",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "athlete recruitment letters and meetings"
+ },
+ {
+  "id": "20119",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sports program budget and fundraising"
+ },
+ {
+  "id": "23912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "game site safety inspection"
+ },
+ {
+  "id": "3909",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "live game rule enforcement"
+ },
+ {
+  "id": "3910",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "competition performance scoring judgment"
+ },
+ {
+  "id": "3911",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "infraction signals to participants"
+ },
+ {
+  "id": "3912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sporting equipment and participant inspection"
+ },
+ {
+  "id": "3913",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "game and race timing"
+ },
+ {
+  "id": "3914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "race starting"
+ },
+ {
+  "id": "3915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "participant rule infraction complaints"
+ },
+ {
+  "id": "3916",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "competition score calculations"
+ },
+ {
+  "id": "3917",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "participants positioning in game areas"
+ },
+ {
+  "id": "3918",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incident reports to governing bodies"
+ },
+ {
+  "id": "3919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "officials and coaches coordination"
+ },
+ {
+  "id": "3920",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sport rules teaching"
+ },
+ {
+  "id": "3921",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "players and teams background research"
+ },
+ {
+  "id": "3922",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "participant credentials and starting order"
+ },
+ {
+  "id": "3923",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scores and athletic records"
+ },
+ {
+  "id": "21141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pointe shoes preparation"
+ },
+ {
+  "id": "7685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dancer training and classes"
+ },
+ {
+  "id": "7686",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dance role moves practice"
+ },
+ {
+  "id": "7687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "body movement to music rhythm"
+ },
+ {
+  "id": "7688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "live dance performance"
+ },
+ {
+  "id": "7689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dance step refinement with choreographer"
+ },
+ {
+  "id": "7690",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "partner and ensemble dance coordination"
+ },
+ {
+  "id": "7691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "costume fittings and photo sessions"
+ },
+ {
+  "id": "7692",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dance role auditions"
+ },
+ {
+  "id": "7693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dancer's own physical capabilities"
+ },
+ {
+  "id": "7694",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dance trends and innovations"
+ },
+ {
+  "id": "7695",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dance student teaching"
+ },
+ {
+  "id": "7696",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dance choreography creation"
+ },
+ {
+  "id": "7697",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "singing and acting in productions"
+ },
+ {
+  "id": "11028",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dancer rehearsal direction"
+ },
+ {
+  "id": "11029",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "story lines and musical scores"
+ },
+ {
+  "id": "11030",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "dance designs for performers"
+ },
+ {
+  "id": "11031",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dance music and sound selection"
+ },
+ {
+  "id": "11032",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dancer posture and injury prevention"
+ },
+ {
+  "id": "11033",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production music coordination with directors"
+ },
+ {
+  "id": "11034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dance performer auditions"
+ },
+ {
+  "id": "11035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dance presentation staging"
+ },
+ {
+  "id": "11036",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dance idea notes and sketches"
+ },
+ {
+  "id": "11037",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "choreographer's own dance training"
+ },
+ {
+  "id": "11038",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "rhythm and movement instruction"
+ },
+ {
+  "id": "11039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student dancing ability assessment"
+ },
+ {
+  "id": "11040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "informal dance idea testing"
+ },
+ {
+  "id": "11041",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspiration from other art forms"
+ },
+ {
+  "id": "11042",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production sets lighting and costumes design"
+ },
+ {
+  "id": "11043",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "choreography movement notation"
+ },
+ {
+  "id": "11044",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "traditional dance restaging"
+ },
+ {
+  "id": "11045",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dance school management"
+ },
+ {
+  "id": "22544",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "ensemble conducting gestures"
+ },
+ {
+  "id": "22545",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "ensemble rehearsal and performance direction"
+ },
+ {
+  "id": "22546",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical scores study"
+ },
+ {
+  "id": "22547",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music theory harmonies and melodies"
+ },
+ {
+  "id": "22548",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "repertoire selection for ensemble"
+ },
+ {
+  "id": "22549",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "composition voices and instruments"
+ },
+ {
+  "id": "22550",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sounds and music idea testing"
+ },
+ {
+  "id": "22551",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical ideas into notation"
+ },
+ {
+  "id": "22552",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "musical performer auditions"
+ },
+ {
+  "id": "22553",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rehearsal and performance scheduling"
+ },
+ {
+  "id": "22554",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical scores writing"
+ },
+ {
+  "id": "22555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ensemble section member positioning"
+ },
+ {
+  "id": "22556",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "grants budgets contracts and programs"
+ },
+ {
+  "id": "22557",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "film music placement discussion"
+ },
+ {
+  "id": "22558",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "soloists performance preparation meetings"
+ },
+ {
+  "id": "22559",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orchestral sketch score details"
+ },
+ {
+  "id": "22560",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical idea development"
+ },
+ {
+  "id": "22561",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commercial advertising and film music"
+ },
+ {
+  "id": "22562",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music transposition for musicians"
+ },
+ {
+  "id": "22563",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical score style rewriting"
+ },
+ {
+  "id": "22564",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music arrangements of others' works"
+ },
+ {
+  "id": "22565",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "music staff work assignments and review"
+ },
+ {
+  "id": "22566",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film scripts for scoring mood"
+ },
+ {
+  "id": "22567",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compositions adapted to group"
+ },
+ {
+  "id": "22568",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "original musical forms creation"
+ },
+ {
+  "id": "22569",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "final score collaboration with copyists"
+ },
+ {
+  "id": "22570",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "performer parts from scores"
+ },
+ {
+  "id": "22571",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "concert tour organization"
+ },
+ {
+  "id": "22572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music recordings production"
+ },
+ {
+  "id": "22573",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music trends and technology"
+ },
+ {
+  "id": "22574",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "live audience musical performance"
+ },
+ {
+  "id": "22575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "singing performance"
+ },
+ {
+  "id": "22576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "musical interpretation for audiences"
+ },
+ {
+  "id": "22577",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "instrument family specialization"
+ },
+ {
+  "id": "22578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "solo or group singing"
+ },
+ {
+  "id": "22579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "choral leader cues"
+ },
+ {
+  "id": "22580",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical selections memorization"
+ },
+ {
+  "id": "22581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "live instrument performance"
+ },
+ {
+  "id": "22582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sight-reading rehearsal parts"
+ },
+ {
+  "id": "22583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "playing music from memory or score"
+ },
+ {
+  "id": "22584",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "vocal exercises and coaching"
+ },
+ {
+  "id": "22585",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recordings for skill learning"
+ },
+ {
+  "id": "22586",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "instrument music teaching"
+ },
+ {
+  "id": "22587",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "live show musical accompaniment"
+ },
+ {
+  "id": "22588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "ensemble auditions"
+ },
+ {
+  "id": "22589",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new music for performance"
+ },
+ {
+  "id": "22590",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "studio music recording participation"
+ },
+ {
+  "id": "22591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "music promotion and media interviews"
+ },
+ {
+  "id": "22592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "music recording participation"
+ },
+ {
+  "id": "22593",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "role character and period research"
+ },
+ {
+  "id": "22594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "acting and dancing skills learning"
+ },
+ {
+  "id": "22595",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music key transposition"
+ },
+ {
+  "id": "22596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "band or orchestra conducting"
+ },
+ {
+  "id": "22597",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "songs and vocal arrangements"
+ },
+ {
+  "id": "22598",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music editing and arranging"
+ },
+ {
+  "id": "22599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "live performance improvisation"
+ },
+ {
+  "id": "22600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "manager collaboration on bookings"
+ },
+ {
+  "id": "22602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "screen and radio performance"
+ },
+ {
+  "id": "22603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "performance practice and rehearsal"
+ },
+ {
+  "id": "22604",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "guest music requests"
+ },
+ {
+  "id": "22605",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event schedule adherence"
+ },
+ {
+  "id": "22606",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service advertising online and brochures"
+ },
+ {
+  "id": "22607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audio and video equipment assembly"
+ },
+ {
+  "id": "22608",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer payments"
+ },
+ {
+  "id": "22609",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client event preferences and details"
+ },
+ {
+  "id": "22610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "venue sound equipment checks"
+ },
+ {
+  "id": "22611",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "itemized service invoices"
+ },
+ {
+  "id": "22612",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event music playlists"
+ },
+ {
+  "id": "22613",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "booking contracts"
+ },
+ {
+  "id": "22614",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "guests dance encouragement"
+ },
+ {
+  "id": "22615",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "party games leading"
+ },
+ {
+  "id": "22616",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music recordings suitability check"
+ },
+ {
+  "id": "22617",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music releases and trends"
+ },
+ {
+  "id": "22618",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "recorded music mixing"
+ },
+ {
+  "id": "22619",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "DJ controller and microphone operation"
+ },
+ {
+  "id": "22620",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lights fog and laser equipment"
+ },
+ {
+  "id": "22621",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music library and playlist organization"
+ },
+ {
+  "id": "22622",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event music selection by crowd mood"
+ }
+]

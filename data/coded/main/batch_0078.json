@@ -1,0 +1,1554 @@
+[
+ {
+  "id": "23490",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drill and blast layout patterns"
+ },
+ {
+  "id": "23491",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "geological formations seen on site"
+ },
+ {
+  "id": "23492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drill holes cleared of cuttings"
+ },
+ {
+  "id": "23493",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling rigs for charge holes"
+ },
+ {
+  "id": "23494",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crane operator hand signals"
+ },
+ {
+  "id": "9904",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "blast area charge and safety check"
+ },
+ {
+  "id": "9905",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delay fuse timing patterns"
+ },
+ {
+  "id": "9906",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "blast zone cones and clearing"
+ },
+ {
+  "id": "9907",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "explosive charges placed and detonated"
+ },
+ {
+  "id": "9908",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "explosives packed into blast holes"
+ },
+ {
+  "id": "9909",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "drill hole locations marked on ground"
+ },
+ {
+  "id": "9910",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "explosives compliance records"
+ },
+ {
+  "id": "9911",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blast hole depths measured"
+ },
+ {
+  "id": "9912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "primer wiring and hole fill"
+ },
+ {
+  "id": "9913",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "primacord laid between charged holes"
+ },
+ {
+  "id": "9914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blasting caps and charges positioned"
+ },
+ {
+  "id": "9915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "confirming charge detonation"
+ },
+ {
+  "id": "9916",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "explosives storage and movement"
+ },
+ {
+  "id": "9917",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuses and firing devices set off"
+ },
+ {
+  "id": "9918",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "explosives transport truck driving"
+ },
+ {
+  "id": "9919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "primacord cut with primers"
+ },
+ {
+  "id": "9920",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply inventory and ordering"
+ },
+ {
+  "id": "9922",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blasting equipment repair by hand"
+ },
+ {
+  "id": "9923",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "radio or phone blast information"
+ },
+ {
+  "id": "9924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "perforating gun charges loaded"
+ },
+ {
+  "id": "9925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gun ports cleaned and lubricated"
+ },
+ {
+  "id": "9927",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "perforating guns lowered into wells"
+ },
+ {
+  "id": "14956",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coal mining machine operation"
+ },
+ {
+  "id": "14957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cut hole locations and depths"
+ },
+ {
+  "id": "14958",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mining machine repositioning"
+ },
+ {
+  "id": "14959",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine driven to working face"
+ },
+ {
+  "id": "14960",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor and cutter controls"
+ },
+ {
+  "id": "14961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment sounds checked for faults"
+ },
+ {
+  "id": "14962",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mining machine repair and teeth"
+ },
+ {
+  "id": "14963",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydraulic roof safety bars"
+ },
+ {
+  "id": "14964",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cave-in prevention casings"
+ },
+ {
+  "id": "14965",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "track laying and support crews"
+ },
+ {
+  "id": "19875",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "environmental impact reduction methods"
+ },
+ {
+  "id": "19876",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyors scraped or washed"
+ },
+ {
+  "id": "20912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ventilation tubing and curtains"
+ },
+ {
+  "id": "20913",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mine air methane readings"
+ },
+ {
+  "id": "20914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "roof and rib support stability"
+ },
+ {
+  "id": "21017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loose rock pulled from roof"
+ },
+ {
+  "id": "21018",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment pre-use safety checks"
+ },
+ {
+  "id": "21019",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "methane presence tests"
+ },
+ {
+  "id": "21020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ventilation curtains and tubes"
+ },
+ {
+  "id": "21021",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rock dusting after bolting"
+ },
+ {
+  "id": "21022",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof bolts installed across ceiling"
+ },
+ {
+  "id": "21023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "test holes and bolt tension"
+ },
+ {
+  "id": "4889",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bolt holes drilled in roofs"
+ },
+ {
+  "id": "4890",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bolts forced into holes"
+ },
+ {
+  "id": "4891",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drill bits and bolts in chucks"
+ },
+ {
+  "id": "4893",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "safety jacks supporting mine roof"
+ },
+ {
+  "id": "4894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bolting machines and drill bits"
+ },
+ {
+  "id": "4895",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chucks turning bolts in rock"
+ },
+ {
+  "id": "4897",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "truss bolt ends tightened"
+ },
+ {
+  "id": "15183",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loose roof material pried off"
+ },
+ {
+  "id": "15184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trailing electrical cables"
+ },
+ {
+  "id": "15185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blasted material piles"
+ },
+ {
+  "id": "15186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor booms loading mine contents"
+ },
+ {
+  "id": "15187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoppers and spillage cleaned"
+ },
+ {
+  "id": "15188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyors and crushers lubricated"
+ },
+ {
+  "id": "15189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydraulic hoses, bulbs, teeth replaced"
+ },
+ {
+  "id": "15190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gathering arms stopped"
+ },
+ {
+  "id": "15191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines gathering material into cars"
+ },
+ {
+  "id": "15193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "signals for moving loaded cars"
+ },
+ {
+  "id": "15194",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "car numbers and material grades recorded"
+ },
+ {
+  "id": "23495",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mining equipment service and repair"
+ },
+ {
+  "id": "23496",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shuttle car conveyor loads"
+ },
+ {
+  "id": "23497",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "workers moving stakes and materials"
+ },
+ {
+  "id": "23498",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shuttle cars driven to ramps"
+ },
+ {
+  "id": "23499",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roadway obstructions cleared"
+ },
+ {
+  "id": "23500",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mine cars guided and stopped"
+ },
+ {
+  "id": "23501",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "high voltage sources and cables"
+ },
+ {
+  "id": "23502",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records of materials moved"
+ },
+ {
+  "id": "23503",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excavated material levels checked"
+ },
+ {
+  "id": "23504",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading to specifications"
+ },
+ {
+  "id": "23505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mine cars moved with pinchbars"
+ },
+ {
+  "id": "23506",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand signals and grade stakes"
+ },
+ {
+  "id": "23508",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cars pushed down slopes"
+ },
+ {
+  "id": "23509",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "written instructions and supervisor schedules"
+ },
+ {
+  "id": "14966",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rock grain line patterns"
+ },
+ {
+  "id": "14967",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stone removed from larger masses"
+ },
+ {
+  "id": "14968",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wedges driven to split stone"
+ },
+ {
+  "id": "14969",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stone outlines marked for cutting"
+ },
+ {
+  "id": "14970",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stone slabs cut into sheets"
+ },
+ {
+  "id": "14971",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "explosive charges to split rock"
+ },
+ {
+  "id": "14972",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holes drilled along outlines"
+ },
+ {
+  "id": "14973",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "stone slings and removal direction"
+ },
+ {
+  "id": "14974",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grooves chiseled along outlines"
+ },
+ {
+  "id": "20145",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flow line leaks found and repaired"
+ },
+ {
+  "id": "23978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas and oil pipelines laid"
+ },
+ {
+  "id": "23979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field trucks cleaned"
+ },
+ {
+  "id": "7111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spilled oil bailed into barrels"
+ },
+ {
+  "id": "7112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipes and rods tightened with wrenches"
+ },
+ {
+  "id": "7113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pump and engine parts bolted"
+ },
+ {
+  "id": "7115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipes moved to and from trucks"
+ },
+ {
+  "id": "7116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil field machinery dismantled and repaired"
+ },
+ {
+  "id": "7117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drainage ditches around wells"
+ },
+ {
+  "id": "7119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crane loads guided on decks"
+ },
+ {
+  "id": "7120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "rig floor supplies and roughneck help"
+ },
+ {
+  "id": "7121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "derrick concrete foundations"
+ },
+ {
+  "id": "7122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees and brush cleared"
+ },
+ {
+  "id": "13698",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automotive and drilling equipment repair"
+ },
+ {
+  "id": "13699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment operation watched for problems"
+ },
+ {
+  "id": "13700",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials hauled to excavation sites"
+ },
+ {
+  "id": "13701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas cleaned of debris"
+ },
+ {
+  "id": "13702",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials organized for use"
+ },
+ {
+  "id": "13703",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "assisting drillers and derrick operators"
+ },
+ {
+  "id": "13704",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boring equipment dismantled"
+ },
+ {
+  "id": "13705",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials and machine parts unloaded"
+ },
+ {
+  "id": "13706",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials loaded into well holes"
+ },
+ {
+  "id": "13707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "worker signals to start extraction"
+ },
+ {
+  "id": "13708",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excavation sites cleaned and prepared"
+ },
+ {
+  "id": "13709",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excavation equipment set up"
+ },
+ {
+  "id": "13710",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geological samples collected and tested"
+ },
+ {
+  "id": "13711",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trenches dug"
+ },
+ {
+  "id": "15262",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "shop inventory and conditions monitored"
+ },
+ {
+  "id": "15263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "work area safety inspection and training"
+ },
+ {
+  "id": "15264",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "contractor bid work evaluation"
+ },
+ {
+  "id": "2912",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work schedules and assignments"
+ },
+ {
+  "id": "2914",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee work levels and performance"
+ },
+ {
+  "id": "2915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facilities needing installation or repair"
+ },
+ {
+  "id": "2916",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department budget and purchasing"
+ },
+ {
+  "id": "2917",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employees with work issues"
+ },
+ {
+  "id": "2918",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tool and part requisitions"
+ },
+ {
+  "id": "2919",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material, labor, contractor cost estimates"
+ },
+ {
+  "id": "2920",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "blueprints laid out for workers"
+ },
+ {
+  "id": "2921",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker safety and repair training"
+ },
+ {
+  "id": "2922",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "accident causes and incident reports"
+ },
+ {
+  "id": "2923",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coordination with managers and union reps"
+ },
+ {
+  "id": "2924",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring, promotion, discipline recommendations"
+ },
+ {
+  "id": "2925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "skilled repair and maintenance work"
+ },
+ {
+  "id": "2926",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time, production, maintenance records"
+ },
+ {
+  "id": "2927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "maintenance policies and procedures"
+ },
+ {
+  "id": "2929",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed repair work quality"
+ },
+ {
+  "id": "2930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendor meetings on repair products"
+ },
+ {
+  "id": "2931",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance software and information systems"
+ },
+ {
+  "id": "2932",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "equipment configurations for staff needs"
+ },
+ {
+  "id": "11623",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer equipment problem details"
+ },
+ {
+  "id": "11624",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired machines reassembled"
+ },
+ {
+  "id": "11625",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "travel to customer sites"
+ },
+ {
+  "id": "11626",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine software reinstalled or adjusted"
+ },
+ {
+  "id": "11627",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer equipment operation advice"
+ },
+ {
+  "id": "11628",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new systems tested for function"
+ },
+ {
+  "id": "11629",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines assembled to specifications"
+ },
+ {
+  "id": "11630",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines run to test parts"
+ },
+ {
+  "id": "11631",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment maintenance records"
+ },
+ {
+  "id": "11632",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new equipment and software configured"
+ },
+ {
+  "id": "11633",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair parts inventory and orders"
+ },
+ {
+  "id": "11634",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuit boards and memory upgrades"
+ },
+ {
+  "id": "11635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment calibration and adjustment"
+ },
+ {
+  "id": "11636",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "faulty circuits tested with meters"
+ },
+ {
+  "id": "11637",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "components replaced with hand tools"
+ },
+ {
+  "id": "11638",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair bills and expense reports"
+ },
+ {
+  "id": "11639",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines disassembled for worn parts"
+ },
+ {
+  "id": "11640",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical parts cleaned and oiled"
+ },
+ {
+  "id": "11641",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program copying and schematics entry"
+ },
+ {
+  "id": "11642",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "blueprints and schematics for settings"
+ },
+ {
+  "id": "11643",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables and electrical connections laid"
+ },
+ {
+  "id": "11644",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment performance records analyzed"
+ },
+ {
+  "id": "11645",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "toner and ink refills"
+ },
+ {
+  "id": "11646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new repairers trained"
+ },
+ {
+  "id": "11647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing instruments calibrated"
+ },
+ {
+  "id": "19398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment bolted into place"
+ },
+ {
+  "id": "19399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "antenna azimuth and tilt"
+ },
+ {
+  "id": "19400",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tower antennas installed or repaired"
+ },
+ {
+  "id": "19401",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed tower hardware inspected"
+ },
+ {
+  "id": "19402",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tower transmission equipment installed"
+ },
+ {
+  "id": "19403",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tower lighting components"
+ },
+ {
+  "id": "19404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grounding systems installed and tested"
+ },
+ {
+  "id": "19405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment lifted by crane or gin pole"
+ },
+ {
+  "id": "19406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "existing tower equipment repair"
+ },
+ {
+  "id": "19407",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders, plans, and datasheets"
+ },
+ {
+  "id": "19408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "antennas swapped on towers"
+ },
+ {
+  "id": "19409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power, ground, coaxial cable runs"
+ },
+ {
+  "id": "19410",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tower transmission sweep testing"
+ },
+ {
+  "id": "19411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tower climbing with harness"
+ },
+ {
+  "id": "19412",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project status reports"
+ },
+ {
+  "id": "19413",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tower site locations on maps"
+ },
+ {
+  "id": "19414",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site and work photos taken"
+ },
+ {
+  "id": "19415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment trucked to work sites"
+ },
+ {
+  "id": "23510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "components calibrated with gauges"
+ },
+ {
+  "id": "23511",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radio equipment defects located"
+ },
+ {
+  "id": "23512",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plugs and leads connected to power"
+ },
+ {
+  "id": "23513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radio and two-way systems installed"
+ },
+ {
+  "id": "23514",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "radio range station transmission flaws"
+ },
+ {
+  "id": "23515",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment mounted on towers and vehicles"
+ },
+ {
+  "id": "23516",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective components soldered and replaced"
+ },
+ {
+  "id": "23517",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuits and wiring soldered"
+ },
+ {
+  "id": "23518",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "batteries tested and charged"
+ },
+ {
+  "id": "23519",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "emergency transmitter readiness testing"
+ },
+ {
+  "id": "23520",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "signal strength and quality testing"
+ },
+ {
+  "id": "23521",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "receiver and transmitter setscrews"
+ }
+]

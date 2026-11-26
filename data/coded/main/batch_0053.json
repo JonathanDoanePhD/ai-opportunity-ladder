@@ -1,0 +1,1538 @@
+[
+{
+"id": "19259",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient eye medications"
+},
+{
+"id": "19260",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient color vision testing"
+},
+{
+"id": "19261",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "eye refractive condition exam"
+},
+{
+"id": "19262",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "ophthalmic procedures, surgical support"
+},
+{
+"id": "19263",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "refractive error lens corrections"
+},
+{
+"id": "19264",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "eye ultrasound measurements"
+},
+{
+"id": "19265",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "depth perception testing"
+},
+{
+"id": "19266",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "eye muscle motility testing"
+},
+{
+"id": "19267",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "central visual field testing"
+},
+{
+"id": "19268",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "intraocular pressure testing"
+},
+{
+"id": "19269",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "visual field testing"
+},
+{
+"id": "19270",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "CT eye imaging"
+},
+{
+"id": "19271",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "eyeglass lens power measurement"
+},
+{
+"id": "19272",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "corneal curvature measurement"
+},
+{
+"id": "19273",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "corneal thickness measurement"
+},
+{
+"id": "19274",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "retinal nerve thickness scanning"
+},
+{
+"id": "19275",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient visual acuity testing"
+},
+{
+"id": "19276",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "advanced ophthalmic diagnostic procedures"
+},
+{
+"id": "19277",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "eye fluorescein angiography"
+},
+{
+"id": "19278",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "slit lamp eye examination"
+},
+{
+"id": "19279",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "clinical eye photography"
+},
+{
+"id": "19280",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "ophthalmic staff supervision and instruction"
+},
+{
+"id": "19281",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "axial eye length measurements"
+},
+{
+"id": "19282",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "post-operative patient follow-up calls"
+},
+{
+"id": "19283",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ophthalmic instrument sterilization"
+},
+{
+"id": "19284",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "low vision patient testing"
+},
+{
+"id": "19285",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "contact lens patient teaching"
+},
+{
+"id": "19286",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ophthalmic equipment maintenance"
+},
+{
+"id": "19287",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "patient medical histories"
+},
+{
+"id": "21190",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "patient eye condition triage"
+},
+{
+"id": "21191",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient eye education"
+},
+{
+"id": "17667",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "patient policy and service explanations"
+},
+{
+"id": "17668",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "communication among patients and staff"
+},
+{
+"id": "17669",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient complaints and inquiries"
+},
+{
+"id": "17670",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "patient care problem interviews"
+},
+{
+"id": "17671",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient referrals to services"
+},
+{
+"id": "17672",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient ability to pay"
+},
+{
+"id": "17673",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "patient encounter data reports"
+},
+{
+"id": "17674",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient information newsletters and brochures"
+},
+{
+"id": "17675",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "home equipment patient teaching"
+},
+{
+"id": "17676",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "liability and quality information"
+},
+{
+"id": "17677",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "professional literature and development"
+},
+{
+"id": "17678",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "community service resource knowledge"
+},
+{
+"id": "17679",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "staff and volunteer training"
+},
+{
+"id": "22894",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient diagnosis-related group assignment"
+},
+{
+"id": "22895",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "census and care statistical data"
+},
+{
+"id": "22896",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "healthcare application databases"
+},
+{
+"id": "22897",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "in-service educational materials"
+},
+{
+"id": "22898",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "healthcare computer system upgrades"
+},
+{
+"id": "22899",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "privacy awareness events"
+},
+{
+"id": "22900",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient data classification codes"
+},
+{
+"id": "22901",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "medical records department supervision"
+},
+{
+"id": "22902",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "legislation and accreditation changes"
+},
+{
+"id": "22903",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "health record indexing systems"
+},
+{
+"id": "22904",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "registry statistical and narrative reports"
+},
+{
+"id": "22905",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "medical record confidentiality"
+},
+{
+"id": "22906",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "unclear diagnosis code clarification"
+},
+{
+"id": "22907",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient record retrieval"
+},
+{
+"id": "22908",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "medical records staff training"
+},
+{
+"id": "22909",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "archived procedures and queries"
+},
+{
+"id": "18691",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "administrative records and reports"
+},
+{
+"id": "18692",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "athlete insurance claims"
+},
+{
+"id": "18693",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "athletic training students instruction"
+},
+{
+"id": "23925",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "training room cleaning"
+},
+{
+"id": "4221",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "athlete injury assessment"
+},
+{
+"id": "4222",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "athletic injury treatment"
+},
+{
+"id": "4223",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "athlete readiness to play"
+},
+{
+"id": "4224",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "athlete protective tape and braces"
+},
+{
+"id": "4225",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "recovering athlete progress reports"
+},
+{
+"id": "4226",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "athlete rehabilitation programs"
+},
+{
+"id": "4227",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "athlete equipment use advice"
+},
+{
+"id": "4228",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "injury prevention program plans"
+},
+{
+"id": "4229",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "athletic performance training programs"
+},
+{
+"id": "4230",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "travel with athletic teams"
+},
+{
+"id": "4231",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "injury prevention instruction"
+},
+{
+"id": "4232",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "playing field hazards"
+},
+{
+"id": "4233",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "athletic training research and instruction"
+},
+{
+"id": "4234",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "athlete dietary recommendations"
+},
+{
+"id": "4235",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "athlete muscle soreness massage"
+},
+{
+"id": "4236",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "protective equipment selection"
+},
+{
+"id": "4237",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "injured athlete hospital accompaniment"
+},
+{
+"id": "4238",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "team equipment and supplies"
+},
+{
+"id": "4239",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "team stretching exercises"
+},
+{
+"id": "17500",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "genetic risk in patients"
+},
+{
+"id": "17501",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "genetic diagnostic procedure explanation"
+},
+{
+"id": "17502",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clinical genetic counseling"
+},
+{
+"id": "17503",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "patient psychological and emotional needs"
+},
+{
+"id": "17504",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "patient family counseling"
+},
+{
+"id": "17505",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "genetic treatment plans"
+},
+{
+"id": "17506",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "genetic testing options discussion"
+},
+{
+"id": "17507",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 2,
+"physical": 0,
+"notes": "genetic laboratory results communication"
+},
+{
+"id": "17508",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "family medical histories"
+},
+{
+"id": "17509",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "inheritance of conditions information"
+},
+{
+"id": "17510",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient specialist referrals"
+},
+{
+"id": "17511",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "genetic consultation reports"
+},
+{
+"id": "17512",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "genetics training programs"
+},
+{
+"id": "17513",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "genetic disorder research data"
+},
+{
+"id": "17514",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "medical genetics research"
+},
+{
+"id": "17515",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "standards of care and operations"
+},
+{
+"id": "17516",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "funding sources and grant proposals"
+},
+{
+"id": "17517",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "genetics literature and conferences"
+},
+{
+"id": "17518",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "genetics educational materials"
+},
+{
+"id": "19288",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "operating room environment settings"
+},
+{
+"id": "19289",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical wound closure"
+},
+{
+"id": "19290",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient skin integrity post-procedure"
+},
+{
+"id": "19291",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "closed-wound drainage systems"
+},
+{
+"id": "19292",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical team gowning and gloving"
+},
+{
+"id": "19293",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical bleeding vessels"
+},
+{
+"id": "19294",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical patient positioning"
+},
+{
+"id": "19295",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient body temperature maintenance"
+},
+{
+"id": "19296",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "surgical procedure planning with surgeon"
+},
+{
+"id": "19297",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "leg vein harvesting"
+},
+{
+"id": "19298",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical operative field"
+},
+{
+"id": "19299",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "aseptic technique during procedures"
+},
+{
+"id": "19300",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "intra-operative patient status"
+},
+{
+"id": "19301",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "postoperative local anesthetic injection"
+},
+{
+"id": "19302",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sterile wound dressings"
+},
+{
+"id": "19303",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "casts, splints, and braces"
+},
+{
+"id": "19304",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "volume replacement and autotransfusion"
+},
+{
+"id": "19305",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient cardiac arrest resuscitation"
+},
+{
+"id": "19306",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient sterile surgical draping"
+},
+{
+"id": "19307",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "operative equipment and supply availability"
+},
+{
+"id": "19308",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical instruments and supplies"
+},
+{
+"id": "19309",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient urinary catheters"
+},
+{
+"id": "19310",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surgical equipment inspection"
+},
+{
+"id": "19311",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sterilizing devices operation"
+},
+{
+"id": "19312",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "instruments passed to surgeon"
+},
+{
+"id": "19313",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient incision site preparation"
+},
+{
+"id": "19314",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient transport to operating room"
+},
+{
+"id": "19315",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 1,
+"notes": "patient and operative site identity"
+},
+{
+"id": "17465",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "laboring mothers physical positioning"
+},
+{
+"id": "17466",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "maternal labor condition monitoring"
+},
+{
+"id": "17467",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "laboring mothers comfort measures"
+},
+{
+"id": "17468",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "oxygen and medications administration"
+},
+{
+"id": "17469",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "birthing environment safety"
+},
+{
+"id": "17470",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "post-date pregnancy status"
+},
+{
+"id": "17471",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "laboratory specimens"
+},
+{
+"id": "17472",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "prenatal health assessments"
+},
+{
+"id": "17473",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "individualized midwifery care plans"
+},
+{
+"id": "17474",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "emergency plans for mothers and newborns"
+},
+{
+"id": "17475",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient pregnancy due dates"
+},
+{
+"id": "17476",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient laboratory and medical records"
+},
+{
+"id": "17477",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "breech birth presentations"
+},
+{
+"id": "17478",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "pregnancy-related health problems"
+},
+{
+"id": "17479",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "ectopic pregnancy identification"
+},
+{
+"id": "17480",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "birth site preparation instructions"
+},
+{
+"id": "17481",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "fetal growth and well-being"
+},
+{
+"id": "17482",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient contact documentation"
+},
+{
+"id": "17483",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "patient health histories"
+},
+{
+"id": "17484",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "post-partum mother and baby assessments"
+},
+{
+"id": "17485",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "pregnancy and birth process information"
+},
+{
+"id": "17486",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "newborn medical care"
+},
+{
+"id": "17487",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient education and counseling referrals"
+},
+{
+"id": "17488",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "patient specialist referrals"
+},
+{
+"id": "17489",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "perineal lacerations"
+},
+{
+"id": "17490",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient blood tests"
+},
+{
+"id": "17491",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "clinical practice statistics"
+},
+{
+"id": "17492",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "birth certificates"
+},
+{
+"id": "17493",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "pregnancy nutritional requirements counseling"
+},
+{
+"id": "17494",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "research studies collaboration"
+},
+{
+"id": "17495",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "research findings in practice"
+},
+{
+"id": "17496",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "community health and social resources"
+},
+{
+"id": "17498",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "vitamin and mineral supplement recommendations"
+},
+{
+"id": "17499",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "patient symptoms alternative treatments"
+},
+{
+"id": "23926",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "contraception and family planning information"
+},
+{
+"id": "23927",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "gynecologic exams and screenings"
+},
+{
+"id": "18694",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient linens, laundry, and personal care"
+},
+{
+"id": "18695",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient oral medications"
+},
+{
+"id": "20577",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient bathing"
+},
+{
+"id": "4240",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient care records"
+},
+{
+"id": "4241",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient mobility and grooming assistance"
+},
+{
+"id": "4242",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "patient and family emotional support"
+},
+{
+"id": "4244",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "patient mental engagement and conversation"
+},
+{
+"id": "4245",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient meals"
+},
+{
+"id": "4246",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient prescribed exercises"
+},
+{
+"id": "4247",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient vital signs"
+},
+{
+"id": "4248",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "patient wound dressings"
+},
+{
+"id": "4249",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "client household errands"
+},
+{
+"id": "4250",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "client trips and companionship"
+},
+{
+"id": "4252",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "children with disabilities care"
+},
+{
+"id": "4253",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient massage and treatments"
+},
+{
+"id": "2369",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "client vital signs and medication"
+},
+{
+"id": "2370",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "client bedside and personal care"
+},
+{
+"id": "2371",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "client progress and service records"
+},
+{
+"id": "2372",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "client household chores"
+},
+{
+"id": "2373",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "convalescent client companionship and care"
+},
+{
+"id": "2374",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client household and hygiene advice"
+},
+{
+"id": "2375",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "client meal planning and preparation"
+},
+{
+"id": "2376",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client case review consultations"
+},
+{
+"id": "2377",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "client transport by vehicle"
+},
+{
+"id": "2378",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "family caregiver bedside training"
+},
+{
+"id": "2379",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client correspondence and information"
+}
+]

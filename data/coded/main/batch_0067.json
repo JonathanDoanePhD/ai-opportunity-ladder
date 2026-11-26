@@ -1,0 +1,1594 @@
+[
+ {
+  "id": "18561",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll data processing"
+ },
+ {
+  "id": "2486",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "entries and postings accuracy"
+ },
+ {
+  "id": "2487",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accounting software records"
+ },
+ {
+  "id": "2488",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory compliance in work"
+ },
+ {
+  "id": "2489",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "account debits and credits"
+ },
+ {
+  "id": "2490",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial data records"
+ },
+ {
+  "id": "2491",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bills and invoices"
+ },
+ {
+  "id": "2492",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial reports and tables"
+ },
+ {
+  "id": "2493",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "documents coded per procedure"
+ },
+ {
+  "id": "2494",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "account information questions"
+ },
+ {
+  "id": "2495",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "calculators and office machines"
+ },
+ {
+  "id": "2496",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "record discrepancies"
+ },
+ {
+  "id": "2497",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial calculations"
+ },
+ {
+  "id": "2498",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "filing, phones, routine correspondence"
+ },
+ {
+  "id": "2499",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bank deposit preparation"
+ },
+ {
+  "id": "2500",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash, checks, vouchers"
+ },
+ {
+  "id": "2501",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "checks for payments"
+ },
+ {
+  "id": "2502",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "printouts versus journals"
+ },
+ {
+  "id": "2503",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bank transaction records"
+ },
+ {
+  "id": "2504",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trial balances"
+ },
+ {
+  "id": "2505",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loan account payment status"
+ },
+ {
+  "id": "2506",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "journal details to ledgers"
+ },
+ {
+  "id": "2507",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budget data compilation"
+ },
+ {
+  "id": "2508",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material and overhead costs"
+ },
+ {
+  "id": "2509",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "order forms and invoices"
+ },
+ {
+  "id": "2510",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax and government forms"
+ },
+ {
+  "id": "2511",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory records"
+ },
+ {
+  "id": "2514",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase orders, expense reports"
+ },
+ {
+  "id": "4661",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "gaming rules adherence"
+ },
+ {
+  "id": "4662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer transaction privacy"
+ },
+ {
+  "id": "4663",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "funds counts and daily summaries"
+ },
+ {
+  "id": "4664",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "gaming checks and tokens"
+ },
+ {
+  "id": "4665",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cage security"
+ },
+ {
+  "id": "4666",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash needs for windows"
+ },
+ {
+  "id": "4667",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction and exchange reports"
+ },
+ {
+  "id": "4668",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patron checks and advances"
+ },
+ {
+  "id": "4669",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "chips and tokens to patrons"
+ },
+ {
+  "id": "4670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cash and chip inventories"
+ },
+ {
+  "id": "4671",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "currency to other departments"
+ },
+ {
+  "id": "4672",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new cashier training"
+ },
+ {
+  "id": "4673",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "casino operations information"
+ },
+ {
+  "id": "4674",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "exchange transactions in register"
+ },
+ {
+  "id": "4675",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bank deposits and funds"
+ },
+ {
+  "id": "4676",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "funds assignment and revenue reports"
+ },
+ {
+  "id": "4677",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new computer accounts"
+ },
+ {
+  "id": "18562",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new employee payroll paperwork"
+ },
+ {
+  "id": "18563",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee leave tracking"
+ },
+ {
+  "id": "18564",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employment verification requests"
+ },
+ {
+  "id": "20901",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cash and payroll accounts"
+ },
+ {
+  "id": "20902",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employees on timekeeping systems"
+ },
+ {
+  "id": "23954",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll tax returns"
+ },
+ {
+  "id": "2515",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paychecks and earnings statements"
+ },
+ {
+  "id": "2516",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wages and deductions"
+ },
+ {
+  "id": "2517",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time and payroll data"
+ },
+ {
+  "id": "2518",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time sheet payroll discrepancies"
+ },
+ {
+  "id": "2519",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and pay records"
+ },
+ {
+  "id": "2520",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee payroll record updates"
+ },
+ {
+  "id": "2521",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pay adjustments for errors"
+ },
+ {
+  "id": "2522",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tax and deduction law changes"
+ },
+ {
+  "id": "2523",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "payroll questions from staff"
+ },
+ {
+  "id": "2524",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee time sheets"
+ },
+ {
+  "id": "2526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "timecards distribution and collection"
+ },
+ {
+  "id": "2527",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "benefits administration forms"
+ },
+ {
+  "id": "2528",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "period-end payroll reports"
+ },
+ {
+  "id": "2529",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pay and benefits summaries"
+ },
+ {
+  "id": "2530",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "payroll deduction campaigns"
+ },
+ {
+  "id": "20785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinate staff training"
+ },
+ {
+  "id": "20786",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bills approval and payment"
+ },
+ {
+  "id": "2531",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase orders"
+ },
+ {
+  "id": "2532",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory sufficiency and reorders"
+ },
+ {
+  "id": "2533",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "order status inquiries"
+ },
+ {
+  "id": "2534",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "purchasing of goods"
+ },
+ {
+  "id": "2535",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplier delivery coordination"
+ },
+ {
+  "id": "2536",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "requisition orders accuracy"
+ },
+ {
+  "id": "2537",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchasing files and price lists"
+ },
+ {
+  "id": "2538",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplier bid comparison"
+ },
+ {
+  "id": "2539",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "requisitions, contracts, orders status"
+ },
+ {
+  "id": "2540",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "order costs and invoices"
+ },
+ {
+  "id": "2541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "arriving shipments and goods"
+ },
+ {
+  "id": "2542",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier bills versus bids"
+ },
+ {
+  "id": "2544",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplier search and interviews"
+ },
+ {
+  "id": "2545",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "purchasing rules and guidance"
+ },
+ {
+  "id": "2546",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "inventory movement and transfer forms"
+ },
+ {
+  "id": "2547",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "contractor performance and contracts"
+ },
+ {
+  "id": "2548",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bid invitation forms"
+ },
+ {
+  "id": "21076",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer telephone questions"
+ },
+ {
+  "id": "2549",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash drawer balancing"
+ },
+ {
+  "id": "2550",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "check cashing and payouts"
+ },
+ {
+  "id": "2551",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "deposit checks and cash"
+ },
+ {
+  "id": "2552",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "checks for validity"
+ },
+ {
+  "id": "2553",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer transactions in computer"
+ },
+ {
+  "id": "2554",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "currency, coins, checks counting"
+ },
+ {
+  "id": "2555",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction imbalance errors"
+ },
+ {
+  "id": "2556",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cashier's checks"
+ },
+ {
+  "id": "2557",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cash boxes by denomination"
+ },
+ {
+  "id": "2558",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "deposit and savings transactions"
+ },
+ {
+  "id": "2559",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "loan and utility payments"
+ },
+ {
+  "id": "2560",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer account problems"
+ },
+ {
+  "id": "2561",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bank products to customers"
+ },
+ {
+  "id": "2562",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "typing, filing, microfilm photography"
+ },
+ {
+  "id": "2563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bank vault cash balances"
+ },
+ {
+  "id": "2564",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily cash supply orders"
+ },
+ {
+  "id": "2565",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deposit slips and checks sorting"
+ },
+ {
+  "id": "2566",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cash and traveler's checks inventories"
+ },
+ {
+  "id": "2567",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer loan records"
+ },
+ {
+  "id": "2568",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "armored car deposits"
+ },
+ {
+  "id": "2569",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bank cards and check orders"
+ },
+ {
+  "id": "2570",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fees, interest, service charges"
+ },
+ {
+  "id": "2571",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "account opening information"
+ },
+ {
+  "id": "2572",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer statements and letters"
+ },
+ {
+  "id": "2573",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "checks to bond owners"
+ },
+ {
+  "id": "2574",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "currency regulations and fees"
+ },
+ {
+  "id": "2575",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exchange rates quotes"
+ },
+ {
+  "id": "20622",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "securities transaction records"
+ },
+ {
+  "id": "20623",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "phones and mail distribution"
+ },
+ {
+  "id": "8145",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer inquiries and account problems"
+ },
+ {
+  "id": "8147",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security certificates transfer scheduling"
+ },
+ {
+  "id": "8148",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction request forms"
+ },
+ {
+  "id": "8149",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "filing, typing, office machines"
+ },
+ {
+  "id": "8150",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stock prices and collateral"
+ },
+ {
+  "id": "8151",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "holdings, dividends, fees"
+ },
+ {
+  "id": "8152",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily account transaction reports"
+ },
+ {
+  "id": "8153",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ownership and transaction regulation"
+ },
+ {
+  "id": "11270",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "claims, billing, complaint documents"
+ },
+ {
+  "id": "11271",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "periodic reports from records"
+ },
+ {
+  "id": "11272",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rules and regulations explanations"
+ },
+ {
+  "id": "11273",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incoming correspondence concerns"
+ },
+ {
+  "id": "11274",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "acknowledgment letters"
+ },
+ {
+  "id": "11275",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence format and typos"
+ },
+ {
+  "id": "11276",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence files and records"
+ },
+ {
+  "id": "11277",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records for specific problems"
+ },
+ {
+  "id": "11278",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "form letter responses"
+ },
+ {
+  "id": "11279",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence routing"
+ },
+ {
+  "id": "11280",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reply letters on requests"
+ },
+ {
+  "id": "11281",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "money collected recording and securing"
+ },
+ {
+  "id": "11283",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "record costs and payment letters"
+ },
+ {
+  "id": "11285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "records for certified mail"
+ },
+ {
+  "id": "11287",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "feasibility of writers' requests"
+ },
+ {
+  "id": "11289",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "orders requested in correspondence"
+ },
+ {
+  "id": "11290",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manufacturing data for special products"
+ },
+ {
+  "id": "23267",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "license applicant qualification"
+ },
+ {
+  "id": "23268",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "identification and immigration documents"
+ },
+ {
+  "id": "23269",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting minutes"
+ },
+ {
+  "id": "23270",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "applicant information on forms"
+ },
+ {
+  "id": "23271",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public notices of meetings"
+ },
+ {
+  "id": "23272",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vital and fiscal records"
+ },
+ {
+  "id": "23273",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "licensing policy questions"
+ },
+ {
+  "id": "23274",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting agendas and packets"
+ },
+ {
+  "id": "23275",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "court orders and documentation"
+ },
+ {
+  "id": "23276",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ordinances and resolutions"
+ },
+ {
+  "id": "23277",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "license application data"
+ },
+ {
+  "id": "23278",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case dispositions and court fees"
+ },
+ {
+  "id": "23279",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "municipal budget work"
+ },
+ {
+  "id": "23280",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "licensee record checks"
+ },
+ {
+  "id": "23281",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "court proceeding outcomes"
+ },
+ {
+  "id": "23282",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "submitted legal documents"
+ },
+ {
+  "id": "23283",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dictation, correspondence, forms, scheduling"
+ },
+ {
+  "id": "23284",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "calls, court filings, supplies"
+ },
+ {
+  "id": "23285",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "information requests from officials"
+ },
+ {
+  "id": "23286",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "files, witnesses, attorneys, litigants"
+ },
+ {
+  "id": "23287",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence tracking systems"
+ },
+ {
+  "id": "23288",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public court procedure questions"
+ },
+ {
+  "id": "23289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker training and coordination"
+ },
+ {
+  "id": "23290",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "court appearance timing"
+ },
+ {
+  "id": "23291",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "municipal archives research"
+ },
+ {
+  "id": "23292",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bid openings and contracts"
+ },
+ {
+  "id": "23293",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "municipal election administration"
+ },
+ {
+  "id": "23294",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "permits, licenses, and fees"
+ },
+ {
+  "id": "23295",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "municipal documents management"
+ },
+ {
+  "id": "23296",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case dockets and calendars"
+ },
+ {
+  "id": "23297",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer charges and payments"
+ },
+ {
+  "id": "23298",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit information analysis"
+ },
+ {
+  "id": "23299",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "creditor information from bureaus"
+ },
+ {
+  "id": "23300",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit applicant interviews"
+ },
+ {
+  "id": "23301",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit approval decisions"
+ },
+ {
+  "id": "23302",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales slips for billing"
+ },
+ {
+  "id": "23303",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "charge slips and applications"
+ },
+ {
+  "id": "23304",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer charge statements"
+ },
+ {
+  "id": "23305",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public records on applicants"
+ },
+ {
+  "id": "23306",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit report relaying"
+ },
+ {
+  "id": "23307",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "credit cards and plates"
+ },
+ {
+  "id": "23308",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "delinquent account collection calls"
+ },
+ {
+  "id": "23309",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints and transactions"
+ },
+ {
+  "id": "23310",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "applicant reference verification"
+ },
+ {
+  "id": "23311",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit findings and recommendations"
+ },
+ {
+  "id": "23312",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delinquent accounts for collection"
+ },
+ {
+  "id": "18565",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer information, orders, complaints"
+ },
+ {
+  "id": "2578",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer interaction records"
+ },
+ {
+  "id": "2579",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "service and billing complaints"
+ },
+ {
+  "id": "2580",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "resolution changes follow-up"
+ },
+ {
+  "id": "2581",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer inquiries and notifications"
+ },
+ {
+  "id": "2582",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "unresolved grievances referral"
+ },
+ {
+  "id": "2583",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service charges and payments"
+ },
+ {
+  "id": "2584",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contract forms and records"
+ },
+ {
+  "id": "2585",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "complaint validity and causes"
+ },
+ {
+  "id": "2586",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new service sales"
+ },
+ {
+  "id": "2587",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance policy coverage"
+ },
+ {
+  "id": "2589",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "disputed merchandise and invoices"
+ },
+ {
+  "id": "2591",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product and service improvements"
+ }
+]

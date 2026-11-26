@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "22940",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee and public complaints"
+ },
+ {
+  "id": "22941",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "trespassers and rule violators"
+ },
+ {
+  "id": "22942",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "guard post and patrol assignments"
+ },
+ {
+  "id": "22943",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency calls to police fire"
+ },
+ {
+  "id": "22944",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security procedures and policies"
+ },
+ {
+  "id": "22945",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "company policies for staff"
+ },
+ {
+  "id": "22946",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "security equipment condition"
+ },
+ {
+  "id": "22947",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "alarms and suspicious disturbances"
+ },
+ {
+  "id": "22948",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "key and keycard distribution log"
+ },
+ {
+  "id": "22949",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "entry authorization of visitors"
+ },
+ {
+  "id": "22950",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "camera surveillance feeds"
+ },
+ {
+  "id": "22951",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "security staff performance"
+ },
+ {
+  "id": "22952",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security supply orders"
+ },
+ {
+  "id": "22953",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "premises patrol for intrusion"
+ },
+ {
+  "id": "22954",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security hiring"
+ },
+ {
+  "id": "22955",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency drill scheduling"
+ },
+ {
+  "id": "22956",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "persons and bags screening"
+ },
+ {
+  "id": "22957",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "doors and gates locking"
+ },
+ {
+  "id": "22958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "security staff training"
+ },
+ {
+  "id": "22959",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department budget"
+ },
+ {
+  "id": "22960",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patrol observation reports"
+ },
+ {
+  "id": "22961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "survivors in hazardous sites"
+ },
+ {
+  "id": "22962",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "protective gear donning"
+ },
+ {
+  "id": "22963",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire conditions radio report"
+ },
+ {
+  "id": "22964",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire source approach"
+ },
+ {
+  "id": "22965",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency alarm responses"
+ },
+ {
+  "id": "22966",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building openings for ventilation"
+ },
+ {
+  "id": "22967",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire vehicles and equipment"
+ },
+ {
+  "id": "22968",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "extinguished fire site hazards"
+ },
+ {
+  "id": "22969",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ladders at buildings"
+ },
+ {
+  "id": "22970",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hose nozzles and water streams"
+ },
+ {
+  "id": "22971",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "dispatcher radio contact"
+ },
+ {
+  "id": "22972",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "firefighting crew teamwork"
+ },
+ {
+  "id": "22973",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "burned area hot spots"
+ },
+ {
+  "id": "22974",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "police coordination at emergencies"
+ },
+ {
+  "id": "22975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire drills and demonstrations"
+ },
+ {
+  "id": "22976",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "firefighting knowledge maintenance"
+ },
+ {
+  "id": "22977",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire incident reports"
+ },
+ {
+  "id": "22978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "personal physical fitness"
+ },
+ {
+  "id": "22979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "property water smoke protection"
+ },
+ {
+  "id": "22980",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public fire prevention education"
+ },
+ {
+  "id": "22981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "property salvage after fire"
+ },
+ {
+  "id": "22982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "map orientation and parachuted supplies"
+ },
+ {
+  "id": "22983",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "station and equipment cleaning"
+ },
+ {
+  "id": "22984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "building fire hazards inspection"
+ },
+ {
+  "id": "22985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous chemical containment"
+ },
+ {
+  "id": "22986",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flames and embers"
+ },
+ {
+  "id": "22987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "injured persons emergency care"
+ },
+ {
+  "id": "22988",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "high-pressure hose pumps"
+ },
+ {
+  "id": "22989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fire survivors search"
+ },
+ {
+  "id": "22990",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new firefighter training"
+ },
+ {
+  "id": "22991",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation results records"
+ },
+ {
+  "id": "22992",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court testimony on fires"
+ },
+ {
+  "id": "22993",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire evidence packaging"
+ },
+ {
+  "id": "22994",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "new fire protection systems testing"
+ },
+ {
+  "id": "22995",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire cause evidence analysis"
+ },
+ {
+  "id": "22996",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire damage photographs"
+ },
+ {
+  "id": "22997",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire site evidence collection"
+ },
+ {
+  "id": "22998",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "buildings fire code hazards"
+ },
+ {
+  "id": "22999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "children fire danger instruction"
+ },
+ {
+  "id": "23000",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "corrective action follow-ups"
+ },
+ {
+  "id": "23001",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hazmat property permit inspections"
+ },
+ {
+  "id": "23002",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire inspection reports"
+ },
+ {
+  "id": "23003",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "code violation corrections for owners"
+ },
+ {
+  "id": "23004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire exit plans"
+ },
+ {
+  "id": "23005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire detection systems testing"
+ },
+ {
+  "id": "23006",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "law enforcement agency coordination"
+ },
+ {
+  "id": "23007",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training classes attendance"
+ },
+ {
+  "id": "23008",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building plans fire code review"
+ },
+ {
+  "id": "23009",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "investigation technique teaching"
+ },
+ {
+  "id": "23010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "exit drills evacuation evaluation"
+ },
+ {
+  "id": "23011",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public fire safety programs"
+ },
+ {
+  "id": "23012",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection procedure changes"
+ },
+ {
+  "id": "23013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "witness interviews and testimony"
+ },
+ {
+  "id": "23014",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department employee misconduct investigation"
+ },
+ {
+  "id": "23015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "burn patterns and flash points"
+ },
+ {
+  "id": "23016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "latent fingerprints at scenes"
+ },
+ {
+  "id": "23017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective fire equipment repair"
+ },
+ {
+  "id": "23018",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public assembly permits"
+ },
+ {
+  "id": "23019",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "inspection staff supervision"
+ },
+ {
+  "id": "23020",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fire prevention programs"
+ },
+ {
+  "id": "11102",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency and hazard messages"
+ },
+ {
+  "id": "11103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "firefighting crews on firelines"
+ },
+ {
+  "id": "11104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire size and characteristics"
+ },
+ {
+  "id": "11105",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forest fire regulations enforcement"
+ },
+ {
+  "id": "11106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "small forest fires"
+ },
+ {
+  "id": "11107",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fire locations on maps"
+ },
+ {
+  "id": "11108",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records and logbooks"
+ },
+ {
+  "id": "11109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "firefighting equipment inventory"
+ },
+ {
+  "id": "11110",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment maintenance and requisition"
+ },
+ {
+  "id": "11111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forest lands public access"
+ },
+ {
+  "id": "11112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forest area patrol hazards"
+ },
+ {
+  "id": "11113",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weather data reports"
+ },
+ {
+  "id": "11114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "campsite regulation compliance"
+ },
+ {
+  "id": "11115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "forest tract fire hazards"
+ },
+ {
+  "id": "21143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "wildland firefighting training"
+ },
+ {
+  "id": "21144",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public fire safety education"
+ },
+ {
+  "id": "20123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "courthouse entrants and contraband"
+ },
+ {
+  "id": "20124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "courthouse patrol and escorts"
+ },
+ {
+  "id": "20125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "courtroom security and supplies"
+ },
+ {
+  "id": "20126",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "court evidence and exhibits"
+ },
+ {
+  "id": "20127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoners custody during proceedings"
+ },
+ {
+  "id": "20128",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "court docket"
+ },
+ {
+  "id": "2091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "courtroom order and jury"
+ },
+ {
+  "id": "2092",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sequestered jury lodging"
+ },
+ {
+  "id": "2093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "jury escort outside courtroom"
+ },
+ {
+  "id": "2094",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "courtroom behavior rules"
+ },
+ {
+  "id": "2095",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "police or medical assistance need"
+ },
+ {
+  "id": "2097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "judge entrance announcement"
+ },
+ {
+  "id": "2098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "courtroom entry during charge"
+ },
+ {
+  "id": "21197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "persons with arrest warrants"
+ },
+ {
+  "id": "21198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "public directions to offices"
+ },
+ {
+  "id": "15252",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prisoner head counts"
+ },
+ {
+  "id": "15253",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoner conduct monitoring"
+ },
+ {
+  "id": "15254",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locks bars gates condition"
+ },
+ {
+  "id": "15255",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prisoner information and incident logs"
+ },
+ {
+  "id": "15256",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prisoners cells and vehicles searches"
+ },
+ {
+  "id": "15257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "convicted individuals booking"
+ },
+ {
+  "id": "15258",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "required job training"
+ },
+ {
+  "id": "15259",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "meals commissary medication distribution"
+ },
+ {
+  "id": "15260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inmate questions and concerns"
+ },
+ {
+  "id": "15261",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer tool use"
+ },
+ {
+  "id": "2102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility entrance visitor screening"
+ },
+ {
+  "id": "2103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "escapee recapture"
+ },
+ {
+  "id": "2104",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "inmate mail contraband"
+ },
+ {
+  "id": "2105",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoner custody and escort"
+ },
+ {
+  "id": "2107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prisoner discipline and force"
+ },
+ {
+  "id": "2108",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility safety sanitation inspections"
+ },
+ {
+  "id": "2109",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inmate work and incident reports"
+ },
+ {
+  "id": "2110",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inmate disputes"
+ },
+ {
+  "id": "2111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inmate transport vehicles"
+ },
+ {
+  "id": "2112",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prisoner daily schedules"
+ },
+ {
+  "id": "2113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inmate duty assignments"
+ },
+ {
+  "id": "2114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "inmate clothing and tools"
+ },
+ {
+  "id": "2116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "institutional crimes investigation"
+ },
+ {
+  "id": "2117",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prisoner identification and charge records"
+ },
+ {
+  "id": "2118",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "correctional officers coordination"
+ },
+ {
+  "id": "2119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inmate recreational activities"
+ },
+ {
+  "id": "23976",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "arrestee fingerprints"
+ },
+ {
+  "id": "23021",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "victim signs of life"
+ },
+ {
+  "id": "23022",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "witness and suspect statements"
+ },
+ {
+  "id": "23023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deceased body at scene"
+ },
+ {
+  "id": "23024",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation records and reports"
+ },
+ {
+  "id": "23025",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "court case charges and information"
+ },
+ {
+  "id": "23026",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crime scene evidence processing"
+ },
+ {
+  "id": "23027",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "scene incident summary"
+ },
+ {
+  "id": "23028",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scene objects photographs measurements"
+ },
+ {
+  "id": "23029",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investigation findings reports"
+ },
+ {
+  "id": "23030",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "agency files on suspects"
+ },
+ {
+  "id": "23031",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "scene persons and witnesses"
+ },
+ {
+  "id": "23032",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "evidence source information to lab"
+ },
+ {
+  "id": "23033",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "police reports analysis"
+ },
+ {
+  "id": "23034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "suspect and witness evidence"
+ },
+ {
+  "id": "23035",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "search and arrest warrants"
+ },
+ {
+  "id": "23036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "individuals and establishments questioning"
+ },
+ {
+  "id": "23037",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "case issues and evidence needs"
+ },
+ {
+  "id": "23038",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "raids and arrests"
+ },
+ {
+  "id": "23039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "scene search organization"
+ },
+ {
+  "id": "23040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "injured individuals medical help"
+ },
+ {
+  "id": "23041",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "command notification of situation"
+ },
+ {
+  "id": "23042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "grand jury testimony"
+ },
+ {
+  "id": "23043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crime scene perimeter"
+ },
+ {
+  "id": "23044",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical examiner notification"
+ },
+ {
+  "id": "23045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fingerprints and scene evidence"
+ },
+ {
+  "id": "23046",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "investigation scope and timing"
+ },
+ {
+  "id": "23047",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "establishments surveillance of suspects"
+ },
+ {
+  "id": "23048",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agency information exchange"
+ },
+ {
+  "id": "23049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "undercover and surveillance assignments"
+ },
+ {
+  "id": "23050",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records evidence chain links"
+ },
+ {
+  "id": "18708",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "evidence records and reports"
+ },
+ {
+  "id": "18709",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "evidence submission to labs and courts"
+ },
+ {
+  "id": "18710",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fingerprint comparison classification filing"
+ },
+ {
+  "id": "18711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "crime scene collection advice"
+ },
+ {
+  "id": "18712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "officer and citizen training classes"
+ },
+ {
+  "id": "18713",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "witnesses and suspects interviews"
+ },
+ {
+  "id": "21036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crime scene and lab evidence"
+ },
+ {
+  "id": "21037",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "crime scene sketches and diagrams"
+ },
+ {
+  "id": "2120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crime scene photographs"
+ },
+ {
+  "id": "2121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court testimony and evidence"
+ },
+ {
+  "id": "2122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "latent fingerprints at crime scenes"
+ },
+ {
+  "id": "2123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trace evidence at scenes"
+ },
+ {
+  "id": "2125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "evidence packaging and storage"
+ },
+ {
+  "id": "2127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "off-hours emergency work"
+ },
+ {
+  "id": "2129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crime scene film and prints"
+ },
+ {
+  "id": "24007",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "individuals fingerprints taking"
+ }
+]

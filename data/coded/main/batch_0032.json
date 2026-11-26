@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "20060",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "21110",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department and course schedules"
+ },
+ {
+  "id": "21111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "faculty performance evaluations"
+ },
+ {
+  "id": "5709",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student coursework and papers"
+ },
+ {
+  "id": "5710",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "math lectures to students"
+ },
+ {
+  "id": "5712",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5713",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5714",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5715",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5716",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5717",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and course supplies"
+ },
+ {
+  "id": "5719",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5723",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5724",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "field research and publications"
+ },
+ {
+  "id": "5725",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5727",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "5728",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5731",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student design studio work"
+ },
+ {
+  "id": "5732",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "architecture lectures to students"
+ },
+ {
+  "id": "5733",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5734",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5735",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5736",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5737",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5738",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5739",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "field research and publications"
+ },
+ {
+  "id": "5741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5743",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5744",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5745",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5747",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5748",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5749",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "consulting for government or industry"
+ },
+ {
+  "id": "5750",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5751",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5752",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "21112",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "journal manuscripts under review"
+ },
+ {
+  "id": "5753",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "engineering lectures to students"
+ },
+ {
+  "id": "5754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5755",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5756",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student class and lab work"
+ },
+ {
+  "id": "5757",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "engineering research and publications"
+ },
+ {
+  "id": "5758",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5760",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5761",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students working in laboratory"
+ },
+ {
+  "id": "5762",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "class discussions"
+ },
+ {
+  "id": "5763",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5765",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5766",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5767",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5768",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5769",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5772",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "consulting for government or industry"
+ },
+ {
+  "id": "5773",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "5776",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student class and lab work"
+ },
+ {
+  "id": "5778",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "agricultural science lectures"
+ },
+ {
+  "id": "5780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5781",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "agricultural research and publications"
+ },
+ {
+  "id": "5782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "laboratory sessions and field work"
+ },
+ {
+  "id": "5783",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5784",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5785",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5786",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5787",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5788",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5789",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5790",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5791",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5792",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "5795",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5796",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "consulting for government or industry"
+ },
+ {
+  "id": "5797",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5798",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "20061",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lab activity materials and syllabi"
+ },
+ {
+  "id": "20062",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students needing extra coursework help"
+ },
+ {
+  "id": "20063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "field trips outside classroom"
+ },
+ {
+  "id": "20064",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "journal papers under review"
+ },
+ {
+  "id": "20065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and public presentations"
+ },
+ {
+  "id": "21113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory equipment maintenance and repair"
+ },
+ {
+  "id": "5799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "biology lectures to students"
+ },
+ {
+  "id": "5800",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student class and lab work"
+ },
+ {
+  "id": "5802",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students working in laboratory"
+ },
+ {
+  "id": "5804",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5805",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5806",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5807",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5808",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5809",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5810",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5811",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5812",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5813",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "biology research and publications"
+ },
+ {
+  "id": "5814",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5815",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5816",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5817",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5818",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5819",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5821",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "consulting for government or industry"
+ },
+ {
+  "id": "20066",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleagues' and journal papers"
+ },
+ {
+  "id": "20067",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "public workshops and educational materials"
+ },
+ {
+  "id": "5822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forestry research and publications"
+ },
+ {
+  "id": "5823",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5824",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "forestry lectures to students"
+ },
+ {
+  "id": "5825",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student class work and papers"
+ },
+ {
+  "id": "5826",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5827",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5828",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5829",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5830",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students' laboratory or field work"
+ },
+ {
+  "id": "5834",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5835",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5837",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5838",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5839",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5840",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "consulting for government or industry"
+ },
+ {
+  "id": "5841",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5842",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5844",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "20068",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "research equipment purchase and upkeep"
+ },
+ {
+  "id": "20069",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "journal papers and grant proposals"
+ },
+ {
+  "id": "20070",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public and media questions"
+ },
+ {
+  "id": "5845",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "earth science research and publications"
+ },
+ {
+  "id": "5846",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5847",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5848",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5849",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "earth science lectures to students"
+ },
+ {
+  "id": "5850",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student lab and field work"
+ },
+ {
+  "id": "5851",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student class work and papers"
+ },
+ {
+  "id": "5852",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5853",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5854",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5855",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5856",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5857",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5858",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5859",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5860",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5861",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5862",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "textbooks and lab equipment"
+ },
+ {
+  "id": "5863",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5864",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "consulting for government or industry"
+ },
+ {
+  "id": "5866",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5867",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "20071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "students' chemical safety compliance"
+ },
+ {
+  "id": "20072",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "teaching and research supplies"
+ },
+ {
+  "id": "20073",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "committees and professional societies"
+ },
+ {
+  "id": "21114",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student recommendation letters"
+ },
+ {
+  "id": "21115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory facility cleaning"
+ },
+ {
+  "id": "5868",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "chemistry lectures to students"
+ },
+ {
+  "id": "5869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students working in laboratory"
+ },
+ {
+  "id": "5870",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student class and lab performance"
+ },
+ {
+  "id": "5871",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations for students"
+ },
+ {
+  "id": "5872",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and grade records"
+ },
+ {
+  "id": "5873",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi, homework, handouts"
+ },
+ {
+  "id": "5874",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student office hours advising"
+ },
+ {
+  "id": "5875",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and course content"
+ },
+ {
+  "id": "5876",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student teaching and research supervision"
+ },
+ {
+  "id": "5877",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional literature and conferences"
+ },
+ {
+  "id": "5878",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom discussions"
+ },
+ {
+  "id": "5880",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "chemistry research and publications"
+ },
+ {
+  "id": "5881",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student academic and career advising"
+ },
+ {
+  "id": "5882",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "colleague collaboration on teaching"
+ },
+ {
+  "id": "5883",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "academic committee service"
+ },
+ {
+  "id": "5884",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external research grant proposals"
+ },
+ {
+  "id": "5885",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student recruitment and registration"
+ },
+ {
+  "id": "5886",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "required instruction reports"
+ },
+ {
+  "id": "5887",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department administration duties"
+ },
+ {
+  "id": "5888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student organization advising"
+ },
+ {
+  "id": "5889",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading assignment bibliographies"
+ },
+ {
+  "id": "5890",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "campus and community events"
+ },
+ {
+  "id": "5891",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "consulting for government or industry"
+ }
+]

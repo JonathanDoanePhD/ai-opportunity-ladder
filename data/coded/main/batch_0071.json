@@ -1,0 +1,1426 @@
+[
+ {
+  "id": "13259",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "envelopes"
+ },
+ {
+  "id": "13260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "postage on mail pieces"
+ },
+ {
+  "id": "13261",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mail address and postage correctness"
+ },
+ {
+  "id": "13262",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail sorted into sacks"
+ },
+ {
+  "id": "13263",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sortation equipment jams"
+ },
+ {
+  "id": "13264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming and outgoing mail carts"
+ },
+ {
+  "id": "13265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packages weighed for postage"
+ },
+ {
+  "id": "13266",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "mail shipping method choice"
+ },
+ {
+  "id": "13267",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail containers loaded onto equipment"
+ },
+ {
+  "id": "13268",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "packages wrapped or bundled"
+ },
+ {
+  "id": "13269",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "letters folded into envelopes"
+ },
+ {
+  "id": "13270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "printed items removed from machines"
+ },
+ {
+  "id": "13271",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail machine ink and ribbons"
+ },
+ {
+  "id": "13272",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines feeding plates, watching malfunctions"
+ },
+ {
+  "id": "13273",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production orders read for specifications"
+ },
+ {
+  "id": "13274",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "samples mailed to requesters"
+ },
+ {
+  "id": "13275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail machine output defects"
+ },
+ {
+  "id": "13276",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sorted mail containers moved"
+ },
+ {
+  "id": "13277",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "courier delivery arrangements"
+ },
+ {
+  "id": "13279",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "incoming mail receipt dates"
+ },
+ {
+  "id": "13280",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "routing scheme data entry"
+ },
+ {
+  "id": "13281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail machine guides and rollers"
+ },
+ {
+  "id": "13282",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "incoming mail containers checked"
+ },
+ {
+  "id": "13283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "packages released to customers"
+ },
+ {
+  "id": "13284",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "shipping policy questions"
+ },
+ {
+  "id": "13286",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "mail product sales and payments"
+ },
+ {
+  "id": "825",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "cash handling and basic bookkeeping"
+ },
+ {
+  "id": "826",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer and employee questions"
+ },
+ {
+  "id": "827",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "incoming office calls"
+ },
+ {
+  "id": "828",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "office records filing"
+ },
+ {
+  "id": "829",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bills and invoices mailed"
+ },
+ {
+  "id": "830",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "office machines"
+ },
+ {
+  "id": "831",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data and records computation"
+ },
+ {
+  "id": "832",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "filing and database systems"
+ },
+ {
+  "id": "833",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "incoming mail and correspondence"
+ },
+ {
+  "id": "834",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "files searched for requested information"
+ },
+ {
+  "id": "835",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "messages and errands"
+ },
+ {
+  "id": "836",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "office supplies inventory ordering"
+ },
+ {
+  "id": "837",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "calendars and appointments"
+ },
+ {
+  "id": "838",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business forms and expense reports"
+ },
+ {
+  "id": "839",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "junior clerks' work"
+ },
+ {
+  "id": "840",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "correspondence typing and editing"
+ },
+ {
+  "id": "841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials counted or measured"
+ },
+ {
+  "id": "842",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff computer application training"
+ },
+ {
+  "id": "843",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting agendas and minutes"
+ },
+ {
+  "id": "844",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "office equipment problems"
+ },
+ {
+  "id": "13288",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job orders read"
+ },
+ {
+  "id": "13289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "office copying machines"
+ },
+ {
+  "id": "13290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "originals placed in feed trays"
+ },
+ {
+  "id": "13291",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service prices and billing"
+ },
+ {
+  "id": "13292",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed copy work assembled"
+ },
+ {
+  "id": "13293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine speed, ink, copies"
+ },
+ {
+  "id": "13294",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "office machine operation"
+ },
+ {
+  "id": "13295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machines loaded with paper"
+ },
+ {
+  "id": "13296",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supply stock and requisitions"
+ },
+ {
+  "id": "13297",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed documents filed"
+ },
+ {
+  "id": "13298",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and minor repairs"
+ },
+ {
+  "id": "13299",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "auxiliary collating and cutting machines"
+ },
+ {
+  "id": "13300",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production volume records"
+ },
+ {
+  "id": "13301",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed work delivery"
+ },
+ {
+  "id": "13302",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "papers prepared for scanning"
+ },
+ {
+  "id": "13303",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "copies cut and labeled"
+ },
+ {
+  "id": "13304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "master copies and plates"
+ },
+ {
+  "id": "13305",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Braille impression frames"
+ },
+ {
+  "id": "20907",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "manuscript changes with authors"
+ },
+ {
+  "id": "20908",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document research and archiving"
+ },
+ {
+  "id": "20909",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "headlines captions and cover copy"
+ },
+ {
+  "id": "20910",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "page layout element measurements"
+ },
+ {
+  "id": "5158",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "errors and omissions found"
+ },
+ {
+  "id": "5159",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copy errors marked"
+ },
+ {
+  "id": "5160",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "corrected proofs checked"
+ },
+ {
+  "id": "5161",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records compared for discrepancies"
+ },
+ {
+  "id": "5162",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "grammar references checked"
+ },
+ {
+  "id": "5163",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "marked proofs routed"
+ },
+ {
+  "id": "5165",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "proofs read aloud"
+ },
+ {
+  "id": "9788",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data statistical computation"
+ },
+ {
+  "id": "9789",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data entry for analyses"
+ },
+ {
+  "id": "9790",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "statistics from source records"
+ },
+ {
+  "id": "9791",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports charts of findings"
+ },
+ {
+  "id": "9792",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "source data completeness"
+ },
+ {
+  "id": "9793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data publication participation"
+ },
+ {
+  "id": "9794",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client data presentation needs"
+ },
+ {
+  "id": "9795",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data files and databases"
+ },
+ {
+  "id": "9796",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "statistical test selection"
+ },
+ {
+  "id": "9797",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "survey paperwork organization"
+ },
+ {
+  "id": "9798",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data coding before entry"
+ },
+ {
+  "id": "9799",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paper survey forms checked"
+ },
+ {
+  "id": "9800",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "interview respondents' answers"
+ },
+ {
+  "id": "9801",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surveys sent"
+ },
+ {
+  "id": "23340",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "farm worker task assignments"
+ },
+ {
+  "id": "23341",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fish and shellfish counts"
+ },
+ {
+  "id": "23342",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "worker safety rule compliance"
+ },
+ {
+  "id": "23343",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "livestock illness signs"
+ },
+ {
+  "id": "23344",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fish and ponds condition"
+ },
+ {
+  "id": "23345",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "forestry equipment and safety training"
+ },
+ {
+  "id": "23346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal illnesses and injuries"
+ },
+ {
+  "id": "23347",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "aquaculture methods training"
+ },
+ {
+  "id": "23348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "crop work and safety training"
+ },
+ {
+  "id": "23349",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "weather and soil planning"
+ },
+ {
+  "id": "23350",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "forest harvest plan communication"
+ },
+ {
+  "id": "23351",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crop fields and plant stock"
+ },
+ {
+  "id": "23352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment relocation at work sites"
+ },
+ {
+  "id": "23353",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "log movement and shipping coordination"
+ },
+ {
+  "id": "23354",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "crew equipment transport schedules"
+ },
+ {
+  "id": "23355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "farm vehicles and machinery"
+ },
+ {
+  "id": "23356",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "farm management and personnel functions"
+ },
+ {
+  "id": "23357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals, feed, equipment transport"
+ },
+ {
+  "id": "23358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buildings, fences, fields, equipment"
+ },
+ {
+  "id": "23359",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and orders read"
+ },
+ {
+  "id": "23360",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility maintenance needs"
+ },
+ {
+  "id": "23361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production and equipment planning"
+ },
+ {
+  "id": "23362",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll and personnel records"
+ },
+ {
+  "id": "23363",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "farm supply purchases"
+ },
+ {
+  "id": "23364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "farm construction projects"
+ },
+ {
+  "id": "23365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tools and equipment issued"
+ },
+ {
+  "id": "23366",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance and grounds budgets"
+ },
+ {
+  "id": "23367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "farm machinery repair"
+ },
+ {
+  "id": "23368",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "farm operations problems and compliance"
+ },
+ {
+  "id": "23369",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules personnel equipment"
+ },
+ {
+  "id": "14846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "agricultural commodities compliance"
+ },
+ {
+  "id": "14847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "produce and livestock disease testing"
+ },
+ {
+  "id": "14848",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "transport and handling compliance"
+ },
+ {
+  "id": "14849",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "samples for lab testing"
+ },
+ {
+  "id": "14850",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "regulations explained to workers"
+ },
+ {
+  "id": "14851",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "inspection findings reports"
+ },
+ {
+  "id": "14852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "establishment employees' hygiene practices"
+ },
+ {
+  "id": "14853",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "meat plant sanitary conditions"
+ },
+ {
+  "id": "14854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food safety inspection"
+ },
+ {
+  "id": "14855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "shutting down unsafe facilities"
+ },
+ {
+  "id": "14856",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "company grading conformance"
+ },
+ {
+  "id": "14857",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "graded products labeled certified"
+ },
+ {
+  "id": "14863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "poultry eggs meat grades"
+ },
+ {
+  "id": "14864",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product recipes against formulas"
+ },
+ {
+  "id": "14866",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "plant and food safety consulting"
+ },
+ {
+  "id": "14868",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legal testimony"
+ },
+ {
+  "id": "21080",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "feed and medicine supplies"
+ },
+ {
+  "id": "21081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal bathing and grooming"
+ },
+ {
+  "id": "21082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal exercise"
+ },
+ {
+  "id": "8232",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal feeding and pen cleaning"
+ },
+ {
+  "id": "8233",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal illness or injury"
+ },
+ {
+  "id": "8234",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal vaccinations"
+ },
+ {
+  "id": "8235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "breeding animals and semen"
+ },
+ {
+  "id": "8236",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "minor animal injuries"
+ },
+ {
+  "id": "8237",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals in heat"
+ },
+ {
+  "id": "8238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "animal weights and diets"
+ },
+ {
+  "id": "8239",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals at shows"
+ },
+ {
+  "id": "8240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hutches pens and fences"
+ },
+ {
+  "id": "8241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal hair"
+ },
+ {
+  "id": "8243",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "semen packaged labeled"
+ },
+ {
+  "id": "8245",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "breeding and semen logs"
+ },
+ {
+  "id": "8246",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "animal and egg sales"
+ },
+ {
+  "id": "8247",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "semen in syringes"
+ },
+ {
+  "id": "8248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artificial insemination"
+ },
+ {
+  "id": "8249",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building temperature controls"
+ },
+ {
+  "id": "8250",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "semen microscopic assessment"
+ },
+ {
+  "id": "8251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal identification tags"
+ },
+ {
+  "id": "13349",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "agricultural products grading"
+ },
+ {
+  "id": "13350",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective products discarded"
+ },
+ {
+  "id": "13351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product weights"
+ },
+ {
+  "id": "13352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "graded products containers"
+ },
+ {
+  "id": "13353",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "grade numbers on tags"
+ },
+ {
+  "id": "13355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "farm machinery repair"
+ },
+ {
+  "id": "13356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery malfunction sounds"
+ },
+ {
+  "id": "13357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "irrigation ditches and pumps"
+ },
+ {
+  "id": "13358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemicals into sprayer machinery"
+ },
+ {
+  "id": "13359",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tractors combines irrigation equipment"
+ },
+ {
+  "id": "13360",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery controls"
+ },
+ {
+  "id": "13361",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "planting and harvest crews"
+ },
+ {
+  "id": "13362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine hoppers and conveyors"
+ },
+ {
+  "id": "13363",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crop pests with hand sprayers"
+ },
+ {
+  "id": "13364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "implements attached to tractors"
+ },
+ {
+  "id": "13365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "towed planting and spraying machines"
+ },
+ {
+  "id": "13366",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crops and workers hauled"
+ },
+ {
+  "id": "13367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plants inserted into planters"
+ },
+ {
+  "id": "13368",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crop container weights records"
+ },
+ {
+  "id": "13369",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crops and containers"
+ },
+ {
+  "id": "13370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products on conveyors"
+ },
+ {
+  "id": "13371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine output containers"
+ }
+]

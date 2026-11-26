@@ -1,0 +1,1514 @@
+[
+ {
+  "id": "14975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece moving parts lubrication"
+ },
+ {
+  "id": "14976",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn timepiece parts repair"
+ },
+ {
+  "id": "14977",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece parts cleaning"
+ },
+ {
+  "id": "14978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece defect inspection by loupe"
+ },
+ {
+  "id": "14979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece reassembly and battery fitting"
+ },
+ {
+  "id": "14980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece accuracy testing"
+ },
+ {
+  "id": "14981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machined replacement watch parts"
+ },
+ {
+  "id": "14982",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "repair cost and value estimates"
+ },
+ {
+  "id": "14983",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece case and band maintenance"
+ },
+ {
+  "id": "14984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timing regulator adjustment"
+ },
+ {
+  "id": "14985",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair job records"
+ },
+ {
+  "id": "14986",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer timepiece problem history"
+ },
+ {
+  "id": "14987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece batteries and electronics"
+ },
+ {
+  "id": "14988",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece mechanism demagnetizing"
+ },
+ {
+  "id": "21084",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "replacement parts supply orders"
+ },
+ {
+  "id": "19897",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler assembly at site"
+ },
+ {
+  "id": "19898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building efficiency equipment installation"
+ },
+ {
+  "id": "19899",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler routine maintenance"
+ },
+ {
+  "id": "19900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building insulation installation"
+ },
+ {
+  "id": "20670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine disassembly for part removal"
+ },
+ {
+  "id": "20671",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motors belts filters preventive maintenance"
+ },
+ {
+  "id": "20672",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine and structure repair"
+ },
+ {
+  "id": "20673",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specialized facility equipment repair"
+ },
+ {
+  "id": "20674",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts and supplies orders"
+ },
+ {
+  "id": "20675",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building cleaning"
+ },
+ {
+  "id": "20676",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "maintenance staff training and management"
+ },
+ {
+  "id": "20677",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "landscaping and snow removal"
+ },
+ {
+  "id": "20678",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "repair cost estimates"
+ },
+ {
+  "id": "20679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new repair equipment design"
+ },
+ {
+  "id": "3022",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring plumbing machinery assembly and repair"
+ },
+ {
+  "id": "3023",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical problem diagnosis"
+ },
+ {
+  "id": "3024",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery testing for malfunctions"
+ },
+ {
+  "id": "3025",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance work cost records"
+ },
+ {
+  "id": "3026",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts cleaning and lubrication"
+ },
+ {
+  "id": "3028",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "repair work layout planning"
+ },
+ {
+  "id": "3030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "device and control adjustment"
+ },
+ {
+  "id": "3031",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building surfaces painting and repair"
+ },
+ {
+  "id": "3032",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal cutting and welding"
+ },
+ {
+  "id": "3033",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new equipment alignment and balancing"
+ },
+ {
+  "id": "3034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "used parts dimensional measuring"
+ },
+ {
+  "id": "3035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine tool part fabrication"
+ },
+ {
+  "id": "3037",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wooden structures fabrication"
+ },
+ {
+  "id": "17805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbine blade inspection and repair"
+ },
+ {
+  "id": "17806",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbine control system troubleshooting"
+ },
+ {
+  "id": "17807",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbine tower climbing"
+ },
+ {
+  "id": "17808",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbine generator fault diagnosis"
+ },
+ {
+  "id": "17809",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbine equipment routine maintenance"
+ },
+ {
+  "id": "17810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "generator system start up"
+ },
+ {
+  "id": "17811",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical component testing"
+ },
+ {
+  "id": "17812",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbine systems testing per plans"
+ },
+ {
+  "id": "17813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wind generator and farm assembly"
+ },
+ {
+  "id": "17814",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "turbine test data collection"
+ },
+ {
+  "id": "17815",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tool and spare parts inventory"
+ },
+ {
+  "id": "17817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training technicians in procedures"
+ },
+ {
+  "id": "13835",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vending machine restocking"
+ },
+ {
+  "id": "13836",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchandise and cash records"
+ },
+ {
+  "id": "13837",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coin collection and invoicing"
+ },
+ {
+  "id": "13838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine service calls"
+ },
+ {
+  "id": "13839",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine malfunction inspection and fixes"
+ },
+ {
+  "id": "13840",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine function testing"
+ },
+ {
+  "id": "13841",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "arranging major repair help"
+ },
+ {
+  "id": "13842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts cleaning and oiling"
+ },
+ {
+  "id": "13843",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction logs and discrepancies"
+ },
+ {
+  "id": "13844",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine gauges and thermostats"
+ },
+ {
+  "id": "13845",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "machine maintenance records"
+ },
+ {
+  "id": "13846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine parts replacement"
+ },
+ {
+  "id": "13847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine and meter repair"
+ },
+ {
+  "id": "13848",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair parts orders"
+ },
+ {
+  "id": "13849",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine disassembly and assembly"
+ },
+ {
+  "id": "13850",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine installation with utility connections"
+ },
+ {
+  "id": "13851",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuals and wiring diagrams"
+ },
+ {
+  "id": "13852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine transport to sites"
+ },
+ {
+  "id": "13854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "underwater diver communication"
+ },
+ {
+  "id": "13855",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dive safety monitoring and registration"
+ },
+ {
+  "id": "13856",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diving gear maintenance"
+ },
+ {
+  "id": "13857",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater descent with gear"
+ },
+ {
+  "id": "13858",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dive task and conditions information"
+ },
+ {
+  "id": "13859",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater structure inspection and testing"
+ },
+ {
+  "id": "13860",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater structure repairs"
+ },
+ {
+  "id": "13861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater steel cutting and welding"
+ },
+ {
+  "id": "13862",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sunken object rigging and recovery"
+ },
+ {
+  "id": "13863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pier and bridge piling installation"
+ },
+ {
+  "id": "13864",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater samples and photographs"
+ },
+ {
+  "id": "13865",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater piping and valves"
+ },
+ {
+  "id": "13866",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater video and sonar operation"
+ },
+ {
+  "id": "13867",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "strainer and launching way obstructions"
+ },
+ {
+  "id": "13868",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wreck and cargo salvage"
+ },
+ {
+  "id": "13869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater piling and sandbag placement"
+ },
+ {
+  "id": "13870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "underwater rescue and cleanup"
+ },
+ {
+  "id": "13871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "diver supervision and training"
+ },
+ {
+  "id": "13872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rig leg crack testing"
+ },
+ {
+  "id": "13873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater rock drilling and explosives"
+ },
+ {
+  "id": "13874",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sea rubbish and pollution removal"
+ },
+ {
+  "id": "13875",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "offshore rig surveys and maintenance"
+ },
+ {
+  "id": "20809",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underwater structure condition inspection"
+ },
+ {
+  "id": "18789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "key duplication by machine"
+ },
+ {
+  "id": "18790",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "master key system setup"
+ },
+ {
+  "id": "18791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door lock and closer installation"
+ },
+ {
+  "id": "18792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "alarm and access system installation"
+ },
+ {
+  "id": "18793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vehicle lockout opening"
+ },
+ {
+  "id": "7124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "key cutting by machine"
+ },
+ {
+  "id": "7125",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lock and key records"
+ },
+ {
+  "id": "7126",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lock tumbler combination change"
+ },
+ {
+  "id": "7127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lock picking without keys"
+ },
+ {
+  "id": "7128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locking device repair"
+ },
+ {
+  "id": "7129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "safe and vault door repair"
+ },
+ {
+  "id": "7130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "safe and vault installation"
+ },
+ {
+  "id": "7131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling open safe locks"
+ },
+ {
+  "id": "7132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "safe and vault refinishing"
+ },
+ {
+  "id": "13878",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "modular unit sealing for shipment"
+ },
+ {
+  "id": "13879",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mobile home setup on lots"
+ },
+ {
+  "id": "13880",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "home systems inspection and testing"
+ },
+ {
+  "id": "13881",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plumbing connection and fixture testing"
+ },
+ {
+  "id": "13882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exterior panel and frame repair"
+ },
+ {
+  "id": "13883",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parts list cost estimate planning"
+ },
+ {
+  "id": "13884",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer damage assessment consultation"
+ },
+ {
+  "id": "13885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "home fixtures and appliances installation"
+ },
+ {
+  "id": "13886",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardware resetting"
+ },
+ {
+  "id": "13887",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plumbing and gas leak repair"
+ },
+ {
+  "id": "13888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring fault repair"
+ },
+ {
+  "id": "13889",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door window drawer fit testing"
+ },
+ {
+  "id": "13890",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical hookup and appliance testing"
+ },
+ {
+  "id": "13891",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wood surfaces refinishing"
+ },
+ {
+  "id": "13892",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hoisting crew signaling and direction"
+ },
+ {
+  "id": "13893",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "rigging safety testing"
+ },
+ {
+  "id": "13894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loads attached to rigging"
+ },
+ {
+  "id": "13895",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "rigging gear selection by load"
+ },
+ {
+  "id": "13896",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy equipment confined space moving"
+ },
+ {
+  "id": "13897",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "suspended load maneuvering"
+ },
+ {
+  "id": "13898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery alignment and anchoring"
+ },
+ {
+  "id": "13899",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rigging and hoist fabrication"
+ },
+ {
+  "id": "13900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rigging lines and hoists manipulation"
+ },
+ {
+  "id": "13901",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pulleys attached to overhead structures"
+ },
+ {
+  "id": "13902",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rigging dismantling and storage"
+ },
+ {
+  "id": "13903",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yarding line ground rigging"
+ },
+ {
+  "id": "13904",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine surfaces cleaning"
+ },
+ {
+  "id": "21206",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine loading onto trucks"
+ },
+ {
+  "id": "13905",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "railroad signal equipment maintenance"
+ },
+ {
+  "id": "13906",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crossing gate and signal testing"
+ },
+ {
+  "id": "13907",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track switch mechanism inspection"
+ },
+ {
+  "id": "13908",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving to job sites"
+ },
+ {
+  "id": "13909",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loose bolts and circuit tests"
+ },
+ {
+  "id": "13910",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crossing gate electrical repair"
+ },
+ {
+  "id": "13911",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "signal wiring lenses and bulbs"
+ },
+ {
+  "id": "13912",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "track inspection and repair reports"
+ },
+ {
+  "id": "13913",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "signal equipment batteries"
+ },
+ {
+  "id": "13914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gate mechanism lubrication"
+ },
+ {
+  "id": "13915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "signal lamp lens cleaning"
+ },
+ {
+  "id": "23936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track circuit testing and repair"
+ },
+ {
+  "id": "20150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools and machines repair assistance"
+ },
+ {
+  "id": "20151",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "replacement parts inventory orders"
+ },
+ {
+  "id": "20152",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical diagnosis and rewiring"
+ },
+ {
+  "id": "20153",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts design welding and fabrication"
+ },
+ {
+  "id": "3080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery operation observation"
+ },
+ {
+  "id": "3081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery defect examination"
+ },
+ {
+  "id": "3082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring piping and tubing connections"
+ },
+ {
+  "id": "3083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery and parts installation"
+ },
+ {
+  "id": "3084",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicles and equipment cleaning"
+ },
+ {
+  "id": "3085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment protective coating application"
+ },
+ {
+  "id": "3086",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools and parts transfer"
+ },
+ {
+  "id": "3087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broken equipment disassembly and reassembly"
+ },
+ {
+  "id": "3088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical structures assembly"
+ },
+ {
+  "id": "3090",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment positioning for installation"
+ },
+ {
+  "id": "3091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools and parts supplied to workers"
+ },
+ {
+  "id": "3092",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanic work station preparation"
+ },
+ {
+  "id": "17932",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal plant equipment fault correction"
+ },
+ {
+  "id": "17933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal heat pump installation"
+ },
+ {
+  "id": "17934",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal plant operations monitoring"
+ },
+ {
+  "id": "17935",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "power production load adjustment"
+ },
+ {
+  "id": "17936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pipe trench backfilling"
+ },
+ {
+  "id": "17937",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "residential heat loss calculation"
+ },
+ {
+  "id": "17938",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "geothermal heat system design layout"
+ },
+ {
+  "id": "17939",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "geothermal loop type selection"
+ },
+ {
+  "id": "17940",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trench digging and piping"
+ },
+ {
+  "id": "17941",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new geothermal system flushing"
+ },
+ {
+  "id": "17942",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geothermal equipment option selection"
+ },
+ {
+  "id": "17943",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal instrumentation and controls"
+ },
+ {
+  "id": "17944",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant switchgear and controls maintenance"
+ },
+ {
+  "id": "17945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant instrumentation calibration and repair"
+ },
+ {
+  "id": "17946",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "geothermal loop pressure and flow tests"
+ },
+ {
+  "id": "17949",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "corrosion coatings on plant equipment"
+ },
+ {
+  "id": "17950",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "geothermal plant operating data"
+ },
+ {
+  "id": "17951",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency heating cooling needs assessment"
+ },
+ {
+  "id": "17952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant electrical protection equipment"
+ },
+ {
+  "id": "17953",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water heater and geothermal integration"
+ },
+ {
+  "id": "17954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excavation equipment operation"
+ },
+ {
+  "id": "17955",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work logs and reports"
+ },
+ {
+  "id": "17956",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water source flow and contaminants"
+ },
+ {
+  "id": "17957",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "HDPE pipe welding"
+ }
+]

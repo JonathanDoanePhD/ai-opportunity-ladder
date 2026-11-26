@@ -1,0 +1,1602 @@
+[
+{
+"id": "1591",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "client treatment record confidentiality"
+},
+{
+"id": "1592",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clients' feelings and self-insight"
+},
+{
+"id": "1593",
+"ai_alone": 0,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client coping skills"
+},
+{
+"id": "1594",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "treatment records and reports"
+},
+{
+"id": "1595",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clients in counseling sessions"
+},
+{
+"id": "1596",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client background via interviews and tests"
+},
+{
+"id": "1597",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "client crisis coordination"
+},
+{
+"id": "1598",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client treatment plans"
+},
+{
+"id": "1600",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "client condition from records"
+},
+{
+"id": "1601",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "families, officers, police exchanging information"
+},
+{
+"id": "1602",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client referrals to resources"
+},
+{
+"id": "1603",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "client family members"
+},
+{
+"id": "1604",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "counseling program effectiveness"
+},
+{
+"id": "1605",
+"ai_alone": 0,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "structured client activity programs"
+},
+{
+"id": "1606",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "treatment approaches as status changes"
+},
+{
+"id": "1607",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "counseling professional literature and training"
+},
+{
+"id": "1608",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "patient post-therapy life plans"
+},
+{
+"id": "1609",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "community mental health needs and resources"
+},
+{
+"id": "1610",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client medication use"
+},
+{
+"id": "1612",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "prevention and community health programs"
+},
+{
+"id": "18483",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient suicide risk"
+},
+{
+"id": "18484",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "client paperwork and progress notes"
+},
+{
+"id": "18485",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "counselors, staff, graduate students"
+},
+{
+"id": "18486",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "employee mental health workshops"
+},
+{
+"id": "20402",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "clients in crisis"
+},
+{
+"id": "23908",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "patients and others' safety in crisis"
+},
+{
+"id": "23909",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clinical assessments with colleagues"
+},
+{
+"id": "20234",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "case service budgets and expenditures"
+},
+{
+"id": "21178",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "rehabilitation counselors and staff"
+},
+{
+"id": "9200",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client progress records"
+},
+{
+"id": "9201",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "client options and rehabilitation goals"
+},
+{
+"id": "9202",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "case files and client documentation"
+},
+{
+"id": "9203",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "client evaluation appointments"
+},
+{
+"id": "9204",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "client abilities and eligibility information"
+},
+{
+"id": "9205",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client rehabilitation plans"
+},
+{
+"id": "9206",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "clients during job training placements"
+},
+{
+"id": "9207",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "community referral source relationships"
+},
+{
+"id": "9208",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "client employment barriers"
+},
+{
+"id": "9209",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "job coaching and assistive devices"
+},
+{
+"id": "9210",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "rehabilitation programs with other professionals"
+},
+{
+"id": "9211",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "diagnostic procedures for client needs"
+},
+{
+"id": "9212",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client job placement with employers"
+},
+{
+"id": "9213",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clients' families implementing plans"
+},
+{
+"id": "9214",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "community facilities for disabled persons"
+},
+{
+"id": "235",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client situations and service needs"
+},
+{
+"id": "236",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clients and communities with problems"
+},
+{
+"id": "237",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "case history records and reports"
+},
+{
+"id": "238",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "students needing assistance"
+},
+{
+"id": "239",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "parents, teachers about student problems"
+},
+{
+"id": "240",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "parents with child rearing problems"
+},
+{
+"id": "241",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client service plans and follow-ups"
+},
+{
+"id": "242",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "supplementary client records"
+},
+{
+"id": "243",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "legal child abuse and custody issues"
+},
+{
+"id": "244",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "support services for families"
+},
+{
+"id": "245",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client referrals to community resources"
+},
+{
+"id": "246",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "medical and psychiatric test arrangements"
+},
+{
+"id": "249",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "foster and adoption applicant homes"
+},
+{
+"id": "250",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "students, homes, schools, agencies"
+},
+{
+"id": "251",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "children in foster or adoptive homes"
+},
+{
+"id": "252",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "other social workers"
+},
+{
+"id": "253",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "foster care and adoptive parents"
+},
+{
+"id": "254",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client financial assistance eligibility"
+},
+{
+"id": "255",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "social research"
+},
+{
+"id": "256",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "group counseling clients"
+},
+{
+"id": "257",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "policy committees and community advocacy"
+},
+{
+"id": "15227",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient discharge to home or facility"
+},
+{
+"id": "23910",
+"ai_alone": 0,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients' end-of-life options"
+},
+{
+"id": "258",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient condition with other professionals"
+},
+{
+"id": "259",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "child abuse and neglect cases"
+},
+{
+"id": "260",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "patient referrals to community resources"
+},
+{
+"id": "261",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "patients in counseling sessions"
+},
+{
+"id": "262",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "support groups and family members"
+},
+{
+"id": "263",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "client crisis advocacy"
+},
+{
+"id": "264",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "impediments to patient progress"
+},
+{
+"id": "265",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient care and rehabilitation coordination"
+},
+{
+"id": "266",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "treatment plans as status changes"
+},
+{
+"id": "267",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client progress against care goals"
+},
+{
+"id": "268",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "workers serving clients"
+},
+{
+"id": "269",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "social policy and community development"
+},
+{
+"id": "270",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "Medicaid and Medicare paperwork"
+},
+{
+"id": "271",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "social work research"
+},
+{
+"id": "272",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "community social problem programs"
+},
+{
+"id": "18487",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients' mental or physical condition"
+},
+{
+"id": "18488",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients and community about illness"
+},
+{
+"id": "18489",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "clients' treatment plan adherence"
+},
+{
+"id": "18490",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "social work literature and training"
+},
+{
+"id": "273",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clients in counseling sessions"
+},
+{
+"id": "275",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "treatment plans with clinicians"
+},
+{
+"id": "276",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "client treatment progress records"
+},
+{
+"id": "277",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client housing and treatment referrals"
+},
+{
+"id": "278",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "clients' family members"
+},
+{
+"id": "279",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "treatment plans as status changes"
+},
+{
+"id": "280",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "community prevention programs"
+},
+{
+"id": "281",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "workers serving clients"
+},
+{
+"id": "282",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "social policy and community development"
+},
+{
+"id": "20235",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "community health education materials"
+},
+{
+"id": "20236",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "public health education materials"
+},
+{
+"id": "20237",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "employee training programs"
+},
+{
+"id": "9216",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "program activity records"
+},
+{
+"id": "9217",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "health promotion presentations and workshops"
+},
+{
+"id": "9218",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "public health agency relationships"
+},
+{
+"id": "9220",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "health education plans and policies"
+},
+{
+"id": "9221",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "community health needs and goals"
+},
+{
+"id": "9222",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "program databases and mailing lists"
+},
+{
+"id": "9223",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "professional and technical staff"
+},
+{
+"id": "9224",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "health education program evaluations"
+},
+{
+"id": "9225",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "program press releases and websites"
+},
+{
+"id": "9226",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "health education grant applications"
+},
+{
+"id": "9227",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "agency health education needs guidance"
+},
+{
+"id": "9228",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "health education resource library"
+},
+{
+"id": "9229",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "community health needs surveys"
+},
+{
+"id": "1614",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "offender case folders"
+},
+{
+"id": "1615",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "offender progress reports"
+},
+{
+"id": "1616",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "offenders about release conditions"
+},
+{
+"id": "1617",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "offenders' substance and anger issues"
+},
+{
+"id": "1618",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "offender background interviews"
+},
+{
+"id": "1619",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "offender rehabilitation programs"
+},
+{
+"id": "1620",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "agency networks for offender adjustment"
+},
+{
+"id": "1621",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "offender treatment service arrangements"
+},
+{
+"id": "1622",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "offender detainer and assistance matters"
+},
+{
+"id": "1623",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "offender postrelease services"
+},
+{
+"id": "1624",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "probation noncompliance and court action"
+},
+{
+"id": "1625",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "probationers' progress interviews"
+},
+{
+"id": "1627",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "inmate parole suitability recommendations"
+},
+{
+"id": "1628",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "alleged parole violations"
+},
+{
+"id": "1629",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "offender presentencing investigations and testimony"
+},
+{
+"id": "1630",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "offender penitentiary placement"
+},
+{
+"id": "1631",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "court case routing decisions"
+},
+{
+"id": "1632",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "community service work placements"
+},
+{
+"id": "1633",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "social service information packets"
+},
+{
+"id": "20055",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "offender drug and alcohol tests"
+},
+{
+"id": "20056",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "offenders in community supervision"
+},
+{
+"id": "21179",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client abilities and emotional needs"
+},
+{
+"id": "21180",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client behavior management plans"
+},
+{
+"id": "3753",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "referrals to community services"
+},
+{
+"id": "3754",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "client visit records and reports"
+},
+{
+"id": "3755",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "individuals in homes about agency services"
+},
+{
+"id": "3756",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients' budgeting and housekeeping"
+},
+{
+"id": "3757",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "reports reviewed with superior"
+},
+{
+"id": "3758",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "residents' daily group activities"
+},
+{
+"id": "3759",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "client social and drug history"
+},
+{
+"id": "3761",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "clients transported to appointments"
+},
+{
+"id": "3762",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "owner rules for tenants"
+},
+{
+"id": "3763",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "clients' meal preparation methods"
+},
+{
+"id": "3764",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "equipment use demonstrations for tenants"
+},
+{
+"id": "3765",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "family programs with supervisor"
+},
+{
+"id": "3767",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "clients' food choices"
+},
+{
+"id": "3768",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "tenants about facilities"
+},
+{
+"id": "3770",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "displaced individuals' housing search"
+},
+{
+"id": "3771",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "clients' tax and rent forms"
+},
+{
+"id": "3772",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "clients' food budgets"
+},
+{
+"id": "19015",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patients receiving immunizations"
+},
+{
+"id": "19016",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients about diagnostic screenings"
+},
+{
+"id": "19017",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients about diet and exercise"
+},
+{
+"id": "19018",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients about condition risk prevention"
+},
+{
+"id": "19019",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients about hygiene"
+},
+{
+"id": "19020",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients about self-care"
+},
+{
+"id": "19021",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "clients about social development"
+},
+{
+"id": "19022",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "parents about childhood immunizations"
+},
+{
+"id": "19023",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "community health needs with agencies"
+},
+{
+"id": "19024",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "community meetings and health fairs"
+},
+{
+"id": "19025",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "high-risk clients during home visits"
+},
+{
+"id": "19026",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "clients' completion of recommended actions"
+},
+{
+"id": "19027",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "community flyers and brochures"
+},
+{
+"id": "19028",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "high-risk targeted groups"
+},
+{
+"id": "19029",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "individuals' community health care needs"
+},
+{
+"id": "19030",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "health information for community members"
+},
+{
+"id": "19031",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "client records and notes"
+},
+{
+"id": "19032",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "nutrition of high-risk groups"
+},
+{
+"id": "19033",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "clients' basic diagnostic screenings"
+},
+{
+"id": "19034",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "first aid for clients"
+},
+{
+"id": "19035",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "provider feedback on service access"
+},
+{
+"id": "19036",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "community referrals to health services"
+},
+{
+"id": "19038",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "school and community groups' health classes"
+},
+{
+"id": "19039",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "families applying for social services"
+},
+{
+"id": "19040",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 1,
+"notes": "community health vital statistics"
+},
+{
+"id": "19041",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "health improvement plans for clients"
+},
+{
+"id": "19042",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "abuse and neglect reports to authorities"
+},
+{
+"id": "19043",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "clients to health appointments"
+},
+{
+"id": "10934",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "prayer and spirituality"
+},
+{
+"id": "10935",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "sacred texts readings"
+},
+{
+"id": "10936",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 2,
+"physical": 0,
+"notes": "sermons and talks"
+},
+{
+"id": "10937",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "religious services"
+},
+{
+"id": "10938",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "religious issues articles and speeches"
+},
+{
+"id": "10939",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "people seeking conversion"
+},
+{
+"id": "10940",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "spiritual and emotional needs counseling"
+},
+{
+"id": "10941",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "people in homes, hospitals, prisons"
+},
+{
+"id": "10942",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "church and youth group leaders"
+},
+{
+"id": "10943",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "religious rites and ordinances"
+},
+{
+"id": "10944",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "religious laws and doctrines"
+},
+{
+"id": "10945",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "weddings, funerals, confirmations"
+},
+{
+"id": "10947",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "emergency and crisis requests"
+},
+{
+"id": "10948",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "congregational membership expansion"
+},
+{
+"id": "10949",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "congregation financial and administrative issues"
+},
+{
+"id": "10950",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "people preparing for ceremonies"
+},
+{
+"id": "10951",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "building, supplies, staff administration"
+},
+{
+"id": "10952",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "community service referrals"
+},
+{
+"id": "10953",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "congregational fundraising"
+},
+{
+"id": "20748",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "religious education programs"
+},
+{
+"id": "20749",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "interfaith and community activities"
+}
+]

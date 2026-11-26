@@ -1,0 +1,1546 @@
+[
+ {
+  "id": "23370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "harvested nursery plants potted and labeled"
+ },
+ {
+  "id": "23371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tractor field work machinery"
+ },
+ {
+  "id": "23372",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "irrigation equipment setup"
+ },
+ {
+  "id": "23373",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "farm vehicle repair"
+ },
+ {
+  "id": "23374",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand harvesting produce"
+ },
+ {
+  "id": "23375",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas and grounds"
+ },
+ {
+  "id": "23376",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "plants sold and delivered to customers"
+ },
+ {
+  "id": "23378",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "crop progress reports to managers"
+ },
+ {
+  "id": "23379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "seasonal crew supervision"
+ },
+ {
+  "id": "23380",
+  "ai_alone": 1,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plants pests weeds identification"
+ },
+ {
+  "id": "23381",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "greenhouse climate and irrigation"
+ },
+ {
+  "id": "23383",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant leaves checked by touch"
+ },
+ {
+  "id": "23384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer product advice"
+ },
+ {
+  "id": "23385",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "irrigation climate control repair"
+ },
+ {
+  "id": "23386",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "seedlings and trees dug up"
+ },
+ {
+  "id": "23387",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "crop pesticide yield records"
+ },
+ {
+  "id": "23388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "farm buildings and fences repair"
+ },
+ {
+  "id": "23389",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and material orders"
+ },
+ {
+  "id": "23390",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plant growth records"
+ },
+ {
+  "id": "23391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil prepared in cold frames"
+ },
+ {
+  "id": "23392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crop sorting grading storage"
+ },
+ {
+  "id": "23393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant quality inspection"
+ },
+ {
+  "id": "23395",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "containerized plants moved"
+ },
+ {
+  "id": "23396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plants bunched and packed"
+ },
+ {
+  "id": "23397",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "produce loaded and trucked"
+ },
+ {
+  "id": "23398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "topsoil and fertilizer spreading"
+ },
+ {
+  "id": "23399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plants tended with gardening tools"
+ },
+ {
+  "id": "13410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock feed and water supplies"
+ },
+ {
+  "id": "13411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feed distribution by vehicle"
+ },
+ {
+  "id": "13412",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals examined for illness"
+ },
+ {
+  "id": "13413",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal medical treatment"
+ },
+ {
+  "id": "13414",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feed additives and medicines mixing"
+ },
+ {
+  "id": "13415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment buildings and fences upkeep"
+ },
+ {
+  "id": "13416",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock and poultry moved"
+ },
+ {
+  "id": "13417",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stalls and pens cleaned"
+ },
+ {
+  "id": "13418",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock marking"
+ },
+ {
+  "id": "13419",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "herding livestock"
+ },
+ {
+  "id": "13420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grazing area rotation"
+ },
+ {
+  "id": "13421",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animal feed orders"
+ },
+ {
+  "id": "13422",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock breeding and births"
+ },
+ {
+  "id": "13424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals sorted by condition"
+ },
+ {
+  "id": "13425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grazing land patrol"
+ },
+ {
+  "id": "13426",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "growth feeding cost records"
+ },
+ {
+  "id": "13427",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal grooming and shearing"
+ },
+ {
+  "id": "13428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock spraying and dipping"
+ },
+ {
+  "id": "13430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "herd protection with dogs"
+ },
+ {
+  "id": "23400",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trap lines and nets"
+ },
+ {
+  "id": "23401",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "landowner permission for trapping"
+ },
+ {
+  "id": "23402",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "travel to hunting areas"
+ },
+ {
+  "id": "23403",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel steering and navigation"
+ },
+ {
+  "id": "23404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "skinning quarry stretching pelts"
+ },
+ {
+  "id": "23405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trapping equipment repair"
+ },
+ {
+  "id": "23406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pelt scraping"
+ },
+ {
+  "id": "23407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fishing gear deployment"
+ },
+ {
+  "id": "23408",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines and fishing gear upkeep"
+ },
+ {
+  "id": "23409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "catch sorting and storage"
+ },
+ {
+  "id": "23410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "catch measured for legal size"
+ },
+ {
+  "id": "23411",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fish location via sonar"
+ },
+ {
+  "id": "23412",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "trapping approvals and notices"
+ },
+ {
+  "id": "23413",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal sign tracking"
+ },
+ {
+  "id": "23414",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vessel course plotting"
+ },
+ {
+  "id": "23415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traps baited and set"
+ },
+ {
+  "id": "23416",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lifting devices attached to cables"
+ },
+ {
+  "id": "23417",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wildlife damage control activities"
+ },
+ {
+  "id": "23418",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fish transport to buyers"
+ },
+ {
+  "id": "23419",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "weather and vessel conditions"
+ },
+ {
+  "id": "23420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "quarry released from traps"
+ },
+ {
+  "id": "23421",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trapped animals killed"
+ },
+ {
+  "id": "23423",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "decks and equipment washed"
+ },
+ {
+  "id": "23424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floats attached to nets"
+ },
+ {
+  "id": "23425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "hunting methods taught in field"
+ },
+ {
+  "id": "23426",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel gear loaded and unloaded"
+ },
+ {
+  "id": "23427",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marine life harvest"
+ },
+ {
+  "id": "23428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "fishing crew supervision"
+ },
+ {
+  "id": "23429",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supplies and gear purchasing"
+ },
+ {
+  "id": "20632",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree seedlings sorted by quality"
+ },
+ {
+  "id": "7026",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment operating condition"
+ },
+ {
+  "id": "7027",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "coworker safety and work discussions"
+ },
+ {
+  "id": "7028",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forest fire fighting"
+ },
+ {
+  "id": "7029",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fire breaks and brush"
+ },
+ {
+  "id": "7030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees cut per markings"
+ },
+ {
+  "id": "7031",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diseased trees sawn down"
+ },
+ {
+  "id": "7032",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vegetation spraying insecticide herbicide"
+ },
+ {
+  "id": "7034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree thinning with saws"
+ },
+ {
+  "id": "7035",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tree tally counts"
+ },
+ {
+  "id": "7037",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "signs and fences erected"
+ },
+ {
+  "id": "7038",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree limbs pruned"
+ },
+ {
+  "id": "7039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "seedlings planted by hand"
+ },
+ {
+  "id": "7040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forest survey crew assistance"
+ },
+ {
+  "id": "7041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "camping and fire regulations enforcement"
+ },
+ {
+  "id": "7042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site preparation machinery driving"
+ },
+ {
+  "id": "7045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "campsites and restrooms maintained"
+ },
+ {
+  "id": "13484",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "saw stopped and escape from falling tree"
+ },
+ {
+  "id": "13485",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree condition and lean appraisal"
+ },
+ {
+  "id": "13486",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "back-cut sawing on trees"
+ },
+ {
+  "id": "13487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brush and escape routes cleared"
+ },
+ {
+  "id": "13488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "felled trees cut into logs"
+ },
+ {
+  "id": "13489",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cut log quality and length"
+ },
+ {
+  "id": "13490",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cut positions and wedge placement"
+ },
+ {
+  "id": "13491",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree fall direction control"
+ },
+ {
+  "id": "13492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "felled tree limbs trimmed"
+ },
+ {
+  "id": "13493",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees chosen for felling"
+ },
+ {
+  "id": "13494",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chainsaw maintenance and sharpening"
+ },
+ {
+  "id": "13495",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wedges driven behind saws"
+ },
+ {
+  "id": "13496",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unsafe trees tagged"
+ },
+ {
+  "id": "13497",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables chained to logs"
+ },
+ {
+  "id": "13498",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logs loaded onto trucks"
+ },
+ {
+  "id": "13499",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logs marked for identification"
+ },
+ {
+  "id": "13500",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "team rotation saw and skidder"
+ },
+ {
+  "id": "13501",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "felled trees supported with poles"
+ },
+ {
+  "id": "9802",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logging equipment safety inspection"
+ },
+ {
+  "id": "9803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logging tractors driven"
+ },
+ {
+  "id": "9804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "log dragging with tractors"
+ },
+ {
+  "id": "9805",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logging road building"
+ },
+ {
+  "id": "9806",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "log grade characteristics"
+ },
+ {
+  "id": "9807",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydraulic tree clamp control"
+ },
+ {
+  "id": "9808",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "harvester shearing and cutting trees"
+ },
+ {
+  "id": "9809",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job and shift report forms"
+ },
+ {
+  "id": "9810",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wood volume calculations"
+ },
+ {
+  "id": "21015",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "log hauling arrangements to mills"
+ },
+ {
+  "id": "9811",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "log grades by inspection"
+ },
+ {
+  "id": "9812",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tree and load volume data"
+ },
+ {
+  "id": "9813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logs painted with grade marks"
+ },
+ {
+  "id": "9814",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "log volume and value measuring"
+ },
+ {
+  "id": "9815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "log lengths marked for bucking"
+ },
+ {
+  "id": "9816",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "substandard logs identified"
+ },
+ {
+  "id": "9817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "logs jabbed and inspected for defects"
+ },
+ {
+  "id": "9818",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving to inspect logs"
+ },
+ {
+  "id": "9819",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "signals directing log movement"
+ },
+ {
+  "id": "9820",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "log truck weights and suppliers"
+ },
+ {
+  "id": "9821",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "felled trees sawn into lengths"
+ },
+ {
+  "id": "11424",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprint construction specifications"
+ },
+ {
+  "id": "11425",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material and worker requirements"
+ },
+ {
+  "id": "11426",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "construction worker supervision and scheduling"
+ },
+ {
+  "id": "11427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "managers and contractors problem coordination"
+ },
+ {
+  "id": "11428",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordination with project activities"
+ },
+ {
+  "id": "11429",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials and supplies orders"
+ },
+ {
+  "id": "11430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site locations measured and marked"
+ },
+ {
+  "id": "11431",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel and production forms"
+ },
+ {
+  "id": "11432",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work assignments to employees"
+ },
+ {
+  "id": "11433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "helping workers with hand tools"
+ },
+ {
+  "id": "11434",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "workers trained in methods and safety"
+ },
+ {
+  "id": "11435",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "worker and production problems analysis"
+ },
+ {
+  "id": "11436",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment repair arrangements"
+ },
+ {
+  "id": "11437",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel actions promotions hires"
+ },
+ {
+  "id": "20291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "work progress and site safety inspection"
+ },
+ {
+  "id": "17725",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar installation planning and codes"
+ },
+ {
+  "id": "17726",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "solar crew safety supervision"
+ },
+ {
+  "id": "17727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "solar site feasibility assessment"
+ },
+ {
+  "id": "17728",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "solar system performance assessment"
+ },
+ {
+  "id": "17729",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building inspection scheduling"
+ },
+ {
+  "id": "17730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "contractor work conformance monitoring"
+ },
+ {
+  "id": "17731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solar system start-up testing"
+ },
+ {
+  "id": "17732",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "installer technical assistance"
+ },
+ {
+  "id": "17733",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "customer site needs visits"
+ },
+ {
+  "id": "17734",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system diagrams and architecture"
+ },
+ {
+  "id": "17735",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "solar project materials and labor estimates"
+ },
+ {
+  "id": "17736",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "subcontractor bids evaluation"
+ },
+ {
+  "id": "17737",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "solar project cost and risk reduction"
+ },
+ {
+  "id": "17738",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "solar project proposals and quotes"
+ },
+ {
+  "id": "17739",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment purchase or rental"
+ },
+ {
+  "id": "11438",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler and vessel defects"
+ },
+ {
+  "id": "11439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pressure vessel parts welded"
+ },
+ {
+  "id": "11440",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel components defect inspection"
+ },
+ {
+  "id": "11441",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel parts repair"
+ },
+ {
+  "id": "11442",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "rigging and crane signals"
+ },
+ {
+  "id": "11443",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel tube ends sealed"
+ },
+ {
+  "id": "11444",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heavy plate layout marking"
+ },
+ {
+  "id": "11445",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler drum fittings installed"
+ },
+ {
+  "id": "11446",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprint part locations and dimensions"
+ },
+ {
+  "id": "11447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bent vessel plates reshaped"
+ },
+ {
+  "id": "11448",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel seams and edges shaped"
+ },
+ {
+  "id": "11449",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structural parts aligned to frames"
+ },
+ {
+  "id": "11450",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler foundation reference points"
+ },
+ {
+  "id": "11451",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel stacks and chutes fabricated"
+ },
+ {
+  "id": "11452",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pressure vessel cleaning"
+ },
+ {
+  "id": "11453",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refractory bricks in fireboxes"
+ },
+ {
+  "id": "11454",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "large vessels shop assembly"
+ },
+ {
+  "id": "24011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel pressure testing"
+ },
+ {
+  "id": "4768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brick corner construction"
+ },
+ {
+  "id": "4769",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work layout guidelines marked"
+ },
+ {
+  "id": "4770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "course angles and alignment"
+ },
+ {
+  "id": "4771",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brick fastened to structure"
+ },
+ {
+  "id": "4772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bricks cut to size"
+ },
+ {
+  "id": "4773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mortar joints finished"
+ },
+ {
+  "id": "4774",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprint specs and material quantities"
+ },
+ {
+  "id": "4775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mortar applied to surfaces"
+ },
+ {
+  "id": "4776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refractory mortar mixing"
+ },
+ {
+  "id": "4777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brickwork repair needs"
+ },
+ {
+  "id": "4778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "working surface cleaning"
+ },
+ {
+  "id": "4779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bricks laid and aligned"
+ },
+ {
+  "id": "4780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged brick and mortar removal"
+ },
+ {
+  "id": "4781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refractory material sprayed on brickwork"
+ }
+]

@@ -1,0 +1,1402 @@
+[
+ {
+  "id": "20887",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "station identification and show intros"
+ },
+ {
+  "id": "20888",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "broadcast story lines"
+ },
+ {
+  "id": "20889",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "broadcast scripts and video copy"
+ },
+ {
+  "id": "20890",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "music library organization"
+ },
+ {
+  "id": "3924",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news, sports, weather reports"
+ },
+ {
+  "id": "3925",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news flash reading"
+ },
+ {
+  "id": "3927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "program content selection"
+ },
+ {
+  "id": "3928",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "background research for programs"
+ },
+ {
+  "id": "3929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "on-air commentary on music, traffic"
+ },
+ {
+  "id": "3930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "show guest interviews"
+ },
+ {
+  "id": "3931",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "phone talk with listeners"
+ },
+ {
+  "id": "3932",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hosting broadcast events"
+ },
+ {
+  "id": "3933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "promotional event appearances"
+ },
+ {
+  "id": "3934",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "broadcast control console operation"
+ },
+ {
+  "id": "3935",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "music and station announcements"
+ },
+ {
+  "id": "3936",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily program logs"
+ },
+ {
+  "id": "3937",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "commercial voice recording"
+ },
+ {
+  "id": "3938",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "talk show guests"
+ },
+ {
+  "id": "3939",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product demonstrations on air"
+ },
+ {
+  "id": "3940",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "on-air contests and prizes"
+ },
+ {
+  "id": "3941",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "press conference information gathering"
+ },
+ {
+  "id": "3942",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "live event commentary and interviews"
+ },
+ {
+  "id": "3943",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network cues to stations"
+ },
+ {
+  "id": "3944",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "panel and discussion moderation"
+ },
+ {
+  "id": "22623",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commentaries, columns, scripts"
+ },
+ {
+  "id": "22624",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news broadcast anchoring"
+ },
+ {
+  "id": "22625",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news item topic selection"
+ },
+ {
+  "id": "22626",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "news information analysis"
+ },
+ {
+  "id": "22627",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "story leads and tips"
+ },
+ {
+  "id": "22628",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "story background research"
+ },
+ {
+  "id": "22629",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "interview arrangements with sources"
+ },
+ {
+  "id": "22630",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "news subject information gathering"
+ },
+ {
+  "id": "22631",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "news material organization"
+ },
+ {
+  "id": "22632",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news story presentation on air"
+ },
+ {
+  "id": "22633",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "source relationships"
+ },
+ {
+  "id": "22634",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news stories for publication"
+ },
+ {
+  "id": "22635",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "written news copy revision"
+ },
+ {
+  "id": "22636",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reporter notes on events"
+ },
+ {
+  "id": "22637",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "breaking news investigation"
+ },
+ {
+  "id": "22638",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copy errors and style"
+ },
+ {
+  "id": "22639",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specialized field news reports"
+ },
+ {
+  "id": "22640",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "story emphasis, length, format"
+ },
+ {
+  "id": "22641",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "remote news transmission"
+ },
+ {
+  "id": "22642",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reference materials and public records"
+ },
+ {
+  "id": "22643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "editorial priorities with editors"
+ },
+ {
+  "id": "22644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "news event photos and video"
+ },
+ {
+  "id": "22645",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "broadcast commentary delivery"
+ },
+ {
+  "id": "22646",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "news photos and video processing"
+ },
+ {
+  "id": "22647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "filmed interviews and narratives"
+ },
+ {
+  "id": "22648",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "column and commentary ideas"
+ },
+ {
+  "id": "22649",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reader and public correspondence"
+ },
+ {
+  "id": "22650",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "news blog entries"
+ },
+ {
+  "id": "22651",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "story and production assignments"
+ },
+ {
+  "id": "22652",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "editorials, columns, reviews"
+ },
+ {
+  "id": "1764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "media information requests"
+ },
+ {
+  "id": "1765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community group relationships"
+ },
+ {
+  "id": "1767",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "ad production coordination"
+ },
+ {
+  "id": "1768",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client public appearances and events"
+ },
+ {
+  "id": "1769",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public relations strategies"
+ },
+ {
+  "id": "1770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "trends and manager advice"
+ },
+ {
+  "id": "1771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "promotional campaign arrangements"
+ },
+ {
+  "id": "1772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client spokesperson communication coaching"
+ },
+ {
+  "id": "1773",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public relations speeches"
+ },
+ {
+  "id": "1774",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising space purchases"
+ },
+ {
+  "id": "1775",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market and opinion research"
+ },
+ {
+  "id": "19809",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public response to environmental incidents"
+ },
+ {
+  "id": "19810",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental marketing campaigns"
+ },
+ {
+  "id": "19811",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "social issue communication materials"
+ },
+ {
+  "id": "20554",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "press releases for clients"
+ },
+ {
+  "id": "20555",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organization perception programs"
+ },
+ {
+  "id": "20557",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "organizational newsletters and reports"
+ },
+ {
+  "id": "23951",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "website and social media content"
+ },
+ {
+  "id": "1776",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copy rewriting and editing"
+ },
+ {
+  "id": "1777",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copy spelling and syntax errors"
+ },
+ {
+  "id": "1778",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "print space allocation"
+ },
+ {
+  "id": "1779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "publication contents planning"
+ },
+ {
+  "id": "1780",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facts, dates, statistics"
+ },
+ {
+  "id": "1781",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "composing room proofs"
+ },
+ {
+  "id": "1782",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "story and content ideas"
+ },
+ {
+  "id": "1783",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "publication production oversight"
+ },
+ {
+  "id": "1784",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "news story placement discussions"
+ },
+ {
+  "id": "1785",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "story assignments to writers"
+ },
+ {
+  "id": "1786",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "submitted manuscripts"
+ },
+ {
+  "id": "1787",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "news-gathering source monitoring"
+ },
+ {
+  "id": "1788",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production staff problem-solving meetings"
+ },
+ {
+  "id": "1789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "reporters and editors supervision"
+ },
+ {
+  "id": "1790",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "manuscript acceptance recommendations"
+ },
+ {
+  "id": "1791",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wire service news selection"
+ },
+ {
+  "id": "1792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "writer hiring and contract negotiation"
+ },
+ {
+  "id": "1793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "publishing department policies"
+ },
+ {
+  "id": "1794",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copyright permissions"
+ },
+ {
+  "id": "1795",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "index items alphabetized"
+ },
+ {
+  "id": "21000",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stories, articles, newsletters"
+ },
+ {
+  "id": "20243",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online help documentation"
+ },
+ {
+  "id": "3966",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "writing assignment standards compliance"
+ },
+ {
+  "id": "3967",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work files and revision records"
+ },
+ {
+  "id": "3968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "other writers' material editing"
+ },
+ {
+  "id": "3969",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specifications with customers and vendors"
+ },
+ {
+  "id": "3970",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "published materials revisions"
+ },
+ {
+  "id": "3971",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "illustrative visuals selection"
+ },
+ {
+  "id": "3972",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawings and specifications"
+ },
+ {
+  "id": "3973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "engineers and technical sources"
+ },
+ {
+  "id": "3974",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production and experimental activities"
+ },
+ {
+  "id": "3975",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "typing and distribution of material"
+ },
+ {
+  "id": "3976",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publication layout assistance"
+ },
+ {
+  "id": "3977",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "field developments and revisions"
+ },
+ {
+  "id": "3978",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "catalogs and equipment data"
+ },
+ {
+  "id": "3979",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "illustrative sketches"
+ },
+ {
+  "id": "22653",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client advertising themes discussion"
+ },
+ {
+  "id": "22654",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "drafts presented to clients"
+ },
+ {
+  "id": "22655",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "message tone and language"
+ },
+ {
+  "id": "22656",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertising campaign development"
+ },
+ {
+  "id": "22657",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "articles, letters, promotional material"
+ },
+ {
+  "id": "22658",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product selling features research"
+ },
+ {
+  "id": "22659",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product names and slogans"
+ },
+ {
+  "id": "22660",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising trends and surveys"
+ },
+ {
+  "id": "22661",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "writer collaboration"
+ },
+ {
+  "id": "22662",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "factual research for writing"
+ },
+ {
+  "id": "22663",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "style discussions with sales representatives"
+ },
+ {
+  "id": "22664",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "written material editing"
+ },
+ {
+  "id": "22665",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copyright procedures"
+ },
+ {
+  "id": "22666",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project outlines"
+ },
+ {
+  "id": "22667",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "works formatted and submitted"
+ },
+ {
+  "id": "22668",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "written material revision"
+ },
+ {
+  "id": "22669",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "concepts developed with staff"
+ },
+ {
+  "id": "22670",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising copy"
+ },
+ {
+  "id": "22671",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fiction and nonfiction prose"
+ },
+ {
+  "id": "22672",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audience-tailored message writing"
+ },
+ {
+  "id": "11046",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "written material revision"
+ },
+ {
+  "id": "11047",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "subject matter and form choice"
+ },
+ {
+  "id": "11048",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project outlines"
+ },
+ {
+  "id": "11049",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "works formatted and submitted"
+ },
+ {
+  "id": "11050",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copyright procedures"
+ },
+ {
+  "id": "11051",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fiction and nonfiction prose"
+ },
+ {
+  "id": "11052",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "themes, plots, characters, dialogue"
+ },
+ {
+  "id": "11053",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "revisions with clients and publishers"
+ },
+ {
+  "id": "11054",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "factual research for writing"
+ },
+ {
+  "id": "11055",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "poetry for publication"
+ },
+ {
+  "id": "11056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "book launches and public readings"
+ },
+ {
+  "id": "11057",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lyrics for musical compositions"
+ },
+ {
+  "id": "11058",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "text adapted to musical requirements"
+ },
+ {
+  "id": "11059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "writing class teaching"
+ },
+ {
+  "id": "11060",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "humorous material and comedy"
+ },
+ {
+  "id": "11061",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "writer collaboration"
+ },
+ {
+  "id": "9326",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "confidentiality ethics compliance"
+ },
+ {
+  "id": "9327",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "meaning conflicts across languages"
+ },
+ {
+  "id": "9328",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "live interpreting between languages"
+ },
+ {
+  "id": "9329",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "translated materials proofreading"
+ },
+ {
+  "id": "9330",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical term consistency"
+ },
+ {
+  "id": "9331",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "written documents into other languages"
+ },
+ {
+  "id": "9332",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reference materials for accuracy"
+ },
+ {
+  "id": "9333",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "terminology compilation"
+ },
+ {
+  "id": "9334",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "translations adapted to student levels"
+ },
+ {
+  "id": "9335",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speakers' statements for translation"
+ },
+ {
+  "id": "9336",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "translation fidelity checks"
+ },
+ {
+  "id": "9337",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "translation content and audience context"
+ },
+ {
+  "id": "9338",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "translation requirements and fees"
+ },
+ {
+  "id": "9339",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software localization"
+ },
+ {
+  "id": "9340",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educational interpreter role education"
+ },
+ {
+  "id": "9341",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "translators and interpreters supervision"
+ },
+ {
+  "id": "9342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "foreign-language tourists guiding"
+ },
+ {
+  "id": "21183",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transcript spelling proofreading"
+ },
+ {
+  "id": "21184",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "court exhibits logging and storage"
+ },
+ {
+  "id": "21185",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "judges' court orders typing"
+ },
+ {
+  "id": "8653",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shorthand notes of proceedings"
+ },
+ {
+  "id": "8654",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transcripts on request"
+ },
+ {
+  "id": "8655",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "verbatim proceedings recording"
+ },
+ {
+  "id": "8656",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recorded proceedings transcription"
+ },
+ {
+  "id": "8657",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "inaudible statements clarification"
+ },
+ {
+  "id": "8658",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transcript court filing"
+ },
+ {
+  "id": "8659",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shorthand notes storage"
+ },
+ {
+  "id": "8660",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recorded proceedings read back"
+ },
+ {
+  "id": "8661",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "depositions recording"
+ },
+ {
+  "id": "8662",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transcript accuracy verification"
+ },
+ {
+  "id": "8663",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "stenographic symbols into text"
+ }
+]

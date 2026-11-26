@@ -1,0 +1,1578 @@
+[
+ {
+  "id": "173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agency and public working relationships"
+ },
+ {
+  "id": "174",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological data analysis code"
+ },
+ {
+  "id": "175",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "organism and environment data"
+ },
+ {
+  "id": "176",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aquatic life and conditions"
+ },
+ {
+  "id": "177",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "test results to officials"
+ },
+ {
+  "id": "178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant and animal species study"
+ },
+ {
+  "id": "180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employer representation at conferences"
+ },
+ {
+  "id": "181",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "biological research programs"
+ },
+ {
+  "id": "182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "land and water environmental effects"
+ },
+ {
+  "id": "184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water chemistry field measurements"
+ },
+ {
+  "id": "185",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "university students and research"
+ },
+ {
+  "id": "186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technicians and scientists"
+ },
+ {
+  "id": "18613",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical and impact reports"
+ },
+ {
+  "id": "18614",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "land use reports and proposals"
+ },
+ {
+  "id": "187",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "basic plant animal life principles"
+ },
+ {
+  "id": "188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wild animal populations"
+ },
+ {
+  "id": "189",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "proposal requests and work statements"
+ },
+ {
+  "id": "191",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "renewable resource management plans"
+ },
+ {
+  "id": "192",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sampling methods and apparatus"
+ },
+ {
+  "id": "193",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "organism responses to parasites"
+ },
+ {
+  "id": "194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pest control and risk assessment"
+ },
+ {
+  "id": "21035",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biological research grant proposals"
+ },
+ {
+  "id": "22133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil and water practices"
+ },
+ {
+  "id": "22134",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "farmer conservation advice"
+ },
+ {
+  "id": "22135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "construction project conformance"
+ },
+ {
+  "id": "22136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eroded sites"
+ },
+ {
+  "id": "22137",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "local government relationships"
+ },
+ {
+  "id": "22138",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "science applied to conservation"
+ },
+ {
+  "id": "22139",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS data for land recommendations"
+ },
+ {
+  "id": "22140",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conservation practice design specifications"
+ },
+ {
+  "id": "22141",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental program planning teams"
+ },
+ {
+  "id": "22142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "landowner and agency disputes"
+ },
+ {
+  "id": "22143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "implemented land practices"
+ },
+ {
+  "id": "22144",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wetland jurisdiction questions"
+ },
+ {
+  "id": "22145",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "conservation practice cost estimates"
+ },
+ {
+  "id": "22146",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agency soil water guidance"
+ },
+ {
+  "id": "22147",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "soil investigation results"
+ },
+ {
+  "id": "22148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local government assistance programs"
+ },
+ {
+  "id": "22149",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "weed and pest management strategies"
+ },
+ {
+  "id": "22150",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "wetland restoration easements"
+ },
+ {
+  "id": "22151",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "land use surveys and studies"
+ },
+ {
+  "id": "22152",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "field offices and staff"
+ },
+ {
+  "id": "22153",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "soil and water conservation practices"
+ },
+ {
+  "id": "22154",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local government program audits"
+ },
+ {
+  "id": "22155",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water conservation plans from ET data"
+ },
+ {
+  "id": "22156",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local water plan amendments"
+ },
+ {
+  "id": "22157",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "field trials and habitat studies"
+ },
+ {
+  "id": "22158",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental data entry"
+ },
+ {
+  "id": "22159",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wetland biodata"
+ },
+ {
+  "id": "22160",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "district annual reports"
+ },
+ {
+  "id": "22161",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grant applications"
+ },
+ {
+  "id": "22162",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil maps"
+ },
+ {
+  "id": "21169",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "grazing permits and compliance"
+ },
+ {
+  "id": "21170",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agency rangeland coordination"
+ },
+ {
+  "id": "7497",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vegetation resources"
+ },
+ {
+  "id": "7498",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil and vegetation stability"
+ },
+ {
+  "id": "7499",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "rangeland user disputes"
+ },
+ {
+  "id": "7500",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "forage through fire and herbicide"
+ },
+ {
+  "id": "7501",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rangeland practices research"
+ },
+ {
+  "id": "7502",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "rangeland user advice"
+ },
+ {
+  "id": "7503",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "range improvement construction"
+ },
+ {
+  "id": "7504",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "landowner conservation plans"
+ },
+ {
+  "id": "7505",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rangeland technical standards"
+ },
+ {
+  "id": "7506",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "grazing patterns and livestock"
+ },
+ {
+  "id": "7507",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "disturbed sites revegetation"
+ },
+ {
+  "id": "7508",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forage plant growth requirements"
+ },
+ {
+  "id": "7509",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fire and rodent protection methods"
+ },
+ {
+  "id": "7511",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "range reseeding instruments"
+ },
+ {
+  "id": "20866",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "park public events"
+ },
+ {
+  "id": "20867",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "school environmental curricula"
+ },
+ {
+  "id": "23959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "park program staff training"
+ },
+ {
+  "id": "23960",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "park program animals"
+ },
+ {
+  "id": "3686",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "park visitor requests"
+ },
+ {
+  "id": "3687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "natural feature field trips"
+ },
+ {
+  "id": "3688",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "park illustrated talks"
+ },
+ {
+  "id": "3689",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "park emergencies"
+ },
+ {
+  "id": "3690",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "park program subjects and schedules"
+ },
+ {
+  "id": "3691",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "visitor center operations"
+ },
+ {
+  "id": "3692",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "seasonal staff activities"
+ },
+ {
+  "id": "3693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "park structure maintenance"
+ },
+ {
+  "id": "3694",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "brochures and newspaper articles"
+ },
+ {
+  "id": "3695",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "visitor center displays"
+ },
+ {
+  "id": "3696",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "area natural history stories"
+ },
+ {
+  "id": "3697",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialists for park information"
+ },
+ {
+  "id": "3698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "park photo and information files"
+ },
+ {
+  "id": "3699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "park lecture photographs"
+ },
+ {
+  "id": "3700",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "park flora and fauna survey"
+ },
+ {
+  "id": "3701",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "public program audio-visual devices"
+ },
+ {
+  "id": "195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forestry contract compliance"
+ },
+ {
+  "id": "196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "forest land management plans"
+ },
+ {
+  "id": "197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "forestry workers"
+ },
+ {
+  "id": "198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree planting sites"
+ },
+ {
+  "id": "199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forestry projects and nurseries"
+ },
+ {
+  "id": "200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "harvest and lease agreements"
+ },
+ {
+  "id": "201",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "forest fire suppression"
+ },
+ {
+  "id": "202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "timber cutting and removal methods"
+ },
+ {
+  "id": "203",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forest conditions and tree growth"
+ },
+ {
+  "id": "204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleared forest lands"
+ },
+ {
+  "id": "205",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "wildlife habitat conservation projects"
+ },
+ {
+  "id": "206",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "forest surveys and reports"
+ },
+ {
+  "id": "207",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forests and nurseries"
+ },
+ {
+  "id": "208",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forest soils and standing timber"
+ },
+ {
+  "id": "209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public forest education"
+ },
+ {
+  "id": "210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "timber from landowners"
+ },
+ {
+  "id": "211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "loggers and road layout"
+ },
+ {
+  "id": "212",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "timber cutting and sales"
+ },
+ {
+  "id": "213",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wildlife populations and habitats"
+ },
+ {
+  "id": "214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "recreation facilities construction"
+ },
+ {
+  "id": "215",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "forest owners timber inventory"
+ },
+ {
+  "id": "216",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "forestry consulting advice"
+ },
+ {
+  "id": "217",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tree species characteristics"
+ },
+ {
+  "id": "218",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "wood and residue uses"
+ },
+ {
+  "id": "219",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tree measuring techniques"
+ },
+ {
+  "id": "15215",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "infectious disease incident reports"
+ },
+ {
+  "id": "15216",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disease research findings"
+ },
+ {
+  "id": "15217",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disease prevention education"
+ },
+ {
+  "id": "23961",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "journal articles"
+ },
+ {
+  "id": "23962",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "epidemiologic research grants"
+ },
+ {
+  "id": "5421",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public health programs"
+ },
+ {
+  "id": "5422",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "disease causes and transmission"
+ },
+ {
+  "id": "5423",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disease studies"
+ },
+ {
+  "id": "5424",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health safety standards programs"
+ },
+ {
+  "id": "5425",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study protocols and sampling"
+ },
+ {
+  "id": "5426",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "medical research methodologies"
+ },
+ {
+  "id": "5427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physician science consultation"
+ },
+ {
+  "id": "5428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "professional and clerical staff"
+ },
+ {
+  "id": "5429",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "foodborne parasitic disease issues"
+ },
+ {
+  "id": "5430",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medicine students and technicians"
+ },
+ {
+  "id": "5432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell tissue effect samples"
+ },
+ {
+  "id": "20200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "medical research methodologies"
+ },
+ {
+  "id": "20201",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scientific journal articles"
+ },
+ {
+  "id": "23906",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research grant applications"
+ },
+ {
+  "id": "7513",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disease studies"
+ },
+ {
+  "id": "7514",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "toxic material handling"
+ },
+ {
+  "id": "7515",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drug and microorganism effects"
+ },
+ {
+  "id": "7516",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medicine students and technicians"
+ },
+ {
+  "id": "7517",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "organ tissue cell samples"
+ },
+ {
+  "id": "7518",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drug doses and procedures"
+ },
+ {
+  "id": "7519",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "disease causes and transmission"
+ },
+ {
+  "id": "7520",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health standards with departments"
+ },
+ {
+  "id": "7521",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "health and physiological processes"
+ },
+ {
+  "id": "7522",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physician science advice"
+ },
+ {
+  "id": "7523",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory analysis instruments"
+ },
+ {
+  "id": "20049",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific proposals and papers"
+ },
+ {
+  "id": "20050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "professional panels"
+ },
+ {
+  "id": "21171",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "junior colleagues"
+ },
+ {
+  "id": "21172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student astronomy research"
+ },
+ {
+  "id": "21173",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public astronomy questions"
+ },
+ {
+  "id": "7524",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "celestial phenomena telescope data"
+ },
+ {
+  "id": "7525",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "astronomy research data"
+ },
+ {
+  "id": "7526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research findings papers"
+ },
+ {
+  "id": "7527",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "extraterrestrial emissions"
+ },
+ {
+  "id": "7528",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "astronomical theories"
+ },
+ {
+  "id": "7529",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research funding"
+ },
+ {
+  "id": "7530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research collaborators"
+ },
+ {
+  "id": "7531",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "astronomy instruments and software"
+ },
+ {
+  "id": "7532",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "astronomy students"
+ },
+ {
+  "id": "7533",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public astronomy programs"
+ },
+ {
+  "id": "7534",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "celestial body orbits"
+ },
+ {
+  "id": "7535",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "planetarium operations"
+ },
+ {
+  "id": "10903",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physics data calculations"
+ },
+ {
+  "id": "10904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "observations in mathematical terms"
+ },
+ {
+  "id": "10905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physical phenomena research data"
+ },
+ {
+  "id": "10906",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "experimental results papers"
+ },
+ {
+  "id": "10907",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physical data simulations"
+ },
+ {
+  "id": "10908",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "experimental equipment development"
+ },
+ {
+  "id": "10910",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "matter and energy properties"
+ },
+ {
+  "id": "10911",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physics theories and laws"
+ },
+ {
+  "id": "10912",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physics students"
+ },
+ {
+  "id": "21174",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research funding proposals"
+ },
+ {
+  "id": "19755",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate data sets"
+ },
+ {
+  "id": "19756",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wind assessment studies"
+ },
+ {
+  "id": "19757",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate change visualizations"
+ },
+ {
+  "id": "19758",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regional global warming effects"
+ },
+ {
+  "id": "19759",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental data predictions"
+ },
+ {
+  "id": "20202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "office staff management"
+ },
+ {
+  "id": "20203",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "climate information consultation"
+ },
+ {
+  "id": "20204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "college atmospheric science courses"
+ },
+ {
+  "id": "20205",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "historical climate records"
+ },
+ {
+  "id": "20206",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "weather reports and maps"
+ },
+ {
+  "id": "20207",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meteorology applied to environmental issues"
+ },
+ {
+  "id": "20208",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "weather forecasting models"
+ },
+ {
+  "id": "20209",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "weather data for forecasts"
+ },
+ {
+  "id": "20210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "atmospheric phenomena research"
+ },
+ {
+  "id": "20211",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate scientific reports"
+ },
+ {
+  "id": "20212",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industrial project climate impacts"
+ },
+ {
+  "id": "21103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public weather questions"
+ },
+ {
+  "id": "21104",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meteorological data programs"
+ },
+ {
+  "id": "21105",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "weather training"
+ },
+ {
+  "id": "9068",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "weather forecasts to public"
+ },
+ {
+  "id": "9069",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meteorological source data"
+ },
+ {
+  "id": "9070",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "forecasts and briefings"
+ },
+ {
+  "id": "9074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "upper atmosphere measurements"
+ },
+ {
+  "id": "9076",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "forecasting services"
+ },
+ {
+  "id": "9078",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "atmospheric air samples"
+ },
+ {
+  "id": "9079",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate numerical simulations"
+ },
+ {
+  "id": "9083",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "meteorological collection equipment"
+ }
+]

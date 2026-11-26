@@ -1,0 +1,54 @@
+{
+  "tasks_rated": 18797,
+  "occupations_rated": 923,
+  "national_median_ft_earnings": 60192.0,
+  "jobs": {
+    "employment_covered": 153134471.91464448,
+    "share_jobs_by_category": {
+      "Human-anchored": 0.4814586270935511,
+      "AI can do much of it": 0.2749826708729482,
+      "AI-augmented / mixed": 0.24355870203350086
+    },
+    "no_ba": {
+      "Human-anchored": 0.6340083808286477,
+      "AI can do much of it": 0.19180124032583934,
+      "AI-augmented / mixed": 0.17419037884551292
+    },
+    "ba_plus": {
+      "Human-anchored": 0.26225316029860435,
+      "AI can do much of it": 0.39450973575050635,
+      "AI-augmented / mixed": 0.3432371039508893
+    },
+    "corr_earnings_ai_can_do": 0.14369711351420805
+  },
+  "pathways_no_ba": {
+    "occupations": 137,
+    "employment": 14090410.42106227,
+    "by_category": {
+      "AI-augmented / mixed": 26,
+      "Human-anchored": 89,
+      "AI can do much of it": 22
+    },
+    "employment_by_category": {
+      "AI-augmented / mixed": 3994324.5630036634,
+      "Human-anchored": 6929742.788461538,
+      "AI can do much of it": 3166343.0695970696
+    }
+  },
+  "counties": {
+    "counties": 3222,
+    "priority_mean": {
+      "ai_can_do": 0.3026859057364268,
+      "ai_speeds": 0.22262597752809832,
+      "anchored": 0.5635351469721186
+    },
+    "other_mean": {
+      "ai_can_do": 0.34932360386314665,
+      "ai_speeds": 0.2519957070539465,
+      "anchored": 0.5046176756210518
+    },
+    "corr_need_ai_can_do": -0.35075404197446275,
+    "corr_mobility_ai_can_do": 0.059019867628714716
+  },
+  "programs_linked": 665
+}

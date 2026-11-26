@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "18649",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "studio recording and transmission equipment"
+ },
+ {
+  "id": "18650",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "media system faults"
+ },
+ {
+  "id": "18651",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and room reservations"
+ },
+ {
+  "id": "18652",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audio-visual activity data logs"
+ },
+ {
+  "id": "3980",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "major equipment repair notices"
+ },
+ {
+  "id": "3981",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "live picture and sound feeds"
+ },
+ {
+  "id": "3982",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sound inputs and audio feeds"
+ },
+ {
+  "id": "3984",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "audio video equipment layouts and upgrades"
+ },
+ {
+  "id": "3985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audio video equipment repairs and cleaning"
+ },
+ {
+  "id": "3987",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "live video source switching"
+ },
+ {
+  "id": "3988",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "filming plans with directors"
+ },
+ {
+  "id": "3989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sets, props and lighting equipment"
+ },
+ {
+  "id": "3990",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audio video data files"
+ },
+ {
+  "id": "3991",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "videotapes for scheduled productions"
+ },
+ {
+  "id": "3992",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "videotape program content"
+ },
+ {
+  "id": "3993",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production assistants and personnel"
+ },
+ {
+  "id": "3994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pre-production outlines, scripts, storyboards"
+ },
+ {
+  "id": "3995",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "audio video tape and supply inventories"
+ },
+ {
+  "id": "3996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production formats and approaches within budget"
+ },
+ {
+  "id": "3997",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "audio material and soundtracks"
+ },
+ {
+  "id": "3998",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service policy information for users"
+ },
+ {
+  "id": "3999",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "musical performance programs"
+ },
+ {
+  "id": "4000",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "graphics and graphic designs"
+ },
+ {
+  "id": "4001",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "settings, props and effects"
+ },
+ {
+  "id": "4002",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "event lights and sound"
+ },
+ {
+  "id": "4003",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "audio-visual training sessions"
+ },
+ {
+  "id": "4004",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance, license and warranty records"
+ },
+ {
+  "id": "4005",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuals and training materials"
+ },
+ {
+  "id": "4006",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production narration and announcements"
+ },
+ {
+  "id": "18653",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transmitter readings log"
+ },
+ {
+  "id": "18654",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "broadcast programs via automation"
+ },
+ {
+  "id": "18655",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "station computers and networks"
+ },
+ {
+  "id": "18656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broadcast equipment installation and repair"
+ },
+ {
+  "id": "18657",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commercial dubs"
+ },
+ {
+  "id": "18658",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee work schedules"
+ },
+ {
+  "id": "4007",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programming logs for regulators"
+ },
+ {
+  "id": "4008",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "broadcast audio volume and quality"
+ },
+ {
+  "id": "4009",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "broadcast signal quality"
+ },
+ {
+  "id": "4010",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "video transmission fidelity and contrast"
+ },
+ {
+  "id": "4011",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "audio video levels and program status"
+ },
+ {
+  "id": "4012",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scheduled programs and signals"
+ },
+ {
+  "id": "4013",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programming source selection"
+ },
+ {
+  "id": "4014",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment problems and repairs"
+ },
+ {
+  "id": "4015",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "recorded sound for broadcast"
+ },
+ {
+  "id": "4016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "antennae and receiving dishes"
+ },
+ {
+  "id": "4017",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "substitute programs during signal failure"
+ },
+ {
+  "id": "4018",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recording booths and stations"
+ },
+ {
+  "id": "4020",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "trainees on production equipment"
+ },
+ {
+  "id": "4021",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programming logs and schedules"
+ },
+ {
+  "id": "4022",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "broadcast material edits"
+ },
+ {
+  "id": "4023",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "personnel during filming"
+ },
+ {
+  "id": "4024",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "portable field transmission equipment"
+ },
+ {
+  "id": "4025",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microphone type and placement"
+ },
+ {
+  "id": "4026",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment designs to employer specifications"
+ },
+ {
+  "id": "4027",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports on programs and content"
+ },
+ {
+  "id": "4028",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client production requirements"
+ },
+ {
+  "id": "18660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "event equipment teardown"
+ },
+ {
+  "id": "18661",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "video and audio recordings conversion"
+ },
+ {
+  "id": "18662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recording equipment for sessions"
+ },
+ {
+  "id": "7720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "desired sound with producers and performers"
+ },
+ {
+  "id": "7722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "volume and sound quality during recording"
+ },
+ {
+  "id": "7723",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microphones for recording sessions"
+ },
+ {
+  "id": "7724",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment problems and repairs"
+ },
+ {
+  "id": "7725",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "voices, music and sound effects"
+ },
+ {
+  "id": "7726",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dialogue, music and effects timing"
+ },
+ {
+  "id": "7727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "speech, music and sounds on media"
+ },
+ {
+  "id": "7728",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sound recording copies"
+ },
+ {
+  "id": "7729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "instruments and vocals in mixing"
+ },
+ {
+  "id": "7730",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recording logs"
+ },
+ {
+  "id": "7731",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MIDI music programs"
+ },
+ {
+  "id": "22673",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "wiring and equipment fire and shock risk"
+ },
+ {
+  "id": "22674",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "lighting requirements with production staff"
+ },
+ {
+  "id": "22675",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lighting equipment after performances"
+ },
+ {
+  "id": "22676",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "color filters on lighting fixtures"
+ },
+ {
+  "id": "22677",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical cables and fixtures"
+ },
+ {
+  "id": "22678",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lighting equipment loading and positioning"
+ },
+ {
+  "id": "22679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "light fixture settings to design plans"
+ },
+ {
+  "id": "22680",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "major lighting equipment repair notices"
+ },
+ {
+  "id": "22681",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "production lighting control systems"
+ },
+ {
+  "id": "22682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lights wiring to dimmers and consoles"
+ },
+ {
+  "id": "22683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lamps and filters in lighting equipment"
+ },
+ {
+  "id": "22684",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lighting console programs"
+ },
+ {
+  "id": "22685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "light fixtures for productions"
+ },
+ {
+  "id": "22686",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scaffolding and cranes"
+ },
+ {
+  "id": "22687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lighting equipment function and effects"
+ },
+ {
+  "id": "22688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "location structural and electrical layout"
+ },
+ {
+  "id": "20558",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photograph files to computers"
+ },
+ {
+  "id": "20559",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exposed film developing and printing"
+ },
+ {
+  "id": "20560",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photograph captions"
+ },
+ {
+  "id": "20561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "film shipments to photofinishing labs"
+ },
+ {
+  "id": "9343",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "portraits of individuals and groups"
+ },
+ {
+  "id": "9344",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "camera aperture, shutter and focus"
+ },
+ {
+  "id": "9345",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cameras and photographic equipment"
+ },
+ {
+  "id": "9346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artificial light with flashes"
+ },
+ {
+  "id": "9347",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "image composition, subjects, equipment, lighting"
+ },
+ {
+  "id": "9349",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographic equipment function checks"
+ },
+ {
+  "id": "9350",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photograph sets for best work"
+ },
+ {
+  "id": "9351",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "light levels, distances, exposures"
+ },
+ {
+  "id": "9352",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital image manipulation"
+ },
+ {
+  "id": "9353",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "photographic equipment maintenance"
+ },
+ {
+  "id": "9354",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "office scheduling, books, supplies"
+ },
+ {
+  "id": "9355",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project goals and equipment needs"
+ },
+ {
+  "id": "9356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment and background properties"
+ },
+ {
+  "id": "9357",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photograph and negative retouching"
+ },
+ {
+  "id": "9358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cameras and photographic equipment"
+ },
+ {
+  "id": "9360",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "film digital image scans"
+ },
+ {
+  "id": "9361",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers setting up photographic equipment"
+ },
+ {
+  "id": "9362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specialized photographic materials and techniques"
+ },
+ {
+  "id": "9363",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new photographic procedures and materials"
+ },
+ {
+  "id": "9364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "photographic exhibitions for sale"
+ },
+ {
+  "id": "9365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "film loading and unloading"
+ },
+ {
+  "id": "9366",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "visual aids and charts"
+ },
+ {
+  "id": "9367",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photograph licensing via stock agencies"
+ },
+ {
+  "id": "9368",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished photographs mounting and framing"
+ },
+ {
+  "id": "18663",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "broadcast video edits"
+ },
+ {
+  "id": "18664",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "live broadcast shots"
+ },
+ {
+  "id": "18665",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "studio sets and filming equipment"
+ },
+ {
+  "id": "18666",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broadcast equipment and microphones"
+ },
+ {
+  "id": "18667",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "trade magazine reading"
+ },
+ {
+  "id": "18668",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "news gathering microwave vehicles"
+ },
+ {
+  "id": "18669",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "studio productions"
+ },
+ {
+  "id": "18670",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "studio production graphics"
+ },
+ {
+  "id": "18671",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new broadcast scripts"
+ },
+ {
+  "id": "4030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "television and film cameras"
+ },
+ {
+  "id": "4031",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shots, light, lenses and camera settings"
+ },
+ {
+  "id": "4032",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "zoom lenses and images"
+ },
+ {
+  "id": "4033",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "camera mounts"
+ },
+ {
+  "id": "4035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "camera, printer, focus, exposure controls"
+ },
+ {
+  "id": "4037",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "filming sequences with crew"
+ },
+ {
+  "id": "4038",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sets and locations for problems"
+ },
+ {
+  "id": "4039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "camera operators on setups and cues"
+ },
+ {
+  "id": "4042",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lighting, shutter, filter calculations"
+ },
+ {
+  "id": "4043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cameras, printers and effects equipment"
+ },
+ {
+  "id": "4044",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "films for exposure and movement problems"
+ },
+ {
+  "id": "4046",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and specifications"
+ },
+ {
+  "id": "4050",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shot sequence cuts"
+ },
+ {
+  "id": "4051",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production scripts"
+ },
+ {
+  "id": "4052",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film and tape audio and sequences"
+ },
+ {
+  "id": "4053",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "shots forming a coherent story"
+ },
+ {
+  "id": "4054",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "frames for shot and sound marks"
+ },
+ {
+  "id": "4055",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "film audio, visual effects and music"
+ },
+ {
+  "id": "4056",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "key numbers and time codes"
+ },
+ {
+  "id": "4057",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "raw footage into scripted whole"
+ },
+ {
+  "id": "4058",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "edited films and videotapes for corrections"
+ },
+ {
+  "id": "4059",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computerized graphic effects"
+ },
+ {
+  "id": "4060",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "raw footage sequences"
+ },
+ {
+  "id": "4061",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "editing, titling and switching systems"
+ },
+ {
+  "id": "4062",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sound effects from libraries"
+ },
+ {
+  "id": "4063",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "editing approaches with producers and directors"
+ },
+ {
+  "id": "4064",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "plot, score, sound and graphics"
+ },
+ {
+  "id": "4065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "film editing and assembling workers"
+ },
+ {
+  "id": "4066",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film segment trimming and reassembly"
+ },
+ {
+  "id": "4067",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "post-production models for films"
+ },
+ {
+  "id": "4068",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film soundtracks from sounds"
+ },
+ {
+  "id": "4069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "film screenings for production staff"
+ },
+ {
+  "id": "4070",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "music passages with music editors"
+ },
+ {
+  "id": "4071",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "picture sound needs with effects editors"
+ },
+ {
+  "id": "20403",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic tests and imaging recommendations"
+ },
+ {
+  "id": "6913",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "spinal and joint manual adjustments"
+ },
+ {
+  "id": "6914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "neuromusculoskeletal system and spine function"
+ },
+ {
+  "id": "6915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient health problems and imaging"
+ },
+ {
+  "id": "6916",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient case histories"
+ },
+ {
+  "id": "6917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient treatment course recommendations"
+ },
+ {
+  "id": "6918",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient medical histories"
+ },
+ {
+  "id": "6919",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "x-rays for patient problem sources"
+ },
+ {
+  "id": "6920",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient lifestyle counseling"
+ },
+ {
+  "id": "6922",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to practitioners"
+ },
+ {
+  "id": "6923",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "supports, straps, tapes, braces for patients"
+ },
+ {
+  "id": "20562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "protective gear against infection"
+ },
+ {
+  "id": "20563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dental turbines, hand instruments, appliances"
+ },
+ {
+  "id": "20564",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "dental practice staff, paperwork, claims"
+ },
+ {
+  "id": "6925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient anesthesia for pain control"
+ },
+ {
+  "id": "6926",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "teeth, gums, x-rays for diagnosis"
+ },
+ {
+  "id": "6927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient teeth and mouth treatment plan"
+ },
+ {
+  "id": "6929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient preventive dental care instruction"
+ },
+ {
+  "id": "6930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prosthodontic appliances and fabrication instructions"
+ },
+ {
+  "id": "6931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dental and oral diseases and injuries"
+ },
+ {
+  "id": "6932",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pulp chamber and canal fill"
+ },
+ {
+  "id": "6933",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "medication prescriptions"
+ },
+ {
+  "id": "6934",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dental disease patterns and trends"
+ },
+ {
+  "id": "6935",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "exposed pulp and root canal"
+ },
+ {
+  "id": "6936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "filling margins and occlusions"
+ },
+ {
+  "id": "6937",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "jaw and mouth surgery"
+ },
+ {
+  "id": "6938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "diseased tissue removal"
+ },
+ {
+  "id": "6939",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tooth fluoride and sealants"
+ },
+ {
+  "id": "6941",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tooth bleaching, cleaning, polishing"
+ },
+ {
+  "id": "6942",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dental health programs"
+ },
+ {
+  "id": "6943",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dental health educational materials"
+ }
+]

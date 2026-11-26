@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "14250",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "finish color mixing"
+ },
+ {
+  "id": "14251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applying stain and sealers to wood"
+ },
+ {
+  "id": "14252",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sanding furniture surfaces before finishing"
+ },
+ {
+  "id": "14253",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "choice of finish materials"
+ },
+ {
+  "id": "14254",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "filling cracks and repairing furniture"
+ },
+ {
+  "id": "14255",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "distressing wood for antique look"
+ },
+ {
+  "id": "14256",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "damaged furniture assessment"
+ },
+ {
+  "id": "14257",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spray painting metal furniture parts"
+ },
+ {
+  "id": "14258",
+  "ai_alone": 1,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advising customers on woods and styles"
+ },
+ {
+  "id": "14259",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stripping old finishes and parts"
+ },
+ {
+  "id": "14260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building designs from blueprints"
+ },
+ {
+  "id": "14261",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "taking furniture apart"
+ },
+ {
+  "id": "14262",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "washing surfaces before finishing"
+ },
+ {
+  "id": "14263",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "masking and removing fittings"
+ },
+ {
+  "id": "14264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "restoring warped or stained wood"
+ },
+ {
+  "id": "14265",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer color and finish discussions"
+ },
+ {
+  "id": "14266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reupholstering furniture"
+ },
+ {
+  "id": "14267",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiping off excess solvent"
+ },
+ {
+  "id": "14268",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "decorative stenciling and gilding"
+ },
+ {
+  "id": "14269",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "designing and decorating furniture pieces"
+ },
+ {
+  "id": "14270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bleaching wood surfaces"
+ },
+ {
+  "id": "14271",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "simulated wood grain on metal"
+ },
+ {
+  "id": "14272",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "checking model dimensions by hand"
+ },
+ {
+  "id": "14273",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "blueprints and designer consultation"
+ },
+ {
+  "id": "14274",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "woodworking machine setup and operation"
+ },
+ {
+  "id": "14275",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembling wooden model parts"
+ },
+ {
+  "id": "14276",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand-shaping model surfaces"
+ },
+ {
+  "id": "14277",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wood stock selection and layout marking"
+ },
+ {
+  "id": "14278",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building wooden models and molds"
+ },
+ {
+  "id": "14279",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "labeling patterns and parts"
+ },
+ {
+  "id": "14280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drawing pattern layouts and mock-ups"
+ },
+ {
+  "id": "14281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "making scrapers and templates"
+ },
+ {
+  "id": "14282",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern record keeping"
+ },
+ {
+  "id": "14283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building assembly jigs"
+ },
+ {
+  "id": "14284",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "handing patterns to operators"
+ },
+ {
+  "id": "14285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coating wooden models"
+ },
+ {
+  "id": "12230",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reading blueprints for pattern specs"
+ },
+ {
+  "id": "12231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marking pattern outlines on wood"
+ },
+ {
+  "id": "12232",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring finished pattern dimensions"
+ },
+ {
+  "id": "12233",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "woodworking machine setup and operation"
+ },
+ {
+  "id": "12234",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand-shaping pattern surfaces"
+ },
+ {
+  "id": "12235",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembling wooden pattern parts"
+ },
+ {
+  "id": "12236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "adjusting patterns for casting defects"
+ },
+ {
+  "id": "12237",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building wooden templates and molds"
+ },
+ {
+  "id": "12238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dimension and volume calculations"
+ },
+ {
+  "id": "12239",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coding patterns and parts"
+ },
+ {
+  "id": "12240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finishing wooden models"
+ },
+ {
+  "id": "12241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gluing fillets in pattern corners"
+ },
+ {
+  "id": "12242",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "choosing lumber for patterns"
+ },
+ {
+  "id": "12243",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repairing damaged patterns"
+ },
+ {
+  "id": "12244",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pattern record keeping"
+ },
+ {
+  "id": "12245",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shop equipment and supply inventory"
+ },
+ {
+  "id": "12246",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patternmaking job cost estimates"
+ },
+ {
+  "id": "12247",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "splitting patterns for mold removal"
+ },
+ {
+  "id": "12248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "handing patterns to operators"
+ },
+ {
+  "id": "12249",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "storing patterns and lumber"
+ },
+ {
+  "id": "12250",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "saw blade adjustment"
+ },
+ {
+  "id": "12251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring and checking cut workpieces"
+ },
+ {
+  "id": "12252",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "logs and lumber cut planning"
+ },
+ {
+  "id": "12253",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating wood cutting saws"
+ },
+ {
+  "id": "12254",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock defect and grade inspection"
+ },
+ {
+  "id": "12255",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "saw and conveyor control panels"
+ },
+ {
+  "id": "12256",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mounting saw blades"
+ },
+ {
+  "id": "12257",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "monitoring saws and clearing jams"
+ },
+ {
+  "id": "12258",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "choosing blades and stock per orders"
+ },
+ {
+  "id": "12259",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guiding wood against saws"
+ },
+ {
+  "id": "12260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "adjusting saw clamps and guides"
+ },
+ {
+  "id": "12261",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sharpening and replacing blades"
+ },
+ {
+  "id": "12262",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "counting and stacking workpieces"
+ },
+ {
+  "id": "12263",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning and lubricating saws"
+ },
+ {
+  "id": "12264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clearing machine jams"
+ },
+ {
+  "id": "12265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "disposing of wood waste"
+ },
+ {
+  "id": "12266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "measuring and marking stock"
+ },
+ {
+  "id": "12267",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and drawings for setup"
+ },
+ {
+  "id": "12269",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trimming lumber edges"
+ },
+ {
+  "id": "12270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "positioning and clamping stock"
+ },
+ {
+  "id": "12271",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting grooves and bevels"
+ },
+ {
+  "id": "12272",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "removing finished workpieces"
+ },
+ {
+  "id": "12274",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starting machines and trial cuts"
+ },
+ {
+  "id": "12275",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specifications from blueprints and work orders"
+ },
+ {
+  "id": "12276",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feeding stock into machines"
+ },
+ {
+  "id": "12277",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "adjusting machine tables and controls"
+ },
+ {
+  "id": "12278",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "monitoring woodworking machine output"
+ },
+ {
+  "id": "12279",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "setting up and tending woodworking machines"
+ },
+ {
+  "id": "12280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "choosing blades and cutters"
+ },
+ {
+  "id": "12281",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "checking finished workpiece conformity"
+ },
+ {
+  "id": "12282",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installing blades and sanding belts"
+ },
+ {
+  "id": "12283",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marking and stacking finished parts"
+ },
+ {
+  "id": "12284",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holding workpieces against cutters"
+ },
+ {
+  "id": "12285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aligning machine guides"
+ },
+ {
+  "id": "12286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine safety component inspection"
+ },
+ {
+  "id": "12287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "replacing worn machine parts"
+ },
+ {
+  "id": "12288",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading woodstock into machines"
+ },
+ {
+  "id": "12289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning machines and work area"
+ },
+ {
+  "id": "12290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "attaching machine guides and clamps"
+ },
+ {
+  "id": "12291",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw woodstock defect inspection"
+ },
+ {
+  "id": "12292",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "CNC machine programming"
+ },
+ {
+  "id": "12293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gluing machines and veneer"
+ },
+ {
+  "id": "12295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand-trimming wood parts"
+ },
+ {
+  "id": "12296",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unclamping workpieces"
+ },
+ {
+  "id": "12297",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hydraulic wood pressing machines"
+ },
+ {
+  "id": "12298",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoists moving parts"
+ },
+ {
+  "id": "20823",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "greasing woodworking machines"
+ },
+ {
+  "id": "19907",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "approving corrective operating actions"
+ },
+ {
+  "id": "19908",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "directing radiation measurements"
+ },
+ {
+  "id": "19909",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "directing radioactivity sample collection"
+ },
+ {
+  "id": "19911",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "reactor operation per procedures"
+ },
+ {
+  "id": "19912",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "supervising technicians' safe work"
+ },
+ {
+  "id": "20680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "equipment lockouts and tagouts"
+ },
+ {
+  "id": "20681",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating procedure documents"
+ },
+ {
+  "id": "8506",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "reactor controls and rods"
+ },
+ {
+  "id": "8507",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "system abnormality response"
+ },
+ {
+  "id": "8508",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant systems gauges"
+ },
+ {
+  "id": "8509",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "startup and shutdown procedures"
+ },
+ {
+  "id": "8510",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment malfunction reporting"
+ },
+ {
+  "id": "8511",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "boilers and turbines"
+ },
+ {
+  "id": "8512",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radio instructions to personnel"
+ },
+ {
+  "id": "8513",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating and test data records"
+ },
+ {
+  "id": "8514",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nuclear fuel element handling"
+ },
+ {
+  "id": "8515",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant inspections outside control room"
+ },
+ {
+  "id": "8516",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "directing operators in emergencies"
+ },
+ {
+  "id": "8517",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "approving maintenance and status changes"
+ },
+ {
+  "id": "12299",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "power outages and line failures"
+ },
+ {
+  "id": "12300",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switching orders for work areas"
+ },
+ {
+  "id": "12301",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "electricity distribution control equipment"
+ },
+ {
+  "id": "12302",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordinating clearances with utility staff"
+ },
+ {
+  "id": "12303",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "directing distribution control personnel"
+ },
+ {
+  "id": "12304",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "power flow between stations"
+ },
+ {
+  "id": "12305",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switchboard readings and records"
+ },
+ {
+  "id": "12306",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "weather effects on power demand"
+ },
+ {
+  "id": "12307",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "power distribution equipment controls"
+ },
+ {
+  "id": "12308",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "load estimates and control settings"
+ },
+ {
+  "id": "12309",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meter readings and usage data"
+ },
+ {
+  "id": "12310",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power equipment defect inspection"
+ },
+ {
+  "id": "12311",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "auxiliary distribution equipment"
+ },
+ {
+  "id": "12312",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy transmission schedules"
+ },
+ {
+  "id": "12314",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant indicators for problems"
+ },
+ {
+  "id": "12315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "generator output controls"
+ },
+ {
+  "id": "12316",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "boilers turbines and generators"
+ },
+ {
+  "id": "12317",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water levels and equipment conditions"
+ },
+ {
+  "id": "12318",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "regulatory actions from gauge readings"
+ },
+ {
+  "id": "12319",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starting and stopping plant equipment"
+ },
+ {
+  "id": "12320",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "logbooks and staff on equipment status"
+ },
+ {
+  "id": "12321",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "auxiliary pumps fans and compressors"
+ },
+ {
+  "id": "12322",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning and lubricating plant machinery"
+ },
+ {
+  "id": "12323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "line voltage coordination with operators"
+ },
+ {
+  "id": "12324",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating logs and reports"
+ },
+ {
+  "id": "12325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "valves and switches for auxiliary units"
+ },
+ {
+  "id": "12326",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oil and water sample collection"
+ },
+ {
+  "id": "12327",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor leak repairs"
+ },
+ {
+  "id": "12328",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "generator phase and voltage matching"
+ },
+ {
+  "id": "12329",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "standby emergency generators"
+ },
+ {
+  "id": "12330",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "outage calls and staffing"
+ },
+ {
+  "id": "12331",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "testing power distribution machinery"
+ },
+ {
+  "id": "19914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "on-site fuel cell generation"
+ },
+ {
+  "id": "19915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "carbon dioxide capture equipment"
+ },
+ {
+  "id": "19916",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coal gasifier equipment"
+ },
+ {
+  "id": "19917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "combined cycle gasification equipment"
+ },
+ {
+  "id": "23612",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "generation facility layout and instrumentation"
+ },
+ {
+  "id": "23613",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas collection system problems"
+ },
+ {
+  "id": "23614",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "well field performance"
+ },
+ {
+  "id": "23615",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "landfill gas generators"
+ },
+ {
+  "id": "23616",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compliance and safety reports"
+ },
+ {
+  "id": "23617",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas piping repair"
+ },
+ {
+  "id": "23618",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical circuits and code compliance"
+ },
+ {
+  "id": "23619",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "well monitoring data regulatory conformity"
+ },
+ {
+  "id": "17854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raw biomass feedstock"
+ },
+ {
+  "id": "17855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biofuel production valves and pumps"
+ },
+ {
+  "id": "17856",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment maintenance"
+ },
+ {
+  "id": "17857",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biomass feedstock quality"
+ },
+ {
+  "id": "17858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loading and mixing feedstock"
+ },
+ {
+  "id": "17859",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuel and water flow meters"
+ },
+ {
+  "id": "17860",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment damage inspection"
+ },
+ {
+  "id": "17861",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biomass boiler and gasifier operation"
+ },
+ {
+  "id": "17862",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biomass heating equipment"
+ },
+ {
+  "id": "17863",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biomass generators and boilers"
+ },
+ {
+  "id": "17864",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "high-pressure steam boilers"
+ },
+ {
+  "id": "17865",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feedstock preprocessing"
+ },
+ {
+  "id": "17866",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "meter and gauge readings"
+ },
+ {
+  "id": "17867",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning work areas for safety"
+ },
+ {
+  "id": "17868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant parts and supply inventory"
+ },
+ {
+  "id": "17869",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuals and technical drawings"
+ },
+ {
+  "id": "21208",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boiler water chemistry testing"
+ },
+ {
+  "id": "21209",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bulldozers and front-end loaders"
+ }
+]

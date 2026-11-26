@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "12750",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "locomotive speed and pressure gauges"
+ },
+ {
+  "id": "12751",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "track ahead for obstructions"
+ },
+ {
+  "id": "12752",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "train orders, signals, railroad rules"
+ },
+ {
+  "id": "12753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locomotive throttle and brake controls"
+ },
+ {
+  "id": "12754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radio coordination with conductors, control center"
+ },
+ {
+  "id": "12755",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "locomotives hauling freight or passengers"
+ },
+ {
+  "id": "12756",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "train emergencies and breakdowns"
+ },
+ {
+  "id": "12757",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brake examination tests at stations"
+ },
+ {
+  "id": "12758",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "spoken signal meanings to assistants"
+ },
+ {
+  "id": "12759",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locomotive fuel, sand, water supplies"
+ },
+ {
+  "id": "12760",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incident and delay reports"
+ },
+ {
+  "id": "12761",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "manuals and logbooks in cab"
+ },
+ {
+  "id": "12762",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locomotives checked for damage after runs"
+ },
+ {
+  "id": "12764",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "freight loading and unloading"
+ },
+ {
+  "id": "10665",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switching information exchanged by radio"
+ },
+ {
+  "id": "10666",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "crew movement signals for engines"
+ },
+ {
+  "id": "10667",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "wayside and cab signals"
+ },
+ {
+  "id": "10668",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yard engines coupling railroad cars"
+ },
+ {
+  "id": "10669",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines checked before and after use"
+ },
+ {
+  "id": "10670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rail car hand brakes"
+ },
+ {
+  "id": "10671",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switching instructions and car schedules"
+ },
+ {
+  "id": "10672",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stationary trains and rolling stock"
+ },
+ {
+  "id": "10673",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water, oil, air, steam gauges"
+ },
+ {
+  "id": "10674",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cars positioned at customer sites"
+ },
+ {
+  "id": "10675",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track defects and switches"
+ },
+ {
+  "id": "10676",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "riding moving cars"
+ },
+ {
+  "id": "10677",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track switches, derails, retarders"
+ },
+ {
+  "id": "10678",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructions from operations and service staff"
+ },
+ {
+  "id": "10679",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air hoses and electrical connections"
+ },
+ {
+  "id": "10680",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "arrival times, delays, duty time"
+ },
+ {
+  "id": "10681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coupler knuckles"
+ },
+ {
+  "id": "10682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drawbars alignment"
+ },
+ {
+  "id": "10683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locomotives driven to roundhouse stations"
+ },
+ {
+  "id": "10684",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "counts of cars and service needs"
+ },
+ {
+  "id": "10685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "routine repair of rail equipment"
+ },
+ {
+  "id": "10687",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "derrick flatcars carrying equipment"
+ },
+ {
+  "id": "10688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rail and tie installation"
+ },
+ {
+  "id": "23774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "train signals along route"
+ },
+ {
+  "id": "23775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "engineer signals during coupling"
+ },
+ {
+  "id": "23776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "track switches"
+ },
+ {
+  "id": "23777",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "crew member signals"
+ },
+ {
+  "id": "23778",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "passing train equipment condition"
+ },
+ {
+  "id": "23779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "couplings, hoses, journal boxes"
+ },
+ {
+  "id": "23780",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "track obstructions from locomotive"
+ },
+ {
+  "id": "23781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "locomotive in emergencies"
+ },
+ {
+  "id": "23782",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coupling levers for train makeup"
+ },
+ {
+  "id": "23783",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brakes on car tops"
+ },
+ {
+  "id": "23784",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "yard track assignment instructions"
+ },
+ {
+  "id": "23785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "locomotive parts for wear"
+ },
+ {
+  "id": "23786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crew signals for brakes, switches"
+ },
+ {
+  "id": "23787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "train fuel, water, sand supplies"
+ },
+ {
+  "id": "23788",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "engine dashboard gauges"
+ },
+ {
+  "id": "23789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "warning flares behind stopped trains"
+ },
+ {
+  "id": "23790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tracks, cars, engines for defects"
+ },
+ {
+  "id": "23791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diesel engine warm-up"
+ },
+ {
+  "id": "23792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "couplings and hoses minor repair"
+ },
+ {
+  "id": "23793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air hoses between cars"
+ },
+ {
+  "id": "23794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "yard locomotives and railcars"
+ },
+ {
+  "id": "23795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine fuel and lubrication"
+ },
+ {
+  "id": "23796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shunted cars speed control"
+ },
+ {
+  "id": "23798",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "counts of cars and service needs"
+ },
+ {
+  "id": "23799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passengers boarding and exiting trains"
+ },
+ {
+  "id": "23801",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "train brake condition tests"
+ },
+ {
+  "id": "10690",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "engineer start and stop signals"
+ },
+ {
+  "id": "10691",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "train problem information from dispatchers"
+ },
+ {
+  "id": "10692",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "yard workers switching activities"
+ },
+ {
+  "id": "10693",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "car contents and destination records"
+ },
+ {
+  "id": "10694",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "track switches and traffic signals"
+ },
+ {
+  "id": "10695",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "warning signals during emergency stops"
+ },
+ {
+  "id": "10696",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "car moves for train configuration"
+ },
+ {
+  "id": "10697",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dispatcher route and cargo instructions"
+ },
+ {
+  "id": "10698",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "schedules, orders, waybills for planning"
+ },
+ {
+  "id": "10699",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "routes and alternatives with engineers"
+ },
+ {
+  "id": "10700",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "defective cars removed from trains"
+ },
+ {
+  "id": "10701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cars inspected during runs"
+ },
+ {
+  "id": "10702",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "yard tracks availability"
+ },
+ {
+  "id": "10703",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accident and delay reports"
+ },
+ {
+  "id": "10704",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight car routes and destinations"
+ },
+ {
+  "id": "10705",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "train crew and passenger services"
+ },
+ {
+  "id": "10706",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "equipment inspection and maintenance crews"
+ },
+ {
+  "id": "10707",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "times, tickets, revenue, accommodations"
+ },
+ {
+  "id": "10708",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "freight car seals and numbers"
+ },
+ {
+  "id": "10710",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "timekeeping instruments with engineers"
+ },
+ {
+  "id": "12765",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "transit vehicle doors"
+ },
+ {
+  "id": "12766",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "rail transit vehicle driving"
+ },
+ {
+  "id": "12767",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "obstruction lights and crossing traffic"
+ },
+ {
+  "id": "12768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "passenger emergency evacuation"
+ },
+ {
+  "id": "12769",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vehicle speed and stop times"
+ },
+ {
+  "id": "12770",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radio reports of delays and problems"
+ },
+ {
+  "id": "12771",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "passenger stop and delay announcements"
+ },
+ {
+  "id": "12772",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shift, incident, accident reports"
+ },
+ {
+  "id": "12773",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "passenger questions about fares, routes"
+ },
+ {
+  "id": "12774",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "safety meetings attendance"
+ },
+ {
+  "id": "14457",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government-issued certifications"
+ },
+ {
+  "id": "14458",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "lifeboats in emergencies"
+ },
+ {
+  "id": "14459",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "autopilot course checking"
+ },
+ {
+  "id": "14460",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ship steering"
+ },
+ {
+  "id": "14461",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mooring and towing lines"
+ },
+ {
+  "id": "14462",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "watch for obstructions and buoys"
+ },
+ {
+  "id": "14463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "gangway access in port"
+ },
+ {
+  "id": "14464",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lifeboats and gear"
+ },
+ {
+  "id": "14465",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winches, cranes, derricks"
+ },
+ {
+  "id": "14467",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery gears, shafts, bearings"
+ },
+ {
+  "id": "14468",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cargo-handling gear and rigging"
+ },
+ {
+  "id": "14469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ropes, cables, cordage"
+ },
+ {
+  "id": "14470",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "machinery repair help for engineers"
+ },
+ {
+  "id": "14471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "decks and ship surfaces painting"
+ },
+ {
+  "id": "14472",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deck cleaning"
+ },
+ {
+  "id": "14473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rust on ship surfaces"
+ },
+ {
+  "id": "14474",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "crew cleaning wheelhouses"
+ },
+ {
+  "id": "14475",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pressure and temperature engineering logs"
+ },
+ {
+  "id": "14476",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery pressures and lubricant flows"
+ },
+ {
+  "id": "14477",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water depth by leadline"
+ },
+ {
+  "id": "14479",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "liquid cargo tank transfers"
+ },
+ {
+  "id": "14480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ship engines maintenance"
+ },
+ {
+  "id": "14481",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "visual signals to other ships"
+ },
+ {
+  "id": "14482",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "barges tied into tows"
+ },
+ {
+  "id": "14483",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "shore patrol participation"
+ },
+ {
+  "id": "14484",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wood trim and metal polishing"
+ },
+ {
+  "id": "20934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel cargo, vehicles, passengers loading"
+ },
+ {
+  "id": "20935",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ship log weather and distance"
+ },
+ {
+  "id": "23802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "ship courses and speeds"
+ },
+ {
+  "id": "23803",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "unsafe vessel operations"
+ },
+ {
+  "id": "23804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vessel docking at berth"
+ },
+ {
+  "id": "23805",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "charts, weather, navigation equipment"
+ },
+ {
+  "id": "23806",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vessel steering with radar, radios"
+ },
+ {
+  "id": "23807",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ship-to-shore radio information"
+ },
+ {
+  "id": "23808",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel docking and undocking"
+ },
+ {
+  "id": "23809",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "watch duty while underway"
+ },
+ {
+  "id": "23810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vessel safety and regulation conformance"
+ },
+ {
+  "id": "23811",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hydraulic, air, oxygen levels"
+ },
+ {
+  "id": "23812",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pilotage law violations"
+ },
+ {
+  "id": "23813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "maritime rescue operations"
+ },
+ {
+  "id": "23814",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "passing vessel signals"
+ },
+ {
+  "id": "23815",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water depth measurements"
+ },
+ {
+  "id": "23816",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat engines and safety equipment"
+ },
+ {
+  "id": "23817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "deckhand signals for tow lines, gates"
+ },
+ {
+  "id": "23818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "harbor rules and customs advice"
+ },
+ {
+  "id": "23819",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily vessel activity records"
+ },
+ {
+  "id": "23820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cargo loading and storage"
+ },
+ {
+  "id": "23821",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "land sightings from sounding devices"
+ },
+ {
+  "id": "23822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new vessel technology systems"
+ },
+ {
+  "id": "23823",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew loading, steering, maintenance work"
+ },
+ {
+  "id": "23824",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "ship fuel, supplies, repairs"
+ },
+ {
+  "id": "23825",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew cleaning decks and bridges"
+ },
+ {
+  "id": "23826",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies and equipment purchasing"
+ },
+ {
+  "id": "23827",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "barges towing and maneuvering"
+ },
+ {
+  "id": "23828",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "harbor pollutants and beach patrol"
+ },
+ {
+  "id": "23829",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "crew watches and living quarters"
+ },
+ {
+  "id": "23830",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "crew member candidates"
+ },
+ {
+  "id": "23831",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew safety drills"
+ },
+ {
+  "id": "14535",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "boat course by compass"
+ },
+ {
+  "id": "14536",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger, cargo, vessel safety"
+ },
+ {
+  "id": "14537",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat throttle and steering"
+ },
+ {
+  "id": "14538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "emergency safety operations"
+ },
+ {
+  "id": "14539",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "boat loading and seating"
+ },
+ {
+  "id": "14540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat mooring lines"
+ },
+ {
+  "id": "14541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat fenders, lines, pumps, extinguishers"
+ },
+ {
+  "id": "14542",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "navigational hazards to authorities"
+ },
+ {
+  "id": "14543",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat motors oil and lubrication"
+ },
+ {
+  "id": "14544",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vessel repairs, fuel, supplies"
+ },
+ {
+  "id": "14545",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew member activities"
+ },
+ {
+  "id": "14546",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "towing boats, barges, logs"
+ },
+ {
+  "id": "14547",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boat hulls cleaning and repair"
+ },
+ {
+  "id": "14548",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "passenger and cargo vessel operation"
+ },
+ {
+  "id": "14549",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "depth soundings in basins"
+ },
+ {
+  "id": "14550",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "general repair labor, booms"
+ },
+ {
+  "id": "14552",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lifesaving and pollution equipment compliance"
+ },
+ {
+  "id": "14553",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "engine and machinery indicators"
+ },
+ {
+  "id": "14554",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ship electrical, HVAC, water systems"
+ },
+ {
+  "id": "14555",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "speed orders and gauge readings"
+ },
+ {
+  "id": "14556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency drills"
+ },
+ {
+  "id": "14557",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering department activity records"
+ },
+ {
+  "id": "14558",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ship engines and speed"
+ },
+ {
+  "id": "14559",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine equipment malfunction diagnosis"
+ },
+ {
+  "id": "14560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engines, motors, pumps, winches"
+ },
+ {
+  "id": "14561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel leaks, interiors, decks"
+ },
+ {
+  "id": "14562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "off-loading liquid pumps and valves"
+ },
+ {
+  "id": "14563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine parts and engine room"
+ },
+ {
+  "id": "14564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "marine engine technicians' work"
+ },
+ {
+  "id": "14565",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engine room stores and inventory"
+ },
+ {
+  "id": "14566",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "captain and shore personnel liaison"
+ },
+ {
+  "id": "14567",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "engine controls, shafts, propellers"
+ },
+ {
+  "id": "14568",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metalworking replacement engine parts"
+ }
+]

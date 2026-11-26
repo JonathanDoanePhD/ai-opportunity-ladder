@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "10206",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machined workpiece defects and accuracy"
+ },
+ {
+  "id": "10207",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine operation and workpiece defects"
+ },
+ {
+  "id": "10208",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and job orders"
+ },
+ {
+  "id": "10209",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal and plastic machining"
+ },
+ {
+  "id": "10210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock material in fixtures"
+ },
+ {
+  "id": "10211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting tools and holding devices"
+ },
+ {
+  "id": "10212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn cutting tools"
+ },
+ {
+  "id": "10213",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine repairs and adjustments"
+ },
+ {
+  "id": "10214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine feed and coolant mechanisms"
+ },
+ {
+  "id": "10215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and oiling"
+ },
+ {
+  "id": "10216",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coolant and lubricant choice"
+ },
+ {
+  "id": "10217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece burrs and rust"
+ },
+ {
+  "id": "10218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "coworker machine setup training"
+ },
+ {
+  "id": "10219",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machine operating readings"
+ },
+ {
+  "id": "10220",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jammed machine pieces"
+ },
+ {
+  "id": "10221",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stops and guides"
+ },
+ {
+  "id": "10222",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine feed and speed controls"
+ },
+ {
+  "id": "10223",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "gear dimensions and settings math"
+ },
+ {
+  "id": "10224",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "layout marks on dies"
+ },
+ {
+  "id": "10225",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece reference points and lines"
+ },
+ {
+  "id": "23937",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "CNC machine cutting programs"
+ },
+ {
+  "id": "23938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dies jigs and gauges assembly"
+ },
+ {
+  "id": "8489",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and fabrication sequences"
+ },
+ {
+  "id": "8490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished part dimensions"
+ },
+ {
+  "id": "8491",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assembly dimensions and tolerances"
+ },
+ {
+  "id": "8492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine tool parts shaping"
+ },
+ {
+  "id": "8493",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts fitting by filing"
+ },
+ {
+  "id": "8495",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "test runs of dies"
+ },
+ {
+  "id": "8496",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished die surfaces"
+ },
+ {
+  "id": "8497",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part surface polishing"
+ },
+ {
+  "id": "8498",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machined parts on worktables"
+ },
+ {
+  "id": "8499",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal stock layout marks"
+ },
+ {
+  "id": "8500",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock blanks cutting"
+ },
+ {
+  "id": "8501",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "jigs fixtures and templates design"
+ },
+ {
+  "id": "8502",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "metal and alloy selection"
+ },
+ {
+  "id": "8503",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling and tapping holes"
+ },
+ {
+  "id": "8504",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new tool and die CAD design"
+ },
+ {
+  "id": "8505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heat-treating furnace controls and parts"
+ },
+ {
+  "id": "23582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding components in positions"
+ },
+ {
+  "id": "23583",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "safety equipment and work habits"
+ },
+ {
+  "id": "23584",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece defects and measurements"
+ },
+ {
+  "id": "23585",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding hand and power tools"
+ },
+ {
+  "id": "23586",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "alloy welding"
+ },
+ {
+  "id": "23587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "torches tips filler and flux"
+ },
+ {
+  "id": "23588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "torches and arc starting"
+ },
+ {
+  "id": "23589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas regulator valves"
+ },
+ {
+  "id": "23590",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "welding methods and equipment choice"
+ },
+ {
+  "id": "23591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding heat distortion"
+ },
+ {
+  "id": "23592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material job markings"
+ },
+ {
+  "id": "23593",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weld slag and spatter"
+ },
+ {
+  "id": "23594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weld surfaces preparation"
+ },
+ {
+  "id": "23595",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece preheating"
+ },
+ {
+  "id": "23596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces clamped for welding"
+ },
+ {
+  "id": "23597",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "welding templates from blueprints"
+ },
+ {
+  "id": "23598",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flames or electrodes on metal"
+ },
+ {
+  "id": "23599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces hoisted and secured"
+ },
+ {
+  "id": "23600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "faulty equipment or materials"
+ },
+ {
+  "id": "23601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts cleaning and degreasing"
+ },
+ {
+  "id": "23602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solder on joints"
+ },
+ {
+  "id": "23603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece edges grinding"
+ },
+ {
+  "id": "23604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product repair by dismantling"
+ },
+ {
+  "id": "23605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grooves angles and gaps"
+ },
+ {
+  "id": "23606",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal shaping and bending machines"
+ },
+ {
+  "id": "23607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ladders and scaffolding"
+ },
+ {
+  "id": "23608",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal bulges and bends"
+ },
+ {
+  "id": "23609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solder filling seams and holes"
+ },
+ {
+  "id": "23610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "industrial fire suppression"
+ },
+ {
+  "id": "23611",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawings specifications and work orders"
+ },
+ {
+  "id": "10266",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding machine controls"
+ },
+ {
+  "id": "10267",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding machines operation"
+ },
+ {
+  "id": "10268",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces into welding machines"
+ },
+ {
+  "id": "10269",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "coworker machine setup directions"
+ },
+ {
+  "id": "10270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine problems and controls"
+ },
+ {
+  "id": "10271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed metal workpiece conformance"
+ },
+ {
+  "id": "10272",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production reports entries"
+ },
+ {
+  "id": "10273",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robotic welding lines"
+ },
+ {
+  "id": "10274",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and work orders"
+ },
+ {
+  "id": "10275",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces in holding fixtures"
+ },
+ {
+  "id": "10276",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts layout and measurements"
+ },
+ {
+  "id": "10277",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pre-weld trial runs"
+ },
+ {
+  "id": "10278",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "welding electrodes dressing"
+ },
+ {
+  "id": "10279",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed workpieces removal"
+ },
+ {
+  "id": "10280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meters gauges and machine operations"
+ },
+ {
+  "id": "10281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jigs and holding fixtures"
+ },
+ {
+  "id": "10282",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "torch tips alloys and flux"
+ },
+ {
+  "id": "10283",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "welding settings computation"
+ },
+ {
+  "id": "10284",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal surfaces preparation"
+ },
+ {
+  "id": "10285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment cleaning and lubrication"
+ },
+ {
+  "id": "10286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dials and timing controls"
+ },
+ {
+  "id": "10287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "auxiliary welding equipment"
+ },
+ {
+  "id": "10288",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fixtures and jigs construction"
+ },
+ {
+  "id": "10289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flux hoppers and seams"
+ },
+ {
+  "id": "10290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "components moved with equipment"
+ },
+ {
+  "id": "10291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bonding or cooling additives"
+ },
+ {
+  "id": "10292",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weld points on workpieces"
+ },
+ {
+  "id": "10293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece annealing"
+ },
+ {
+  "id": "10294",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces in cooling baths"
+ },
+ {
+  "id": "12087",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules and heat cycles"
+ },
+ {
+  "id": "12088",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "furnace removal times log"
+ },
+ {
+  "id": "12089",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heat-treating furnaces and machines"
+ },
+ {
+  "id": "12090",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bath and quench media selection"
+ },
+ {
+  "id": "12091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts removed and cooled"
+ },
+ {
+  "id": "12092",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock positioned in furnaces"
+ },
+ {
+  "id": "12093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new workers machine training"
+ },
+ {
+  "id": "12094",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furnace temperatures and heating times"
+ },
+ {
+  "id": "12095",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flame and induction heating parameters"
+ },
+ {
+  "id": "12096",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts loaded into furnaces"
+ },
+ {
+  "id": "12097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces mounted in fixtures"
+ },
+ {
+  "id": "12099",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gas burners and flame controls"
+ },
+ {
+  "id": "12100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furnace heat reduction and cooling"
+ },
+ {
+  "id": "12101",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "forklift signaling at furnaces"
+ },
+ {
+  "id": "12102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part hardness testing"
+ },
+ {
+  "id": "12104",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part metal colors"
+ },
+ {
+  "id": "12106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furnace equipment repair"
+ },
+ {
+  "id": "12107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyors furnace doors and stock"
+ },
+ {
+  "id": "12108",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock heated in furnaces"
+ },
+ {
+  "id": "12109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part oxides and scale"
+ },
+ {
+  "id": "12111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "heat-treatment marks stamping"
+ },
+ {
+  "id": "12112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reel and conveyor speeds"
+ },
+ {
+  "id": "12113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine fixtures and coils"
+ },
+ {
+  "id": "10295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabricated parts fitting and aligning"
+ },
+ {
+  "id": "10296",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layouts from blueprints and templates"
+ },
+ {
+  "id": "10297",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal structural part fabrication"
+ },
+ {
+  "id": "10298",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lines holes and weld symbols"
+ },
+ {
+  "id": "10299",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "layout dimensions and reference points"
+ },
+ {
+  "id": "10300",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "center lines and template positions"
+ },
+ {
+  "id": "10301",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces on surface plates"
+ },
+ {
+  "id": "10302",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cutting and welding operation sequences"
+ },
+ {
+  "id": "10303",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machined part conformance"
+ },
+ {
+  "id": "10304",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "layout templates"
+ },
+ {
+  "id": "10305",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ship hull parts bracing"
+ },
+ {
+  "id": "10306",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprint dimensional details"
+ },
+ {
+  "id": "10307",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "doors hatches brackets and clips"
+ },
+ {
+  "id": "10308",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "layout surface pigment"
+ },
+ {
+  "id": "10309",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coated or plated area defects"
+ },
+ {
+  "id": "10310",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "objects in cleaning solutions"
+ },
+ {
+  "id": "10311",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces in coating solutions"
+ },
+ {
+  "id": "10312",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plating and coating machines"
+ },
+ {
+  "id": "10313",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials into processing machines"
+ },
+ {
+  "id": "10314",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery operation tests"
+ },
+ {
+  "id": "10315",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoisted workpieces onto carriages"
+ },
+ {
+  "id": "10316",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production records"
+ },
+ {
+  "id": "10317",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coating temperatures and machine speeds"
+ },
+ {
+  "id": "10318",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "objects removed from solutions"
+ },
+ {
+  "id": "10319",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine gauges and problems"
+ },
+ {
+  "id": "10320",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "containers and parts loading"
+ },
+ {
+  "id": "10321",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tank cleaning and conveyor lubrication"
+ },
+ {
+  "id": "10322",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment cleaning"
+ },
+ {
+  "id": "10323",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plating sizes current and time"
+ },
+ {
+  "id": "10324",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plating metal on anodes"
+ },
+ {
+  "id": "10325",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plating thickness on parts"
+ },
+ {
+  "id": "10326",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "current and voltage dials"
+ },
+ {
+  "id": "10327",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coated objects rinsing and drying"
+ },
+ {
+  "id": "10328",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal deposit thickness"
+ },
+ {
+  "id": "10329",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials measuring and weighing"
+ },
+ {
+  "id": "10330",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "objects on cathode rods"
+ },
+ {
+  "id": "10331",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plating exclusion area masking"
+ },
+ {
+  "id": "10332",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plating solutions mixing and testing"
+ },
+ {
+  "id": "10333",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plated materials into drying ovens"
+ },
+ {
+  "id": "10335",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules and setups"
+ },
+ {
+  "id": "10337",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "objects in plating frames"
+ },
+ {
+  "id": "10338",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feeder stops rolls and guides"
+ },
+ {
+  "id": "10339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece oven preheating"
+ },
+ {
+  "id": "10340",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn parts and components"
+ },
+ {
+  "id": "10342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess material and impurities"
+ },
+ {
+  "id": "10343",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece wire brushing"
+ },
+ {
+  "id": "10345",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandblasting workpiece surfaces"
+ },
+ {
+  "id": "10348",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding wheel dressing"
+ },
+ {
+  "id": "10349",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine operations adjustments"
+ },
+ {
+  "id": "10350",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece surfaces and dimensions"
+ },
+ {
+  "id": "10351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding and polishing machines"
+ },
+ {
+  "id": "10352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished workpieces racked"
+ },
+ {
+  "id": "10353",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece surfaces by hand tools"
+ },
+ {
+  "id": "10354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding wheels mounting"
+ },
+ {
+  "id": "10355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine cleaning and lubrication"
+ },
+ {
+  "id": "10356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "worn machine parts"
+ },
+ {
+  "id": "10357",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cutting tool numbers and angles"
+ },
+ {
+  "id": "10358",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and grinding procedures"
+ },
+ {
+  "id": "10359",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coolant flow valves"
+ },
+ {
+  "id": "10361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "die defects and wear"
+ },
+ {
+  "id": "10362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece contour duplication"
+ },
+ {
+  "id": "10363",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece dents and straightening"
+ },
+ {
+  "id": "10364",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces cracks welding repair"
+ },
+ {
+  "id": "10365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece ridges and grooves"
+ },
+ {
+  "id": "20926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts pre-assembly dimensions"
+ },
+ {
+  "id": "10402",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer-aided equipment information"
+ },
+ {
+  "id": "10403",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "page text layout"
+ },
+ {
+  "id": "10404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prepress equipment maintenance"
+ },
+ {
+  "id": "10405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laser plate-making equipment"
+ },
+ {
+  "id": "10406",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "photographic image imperfections"
+ },
+ {
+  "id": "10407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plate proof presses"
+ },
+ {
+  "id": "10410",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unexposed photographic plates"
+ },
+ {
+  "id": "10412",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished plates flaws and dots"
+ },
+ {
+  "id": "10425",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plate types and run lengths"
+ },
+ {
+  "id": "10427",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "originals color density"
+ },
+ {
+  "id": "10428",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scanner density and size settings"
+ },
+ {
+  "id": "10433",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copy scaling for reproduction"
+ },
+ {
+  "id": "20927",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prepress proof files"
+ },
+ {
+  "id": "20928",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "text and image quality control"
+ },
+ {
+  "id": "20929",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prepress file completeness preflight"
+ }
+]

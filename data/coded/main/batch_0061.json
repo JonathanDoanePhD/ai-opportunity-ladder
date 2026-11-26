@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "23157",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel and operational data reports"
+ },
+ {
+  "id": "23158",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer feedback for service improvement"
+ },
+ {
+  "id": "23159",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "worker work schedules"
+ },
+ {
+  "id": "23160",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "planning event programs with staff"
+ },
+ {
+  "id": "23161",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "directing recreation workers' activities"
+ },
+ {
+  "id": "23162",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer information on events"
+ },
+ {
+  "id": "23163",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "informing workers about group needs"
+ },
+ {
+  "id": "23164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas and equipment inspection"
+ },
+ {
+  "id": "23165",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meetings with managers about changes"
+ },
+ {
+  "id": "23166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers' appearance and performance evaluation"
+ },
+ {
+  "id": "23167",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education on industry trends"
+ },
+ {
+  "id": "23168",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff-led recreational activities"
+ },
+ {
+  "id": "23169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "helping staff with difficult duties"
+ },
+ {
+  "id": "23170",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "recruiting and hiring staff"
+ },
+ {
+  "id": "23171",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "requisitioning activity supplies and equipment"
+ },
+ {
+  "id": "23172",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints about workers"
+ },
+ {
+  "id": "23173",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "liaison between management and activity leaders"
+ },
+ {
+  "id": "23174",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disciplinary action for performance problems"
+ },
+ {
+  "id": "23175",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training workers on procedures and policies"
+ },
+ {
+  "id": "13138",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "worker work schedules"
+ },
+ {
+  "id": "13139",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work areas and equipment inspection"
+ },
+ {
+  "id": "13140",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training workers on procedures and policies"
+ },
+ {
+  "id": "13141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers' appearance and performance evaluation"
+ },
+ {
+  "id": "13142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "meetings with managers about operations"
+ },
+ {
+  "id": "13143",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "informing workers about group needs"
+ },
+ {
+  "id": "13145",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints about workers"
+ },
+ {
+  "id": "13146",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "requisitioning supplies equipment services"
+ },
+ {
+  "id": "13150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "disciplinary action for performance problems"
+ },
+ {
+  "id": "13151",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "recruiting and hiring staff"
+ },
+ {
+  "id": "13152",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education on industry trends"
+ },
+ {
+  "id": "13154",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing and customer recruitment efforts"
+ },
+ {
+  "id": "20763",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer feedback for service improvement"
+ },
+ {
+  "id": "23176",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "worker break arrangements for staffing"
+ },
+ {
+  "id": "23177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "directing hotel staff or stylists"
+ },
+ {
+  "id": "23178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reporting employee problems to management"
+ },
+ {
+  "id": "23179",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee complaints investigation and resolution"
+ },
+ {
+  "id": "20593",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "animal behavior training programs"
+ },
+ {
+  "id": "20594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals' trainability and ability"
+ },
+ {
+  "id": "7988",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals' physical condition and illness"
+ },
+ {
+  "id": "7989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals during performances"
+ },
+ {
+  "id": "7990",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prescribed medication for animals"
+ },
+ {
+  "id": "7991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal temperament and training aptitude"
+ },
+ {
+  "id": "7992",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal feeding exercise and cleaning"
+ },
+ {
+  "id": "7993",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals' familiarity with human contact"
+ },
+ {
+  "id": "7995",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animal health diet behavior records"
+ },
+ {
+  "id": "7996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "owners' animal purchase advice"
+ },
+ {
+  "id": "7998",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "horse training for riding or show"
+ },
+ {
+  "id": "7999",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "horses conditioned to commands"
+ },
+ {
+  "id": "8001",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dogs trained for assistance or protection"
+ },
+ {
+  "id": "8002",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "horses' bad habits retraining"
+ },
+ {
+  "id": "8004",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal shows"
+ },
+ {
+  "id": "20132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal quarters, laundry and equipment cleaning"
+ },
+ {
+  "id": "21150",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pet owners' pet health advice"
+ },
+ {
+  "id": "5072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal feeding and watering"
+ },
+ {
+  "id": "5074",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phone calls and appointments"
+ },
+ {
+  "id": "5075",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals' signs of illness or injury"
+ },
+ {
+  "id": "5076",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patron questions about animals"
+ },
+ {
+  "id": "5077",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sick or injured animals' treatment"
+ },
+ {
+  "id": "5078",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "animal weight condition treatment records"
+ },
+ {
+  "id": "5079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal grooming"
+ },
+ {
+  "id": "5080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal exercise"
+ },
+ {
+  "id": "5081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feed and supplies ordering, unloading"
+ },
+ {
+  "id": "5082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal food and medication mixing"
+ },
+ {
+  "id": "5083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgical equipment cleaning"
+ },
+ {
+  "id": "5084",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clients' pet grooming needs"
+ },
+ {
+  "id": "5085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "children petting and feeding animals"
+ },
+ {
+  "id": "5086",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rehoming stray animals"
+ },
+ {
+  "id": "5087",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal quarters temperature and humidity controls"
+ },
+ {
+  "id": "5088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal anesthesia and inoculation"
+ },
+ {
+  "id": "5089",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals moved between enclosures"
+ },
+ {
+  "id": "5090",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal facility equipment installation repair"
+ },
+ {
+  "id": "5091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals trained for tasks"
+ },
+ {
+  "id": "5093",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pet food and supplies sales"
+ },
+ {
+  "id": "20133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "gambling staff and tables security"
+ },
+ {
+  "id": "21151",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customers greeted and welcomed"
+ },
+ {
+  "id": "4445",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "currency exchanged for chips"
+ },
+ {
+  "id": "4446",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "winnings and losing bets"
+ },
+ {
+  "id": "4447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cards dealt to house hands"
+ },
+ {
+  "id": "4448",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "gambling games rules"
+ },
+ {
+  "id": "4449",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "players' bets before play"
+ },
+ {
+  "id": "4450",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cards dealt at gaming table"
+ },
+ {
+  "id": "4451",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cards and game equipment inspection"
+ },
+ {
+  "id": "4452",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "games and equipment, announcing winners"
+ },
+ {
+  "id": "4453",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash floats and game tables"
+ },
+ {
+  "id": "4454",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "players' winnings and losses computation"
+ },
+ {
+  "id": "4455",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "card game rule variations"
+ },
+ {
+  "id": "4456",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patrons' cash wagers"
+ },
+ {
+  "id": "4457",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "game rules and casino policies questions"
+ },
+ {
+  "id": "4458",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patrons referred to cashiers"
+ },
+ {
+  "id": "4459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "dealer teamwork at games"
+ },
+ {
+  "id": "4460",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "playing to fill tables"
+ },
+ {
+  "id": "4461",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patrons seated at tables"
+ },
+ {
+  "id": "4462",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "collection reports for supervisors"
+ },
+ {
+  "id": "4464",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training new dealers"
+ },
+ {
+  "id": "20596",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "amounts won or lost, payouts"
+ },
+ {
+  "id": "8007",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash or chip bets"
+ },
+ {
+  "id": "8008",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cards or tickets from players"
+ },
+ {
+  "id": "8009",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "game rules and casino policy questions"
+ },
+ {
+  "id": "8010",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "house hand versus players' hands"
+ },
+ {
+  "id": "8011",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "players' bets before play"
+ },
+ {
+  "id": "8012",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "gambling tables and game rules"
+ },
+ {
+  "id": "8013",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "collection reports for supervisors"
+ },
+ {
+  "id": "8014",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bets paid off or moved"
+ },
+ {
+  "id": "8015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cards and game equipment inspection"
+ },
+ {
+  "id": "8016",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "currency exchanged for chips"
+ },
+ {
+  "id": "8017",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash floats and game tables"
+ },
+ {
+  "id": "8018",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "numbered ball equipment and announcements"
+ },
+ {
+  "id": "8019",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tickets cashed and payouts record"
+ },
+ {
+  "id": "8020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roulette wheel operation"
+ },
+ {
+  "id": "8021",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff, games and disputes"
+ },
+ {
+  "id": "8023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tickets and money delivered to bingo callers"
+ },
+ {
+  "id": "8026",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food and beverages sold to players"
+ },
+ {
+  "id": "21201",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "projector maintenance, bulbs, lenses, lubrication"
+ },
+ {
+  "id": "21202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "projection booth cleaning"
+ },
+ {
+  "id": "8029",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "projectors and shutters started"
+ },
+ {
+  "id": "8030",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "projection sound and image quality"
+ },
+ {
+  "id": "8031",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "film shown in multiple theaters"
+ },
+ {
+  "id": "8032",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "film reels spliced together"
+ },
+ {
+  "id": "8033",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "movie films inspection"
+ },
+ {
+  "id": "8034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "projectors, screens, sound setup"
+ },
+ {
+  "id": "8035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "projection equipment pre-operation inspection"
+ },
+ {
+  "id": "8039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor projector repairs"
+ },
+ {
+  "id": "8040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facilities opened and closed"
+ },
+ {
+  "id": "8041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "projector operation transfer anticipation"
+ },
+ {
+  "id": "8042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "curtain and screen controls"
+ },
+ {
+  "id": "8044",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "take-up reels rewinding"
+ },
+ {
+  "id": "8046",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "equipment with supplemental music or commentary"
+ },
+ {
+  "id": "8047",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "auxiliary audio and lighting equipment installation"
+ },
+ {
+  "id": "8048",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film inspection reports and logs"
+ },
+ {
+  "id": "20764",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "admission tickets and memberships"
+ },
+ {
+  "id": "20765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facilities cleaning"
+ },
+ {
+  "id": "20766",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patron directions and attraction information"
+ },
+ {
+  "id": "20767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "exhibit tours and visitor questions"
+ },
+ {
+  "id": "20768",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "volunteer usher staff scheduling"
+ },
+ {
+  "id": "5096",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patrons greeted at events"
+ },
+ {
+  "id": "5097",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ticket and pass authenticity"
+ },
+ {
+  "id": "5098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrons guided in emergencies"
+ },
+ {
+  "id": "5099",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "order and safety rules"
+ },
+ {
+  "id": "5100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patrons with special needs, wheelchairs"
+ },
+ {
+  "id": "5102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "refusing entry to ticketless persons"
+ },
+ {
+  "id": "5103",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "seating disputes and customer concerns"
+ },
+ {
+  "id": "5104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrons guided to seats with flashlight"
+ },
+ {
+  "id": "5105",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "lost articles and lost children"
+ },
+ {
+  "id": "5106",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tickets collected count records"
+ },
+ {
+  "id": "5107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "refreshment stands or press box refreshments"
+ },
+ {
+  "id": "5108",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "press box entry credentials"
+ },
+ {
+  "id": "5109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "programs handed to patrons"
+ },
+ {
+  "id": "5111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "advertising displays changed"
+ },
+ {
+  "id": "5112",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "artist merchandise inventory and sales"
+ },
+ {
+  "id": "5113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "door checks for departing patrons"
+ },
+ {
+  "id": "5114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "information kiosks and event posters"
+ },
+ {
+  "id": "5115",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "individuals paged at box office"
+ },
+ {
+  "id": "5116",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "facility, entertainment and rules information"
+ },
+ {
+  "id": "5117",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance, sales, reservations, repairs records"
+ },
+ {
+  "id": "5118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patron rule adherence and unruly patrons"
+ },
+ {
+  "id": "5119",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tickets and customer fees"
+ },
+ {
+  "id": "5120",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shut-down and evacuation procedures knowledge"
+ },
+ {
+  "id": "5121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment, rides, booths, grounds cleaning"
+ },
+ {
+  "id": "5123",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "attractions announced to entice customers"
+ },
+ {
+  "id": "5124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrons' safety devices fastened"
+ },
+ {
+  "id": "5125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment wear, damage, minor repairs"
+ },
+ {
+  "id": "5126",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical riding devices operation"
+ },
+ {
+  "id": "5127",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sporting equipment rentals and sales"
+ },
+ {
+  "id": "5128",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tickets verified before admission"
+ },
+ {
+  "id": "5130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patrons directed to rides and seats"
+ },
+ {
+  "id": "5131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patrons boarding rides, boats, lifts"
+ },
+ {
+  "id": "5132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "refreshments sold and served"
+ },
+ {
+  "id": "5133",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recreation facility use scheduling"
+ },
+ {
+  "id": "5134",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment inventory storage and assembly"
+ },
+ {
+  "id": "20898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cast members' dressing assistance"
+ },
+ {
+  "id": "9615",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "costumes distributed with status records"
+ },
+ {
+  "id": "9616",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "costumes arranged for quick changes"
+ },
+ {
+  "id": "9617",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "borrowed or rented items returned"
+ },
+ {
+  "id": "9618",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "costumes cleaned, pressed, repaired"
+ },
+ {
+  "id": "9619",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lockers and dressing rooms upkeep"
+ },
+ {
+  "id": "9621",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "costume design or construction"
+ },
+ {
+  "id": "9622",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "costumes and wardrobe purchasing"
+ },
+ {
+  "id": "9623",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "costume appearance on stage"
+ },
+ {
+  "id": "9624",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "costume stock inventory and condition"
+ },
+ {
+  "id": "9625",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "costume details with production staff"
+ },
+ {
+  "id": "9626",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "costume, wig, makeup inventory security"
+ },
+ {
+  "id": "9627",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dressing lists and costume check worksheets"
+ },
+ {
+  "id": "9628",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "wardrobe crews during rehearsals"
+ },
+ {
+  "id": "9629",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "costume fit on cast, alteration notes"
+ },
+ {
+  "id": "9630",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scripts for period and costume needs"
+ },
+ {
+  "id": "9631",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "costume vendors recommendation and monitoring"
+ },
+ {
+  "id": "9632",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "period clothing styles research"
+ },
+ {
+  "id": "9633",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "costume and makeup budget recommendations"
+ },
+ {
+  "id": "9634",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "alteration workers hiring and supervision"
+ },
+ {
+  "id": "9635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flags, skirts, draperies care"
+ }
+]

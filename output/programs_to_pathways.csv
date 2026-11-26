@@ -1,0 +1,666 @@
+CIPCODE,CIPDESC,CREDDESC,institutions,earn_5yr_nat,earn_pell_5yr_nat,target_occupations,target_ai_can_do,target_anchored,target_median_earnings,pathway_score
+4808,Boilermaking/Boilermaker.,Associate's Degree,1,,,1,0.0625,0.9375,68113.0000,0.8751
+4808,Boilermaking/Boilermaker.,Undergraduate Certificate or Diploma,4,,,1,0.0625,0.9375,68113.0000,0.8751
+4803,Leatherworking and Upholstery.,Associate's Degree,1,,,3,0.0643,0.8471,36463.0000,0.7827
+4803,Leatherworking and Upholstery.,Undergraduate Certificate or Diploma,10,,,3,0.0643,0.8471,36463.0000,0.7827
+4703,Heavy/Industrial Equipment Maintenance Technologies/Technicians.,Associate's Degree,219,71846.0000,69499.0000,9,0.1133,0.8645,62366.5000,0.7511
+4703,Heavy/Industrial Equipment Maintenance Technologies/Technicians.,Undergraduate Certificate or Diploma,367,62548.0000,61252.0000,9,0.1133,0.8645,62366.5000,0.7511
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Associate's Degree,168,60712.0000,59767.0000,2,0.1089,0.8268,43975.5000,0.7179
+5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.",Undergraduate Certificate or Diploma,1358,57239.0000,56754.0000,2,0.1089,0.8268,43975.5000,0.7179
+4706,Vehicle Maintenance and Repair Technologies/Technicians.,Associate's Degree,651,59962.0000,57773.0000,19,0.1115,0.8235,51241.0000,0.7120
+4706,Vehicle Maintenance and Repair Technologies/Technicians.,Undergraduate Certificate or Diploma,942,54127.0000,51997.0000,19,0.1115,0.8235,51241.0000,0.7120
+4807,Woodworking.,Undergraduate Certificate or Diploma,75,42956.0000,41819.0000,6,0.0969,0.7862,42398.0000,0.6893
+4807,Woodworking.,Associate's Degree,27,43092.0000,39121.0000,6,0.0969,0.7862,42398.0000,0.6893
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,Associate's Degree,52,53358.0000,52909.0000,2,0.1627,0.8373,34853.0000,0.6746
+5118,Ophthalmic and Optometric Support Services and Allied Professions.,Undergraduate Certificate or Diploma,52,38726.0000,38506.0000,2,0.1627,0.8373,34853.0000,0.6746
+4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Associate's Degree,268,58764.0000,57617.0000,1,0.1317,0.7940,55893.0000,0.6624
+4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",Undergraduate Certificate or Diploma,693,50076.0000,48704.0000,1,0.1317,0.7940,55893.0000,0.6624
+4704,Precision Systems Maintenance and Repair Technologies/Technicians.,Associate's Degree,27,52722.0000,52272.0000,7,0.1670,0.7990,50321.0000,0.6320
+4704,Precision Systems Maintenance and Repair Technologies/Technicians.,Undergraduate Certificate or Diploma,36,52009.0000,51208.0000,7,0.1670,0.7990,50321.0000,0.6320
+4902,Ground Transportation.,Associate's Degree,20,66056.0000,63754.0000,26,0.1248,0.7295,56824.0000,0.6047
+4902,Ground Transportation.,Undergraduate Certificate or Diploma,334,53003.0000,51451.0000,26,0.1248,0.7295,56824.0000,0.6047
+4601,Mason/Masonry.,Associate's Degree,7,50301.0000,48067.0000,4,0.1987,0.7627,50064.0000,0.5640
+4601,Mason/Masonry.,Undergraduate Certificate or Diploma,57,24117.0000,23079.0000,4,0.1987,0.7627,50064.0000,0.5640
+2903,Military Applied Sciences.,Associate's Degree,3,75260.0000,74611.0000,1,0.1501,0.7140,64507.0000,0.5639
+2903,Military Applied Sciences.,Undergraduate Certificate or Diploma,3,,,1,0.1501,0.7140,64507.0000,0.5639
+5126,Health Aides/Attendants/Orderlies.,Associate's Degree,8,43132.0000,42440.0000,7,0.1834,0.7417,42975.0000,0.5583
+5126,Health Aides/Attendants/Orderlies.,Undergraduate Certificate or Diploma,139,30309.0000,29907.0000,7,0.1834,0.7417,42975.0000,0.5583
+1514,Nuclear Engineering Technology/Technician.,Associate's Degree,13,106194.0000,107038.0000,2,0.1509,0.6974,78982.0000,0.5465
+1514,Nuclear Engineering Technology/Technician.,Undergraduate Certificate or Diploma,4,,,2,0.1509,0.6974,78982.0000,0.5465
+0303,Fishing and Fisheries Sciences and Management.,Associate's Degree,5,48143.0000,49138.0000,2,0.1974,0.7344,51859.5000,0.5370
+0303,Fishing and Fisheries Sciences and Management.,Undergraduate Certificate or Diploma,5,,,2,0.1974,0.7344,51859.5000,0.5370
+0102,Agricultural Mechanization.,Associate's Degree,59,67012.0000,65867.0000,6,0.1734,0.7094,61476.0000,0.5360
+0102,Agricultural Mechanization.,Undergraduate Certificate or Diploma,55,62805.0000,57784.0000,6,0.1734,0.7094,61476.0000,0.5360
+4603,Electrical and Power Transmission Installers.,Associate's Degree,283,71513.0000,67929.0000,7,0.2132,0.7439,72361.0000,0.5307
+4603,Electrical and Power Transmission Installers.,Undergraduate Certificate or Diploma,625,55923.0000,52965.0000,7,0.2132,0.7439,72361.0000,0.5307
+0183,Veterinary/Animal Health Technologies/Technicians.,Associate's Degree,215,41995.0000,41438.0000,3,0.2087,0.7178,40133.0000,0.5091
+0183,Veterinary/Animal Health Technologies/Technicians.,Undergraduate Certificate or Diploma,156,36173.0000,35412.0000,3,0.2087,0.7178,40133.0000,0.5091
+1204,Cosmetology and Related Personal Grooming Services.,Associate's Degree,193,29914.0000,28353.0000,8,0.2129,0.7123,35898.0000,0.4994
+1204,Cosmetology and Related Personal Grooming Services.,Undergraduate Certificate or Diploma,1671,26888.0000,25773.0000,8,0.2129,0.7123,35898.0000,0.4994
+5135,Somatic Bodywork and Related Therapeutic Services.,Associate's Degree,96,31853.0000,31349.0000,2,0.2006,0.6860,61182.5000,0.4854
+5135,Somatic Bodywork and Related Therapeutic Services.,Undergraduate Certificate or Diploma,490,30017.0000,29209.0000,2,0.2006,0.6860,61182.5000,0.4854
+4805,Precision Metal Working.,Associate's Degree,503,57956.0000,56248.0000,23,0.2043,0.6876,45038.0000,0.4833
+4805,Precision Metal Working.,Undergraduate Certificate or Diploma,1040,51060.0000,49400.0000,23,0.2043,0.6876,45038.0000,0.4833
+4903,Marine Transportation.,Associate's Degree,13,61429.0000,60926.0000,4,0.1655,0.6389,72512.0000,0.4734
+4903,Marine Transportation.,Undergraduate Certificate or Diploma,17,57324.0000,54569.0000,4,0.1655,0.6389,72512.0000,0.4734
+4701,Electrical/Electronics Maintenance and Repair Technologies/Technicians.,Associate's Degree,198,64084.0000,61232.0000,12,0.2442,0.7074,57946.5000,0.4632
+4701,Electrical/Electronics Maintenance and Repair Technologies/Technicians.,Undergraduate Certificate or Diploma,372,43338.0000,41655.0000,12,0.2442,0.7074,57946.5000,0.4632
+1203,Funeral Service and Mortuary Science.,Associate's Degree,66,54111.0000,52442.0000,4,0.2240,0.6740,60362.0000,0.4500
+1203,Funeral Service and Mortuary Science.,Undergraduate Certificate or Diploma,32,47881.0000,43199.0000,4,0.2240,0.6740,60362.0000,0.4500
+1517,Energy Systems Technologies/Technicians.,Associate's Degree,124,65646.0000,64293.0000,6,0.2191,0.6605,64507.0000,0.4414
+1517,Energy Systems Technologies/Technicians.,Undergraduate Certificate or Diploma,167,62512.0000,61355.0000,6,0.2191,0.6605,64507.0000,0.4414
+4302,Fire Protection.,Associate's Degree,398,73424.0000,70906.0000,6,0.2240,0.6616,78085.0000,0.4376
+4302,Fire Protection.,Undergraduate Certificate or Diploma,369,66093.0000,63104.0000,6,0.2240,0.6616,78085.0000,0.4376
+4605,Plumbing and Related Water Supply Services.,Associate's Degree,55,64198.0000,58178.0000,7,0.2584,0.6950,61180.0000,0.4366
+4605,Plumbing and Related Water Supply Services.,Undergraduate Certificate or Diploma,209,52469.0000,49232.0000,7,0.2584,0.6950,61180.0000,0.4366
+5003,Dance.,Associate's Degree,85,35802.0000,35681.0000,3,0.2209,0.6480,40141.0000,0.4271
+5003,Dance.,Undergraduate Certificate or Diploma,55,28792.0000,27503.0000,3,0.2209,0.6480,40141.0000,0.4271
+2904,Military Systems and Maintenance Technology.,Associate's Degree,2,69459.0000,,2,0.1744,0.5996,64507.0000,0.4253
+2904,Military Systems and Maintenance Technology.,Undergraduate Certificate or Diploma,3,,,2,0.1744,0.5996,64507.0000,0.4253
+4407,Social Work.,Undergraduate Certificate or Diploma,91,47116.0000,44892.0000,7,0.2340,0.6488,60242.0000,0.4148
+4407,Social Work.,Associate's Degree,197,41695.0000,40887.0000,7,0.2340,0.6488,60242.0000,0.4148
+1301,"Education, General.",Undergraduate Certificate or Diploma,74,48125.0000,43412.0000,3,0.2180,0.6283,66455.0000,0.4103
+1301,"Education, General.",Associate's Degree,199,43237.0000,42235.0000,3,0.2180,0.6283,66455.0000,0.4103
+0105,Agricultural and Domestic Animal Services.,Associate's Degree,44,35206.0000,34369.0000,4,0.2090,0.6113,40417.0000,0.4023
+0105,Agricultural and Domestic Animal Services.,Undergraduate Certificate or Diploma,43,29312.0000,27874.0000,4,0.2090,0.6113,40417.0000,0.4023
+5115,Mental and Social Health Services and Allied Professions.,Undergraduate Certificate or Diploma,432,45485.0000,44926.0000,17,0.2508,0.6492,58669.0000,0.3984
+5115,Mental and Social Health Services and Allied Professions.,Associate's Degree,352,41700.0000,41344.0000,17,0.2508,0.6492,58669.0000,0.3984
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,Undergraduate Certificate or Diploma,11,87687.0000,85635.0000,2,0.1669,0.5622,93457.0000,0.3954
+4102,Nuclear and Industrial Radiologic Technologies/Technicians.,Associate's Degree,13,78510.0000,68523.0000,2,0.1669,0.5622,93457.0000,0.3954
+1310,Special Education and Teaching.,Undergraduate Certificate or Diploma,155,45425.0000,43258.0000,9,0.2117,0.6024,61499.0000,0.3906
+1310,Special Education and Teaching.,Associate's Degree,105,38447.0000,37909.0000,9,0.2117,0.6024,61499.0000,0.3906
+0104,Agricultural and Food Products Processing.,Undergraduate Certificate or Diploma,13,42248.0000,41825.0000,4,0.2497,0.6401,57404.5000,0.3904
+0104,Agricultural and Food Products Processing.,Associate's Degree,18,43407.0000,37994.0000,4,0.2497,0.6401,57404.5000,0.3904
+5106,Dental Support Services and Allied Professions.,Associate's Degree,403,59700.0000,58622.0000,4,0.2178,0.6049,76486.0000,0.3871
+5106,Dental Support Services and Allied Professions.,Undergraduate Certificate or Diploma,654,34845.0000,34255.0000,4,0.2178,0.6049,76486.0000,0.3871
+1506,Industrial Production Technologies/Technicians.,Associate's Degree,377,73994.0000,71966.0000,5,0.2367,0.6204,64507.0000,0.3837
+1506,Industrial Production Technologies/Technicians.,Undergraduate Certificate or Diploma,432,59662.0000,58480.0000,5,0.2367,0.6204,64507.0000,0.3837
+0305,Forestry.,Associate's Degree,82,49209.0000,46566.0000,6,0.1924,0.5709,65434.0000,0.3785
+0305,Forestry.,Undergraduate Certificate or Diploma,47,50500.0000,46374.0000,6,0.1924,0.5709,65434.0000,0.3785
+1314,Teaching English or French as a Second or Foreign Language.,Undergraduate Certificate or Diploma,118,45394.0000,40511.0000,6,0.1671,0.5454,57722.5000,0.3782
+1314,Teaching English or French as a Second or Foreign Language.,Associate's Degree,6,,,6,0.1671,0.5454,57722.5000,0.3782
+1315,Teaching Assistants/Aides.,Associate's Degree,128,35786.0000,35616.0000,4,0.2293,0.6063,66455.0000,0.3770
+1315,Teaching Assistants/Aides.,Undergraduate Certificate or Diploma,162,23919.0000,23391.0000,4,0.2293,0.6063,66455.0000,0.3770
+3106,Outdoor Education.,Undergraduate Certificate or Diploma,19,38992.0000,39767.0000,2,0.2124,0.5879,44726.0000,0.3755
+3106,Outdoor Education.,Associate's Degree,13,35254.0000,,2,0.2124,0.5879,44726.0000,0.3755
+5104,Dentistry.,Associate's Degree,1,,,2,0.2573,0.6293,132650.5000,0.3719
+5104,Dentistry.,Undergraduate Certificate or Diploma,1,,,2,0.2573,0.6293,132650.5000,0.3719
+0106,Applied Horticulture and Horticultural Business Services.,Associate's Degree,205,44594.0000,41219.0000,9,0.2410,0.6085,51824.5000,0.3675
+0106,Applied Horticulture and Horticultural Business Services.,Undergraduate Certificate or Diploma,251,38713.0000,36688.0000,9,0.2410,0.6085,51824.5000,0.3675
+5133,Alternative and Complementary Medicine and Medical Systems.,Associate's Degree,7,31250.0000,29806.0000,3,0.1660,0.5301,62841.0000,0.3641
+5133,Alternative and Complementary Medicine and Medical Systems.,Undergraduate Certificate or Diploma,37,36213.0000,29732.0000,3,0.1660,0.5301,62841.0000,0.3641
+5137,Energy and Biologically Based Therapies.,Undergraduate Certificate or Diploma,4,29689.0000,27009.0000,2,0.1784,0.5406,62841.0000,0.3622
+5134,Alternative and Complementary Medical Support Services.,Associate's Degree,4,38384.0000,38722.0000,1,0.1596,0.5137,62841.0000,0.3542
+5134,Alternative and Complementary Medical Support Services.,Undergraduate Certificate or Diploma,4,32581.0000,,1,0.1596,0.5137,62841.0000,0.3542
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Associate's Degree,705,38614.0000,37963.0000,11,0.1915,0.5351,60148.0000,0.3436
+1312,"Teacher Education and Professional Development, Specific Levels and Methods.",Undergraduate Certificate or Diploma,477,35169.0000,33683.0000,11,0.1915,0.5351,60148.0000,0.3436
+1311,Student Counseling and Personnel Services.,Associate's Degree,1,,,2,0.2460,0.5797,59808.0000,0.3337
+1311,Student Counseling and Personnel Services.,Undergraduate Certificate or Diploma,11,,,2,0.2460,0.5797,59808.0000,0.3337
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,Associate's Degree,339,58287.0000,57319.0000,8,0.2396,0.5676,56936.0000,0.3280
+5110,Clinical/Medical Laboratory Science/Research and Allied Professions.,Undergraduate Certificate or Diploma,564,40010.0000,39015.0000,8,0.2396,0.5676,56936.0000,0.3280
+3105,"Sports, Kinesiology, and Physical Education/Fitness.",Associate's Degree,414,42533.0000,41780.0000,7,0.2567,0.5766,55887.0000,0.3200
+3105,"Sports, Kinesiology, and Physical Education/Fitness.",Undergraduate Certificate or Diploma,292,40505.0000,37602.0000,7,0.2567,0.5766,55887.0000,0.3200
+5112,Medicine.,Associate's Degree,1,,,17,0.1763,0.4935,241630.0000,0.3172
+5112,Medicine.,Undergraduate Certificate or Diploma,4,,,17,0.1763,0.4935,241630.0000,0.3172
+4604,"Building/Construction Finishing, Management, and Inspection.",Associate's Degree,219,59480.0000,57549.0000,22,0.3216,0.6380,54173.0000,0.3164
+4604,"Building/Construction Finishing, Management, and Inspection.",Undergraduate Certificate or Diploma,357,42475.0000,41207.0000,22,0.3216,0.6380,54173.0000,0.3164
+4707,Energy Systems Maintenance and Repair Technologies/Technicians.,Associate's Degree,9,,,5,0.3222,0.6377,63257.0000,0.3155
+4707,Energy Systems Maintenance and Repair Technologies/Technicians.,Undergraduate Certificate or Diploma,17,,,5,0.3222,0.6377,63257.0000,0.3155
+5108,Allied Health and Medical Assisting Services.,Associate's Degree,911,42084.0000,40593.0000,10,0.2836,0.5863,50022.0000,0.3027
+5108,Allied Health and Medical Assisting Services.,Undergraduate Certificate or Diploma,1369,35257.0000,34915.0000,10,0.2836,0.5863,50022.0000,0.3027
+1205,Culinary Arts and Related Services.,Associate's Degree,443,40715.0000,39126.0000,12,0.3103,0.6124,38147.0000,0.3021
+1205,Culinary Arts and Related Services.,Undergraduate Certificate or Diploma,602,31203.0000,29596.0000,12,0.3103,0.6124,38147.0000,0.3021
+1907,"Human Development, Family Studies, and Related Services.",Associate's Degree,555,34626.0000,34243.0000,9,0.2884,0.5882,66455.0000,0.2998
+1907,"Human Development, Family Studies, and Related Services.",Undergraduate Certificate or Diploma,708,32241.0000,31562.0000,9,0.2884,0.5882,66455.0000,0.2998
+0112,Soil Sciences.,Associate's Degree,4,,,4,0.1879,0.4815,80030.0000,0.2936
+0112,Soil Sciences.,Undergraduate Certificate or Diploma,7,,,4,0.1879,0.4815,80030.0000,0.2936
+0110,Food Science and Technology.,Undergraduate Certificate or Diploma,76,49676.0000,47095.0000,8,0.2062,0.4981,60247.0000,0.2918
+0110,Food Science and Technology.,Associate's Degree,55,49701.0000,43654.0000,8,0.2062,0.4981,60247.0000,0.2918
+4101,Biology/Biotechnology Technologies/Technicians.,Associate's Degree,80,57189.0000,57355.0000,1,0.2342,0.5218,55633.0000,0.2876
+4101,Biology/Biotechnology Technologies/Technicians.,Undergraduate Certificate or Diploma,75,56359.0000,54233.0000,1,0.2342,0.5218,55633.0000,0.2876
+1509,Mining and Petroleum Technologies/Technicians.,Associate's Degree,37,76339.0000,71017.0000,4,0.2285,0.5154,58958.5000,0.2868
+1509,Mining and Petroleum Technologies/Technicians.,Undergraduate Certificate or Diploma,39,74159.0000,68475.0000,4,0.2285,0.5154,58958.5000,0.2868
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Associate's Degree,1066,65504.0000,64333.0000,19,0.2889,0.5734,82146.0000,0.2845
+5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.",Undergraduate Certificate or Diploma,980,57990.0000,55085.0000,19,0.2889,0.5734,82146.0000,0.2845
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Associate's Degree,1198,81454.0000,81431.0000,6,0.2156,0.4993,82146.0000,0.2836
+5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",Undergraduate Certificate or Diploma,236,80469.0000,78271.0000,6,0.2156,0.4993,82146.0000,0.2836
+0181,Veterinary Biomedical and Clinical Sciences.,Associate's Degree,5,38249.0000,37783.0000,3,0.2084,0.4860,82146.0000,0.2776
+0181,Veterinary Biomedical and Clinical Sciences.,Undergraduate Certificate or Diploma,8,35310.0000,34099.0000,3,0.2084,0.4860,82146.0000,0.2776
+0306,Wildlife and Wildlands Science and Management.,Undergraduate Certificate or Diploma,16,47381.0000,46889.0000,3,0.2603,0.5349,73965.0000,0.2745
+0306,Wildlife and Wildlands Science and Management.,Associate's Degree,28,41686.0000,40887.0000,3,0.2603,0.5349,73965.0000,0.2745
+4700,"Mechanics and Repairers, General.",Associate's Degree,11,64110.0000,68480.0000,2,0.3351,0.6008,61244.5000,0.2657
+4700,"Mechanics and Repairers, General.",Undergraduate Certificate or Diploma,12,32772.0000,31714.0000,2,0.3351,0.6008,61244.5000,0.2657
+1302,"Bilingual, Multilingual, and Multicultural Education.",Undergraduate Certificate or Diploma,28,27956.0000,26965.0000,7,0.2340,0.4986,60148.0000,0.2646
+1302,"Bilingual, Multilingual, and Multicultural Education.",Associate's Degree,7,,,7,0.2340,0.4986,60148.0000,0.2646
+0103,Agricultural Production Operations.,Undergraduate Certificate or Diploma,193,44755.0000,43751.0000,10,0.2917,0.5542,51908.0000,0.2625
+0103,Agricultural Production Operations.,Associate's Degree,179,43200.0000,41864.0000,10,0.2917,0.5542,51908.0000,0.2625
+6108,Internal Medicine Residency/Fellowship Programs.,Undergraduate Certificate or Diploma,1,,,5,0.2316,0.4819,90617.0000,0.2503
+1505,Environmental Control Technologies/Technicians.,Associate's Degree,191,58804.0000,56511.0000,6,0.3002,0.5493,60124.0000,0.2491
+1505,Environmental Control Technologies/Technicians.,Undergraduate Certificate or Diploma,314,46073.0000,44456.0000,6,0.3002,0.5493,60124.0000,0.2491
+2607,Zoology/Animal Biology.,Associate's Degree,10,40279.0000,,5,0.2697,0.5141,73965.0000,0.2445
+2607,Zoology/Animal Biology.,Undergraduate Certificate or Diploma,6,,,5,0.2697,0.5141,73965.0000,0.2445
+5105,Advanced/Graduate Dentistry and Oral Sciences.,Associate's Degree,1,,,6,0.2943,0.5338,82146.0000,0.2394
+5105,Advanced/Graduate Dentistry and Oral Sciences.,Undergraduate Certificate or Diploma,4,246120.0000,,6,0.2943,0.5338,82146.0000,0.2394
+3103,"Parks, Recreation, and Leisure Facilities Management.",Undergraduate Certificate or Diploma,41,52382.0000,50731.0000,5,0.3033,0.5398,61597.0000,0.2366
+3103,"Parks, Recreation, and Leisure Facilities Management.",Associate's Degree,39,47810.0000,47823.0000,5,0.3033,0.5398,61597.0000,0.2366
+3053,Thanatology.,Undergraduate Certificate or Diploma,2,,,5,0.3201,0.5534,60362.0000,0.2334
+5102,Communication Disorders Sciences and Services.,Undergraduate Certificate or Diploma,33,56525.0000,51622.0000,3,0.2591,0.4906,82146.0000,0.2315
+5102,Communication Disorders Sciences and Services.,Associate's Degree,41,44755.0000,44643.0000,3,0.2591,0.4906,82146.0000,0.2315
+2609,"Physiology, Pathology and Related Sciences.",Associate's Degree,4,37925.0000,36305.0000,7,0.2080,0.4366,82146.0000,0.2287
+2609,"Physiology, Pathology and Related Sciences.",Undergraduate Certificate or Diploma,9,,,7,0.2080,0.4366,82146.0000,0.2287
+2601,"Biology, General.",Undergraduate Certificate or Diploma,62,54225.0000,52328.0000,9,0.2592,0.4836,65095.0000,0.2245
+2601,"Biology, General.",Associate's Degree,414,49710.0000,48098.0000,9,0.2592,0.4836,65095.0000,0.2245
+3906,Theological and Ministerial Studies.,Associate's Degree,61,42127.0000,40929.0000,2,0.3243,0.5435,55404.0000,0.2192
+3906,Theological and Ministerial Studies.,Undergraduate Certificate or Diploma,62,27699.0000,24022.0000,2,0.3243,0.5435,55404.0000,0.2192
+4503,Archeology.,Associate's Degree,6,,,4,0.2812,0.4996,82229.0000,0.2185
+4503,Archeology.,Undergraduate Certificate or Diploma,23,,,4,0.2812,0.4996,82229.0000,0.2185
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",Undergraduate Certificate or Diploma,159,51333.0000,42868.0000,29,0.2568,0.4738,65095.0000,0.2170
+1313,"Teacher Education and Professional Development, Specific Subject Areas.",Associate's Degree,169,39239.0000,38564.0000,29,0.2568,0.4738,65095.0000,0.2170
+0111,Plant Sciences.,Undergraduate Certificate or Diploma,60,49526.0000,54804.0000,9,0.2730,0.4893,80030.0000,0.2163
+0111,Plant Sciences.,Associate's Degree,51,55176.0000,51061.0000,9,0.2730,0.4893,80030.0000,0.2163
+5005,Drama/Theatre Arts and Stagecraft.,Associate's Degree,256,33310.0000,32187.0000,11,0.2896,0.5039,61577.0000,0.2143
+5005,Drama/Theatre Arts and Stagecraft.,Undergraduate Certificate or Diploma,158,31980.0000,31205.0000,11,0.2896,0.5039,61577.0000,0.2143
+3034,Anthrozoology.,Undergraduate Certificate or Diploma,1,,,6,0.2746,0.4887,65463.5000,0.2141
+4400,"Human Services, General.",Associate's Degree,289,40899.0000,40704.0000,2,0.3273,0.5329,57318.5000,0.2056
+4400,"Human Services, General.",Undergraduate Certificate or Diploma,172,38998.0000,38938.0000,2,0.3273,0.5329,57318.5000,0.2056
+5114,Medical Clinical Sciences/Graduate Medical Studies.,Undergraduate Certificate or Diploma,2,,,5,0.2342,0.4346,90617.0000,0.2004
+2605,Microbiological Sciences and Immunology.,Associate's Degree,4,,,10,0.2619,0.4611,82146.0000,0.1992
+2605,Microbiological Sciences and Immunology.,Undergraduate Certificate or Diploma,3,,,10,0.2619,0.4611,82146.0000,0.1992
+1304,Educational Administration and Supervision.,Undergraduate Certificate or Diploma,66,62602.0000,50984.0000,4,0.3305,0.5245,80940.0000,0.1939
+1304,Educational Administration and Supervision.,Associate's Degree,10,42387.0000,,4,0.3305,0.5245,80940.0000,0.1939
+5101,Chiropractic.,Associate's Degree,2,,,2,0.3058,0.4960,81629.5000,0.1902
+5101,Chiropractic.,Undergraduate Certificate or Diploma,1,,,2,0.3058,0.4960,81629.5000,0.1902
+0107,International Agriculture.,Undergraduate Certificate or Diploma,5,,,2,0.2057,0.3955,81088.0000,0.1898
+5099,"Visual and Performing Arts, Other.",Undergraduate Certificate or Diploma,19,40463.0000,37983.0000,1,0.3209,0.5060,,0.1851
+5099,"Visual and Performing Arts, Other.",Associate's Degree,11,34669.0000,33650.0000,1,0.3209,0.5060,,0.1851
+5123,Rehabilitation and Therapeutic Professions.,Associate's Degree,64,45850.0000,45140.0000,10,0.3193,0.5037,80000.0000,0.1844
+5123,Rehabilitation and Therapeutic Professions.,Undergraduate Certificate or Diploma,56,48147.0000,39499.0000,10,0.3193,0.5037,80000.0000,0.1844
+0100,"Agriculture, General.",Undergraduate Certificate or Diploma,36,66941.0000,63824.0000,5,0.2187,0.3999,80030.0000,0.1812
+0100,"Agriculture, General.",Associate's Degree,114,48846.0000,47773.0000,5,0.2187,0.3999,80030.0000,0.1812
+2602,"Biochemistry, Biophysics and Molecular Biology.",Associate's Degree,18,,,8,0.2710,0.4522,82146.0000,0.1812
+2602,"Biochemistry, Biophysics and Molecular Biology.",Undergraduate Certificate or Diploma,9,,,8,0.2710,0.4522,82146.0000,0.1812
+1399,"Education, Other.",Associate's Degree,9,59347.0000,52161.0000,1,0.2955,0.4751,82146.0000,0.1796
+1309,Social and Philosophical Foundations of Education.,Associate's Degree,1,,,1,0.2955,0.4751,82146.0000,0.1796
+1309,Social and Philosophical Foundations of Education.,Undergraduate Certificate or Diploma,5,,,1,0.2955,0.4751,82146.0000,0.1796
+1399,"Education, Other.",Undergraduate Certificate or Diploma,56,44226.0000,,1,0.2955,0.4751,82146.0000,0.1796
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",Associate's Degree,7,,,2,0.3710,0.5425,56340.0000,0.1715
+5002,"Crafts/Craft Design, Folk Art and Artisanry.",Undergraduate Certificate or Diploma,10,,,2,0.3710,0.5425,56340.0000,0.1715
+2202,Legal Research and Advanced Professional Studies.,Associate's Degree,4,,,2,0.3404,0.5076,154255.0000,0.1672
+2202,Legal Research and Advanced Professional Studies.,Undergraduate Certificate or Diploma,14,,,2,0.3404,0.5076,154255.0000,0.1672
+4602,Carpenters.,Associate's Degree,90,49814.0000,45518.0000,2,0.4088,0.5750,59959.5000,0.1661
+4602,Carpenters.,Undergraduate Certificate or Diploma,273,44712.0000,42270.0000,2,0.4088,0.5750,59959.5000,0.1661
+4301,Criminal Justice and Corrections.,Undergraduate Certificate or Diploma,828,58202.0000,55700.0000,19,0.3454,0.5115,79741.0000,0.1661
+4301,Criminal Justice and Corrections.,Associate's Degree,1133,48568.0000,47138.0000,19,0.3454,0.5115,79741.0000,0.1661
+4228,"Clinical, Counseling and Applied Psychology.",Associate's Degree,22,46324.0000,43440.0000,15,0.3374,0.5028,92576.0000,0.1654
+4228,"Clinical, Counseling and Applied Psychology.",Undergraduate Certificate or Diploma,64,47385.0000,42441.0000,15,0.3374,0.5028,92576.0000,0.1654
+4502,Anthropology.,Undergraduate Certificate or Diploma,32,47025.0000,48482.0000,6,0.3079,0.4712,82312.0000,0.1633
+4502,Anthropology.,Associate's Degree,137,41280.0000,40744.0000,6,0.3079,0.4712,82312.0000,0.1633
+1508,Mechanical Engineering Related Technologies/Technicians.,Associate's Degree,227,68688.0000,65606.0000,7,0.3559,0.5178,64507.0000,0.1619
+1508,Mechanical Engineering Related Technologies/Technicians.,Undergraduate Certificate or Diploma,150,59996.0000,58176.0000,7,0.3559,0.5178,64507.0000,0.1619
+1403,Agricultural Engineering.,Associate's Degree,4,65774.0000,,3,0.2703,0.4297,110742.0000,0.1594
+1403,Agricultural Engineering.,Undergraduate Certificate or Diploma,1,,,3,0.2703,0.4297,110742.0000,0.1594
+0113,Agriculture/Veterinary Preparatory Programs.,Associate's Degree,28,43772.0000,42592.0000,1,0.3600,0.5147,53724.0000,0.1546
+0113,Agriculture/Veterinary Preparatory Programs.,Undergraduate Certificate or Diploma,8,19644.0000,19284.0000,1,0.3600,0.5147,53724.0000,0.1546
+1500,"Engineering Technologies/Technicians, General.",Undergraduate Certificate or Diploma,107,65035.0000,63686.0000,6,0.3333,0.4878,64507.0000,0.1545
+1500,"Engineering Technologies/Technicians, General.",Associate's Degree,186,65314.0000,63474.0000,6,0.3333,0.4878,64507.0000,0.1545
+0109,Animal Sciences.,Undergraduate Certificate or Diploma,42,38301.0000,37771.0000,6,0.3101,0.4638,66455.0000,0.1537
+0109,Animal Sciences.,Associate's Degree,57,39541.0000,37195.0000,6,0.3101,0.4638,66455.0000,0.1537
+0302,Environmental/Natural Resources Management and Policy.,Undergraduate Certificate or Diploma,57,54539.0000,51950.0000,19,0.3279,0.4805,81516.0000,0.1526
+0302,Environmental/Natural Resources Management and Policy.,Associate's Degree,41,44560.0000,43156.0000,19,0.3279,0.4805,81516.0000,0.1526
+4299,"Psychology, Other.",Associate's Degree,11,38522.0000,38879.0000,3,0.3287,0.4806,92576.0000,0.1519
+4299,"Psychology, Other.",Undergraduate Certificate or Diploma,10,,,3,0.3287,0.4806,92576.0000,0.1519
+4005,Chemistry.,Associate's Degree,254,57225.0000,55749.0000,14,0.3084,0.4563,83515.5000,0.1479
+4005,Chemistry.,Undergraduate Certificate or Diploma,40,57172.0000,48948.0000,14,0.3084,0.4563,83515.5000,0.1479
+3036,Cultural Studies and Comparative Literature.,Undergraduate Certificate or Diploma,2,,,3,0.3103,0.4580,73620.5000,0.1478
+2604,Cell/Cellular Biology and Anatomical Sciences.,Associate's Degree,4,76877.0000,83132.0000,10,0.2818,0.4294,82146.0000,0.1476
+2604,Cell/Cellular Biology and Anatomical Sciences.,Undergraduate Certificate or Diploma,4,,,10,0.2818,0.4294,82146.0000,0.1476
+1504,Electromechanical Technologies/Technicians.,Associate's Degree,377,74397.0000,72331.0000,6,0.3417,0.4892,64507.0000,0.1475
+1504,Electromechanical Technologies/Technicians.,Undergraduate Certificate or Diploma,424,66692.0000,63801.0000,6,0.3417,0.4892,64507.0000,0.1475
+5136,Movement and Mind-Body Therapies and Education.,Undergraduate Certificate or Diploma,12,32448.0000,31252.0000,3,0.3276,0.4734,61463.0000,0.1458
+5136,Movement and Mind-Body Therapies and Education.,Associate's Degree,4,,,3,0.3276,0.4734,61463.0000,0.1458
+4513,Sociology and Anthropology.,Associate's Degree,2,,,5,0.3138,0.4524,82312.0000,0.1387
+4513,Sociology and Anthropology.,Undergraduate Certificate or Diploma,1,,,5,0.3138,0.4524,82312.0000,0.1387
+3001,Biological and Physical Sciences.,Undergraduate Certificate or Diploma,23,71945.0000,71026.0000,2,0.2777,0.4146,77778.0000,0.1369
+4001,"Physical Sciences, General.",Associate's Degree,128,56069.0000,54709.0000,2,0.2777,0.4146,77778.0000,0.1369
+3001,Biological and Physical Sciences.,Associate's Degree,207,54424.0000,53612.0000,2,0.2777,0.4146,77778.0000,0.1369
+4001,"Physical Sciences, General.",Undergraduate Certificate or Diploma,3,,,2,0.2777,0.4146,77778.0000,0.1369
+2603,Botany/Plant Biology.,Associate's Degree,4,,,4,0.2796,0.4150,80030.0000,0.1354
+2603,Botany/Plant Biology.,Undergraduate Certificate or Diploma,3,,,4,0.2796,0.4150,80030.0000,0.1354
+1901,"Family and Consumer Sciences/Human Sciences, General.",Associate's Degree,20,36232.0000,39092.0000,3,0.3454,0.4806,65775.0000,0.1351
+1901,"Family and Consumer Sciences/Human Sciences, General.",Undergraduate Certificate or Diploma,9,,,3,0.3454,0.4806,65775.0000,0.1351
+1507,Quality Control and Safety Technologies/Technicians.,Associate's Degree,70,76303.0000,74896.0000,5,0.3652,0.5003,64507.0000,0.1351
+1507,Quality Control and Safety Technologies/Technicians.,Undergraduate Certificate or Diploma,109,63573.0000,60547.0000,5,0.3652,0.5003,64507.0000,0.1351
+4103,Physical Science Technologies/Technicians.,Associate's Degree,74,81862.0000,79208.0000,7,0.3345,0.4495,56655.5000,0.1151
+4103,Physical Science Technologies/Technicians.,Undergraduate Certificate or Diploma,66,80014.0000,78211.0000,7,0.3345,0.4495,56655.5000,0.1151
+3014,Museology/Museum Studies.,Undergraduate Certificate or Diploma,20,43207.0000,42125.0000,3,0.3853,0.4998,60890.0000,0.1145
+3014,Museology/Museum Studies.,Associate's Degree,4,,,3,0.3853,0.4998,60890.0000,0.1145
+4227,Research and Experimental Psychology.,Undergraduate Certificate or Diploma,16,63426.0000,61375.0000,10,0.3514,0.4642,92576.0000,0.1128
+4227,Research and Experimental Psychology.,Associate's Degree,6,48994.0000,49753.0000,10,0.3514,0.4642,92576.0000,0.1128
+0399,"Natural Resources and Conservation, Other.",Associate's Degree,3,46959.0000,,1,0.2912,0.4027,82146.0000,0.1115
+0399,"Natural Resources and Conservation, Other.",Undergraduate Certificate or Diploma,5,,,1,0.2912,0.4027,82146.0000,0.1115
+0301,Natural Resources Conservation and Research.,Undergraduate Certificate or Diploma,146,58307.0000,59512.0000,8,0.3460,0.4569,75914.0000,0.1109
+0301,Natural Resources Conservation and Research.,Associate's Degree,244,48502.0000,47540.0000,8,0.3460,0.4569,75914.0000,0.1109
+2610,Pharmacology and Toxicology.,Associate's Degree,1,,,10,0.3038,0.4119,82146.0000,0.1082
+2610,Pharmacology and Toxicology.,Undergraduate Certificate or Diploma,1,,,10,0.3038,0.4119,82146.0000,0.1082
+2615,Neurobiology and Neurosciences.,Associate's Degree,3,,,5,0.2917,0.3995,82146.0000,0.1079
+2615,Neurobiology and Neurosciences.,Undergraduate Certificate or Diploma,12,68300.0000,,5,0.2917,0.3995,82146.0000,0.1079
+2613,"Ecology, Evolution, Systematics, and Population Biology.",Associate's Degree,9,40806.0000,37403.0000,12,0.3258,0.4331,82146.0000,0.1074
+2613,"Ecology, Evolution, Systematics, and Population Biology.",Undergraduate Certificate or Diploma,18,47034.0000,,12,0.3258,0.4331,82146.0000,0.1074
+1905,"Foods, Nutrition, and Related Services.",Associate's Degree,110,42438.0000,41069.0000,6,0.3704,0.4766,56277.5000,0.1062
+1905,"Foods, Nutrition, and Related Services.",Undergraduate Certificate or Diploma,70,39047.0000,36677.0000,6,0.3704,0.4766,56277.5000,0.1062
+5131,Dietetics and Clinical Nutrition Services.,Undergraduate Certificate or Diploma,44,46944.0000,44416.0000,2,0.3807,0.4848,48525.5000,0.1040
+5131,Dietetics and Clinical Nutrition Services.,Associate's Degree,52,45623.0000,44189.0000,2,0.3807,0.4848,48525.5000,0.1040
+4201,"Psychology, General.",Undergraduate Certificate or Diploma,58,50107.0000,48325.0000,6,0.3814,0.4824,92576.0000,0.1010
+4201,"Psychology, General.",Associate's Degree,362,41322.0000,40485.0000,6,0.3814,0.4824,92576.0000,0.1010
+2399,"English Language and Literature/Letters, Other.",Associate's Degree,12,42607.0000,44790.0000,1,0.3483,0.4493,,0.1010
+2399,"English Language and Literature/Letters, Other.",Undergraduate Certificate or Diploma,7,34929.0000,33674.0000,1,0.3483,0.4493,,0.1010
+0101,Agricultural Business and Management.,Associate's Degree,245,49339.0000,46659.0000,10,0.3633,0.4614,66813.5000,0.0981
+0101,Agricultural Business and Management.,Undergraduate Certificate or Diploma,190,44336.0000,41246.0000,10,0.3633,0.4614,66813.5000,0.0981
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Undergraduate Certificate or Diploma,19,59253.0000,57912.0000,14,0.3453,0.4408,83642.0000,0.0955
+5120,"Pharmacy, Pharmaceutical Sciences, and Administration.",Associate's Degree,12,34305.0000,36186.0000,14,0.3453,0.4408,83642.0000,0.0955
+4901,Air Transportation.,Associate's Degree,136,82836.0000,80766.0000,7,0.3735,0.4648,103115.0000,0.0913
+4901,Air Transportation.,Undergraduate Certificate or Diploma,126,40278.0000,37117.0000,7,0.3735,0.4648,103115.0000,0.0913
+3907,Pastoral Counseling and Specialized Ministries.,Associate's Degree,39,40408.0000,40741.0000,3,0.3771,0.4683,51421.0000,0.0912
+3907,Pastoral Counseling and Specialized Ministries.,Undergraduate Certificate or Diploma,43,,,3,0.3771,0.4683,51421.0000,0.0912
+1425,Petroleum Engineering.,Undergraduate Certificate or Diploma,3,,,3,0.2879,0.3758,141805.0000,0.0878
+5011,Community/Environmental/Socially-Engaged Art.,Undergraduate Certificate or Diploma,3,,,2,0.4129,0.5006,56340.0000,0.0877
+0599,"Area, Ethnic, Cultural, Gender, and Group Studies, Other.",Associate's Degree,1,,,1,0.3667,0.4521,82146.0000,0.0853
+0599,"Area, Ethnic, Cultural, Gender, and Group Studies, Other.",Undergraduate Certificate or Diploma,2,,,1,0.3667,0.4521,82146.0000,0.0853
+0501,Area Studies.,Associate's Degree,46,52177.0000,54182.0000,1,0.3667,0.4521,82146.0000,0.0853
+0501,Area Studies.,Undergraduate Certificate or Diploma,87,50525.0000,49807.0000,1,0.3667,0.4521,82146.0000,0.0853
+5007,Fine and Studio Arts.,Undergraduate Certificate or Diploma,150,41845.0000,40648.0000,12,0.4199,0.5041,56340.0000,0.0842
+5007,Fine and Studio Arts.,Associate's Degree,421,33675.0000,32969.0000,12,0.4199,0.5041,56340.0000,0.0842
+3019,Nutrition Sciences.,Associate's Degree,10,46158.0000,,8,0.3645,0.4432,73965.0000,0.0787
+3019,Nutrition Sciences.,Undergraduate Certificate or Diploma,9,,,8,0.3645,0.4432,73965.0000,0.0787
+5006,Film/Video and Photographic Arts.,Associate's Degree,186,35848.0000,35022.0000,6,0.3946,0.4709,64444.0000,0.0763
+5006,Film/Video and Photographic Arts.,Undergraduate Certificate or Diploma,238,34266.0000,32068.0000,6,0.3946,0.4709,64444.0000,0.0763
+0502,"Ethnic, Cultural Minority, Gender, and Group Studies.",Undergraduate Certificate or Diploma,154,53519.0000,47320.0000,2,0.3797,0.4531,82146.0000,0.0734
+0502,"Ethnic, Cultural Minority, Gender, and Group Studies.",Associate's Degree,163,36591.0000,36562.0000,2,0.3797,0.4531,82146.0000,0.0734
+5122,Public Health.,Undergraduate Certificate or Diploma,144,57226.0000,50159.0000,13,0.3981,0.4710,82146.0000,0.0728
+5122,Public Health.,Associate's Degree,143,44698.0000,43923.0000,13,0.3981,0.4710,82146.0000,0.0728
+1910,Work and Family Studies.,Undergraduate Certificate or Diploma,1,,,1,0.3586,0.4307,,0.0721
+3011,Gerontology.,Undergraduate Certificate or Diploma,65,52621.0000,49485.0000,4,0.3268,0.3969,82312.0000,0.0701
+3011,Gerontology.,Associate's Degree,13,44822.0000,44078.0000,4,0.3268,0.3969,82312.0000,0.0701
+4010,Materials Sciences.,Undergraduate Certificate or Diploma,3,,,7,0.3224,0.3920,84885.0000,0.0696
+3022,Classical and Ancient Studies.,Undergraduate Certificate or Diploma,7,,,5,0.3694,0.4388,82146.0000,0.0694
+5132,"Health Professions Education, Ethics, and Humanities.",Associate's Degree,9,115198.0000,106614.0000,15,0.3803,0.4480,82229.0000,0.0677
+5132,"Health Professions Education, Ethics, and Humanities.",Undergraduate Certificate or Diploma,25,17617.0000,17756.0000,15,0.3803,0.4480,82229.0000,0.0677
+5100,"Health Services/Allied Health/Health Sciences, General.",Associate's Degree,391,53490.0000,52416.0000,2,0.4694,0.5306,53287.0000,0.0612
+5100,"Health Services/Allied Health/Health Sciences, General.",Undergraduate Certificate or Diploma,195,46845.0000,46252.0000,2,0.4694,0.5306,53287.0000,0.0612
+3101,"Parks, Recreation, and Leisure Studies.",Undergraduate Certificate or Diploma,26,49672.0000,50656.0000,1,0.3647,0.4220,,0.0573
+3101,"Parks, Recreation, and Leisure Studies.",Associate's Degree,37,39625.0000,39059.0000,1,0.3647,0.4220,,0.0573
+3027,Human Biology.,Associate's Degree,2,,,5,0.3449,0.3965,82312.0000,0.0516
+3027,Human Biology.,Undergraduate Certificate or Diploma,1,,,5,0.3449,0.3965,82312.0000,0.0516
+2612,Biotechnology.,Associate's Degree,57,54318.0000,51462.0000,3,0.3363,0.3863,82146.0000,0.0500
+2612,Biotechnology.,Undergraduate Certificate or Diploma,50,52021.0000,51431.0000,3,0.3363,0.3863,82146.0000,0.0500
+2699,"Biological and Biomedical Sciences, Other.",Associate's Degree,16,48862.0000,48163.0000,3,0.3363,0.3863,82146.0000,0.0500
+2699,"Biological and Biomedical Sciences, Other.",Undergraduate Certificate or Diploma,16,,,3,0.3363,0.3863,82146.0000,0.0500
+1904,Family and Consumer Economics and Related Studies.,Associate's Degree,3,,,3,0.4188,0.4684,66455.0000,0.0496
+1904,Family and Consumer Economics and Related Studies.,Undergraduate Certificate or Diploma,4,,,3,0.4188,0.4684,66455.0000,0.0496
+4504,Criminology.,Associate's Degree,14,47546.0000,47386.0000,5,0.3602,0.4097,88182.0000,0.0495
+4504,Criminology.,Undergraduate Certificate or Diploma,10,,,5,0.3602,0.4097,88182.0000,0.0495
+2608,Genetics.,Undergraduate Certificate or Diploma,5,,,6,0.3559,0.4052,82146.0000,0.0493
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",Undergraduate Certificate or Diploma,18,59517.0000,63652.0000,3,0.3922,0.4350,58528.0000,0.0427
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",Associate's Degree,10,,,3,0.3922,0.4350,58528.0000,0.0427
+1610,"American Indian/Native American Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,19,,,3,0.3922,0.4350,58528.0000,0.0427
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",Associate's Degree,2,,,3,0.3922,0.4350,58528.0000,0.0427
+1612,"Classics and Classical Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,11,,,3,0.3922,0.4350,58528.0000,0.0427
+1699,"Foreign Languages, Literatures, and Linguistics, Other.",Associate's Degree,8,,,3,0.3922,0.4350,58528.0000,0.0427
+1206,Casino Operations and Services.,Undergraduate Certificate or Diploma,1,,,4,0.2758,0.3134,40913.0000,0.0376
+1420,Metallurgical Engineering.,Associate's Degree,1,,,3,0.3539,0.3908,97566.0000,0.0369
+1428,Textile Sciences and Engineering.,Associate's Degree,1,,,3,0.3539,0.3908,97566.0000,0.0369
+1428,Textile Sciences and Engineering.,Undergraduate Certificate or Diploma,1,,,3,0.3539,0.3908,97566.0000,0.0369
+1503,Electrical/Electronic Engineering Technologies/Technicians.,Associate's Degree,416,69116.0000,67230.0000,9,0.4019,0.4371,64507.0000,0.0352
+1503,Electrical/Electronic Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,363,49775.0000,46245.0000,9,0.4019,0.4371,64507.0000,0.0352
+4002,Astronomy and Astrophysics.,Associate's Degree,34,,,5,0.3352,0.3703,90461.0000,0.0351
+4002,Astronomy and Astrophysics.,Undergraduate Certificate or Diploma,10,,,5,0.3352,0.3703,90461.0000,0.0351
+3017,Behavioral Sciences.,Undergraduate Certificate or Diploma,12,43235.0000,41520.0000,5,0.3982,0.4288,82146.0000,0.0306
+3017,Behavioral Sciences.,Associate's Degree,36,38707.0000,38123.0000,5,0.3982,0.4288,82146.0000,0.0306
+1603,"East Asian Languages, Literatures, and Linguistics.",Associate's Degree,35,38945.0000,36880.0000,3,0.4026,0.4327,51961.0000,0.0301
+1603,"East Asian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,39,54014.0000,,3,0.4026,0.4327,51961.0000,0.0301
+0402,Architecture.,Associate's Degree,21,46260.0000,42855.0000,3,0.3450,0.3744,101602.0000,0.0294
+0402,Architecture.,Undergraduate Certificate or Diploma,3,,,3,0.3450,0.3744,101602.0000,0.0294
+3025,Cognitive Science.,Undergraduate Certificate or Diploma,3,,,3,0.3501,0.3745,72879.0000,0.0244
+1515,Engineering-Related Fields.,Associate's Degree,13,70343.0000,,9,0.3900,0.4081,88989.5000,0.0181
+1515,Engineering-Related Fields.,Undergraduate Certificate or Diploma,24,88106.0000,,9,0.3900,0.4081,88989.5000,0.0181
+3047,Linguistics and Anthropology.,Undergraduate Certificate or Diploma,1,,,6,0.3829,0.4000,82312.0000,0.0170
+3015,"Science, Technology and Society.",Associate's Degree,4,,,1,0.3395,0.3564,90461.0000,0.0168
+3015,"Science, Technology and Society.",Undergraduate Certificate or Diploma,9,,,1,0.3395,0.3564,90461.0000,0.0168
+1421,Mining and Mineral Engineering.,Associate's Degree,1,,,3,0.3566,0.3730,106535.0000,0.0164
+1421,Mining and Mineral Engineering.,Undergraduate Certificate or Diploma,2,,,3,0.3566,0.3730,106535.0000,0.0164
+1616,American Sign Language.,Undergraduate Certificate or Diploma,135,41171.0000,40318.0000,3,0.4280,0.4424,51961.0000,0.0145
+1616,American Sign Language.,Associate's Degree,140,40040.0000,39079.0000,3,0.4280,0.4424,51961.0000,0.0145
+1499,"Engineering, Other.",Undergraduate Certificate or Diploma,20,89509.0000,84681.0000,4,0.3556,0.3696,103470.5000,0.0140
+1499,"Engineering, Other.",Associate's Degree,5,,,4,0.3556,0.3696,103470.5000,0.0140
+4402,Community Organization and Advocacy.,Undergraduate Certificate or Diploma,45,49741.0000,45069.0000,2,0.3881,0.4018,59447.0000,0.0137
+4402,Community Organization and Advocacy.,Associate's Degree,34,45288.0000,44796.0000,2,0.3881,0.4018,59447.0000,0.0137
+0406,Landscape Architecture.,Associate's Degree,5,,,3,0.3893,0.4018,82146.0000,0.0125
+0406,Landscape Architecture.,Undergraduate Certificate or Diploma,6,,,3,0.3893,0.4018,82146.0000,0.0125
+4304,Security Science and Technology.,Undergraduate Certificate or Diploma,212,54611.0000,48728.0000,16,0.4215,0.4327,81783.0000,0.0112
+4304,Security Science and Technology.,Associate's Degree,151,44517.0000,43267.0000,16,0.4215,0.4327,81783.0000,0.0112
+4303,Homeland Security.,Undergraduate Certificate or Diploma,144,61597.0000,59503.0000,5,0.4198,0.4308,94908.0000,0.0110
+4303,Homeland Security.,Associate's Degree,104,57975.0000,56700.0000,5,0.4198,0.4308,94908.0000,0.0110
+5009,Music.,Undergraduate Certificate or Diploma,202,37101.0000,35803.0000,6,0.3648,0.3747,50656.0000,0.0099
+5009,Music.,Associate's Degree,338,34940.0000,34699.0000,6,0.3648,0.3747,50656.0000,0.0099
+1422,Naval Architecture and Marine Engineering.,Associate's Degree,1,,,3,0.3754,0.3849,101694.0000,0.0095
+1422,Naval Architecture and Marine Engineering.,Undergraduate Certificate or Diploma,2,,,3,0.3754,0.3849,101694.0000,0.0095
+3802,Religion/Religious Studies.,Undergraduate Certificate or Diploma,57,52649.0000,47841.0000,2,0.3938,0.4032,82146.0000,0.0094
+3802,Religion/Religious Studies.,Associate's Degree,99,45723.0000,43058.0000,2,0.3938,0.4032,82146.0000,0.0094
+3042,Geoarcheaology.,Undergraduate Certificate or Diploma,1,,,5,0.3757,0.3821,82312.0000,0.0064
+1423,Nuclear Engineering.,Undergraduate Certificate or Diploma,3,103328.0000,90690.0000,3,0.3549,0.3605,108451.0000,0.0056
+1609,"Romance Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,164,57953.0000,55219.0000,3,0.4229,0.4284,51961.0000,0.0055
+1609,"Romance Languages, Literatures, and Linguistics.",Associate's Degree,136,46138.0000,46286.0000,3,0.4229,0.4284,51961.0000,0.0055
+1414,Environmental/Environmental Health Engineering.,Associate's Degree,5,,,4,0.3863,0.3911,96744.0000,0.0048
+1414,Environmental/Environmental Health Engineering.,Undergraduate Certificate or Diploma,3,,,4,0.3863,0.3911,96744.0000,0.0048
+1404,Architectural Engineering.,Associate's Degree,1,,,4,0.3508,0.3507,96340.0000,-0.0002
+1404,Architectural Engineering.,Undergraduate Certificate or Diploma,2,,,4,0.3508,0.3507,96340.0000,-0.0002
+1512,Computer Engineering Technologies/Technicians.,Associate's Degree,146,56599.0000,55701.0000,5,0.4383,0.4355,73441.0000,-0.0028
+1512,Computer Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,136,41426.0000,40522.0000,5,0.4383,0.4355,73441.0000,-0.0028
+1402,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",Associate's Degree,2,,,5,0.3715,0.3685,122914.0000,-0.0030
+1402,"Aerospace, Aeronautical, and Astronautical/Space Engineering.",Undergraduate Certificate or Diploma,9,,,5,0.3715,0.3685,122914.0000,-0.0030
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Associate's Degree,7,,,3,0.4363,0.4255,51961.0000,-0.0108
+1611,"Middle/Near Eastern and Semitic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,24,82838.0000,,3,0.4363,0.4255,51961.0000,-0.0108
+4006,Geological and Earth Sciences/Geosciences.,Associate's Degree,139,50811.0000,49411.0000,7,0.3451,0.3340,90461.0000,-0.0111
+4006,Geological and Earth Sciences/Geosciences.,Undergraduate Certificate or Diploma,39,64962.0000,,7,0.3451,0.3340,90461.0000,-0.0111
+1432,Polymer/Plastics Engineering.,Undergraduate Certificate or Diploma,1,,,4,0.3543,0.3416,109108.0000,-0.0127
+3032,Marine Sciences.,Associate's Degree,4,,,6,0.3989,0.3855,83187.5000,-0.0133
+3032,Marine Sciences.,Undergraduate Certificate or Diploma,7,,,6,0.3989,0.3855,83187.5000,-0.0133
+1605,"Germanic Languages, Literatures, and Linguistics.",Associate's Degree,16,,,3,0.4387,0.4250,51961.0000,-0.0136
+1605,"Germanic Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,41,60198.0000,,3,0.4387,0.4250,51961.0000,-0.0136
+0404,Environmental Design.,Associate's Degree,6,,,6,0.3781,0.3587,82146.0000,-0.0195
+0404,Environmental Design.,Undergraduate Certificate or Diploma,7,,,6,0.3781,0.3587,82146.0000,-0.0195
+1909,Apparel and Textiles.,Associate's Degree,47,49784.0000,44537.0000,9,0.4225,0.4028,65141.0000,-0.0197
+1909,Apparel and Textiles.,Undergraduate Certificate or Diploma,51,24300.0000,20501.0000,9,0.4225,0.4028,65141.0000,-0.0197
+1439,Geological/Geophysical Engineering.,Associate's Degree,1,,,4,0.3665,0.3443,108534.5000,-0.0222
+5010,"Arts, Entertainment, and Media Management.",Undergraduate Certificate or Diploma,64,41773.0000,43414.0000,5,0.4223,0.3970,79622.0000,-0.0253
+5010,"Arts, Entertainment, and Media Management.",Associate's Degree,49,36837.0000,34001.0000,5,0.4223,0.3970,79622.0000,-0.0253
+1448,Energy Systems Engineering.,Associate's Degree,2,,,3,0.3757,0.3478,110534.0000,-0.0279
+1448,Energy Systems Engineering.,Undergraduate Certificate or Diploma,4,,,3,0.3757,0.3478,110534.0000,-0.0279
+1413,Engineering Science.,Associate's Degree,25,78582.0000,77326.0000,3,0.3757,0.3478,110534.0000,-0.0279
+1442,"Mechatronics, Robotics, and Automation Engineering.",Associate's Degree,24,72578.0000,71455.0000,3,0.3757,0.3478,110534.0000,-0.0279
+1442,"Mechatronics, Robotics, and Automation Engineering.",Undergraduate Certificate or Diploma,37,59300.0000,57908.0000,3,0.3757,0.3478,110534.0000,-0.0279
+1413,Engineering Science.,Undergraduate Certificate or Diploma,2,,,3,0.3757,0.3478,110534.0000,-0.0279
+1434,Forest Engineering.,Associate's Degree,1,,,3,0.3757,0.3478,110534.0000,-0.0279
+3045,History and Language/Literature.,Associate's Degree,3,,,7,0.4191,0.3886,82146.0000,-0.0305
+2201,Law.,Associate's Degree,0,,,6,0.4828,0.4499,124810.0000,-0.0329
+2201,Law.,Undergraduate Certificate or Diploma,1,,,6,0.4828,0.4499,124810.0000,-0.0329
+4404,Public Administration.,Undergraduate Certificate or Diploma,41,72958.0000,72156.0000,10,0.4287,0.3949,85367.0000,-0.0338
+4404,Public Administration.,Associate's Degree,29,56533.0000,52809.0000,10,0.4287,0.3949,85367.0000,-0.0338
+3902,Bible/Biblical Studies.,Associate's Degree,94,43188.0000,42515.0000,2,0.4189,0.3839,51421.0000,-0.0349
+3903,Missions/Missionary Studies and Missiology.,Undergraduate Certificate or Diploma,22,38081.0000,38730.0000,2,0.4189,0.3839,51421.0000,-0.0349
+3904,Religious Education.,Associate's Degree,15,41336.0000,38616.0000,2,0.4189,0.3839,51421.0000,-0.0349
+3902,Bible/Biblical Studies.,Undergraduate Certificate or Diploma,73,37061.0000,35133.0000,2,0.4189,0.3839,51421.0000,-0.0349
+3903,Missions/Missionary Studies and Missiology.,Associate's Degree,26,31664.0000,28061.0000,2,0.4189,0.3839,51421.0000,-0.0349
+3904,Religious Education.,Undergraduate Certificate or Diploma,13,,,2,0.4189,0.3839,51421.0000,-0.0349
+1614,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",Associate's Degree,1,,,3,0.4584,0.4208,51961.0000,-0.0376
+1614,"Southeast Asian and Australasian/Pacific Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,4,,,3,0.4584,0.4208,51961.0000,-0.0376
+1408,Civil Engineering.,Associate's Degree,26,66109.0000,65826.0000,7,0.3750,0.3355,100633.0000,-0.0395
+1408,Civil Engineering.,Undergraduate Certificate or Diploma,15,,,7,0.3750,0.3355,100633.0000,-0.0395
+5209,Hospitality Administration/Management.,Associate's Degree,344,41416.0000,40376.0000,12,0.4133,0.3736,60831.0000,-0.0397
+5209,Hospitality Administration/Management.,Undergraduate Certificate or Diploma,334,39724.0000,36441.0000,12,0.4133,0.3736,60831.0000,-0.0397
+3052,Digital Humanities and Textual Studies.,Associate's Degree,2,,,5,0.4313,0.3892,60890.0000,-0.0422
+3052,Digital Humanities and Textual Studies.,Undergraduate Certificate or Diploma,7,,,5,0.4313,0.3892,60890.0000,-0.0422
+2501,Library Science and Administration.,Associate's Degree,7,,,4,0.4435,0.3979,71518.0000,-0.0457
+2501,Library Science and Administration.,Undergraduate Certificate or Diploma,6,,,4,0.4435,0.3979,71518.0000,-0.0457
+4511,Sociology.,Undergraduate Certificate or Diploma,40,54021.0000,52961.0000,4,0.4040,0.3576,83788.0000,-0.0464
+4511,Sociology.,Associate's Degree,233,46504.0000,45815.0000,4,0.4040,0.3576,83788.0000,-0.0464
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",Undergraduate Certificate or Diploma,122,53116.0000,48571.0000,5,0.4508,0.4033,51961.0000,-0.0475
+1601,"Linguistic, Comparative, and Related Language Studies and Services.",Associate's Degree,85,39222.0000,36217.0000,5,0.4508,0.4033,51961.0000,-0.0475
+1435,Industrial Engineering.,Undergraduate Certificate or Diploma,12,96397.0000,96473.0000,4,0.4078,0.3593,94990.5000,-0.0485
+1435,Industrial Engineering.,Associate's Degree,9,53950.0000,,4,0.4078,0.3593,94990.5000,-0.0485
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Associate's Degree,5,,,3,0.4689,0.4185,51961.0000,-0.0504
+1604,"Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",Undergraduate Certificate or Diploma,17,,,3,0.4689,0.4185,51961.0000,-0.0504
+5001,"Visual and Performing Arts, General.",Undergraduate Certificate or Diploma,113,43881.0000,42140.0000,7,0.4855,0.4349,56340.0000,-0.0507
+5001,"Visual and Performing Arts, General.",Associate's Degree,215,35782.0000,35756.0000,7,0.4855,0.4349,56340.0000,-0.0507
+3800,"Philosophy and Religious Studies, General.",Associate's Degree,5,,,1,0.4155,0.3641,,-0.0514
+3800,"Philosophy and Religious Studies, General.",Undergraduate Certificate or Diploma,3,,,1,0.4155,0.3641,,-0.0514
+3899,"Philosophy and Religious Studies, Other.",Undergraduate Certificate or Diploma,2,,,1,0.4155,0.3641,,-0.0514
+0408,"Architectural History, Criticism, and Conservation.",Associate's Degree,1,,,3,0.3826,0.3308,82229.0000,-0.0518
+0408,"Architectural History, Criticism, and Conservation.",Undergraduate Certificate or Diploma,2,,,3,0.3826,0.3308,82229.0000,-0.0518
+3038,Earth Systems Science.,Undergraduate Certificate or Diploma,1,,,6,0.3895,0.3360,86386.5000,-0.0535
+4008,Physics.,Undergraduate Certificate or Diploma,21,92304.0000,99953.0000,4,0.4314,0.3764,90461.0000,-0.0550
+4008,Physics.,Associate's Degree,189,68622.0000,68420.0000,4,0.4314,0.3764,90461.0000,-0.0550
+1401,"Engineering, General.",Undergraduate Certificate or Diploma,92,79868.0000,77886.0000,3,0.3808,0.3254,110534.0000,-0.0554
+1401,"Engineering, General.",Associate's Degree,453,75472.0000,74156.0000,3,0.3808,0.3254,110534.0000,-0.0554
+1441,Electromechanical Engineering.,Associate's Degree,1,,,5,0.3855,0.3295,110534.0000,-0.0560
+1441,Electromechanical Engineering.,Undergraduate Certificate or Diploma,3,,,5,0.3855,0.3295,110534.0000,-0.0560
+3041,Environmental Geosciences.,Associate's Degree,3,,,10,0.4087,0.3523,82146.0000,-0.0564
+3041,Environmental Geosciences.,Undergraduate Certificate or Diploma,1,,,10,0.4087,0.3523,82146.0000,-0.0564
+1411,Engineering Mechanics.,Associate's Degree,4,86461.0000,,4,0.3792,0.3198,106045.5000,-0.0594
+1411,Engineering Mechanics.,Undergraduate Certificate or Diploma,2,,,4,0.3792,0.3198,106045.5000,-0.0594
+1418,Materials Engineering.,Undergraduate Certificate or Diploma,11,60187.0000,59884.0000,4,0.4256,0.3647,89856.0000,-0.0609
+1418,Materials Engineering.,Associate's Degree,3,,,4,0.4256,0.3647,89856.0000,-0.0609
+1440,Paper Science and Engineering.,Undergraduate Certificate or Diploma,1,,,4,0.3706,0.3094,115592.0000,-0.0612
+1443,Biochemical Engineering.,Associate's Degree,1,,,4,0.3706,0.3094,115592.0000,-0.0612
+5201,"Business/Commerce, General.",Undergraduate Certificate or Diploma,280,59531.0000,50842.0000,17,0.4519,0.3904,83748.0000,-0.0615
+5201,"Business/Commerce, General.",Associate's Degree,562,51557.0000,49482.0000,17,0.4519,0.3904,83748.0000,-0.0615
+0403,"City/Urban, Community, and Regional Planning.",Undergraduate Certificate or Diploma,13,,,3,0.4334,0.3680,87581.0000,-0.0654
+4199,"Science Technologies/Technicians, Other.",Associate's Degree,69,54853.0000,53424.0000,4,0.4401,0.3737,53724.0000,-0.0663
+4199,"Science Technologies/Technicians, Other.",Undergraduate Certificate or Diploma,18,39690.0000,35599.0000,4,0.4401,0.3737,53724.0000,-0.0663
+3033,Sustainability Studies.,Undergraduate Certificate or Diploma,52,62782.0000,57020.0000,7,0.4285,0.3587,82146.0000,-0.0698
+3033,Sustainability Studies.,Associate's Degree,19,,,7,0.4285,0.3587,82146.0000,-0.0698
+1906,Housing and Human Environments.,Associate's Degree,3,,,5,0.4546,0.3836,66035.5000,-0.0709
+1906,Housing and Human Environments.,Undergraduate Certificate or Diploma,10,40543.0000,,5,0.4546,0.3836,66035.5000,-0.0709
+1407,Chemical Engineering.,Associate's Degree,29,60746.0000,,5,0.3704,0.2991,120650.0000,-0.0713
+1407,Chemical Engineering.,Undergraduate Certificate or Diploma,5,,,5,0.3704,0.2991,120650.0000,-0.0713
+0405,Interior Architecture.,Associate's Degree,3,,,3,0.3989,0.3263,82146.0000,-0.0726
+0405,Interior Architecture.,Undergraduate Certificate or Diploma,3,,,3,0.3989,0.3263,82146.0000,-0.0726
+1437,Operations Research.,Undergraduate Certificate or Diploma,3,,,3,0.3949,0.3219,90461.0000,-0.0730
+4505,Demography.,Undergraduate Certificate or Diploma,3,,,4,0.4058,0.3316,83050.0000,-0.0741
+5401,History.,Undergraduate Certificate or Diploma,64,50241.0000,48826.0000,9,0.4292,0.3550,82312.0000,-0.0742
+5401,History.,Associate's Degree,251,41663.0000,41964.0000,9,0.4292,0.3550,82312.0000,-0.0742
+1002,Audiovisual Communications Technologies/Technicians.,Associate's Degree,215,37665.0000,36634.0000,8,0.5022,0.4262,63966.0000,-0.0760
+1002,Audiovisual Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,258,35528.0000,34264.0000,8,0.5022,0.4262,63966.0000,-0.0760
+3044,Geography and Environmental Studies.,Associate's Degree,1,,,8,0.4431,0.3646,82146.0000,-0.0784
+3044,Geography and Environmental Studies.,Undergraduate Certificate or Diploma,9,,,8,0.4431,0.3646,82146.0000,-0.0784
+1412,Engineering Physics.,Associate's Degree,3,,,5,0.4171,0.3374,110534.0000,-0.0797
+5220,Construction Management.,Associate's Degree,75,75202.0000,71881.0000,3,0.4626,0.3805,85367.0000,-0.0821
+5220,Construction Management.,Undergraduate Certificate or Diploma,49,62619.0000,57603.0000,3,0.4626,0.3805,85367.0000,-0.0821
+1410,"Electrical, Electronics, and Communications Engineering.",Associate's Degree,66,69885.0000,68992.0000,7,0.4127,0.3288,112025.0000,-0.0839
+1410,"Electrical, Electronics, and Communications Engineering.",Undergraduate Certificate or Diploma,22,64605.0000,58732.0000,7,0.4127,0.3288,112025.0000,-0.0839
+1405,Biomedical/Medical Engineering.,Associate's Degree,10,79902.0000,,3,0.3834,0.2932,91489.0000,-0.0902
+1405,Biomedical/Medical Engineering.,Undergraduate Certificate or Diploma,11,,,3,0.3834,0.2932,91489.0000,-0.0902
+5207,Entrepreneurial and Small Business Operations.,Undergraduate Certificate or Diploma,547,52244.0000,47508.0000,5,0.4325,0.3377,94908.0000,-0.0948
+5207,Entrepreneurial and Small Business Operations.,Associate's Degree,199,42166.0000,41251.0000,5,0.4325,0.3377,94908.0000,-0.0948
+3028,Dispute Resolution.,Undergraduate Certificate or Diploma,17,59625.0000,56837.0000,4,0.4630,0.3658,82146.0000,-0.0972
+4510,Political Science and Government.,Undergraduate Certificate or Diploma,52,78646.0000,73129.0000,7,0.4295,0.3294,82229.0000,-0.1001
+4510,Political Science and Government.,Associate's Degree,212,48679.0000,48442.0000,7,0.4295,0.3294,82229.0000,-0.1001
+1445,Biological/Biosystems Engineering.,Associate's Degree,2,,,4,0.3865,0.2845,101011.5000,-0.1021
+1445,Biological/Biosystems Engineering.,Undergraduate Certificate or Diploma,3,,,4,0.3865,0.2845,101011.5000,-0.1021
+1501,Architectural Engineering Technologies/Technicians.,Associate's Degree,86,58961.0000,56822.0000,3,0.4839,0.3817,64507.0000,-0.1022
+1501,Architectural Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,34,55356.0000,54921.0000,3,0.4839,0.3817,64507.0000,-0.1022
+4512,Urban Studies/Affairs.,Associate's Degree,3,53342.0000,53055.0000,3,0.4363,0.3330,87581.0000,-0.1033
+4512,Urban Studies/Affairs.,Undergraduate Certificate or Diploma,6,,,3,0.4363,0.3330,87581.0000,-0.1033
+4100,"Science Technologies/Technicians, General.",Associate's Degree,10,55388.0000,50892.0000,3,0.4572,0.3468,53724.0000,-0.1104
+4100,"Science Technologies/Technicians, General.",Undergraduate Certificate or Diploma,8,,,3,0.4572,0.3468,53724.0000,-0.1104
+1303,Curriculum and Instruction.,Associate's Degree,2,,,2,0.4989,0.3864,74300.5000,-0.1124
+1303,Curriculum and Instruction.,Undergraduate Certificate or Diploma,8,,,2,0.4989,0.3864,74300.5000,-0.1124
+3018,Natural Sciences.,Associate's Degree,45,58129.0000,57066.0000,2,0.4303,0.3178,93747.5000,-0.1125
+3018,Natural Sciences.,Undergraduate Certificate or Diploma,20,,,2,0.4303,0.3178,93747.5000,-0.1125
+4099,"Physical Sciences, Other.",Associate's Degree,5,47963.0000,,2,0.4303,0.3178,93747.5000,-0.1125
+4099,"Physical Sciences, Other.",Undergraduate Certificate or Diploma,2,,,2,0.4303,0.3178,93747.5000,-0.1125
+3013,Medieval and Renaissance Studies.,Undergraduate Certificate or Diploma,8,57808.0000,,2,0.4574,0.3434,82312.0000,-0.1140
+4004,Atmospheric Sciences and Meteorology.,Associate's Degree,13,,,4,0.4294,0.3137,89934.0000,-0.1156
+4004,Atmospheric Sciences and Meteorology.,Undergraduate Certificate or Diploma,8,,,4,0.4294,0.3137,89934.0000,-0.1156
+1433,Construction Engineering.,Undergraduate Certificate or Diploma,5,,,5,0.4306,0.3147,100633.0000,-0.1160
+0108,Agricultural Public Services.,Associate's Degree,8,,,3,0.4762,0.3589,66455.0000,-0.1174
+0108,Agricultural Public Services.,Undergraduate Certificate or Diploma,6,,,3,0.4762,0.3589,66455.0000,-0.1174
+3801,Philosophy.,Undergraduate Certificate or Diploma,65,61614.0000,51886.0000,4,0.4419,0.3226,90461.0000,-0.1194
+3801,Philosophy.,Associate's Degree,129,43146.0000,41903.0000,4,0.4419,0.3226,90461.0000,-0.1194
+2503,Library and Archives Assisting.,Undergraduate Certificate or Diploma,32,41894.0000,41976.0000,1,0.5447,0.4228,38591.0000,-0.1219
+2503,Library and Archives Assisting.,Associate's Degree,31,34513.0000,33334.0000,1,0.5447,0.4228,38591.0000,-0.1219
+3908,Religious Institution Administration and Law.,Associate's Degree,1,,,4,0.4646,0.3393,89328.0000,-0.1253
+3908,Religious Institution Administration and Law.,Undergraduate Certificate or Diploma,1,,,4,0.4646,0.3393,89328.0000,-0.1253
+2902,"Intelligence, Command Control and Information Operations.",Associate's Degree,14,73619.0000,73926.0000,3,0.5037,0.3779,92097.0000,-0.1258
+2902,"Intelligence, Command Control and Information Operations.",Undergraduate Certificate or Diploma,26,,,3,0.5037,0.3779,92097.0000,-0.1258
+1902,Family and Consumer Sciences/Human Sciences Business Services.,Associate's Degree,2,,,9,0.4829,0.3565,81921.0000,-0.1264
+1902,Family and Consumer Sciences/Human Sciences Business Services.,Undergraduate Certificate or Diploma,8,,,9,0.4829,0.3565,81921.0000,-0.1264
+4509,International Relations and National Security Studies.,Undergraduate Certificate or Diploma,30,123997.0000,122012.0000,3,0.4403,0.3112,82312.0000,-0.1290
+4509,International Relations and National Security Studies.,Associate's Degree,23,38261.0000,39049.0000,3,0.4403,0.3112,82312.0000,-0.1290
+1436,Manufacturing Engineering.,Associate's Degree,6,,,5,0.4489,0.3187,96407.0000,-0.1302
+1436,Manufacturing Engineering.,Undergraduate Certificate or Diploma,16,,,5,0.4489,0.3187,96407.0000,-0.1302
+1502,Civil Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,55,68294.0000,67004.0000,2,0.4893,0.3582,59806.0000,-0.1311
+1502,Civil Engineering Technologies/Technicians.,Associate's Degree,131,64383.0000,63262.0000,2,0.4893,0.3582,59806.0000,-0.1311
+2301,"English Language and Literature, General.",Associate's Degree,278,40200.0000,39588.0000,3,0.4685,0.3360,56431.5000,-0.1325
+2301,"English Language and Literature, General.",Undergraduate Certificate or Diploma,62,32639.0000,32377.0000,3,0.4685,0.3360,56431.5000,-0.1325
+0909,"Public Relations, Advertising, and Applied Communication.",Associate's Degree,52,55117.0000,51311.0000,16,0.4931,0.3568,90129.0000,-0.1363
+0909,"Public Relations, Advertising, and Applied Communication.",Undergraduate Certificate or Diploma,128,52786.0000,47935.0000,16,0.4931,0.3568,90129.0000,-0.1363
+5202,"Business Administration, Management and Operations.",Associate's Degree,1331,50489.0000,48556.0000,42,0.4829,0.3457,83642.0000,-0.1371
+5202,"Business Administration, Management and Operations.",Undergraduate Certificate or Diploma,1076,49581.0000,46731.0000,42,0.4829,0.3457,83642.0000,-0.1371
+1516,Nanotechnology.,Associate's Degree,8,,,1,0.3961,0.2584,110534.0000,-0.1377
+1516,Nanotechnology.,Undergraduate Certificate or Diploma,11,,,1,0.3961,0.2584,110534.0000,-0.1377
+4405,Public Policy Analysis.,Associate's Degree,3,,,8,0.4783,0.3402,82146.0000,-0.1381
+4405,Public Policy Analysis.,Undergraduate Certificate or Diploma,17,,,8,0.4783,0.3402,82146.0000,-0.1381
+3023,Intercultural/Multicultural and Diversity Studies.,Undergraduate Certificate or Diploma,67,59527.0000,60290.0000,2,0.4589,0.3188,82229.0000,-0.1401
+3023,Intercultural/Multicultural and Diversity Studies.,Associate's Degree,7,,,2,0.4589,0.3188,82229.0000,-0.1401
+3026,Cultural Studies/Critical Theory and Analysis.,Associate's Degree,2,,,2,0.4589,0.3188,82229.0000,-0.1401
+3026,Cultural Studies/Critical Theory and Analysis.,Undergraduate Certificate or Diploma,6,,,2,0.4589,0.3188,82229.0000,-0.1401
+5211,International Business.,Undergraduate Certificate or Diploma,86,80195.0000,71854.0000,4,0.4519,0.3099,83319.5000,-0.1420
+5211,International Business.,Associate's Degree,55,56717.0000,53661.0000,4,0.4519,0.3099,83319.5000,-0.1420
+3012,Historic Preservation and Conservation.,Associate's Degree,3,45109.0000,,5,0.4922,0.3444,78797.5000,-0.1479
+3012,Historic Preservation and Conservation.,Undergraduate Certificate or Diploma,19,,,5,0.4922,0.3444,78797.5000,-0.1479
+4501,"Social Sciences, General.",Undergraduate Certificate or Diploma,41,59180.0000,59647.0000,10,0.4636,0.3089,82312.0000,-0.1546
+4501,"Social Sciences, General.",Associate's Degree,183,46350.0000,45420.0000,10,0.4636,0.3089,82312.0000,-0.1546
+1305,Educational/Instructional Media Design.,Undergraduate Certificate or Diploma,47,55798.0000,52965.0000,3,0.5031,0.3459,66455.0000,-0.1572
+1305,Educational/Instructional Media Design.,Associate's Degree,3,40320.0000,38641.0000,3,0.5031,0.3459,66455.0000,-0.1572
+1511,Engineering-Related Technologies/Technicians.,Undergraduate Certificate or Diploma,80,67624.0000,63792.0000,5,0.5221,0.3640,64507.0000,-0.1581
+1511,Engineering-Related Technologies/Technicians.,Associate's Degree,70,66531.0000,62846.0000,5,0.5221,0.3640,64507.0000,-0.1581
+3051,"Philosophy, Politics, and Economics.",Associate's Degree,1,,,7,0.4685,0.3083,82312.0000,-0.1602
+3051,"Philosophy, Politics, and Economics.",Undergraduate Certificate or Diploma,3,,,7,0.4685,0.3083,82312.0000,-0.1602
+1419,Mechanical Engineering.,Associate's Degree,52,76252.0000,73941.0000,5,0.4512,0.2867,101557.0000,-0.1644
+1419,Mechanical Engineering.,Undergraduate Certificate or Diploma,12,,,5,0.4512,0.2867,101557.0000,-0.1644
+0410,Real Estate Development.,Undergraduate Certificate or Diploma,3,,,5,0.5130,0.3455,77062.0000,-0.1676
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",Associate's Degree,4,,,13,0.4857,0.3138,86303.5000,-0.1719
+2611,"Biomathematics, Bioinformatics, and Computational Biology.",Undergraduate Certificate or Diploma,12,,,13,0.4857,0.3138,86303.5000,-0.1719
+3905,Religious Music and Worship.,Associate's Degree,23,28722.0000,26870.0000,3,0.5090,0.3369,56511.5000,-0.1721
+3905,Religious Music and Worship.,Undergraduate Certificate or Diploma,8,,,3,0.5090,0.3369,56511.5000,-0.1721
+2314,Literature.,Undergraduate Certificate or Diploma,10,61078.0000,55467.0000,3,0.4912,0.3076,70729.0000,-0.1836
+2314,Literature.,Associate's Degree,17,,,3,0.4912,0.3076,70729.0000,-0.1836
+0907,"Radio, Television, and Digital Communication.",Associate's Degree,179,38243.0000,38643.0000,7,0.4912,0.2971,73320.0000,-0.1941
+0907,"Radio, Television, and Digital Communication.",Undergraduate Certificate or Diploma,197,37142.0000,35711.0000,7,0.4912,0.2971,73320.0000,-0.1941
+5215,Real Estate.,Associate's Degree,100,46365.0000,46034.0000,5,0.5307,0.3363,77062.0000,-0.1944
+5215,Real Estate.,Undergraduate Certificate or Diploma,153,45211.0000,43161.0000,5,0.5307,0.3363,77062.0000,-0.1944
+5004,Design and Applied Arts.,Associate's Degree,513,39339.0000,37822.0000,11,0.5138,0.3168,65141.0000,-0.1970
+5004,Design and Applied Arts.,Undergraduate Certificate or Diploma,537,36443.0000,33313.0000,11,0.5138,0.3168,65141.0000,-0.1970
+3021,Holocaust and Related Studies.,Undergraduate Certificate or Diploma,1,,,3,0.4887,0.2908,82312.0000,-0.1979
+3006,Systems Science and Theory.,Associate's Degree,1,,,1,0.4756,0.2763,94908.0000,-0.1993
+3006,Systems Science and Theory.,Undergraduate Certificate or Diploma,1,,,1,0.4756,0.2763,94908.0000,-0.1993
+5210,Human Resources Management and Services.,Undergraduate Certificate or Diploma,240,64465.0000,61921.0000,12,0.5231,0.3196,81516.0000,-0.2035
+5210,Human Resources Management and Services.,Associate's Degree,140,53637.0000,52181.0000,12,0.5231,0.3196,81516.0000,-0.2035
+3046,History and Political Science.,Associate's Degree,2,,,7,0.4959,0.2897,82312.0000,-0.2062
+3046,History and Political Science.,Undergraduate Certificate or Diploma,3,,,7,0.4959,0.2897,82312.0000,-0.2062
+1438,Surveying Engineering.,Associate's Degree,1,,,5,0.4923,0.2855,82146.0000,-0.2067
+1438,Surveying Engineering.,Undergraduate Certificate or Diploma,15,,,5,0.4923,0.2855,82146.0000,-0.2067
+1510,Construction Engineering Technology/Technician.,Associate's Degree,85,70976.0000,68347.0000,3,0.5523,0.3382,78947.0000,-0.2141
+1510,Construction Engineering Technology/Technician.,Undergraduate Certificate or Diploma,71,59293.0000,60012.0000,3,0.5523,0.3382,78947.0000,-0.2141
+1003,Graphic Communications.,Associate's Degree,206,38815.0000,37499.0000,6,0.5759,0.3537,45637.0000,-0.2222
+1003,Graphic Communications.,Undergraduate Certificate or Diploma,258,37415.0000,35697.0000,6,0.5759,0.3537,45637.0000,-0.2222
+1427,Systems Engineering.,Undergraduate Certificate or Diploma,6,,,5,0.5005,0.2769,106279.0000,-0.2237
+5107,Health and Medical Administrative Services.,Associate's Degree,811,38428.0000,37706.0000,19,0.5538,0.3289,61325.0000,-0.2249
+5107,Health and Medical Administrative Services.,Undergraduate Certificate or Diploma,1289,35828.0000,35207.0000,19,0.5538,0.3289,61325.0000,-0.2249
+5218,"General Sales, Merchandising and Related Marketing Operations.",Associate's Degree,171,48444.0000,46926.0000,12,0.5509,0.3247,68153.0000,-0.2262
+5218,"General Sales, Merchandising and Related Marketing Operations.",Undergraduate Certificate or Diploma,243,47000.0000,39626.0000,12,0.5509,0.3247,68153.0000,-0.2262
+0182,Veterinary Administrative Services.,Undergraduate Certificate or Diploma,2,,,6,0.5561,0.3223,57274.0000,-0.2338
+4600,"Construction Trades, General.",Associate's Degree,69,82662.0000,71624.0000,1,0.6020,0.3656,70603.0000,-0.2365
+4600,"Construction Trades, General.",Undergraduate Certificate or Diploma,105,42962.0000,41144.0000,1,0.6020,0.3656,70603.0000,-0.2365
+3020,International/Globalization Studies.,Undergraduate Certificate or Diploma,69,76387.0000,74500.0000,1,0.4659,0.2276,82312.0000,-0.2383
+3020,International/Globalization Studies.,Associate's Degree,25,37454.0000,38008.0000,1,0.4659,0.2276,82312.0000,-0.2383
+1299,"Culinary, Entertainment, and Personal Services, Other.",Undergraduate Certificate or Diploma,7,33228.0000,31715.0000,1,0.5123,0.2722,39422.0000,-0.2400
+1299,"Culinary, Entertainment, and Personal Services, Other.",Associate's Degree,5,,,1,0.5123,0.2722,39422.0000,-0.2400
+1409,Computer Engineering.,Associate's Degree,31,69729.0000,66879.0000,7,0.5370,0.2903,106457.0000,-0.2467
+1409,Computer Engineering.,Undergraduate Certificate or Diploma,22,67003.0000,,7,0.5370,0.2903,106457.0000,-0.2467
+5221,Telecommunications Management.,Undergraduate Certificate or Diploma,5,50338.0000,,3,0.5246,0.2735,94908.0000,-0.2511
+2701,Mathematics.,Undergraduate Certificate or Diploma,33,90384.0000,87341.0000,7,0.5102,0.2590,90461.0000,-0.2512
+2701,Mathematics.,Associate's Degree,311,60462.0000,59843.0000,7,0.5102,0.2590,90461.0000,-0.2512
+0904,Journalism.,Undergraduate Certificate or Diploma,71,57732.0000,52305.0000,8,0.5120,0.2607,71519.0000,-0.2513
+0904,Journalism.,Associate's Degree,137,40540.0000,38510.0000,8,0.5120,0.2607,71519.0000,-0.2513
+5127,Medical Illustration and Informatics.,Undergraduate Certificate or Diploma,25,73826.0000,74421.0000,4,0.5720,0.3180,70976.5000,-0.2541
+5127,Medical Illustration and Informatics.,Associate's Degree,14,56934.0000,57197.0000,4,0.5720,0.3180,70976.5000,-0.2541
+2706,Applied Statistics.,Associate's Degree,1,,,7,0.5425,0.2863,102210.0000,-0.2562
+2706,Applied Statistics.,Undergraduate Certificate or Diploma,2,,,7,0.5425,0.2863,102210.0000,-0.2562
+4506,Economics.,Undergraduate Certificate or Diploma,39,94644.0000,82723.0000,9,0.5469,0.2900,94908.0000,-0.2569
+4506,Economics.,Associate's Degree,155,63962.0000,60603.0000,9,0.5469,0.2900,94908.0000,-0.2569
+3005,Peace Studies and Conflict Resolution.,Undergraduate Certificate or Diploma,22,59101.0000,56485.0000,2,0.5543,0.2972,103561.0000,-0.2571
+4507,Geography and Cartography.,Undergraduate Certificate or Diploma,257,62233.0000,60134.0000,5,0.5648,0.3021,82229.0000,-0.2627
+4507,Geography and Cartography.,Associate's Degree,148,54754.0000,50941.0000,5,0.5648,0.3021,82229.0000,-0.2627
+0901,Communication and Media Studies.,Associate's Degree,311,45930.0000,45699.0000,9,0.5411,0.2761,71585.0000,-0.2649
+0901,Communication and Media Studies.,Undergraduate Certificate or Diploma,150,47556.0000,43627.0000,9,0.5411,0.2761,71585.0000,-0.2649
+5214,Marketing.,Undergraduate Certificate or Diploma,298,49195.0000,45587.0000,9,0.5402,0.2752,82146.0000,-0.2650
+5214,Marketing.,Associate's Degree,266,44473.0000,42451.0000,9,0.5402,0.2752,82146.0000,-0.2650
+2705,Statistics.,Undergraduate Certificate or Diploma,24,95852.0000,79943.0000,7,0.5443,0.2761,107077.0000,-0.2682
+2705,Statistics.,Associate's Degree,2,,,7,0.5443,0.2761,107077.0000,-0.2682
+0409,Architectural Sciences and Technology.,Associate's Degree,82,58509.0000,57332.0000,3,0.5314,0.2624,71462.5000,-0.2690
+0409,Architectural Sciences and Technology.,Undergraduate Certificate or Diploma,51,52320.0000,52854.0000,3,0.5314,0.2624,71462.5000,-0.2690
+1306,"Educational Assessment, Evaluation, and Research.",Undergraduate Certificate or Diploma,2,,,6,0.5353,0.2639,88478.0000,-0.2714
+3031,Human Computer Interaction.,Associate's Degree,3,45824.0000,44169.0000,5,0.5602,0.2843,82146.0000,-0.2759
+3031,Human Computer Interaction.,Undergraduate Certificate or Diploma,9,,,5,0.5602,0.2843,82146.0000,-0.2759
+4599,"Social Sciences, Other.",Associate's Degree,12,40397.0000,39664.0000,2,0.5134,0.2310,88610.0000,-0.2824
+4599,"Social Sciences, Other.",Undergraduate Certificate or Diploma,15,70297.0000,,2,0.5134,0.2310,88610.0000,-0.2824
+3029,Maritime Studies.,Undergraduate Certificate or Diploma,1,,,1,0.5749,0.2757,82312.0000,-0.2992
+0999,"Communication, Journalism, and Related Programs, Other.",Undergraduate Certificate or Diploma,13,56699.0000,54618.0000,3,0.5505,0.2467,70729.0000,-0.3039
+0999,"Communication, Journalism, and Related Programs, Other.",Associate's Degree,13,42131.0000,42393.0000,3,0.5505,0.2467,70729.0000,-0.3039
+5212,Management Information Systems and Services.,Associate's Degree,104,59583.0000,57308.0000,4,0.5895,0.2720,103751.0000,-0.3175
+5212,Management Information Systems and Services.,Undergraduate Certificate or Diploma,121,61693.0000,56789.0000,4,0.5895,0.2720,103751.0000,-0.3175
+5213,Management Sciences and Quantitative Methods.,Undergraduate Certificate or Diploma,96,82965.0000,78645.0000,12,0.5780,0.2530,93310.0000,-0.3250
+5213,Management Sciences and Quantitative Methods.,Associate's Degree,21,42732.0000,42167.0000,12,0.5780,0.2530,93310.0000,-0.3250
+5217,Insurance.,Undergraduate Certificate or Diploma,54,73644.0000,72885.0000,8,0.5880,0.2598,70814.5000,-0.3282
+5217,Insurance.,Associate's Degree,23,,,8,0.5880,0.2598,70814.5000,-0.3282
+1001,Communications Technologies/Technicians.,Associate's Degree,18,36680.0000,37203.0000,3,0.6226,0.2849,63966.0000,-0.3377
+1001,Communications Technologies/Technicians.,Undergraduate Certificate or Diploma,36,33247.0000,33203.0000,3,0.6226,0.2849,63966.0000,-0.3377
+5206,Business/Managerial Economics.,Associate's Degree,3,,,5,0.6002,0.2557,102210.0000,-0.3445
+5206,Business/Managerial Economics.,Undergraduate Certificate or Diploma,10,72487.0000,,5,0.6002,0.2557,102210.0000,-0.3445
+3016,Accounting and Computer Science.,Associate's Degree,4,,,7,0.5960,0.2455,82146.0000,-0.3505
+3016,Accounting and Computer Science.,Undergraduate Certificate or Diploma,4,,,7,0.5960,0.2455,82146.0000,-0.3505
+5205,Business/Corporate Communications.,Associate's Degree,6,,,10,0.5971,0.2432,82212.0000,-0.3539
+5205,Business/Corporate Communications.,Undergraduate Certificate or Diploma,22,,,10,0.5971,0.2432,82212.0000,-0.3539
+5219,"Specialized Sales, Merchandising and  Marketing Operations.",Associate's Degree,84,54729.0000,50147.0000,11,0.6030,0.2483,81506.0000,-0.3547
+5219,"Specialized Sales, Merchandising and  Marketing Operations.",Undergraduate Certificate or Diploma,76,33236.0000,31577.0000,11,0.6030,0.2483,81506.0000,-0.3547
+1109,Computer Systems Networking and Telecommunications.,Associate's Degree,374,57515.0000,56144.0000,10,0.6371,0.2760,106279.0000,-0.3611
+1109,Computer Systems Networking and Telecommunications.,Undergraduate Certificate or Diploma,463,52689.0000,51363.0000,10,0.6371,0.2760,106279.0000,-0.3611
+1104,Information Science/Studies.,Undergraduate Certificate or Diploma,88,66134.0000,62043.0000,7,0.6155,0.2534,106279.0000,-0.3621
+1104,Information Science/Studies.,Associate's Degree,108,60364.0000,56029.0000,7,0.6155,0.2534,106279.0000,-0.3621
+1101,"Computer and Information Sciences, General.",Associate's Degree,691,56211.0000,54344.0000,14,0.6287,0.2577,106279.0000,-0.3710
+1101,"Computer and Information Sciences, General.",Undergraduate Certificate or Diploma,628,53621.0000,51755.0000,14,0.6287,0.2577,106279.0000,-0.3710
+2313,Rhetoric and Composition/Writing Studies.,Undergraduate Certificate or Diploma,188,58063.0000,52737.0000,5,0.5989,0.2214,70729.0000,-0.3775
+2313,Rhetoric and Composition/Writing Studies.,Associate's Degree,74,44686.0000,42852.0000,5,0.5989,0.2214,70729.0000,-0.3775
+2200,Non-Professional Legal Studies.,Undergraduate Certificate or Diploma,49,97655.0000,87724.0000,1,0.5358,0.1577,58982.0000,-0.3781
+2200,Non-Professional Legal Studies.,Associate's Degree,98,45383.0000,44562.0000,1,0.5358,0.1577,58982.0000,-0.3781
+3008,Mathematics and Computer Science.,Associate's Degree,6,,,9,0.6116,0.2335,94285.0000,-0.3781
+3008,Mathematics and Computer Science.,Undergraduate Certificate or Diploma,5,,,9,0.6116,0.2335,94285.0000,-0.3781
+5216,Taxation.,Undergraduate Certificate or Diploma,44,65270.0000,62611.0000,5,0.6440,0.2576,80975.0000,-0.3864
+5216,Taxation.,Associate's Degree,6,,,5,0.6440,0.2576,80975.0000,-0.3864
+2703,Applied Mathematics.,Associate's Degree,3,,,12,0.6189,0.2257,94285.0000,-0.3932
+2703,Applied Mathematics.,Undergraduate Certificate or Diploma,20,,,12,0.6189,0.2257,94285.0000,-0.3932
+3030,Computational Science.,Associate's Degree,5,,,6,0.6401,0.2440,92373.0000,-0.3961
+3030,Computational Science.,Undergraduate Certificate or Diploma,11,,,6,0.6401,0.2440,92373.0000,-0.3961
+5208,Finance and Financial Management Services.,Associate's Degree,87,50352.0000,47601.0000,21,0.6148,0.2184,83748.0000,-0.3964
+5208,Finance and Financial Management Services.,Undergraduate Certificate or Diploma,184,52130.0000,40708.0000,21,0.6148,0.2184,83748.0000,-0.3964
+2799,"Mathematics and Statistics, Other.",Undergraduate Certificate or Diploma,8,,,5,0.6175,0.2199,94285.0000,-0.3976
+0910,Publishing.,Associate's Degree,1,,,1,0.5819,0.1772,69873.0000,-0.4047
+0910,Publishing.,Undergraduate Certificate or Diploma,11,,,1,0.5819,0.1772,69873.0000,-0.4047
+3070,Data Science.,Associate's Degree,24,,,7,0.6438,0.2328,106678.0000,-0.4110
+3070,Data Science.,Undergraduate Certificate or Diploma,46,,,7,0.6438,0.2328,106678.0000,-0.4110
+1102,Computer Programming.,Associate's Degree,387,60424.0000,58934.0000,7,0.6647,0.2421,101223.0000,-0.4225
+1102,Computer Programming.,Undergraduate Certificate or Diploma,452,57829.0000,54032.0000,7,0.6647,0.2421,101223.0000,-0.4225
+1110,Computer/Information Technology Administration and Management.,Associate's Degree,602,56943.0000,55489.0000,13,0.6763,0.2455,102512.0000,-0.4309
+1110,Computer/Information Technology Administration and Management.,Undergraduate Certificate or Diploma,777,51851.0000,49569.0000,13,0.6763,0.2455,102512.0000,-0.4309
+1107,Computer Science.,Associate's Degree,320,65421.0000,62749.0000,13,0.6651,0.2341,94285.0000,-0.4310
+1107,Computer Science.,Undergraduate Certificate or Diploma,92,55506.0000,44182.0000,13,0.6651,0.2341,94285.0000,-0.4310
+1108,Computer Software and Media Applications.,Associate's Degree,352,42684.0000,41685.0000,13,0.6638,0.2296,94285.0000,-0.4342
+1108,Computer Software and Media Applications.,Undergraduate Certificate or Diploma,481,43674.0000,40074.0000,13,0.6638,0.2296,94285.0000,-0.4342
+5203,Accounting and Related Services.,Associate's Degree,923,48920.0000,47347.0000,15,0.6517,0.1892,82146.0000,-0.4625
+5203,Accounting and Related Services.,Undergraduate Certificate or Diploma,945,45272.0000,43487.0000,15,0.6517,0.1892,82146.0000,-0.4625
+1106,Data Entry/Microcomputer Applications.,Associate's Degree,56,51272.0000,49471.0000,2,0.7345,0.2655,42303.0000,-0.4690
+1106,Data Entry/Microcomputer Applications.,Undergraduate Certificate or Diploma,115,42508.0000,40584.0000,2,0.7345,0.2655,42303.0000,-0.4690
+3071,Data Analytics.,Associate's Degree,19,,,8,0.6752,0.1911,101223.0000,-0.4841
+3071,Data Analytics.,Undergraduate Certificate or Diploma,74,,,8,0.6752,0.1911,101223.0000,-0.4841
+1105,Computer Systems Analysis.,Associate's Degree,29,63206.0000,59335.0000,6,0.6975,0.2121,88767.5000,-0.4854
+1105,Computer Systems Analysis.,Undergraduate Certificate or Diploma,51,56538.0000,55388.0000,6,0.6975,0.2121,88767.5000,-0.4854
+1513,Drafting/Design Engineering Technologies/Technicians.,Associate's Degree,413,57875.0000,56507.0000,3,0.6969,0.1225,63580.0000,-0.5744
+1513,Drafting/Design Engineering Technologies/Technicians.,Undergraduate Certificate or Diploma,522,55138.0000,54369.0000,3,0.6969,0.1225,63580.0000,-0.5744
+1103,Data Processing.,Associate's Degree,88,51045.0000,49783.0000,1,0.7280,0.1476,80628.0000,-0.5803
+1103,Data Processing.,Undergraduate Certificate or Diploma,108,47462.0000,45879.0000,1,0.7280,0.1476,80628.0000,-0.5803
+2203,Legal Support Services.,Undergraduate Certificate or Diploma,447,51672.0000,48967.0000,5,0.7567,0.1595,58982.0000,-0.5972
+2203,Legal Support Services.,Associate's Degree,516,46136.0000,44914.0000,5,0.7567,0.1595,58982.0000,-0.5972
+5204,Business Operations Support and Assistant Services.,Associate's Degree,651,38331.0000,37723.0000,18,0.7598,0.1621,46117.5000,-0.5977
+5204,Business Operations Support and Assistant Services.,Undergraduate Certificate or Diploma,854,33382.0000,32917.0000,18,0.7598,0.1621,46117.5000,-0.5977

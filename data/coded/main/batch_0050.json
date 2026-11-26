@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "22745",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surgical necessity and procedure choice"
+ },
+ {
+  "id": "22746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new surgical technique research"
+ },
+ {
+  "id": "22747",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "orthopedic diagnosis and treatment"
+ },
+ {
+  "id": "22748",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "musculoskeletal disorder care"
+ },
+ {
+  "id": "22749",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "surgical team members"
+ },
+ {
+  "id": "22750",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating room instruments sterility"
+ },
+ {
+  "id": "22751",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient exam and surgical risk"
+ },
+ {
+  "id": "22752",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surgical technique during operation"
+ },
+ {
+  "id": "22753",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surgery service planning and supplies"
+ },
+ {
+  "id": "22754",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient musculoskeletal surgery"
+ },
+ {
+  "id": "22755",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lab tests and imaging results"
+ },
+ {
+  "id": "22756",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient case histories"
+ },
+ {
+  "id": "22757",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pre and postoperative orders"
+ },
+ {
+  "id": "22758",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "colleague consultation and surgical assisting"
+ },
+ {
+  "id": "22759",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to specialists"
+ },
+ {
+  "id": "22760",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surgical necessity and procedure choice"
+ },
+ {
+  "id": "22761",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surgical technique research"
+ },
+ {
+  "id": "22762",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist consultation on surgery need"
+ },
+ {
+  "id": "22763",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment explanation to parents"
+ },
+ {
+  "id": "22764",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "surgical team members"
+ },
+ {
+  "id": "22765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "child examination and diagnosis"
+ },
+ {
+  "id": "22766",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating room instruments sterility"
+ },
+ {
+  "id": "22767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient exam and surgical risk"
+ },
+ {
+  "id": "22768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surgical technique during operation"
+ },
+ {
+  "id": "22769",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent communication about child surgery"
+ },
+ {
+  "id": "22770",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "preoperative test results"
+ },
+ {
+  "id": "22771",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "surgery service planning and supplies"
+ },
+ {
+  "id": "22772",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "postoperative recovery follow-up"
+ },
+ {
+  "id": "22773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pediatric patient surgery"
+ },
+ {
+  "id": "22774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pediatric organ transplant surgery"
+ },
+ {
+  "id": "22775",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient case histories"
+ },
+ {
+  "id": "22776",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "colleague consultation and surgical assisting"
+ },
+ {
+  "id": "22777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to specialists"
+ },
+ {
+  "id": "17356",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "herbal preparation formulas"
+ },
+ {
+  "id": "17357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clinic safety and infection procedures"
+ },
+ {
+  "id": "17358",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "care plan and prognosis records"
+ },
+ {
+  "id": "17359",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "herbal formula dispensing and dosing"
+ },
+ {
+  "id": "17360",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "Western medicine in health assessment"
+ },
+ {
+  "id": "17361",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legal compliance"
+ },
+ {
+  "id": "17362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient needle and cupping treatment"
+ },
+ {
+  "id": "17363",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient wellness education"
+ },
+ {
+  "id": "17364",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment outcomes and adjustments"
+ },
+ {
+  "id": "17365",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient appearance for diagnosis"
+ },
+ {
+  "id": "17366",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient health history"
+ },
+ {
+  "id": "17367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient moxibustion"
+ },
+ {
+  "id": "17368",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient heat or cold therapy"
+ },
+ {
+  "id": "17369",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physical findings for diagnosis"
+ },
+ {
+  "id": "17370",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "individual patient treatment plans"
+ },
+ {
+  "id": "17371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient acupressure and tuina"
+ },
+ {
+  "id": "17372",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient acupuncture needle insertion"
+ },
+ {
+  "id": "17373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "acupuncture point locations on patient"
+ },
+ {
+  "id": "18536",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medical histories"
+ },
+ {
+  "id": "18537",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "oral health services and education"
+ },
+ {
+  "id": "18538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental instruments and equipment"
+ },
+ {
+  "id": "18539",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient recall system"
+ },
+ {
+  "id": "23921",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education courses"
+ },
+ {
+  "id": "416",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tooth deposits and stains"
+ },
+ {
+  "id": "417",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient gums examination"
+ },
+ {
+  "id": "418",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "tooth decay and disease charting"
+ },
+ {
+  "id": "419",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient lymph nodes"
+ },
+ {
+  "id": "420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fluoride application to teeth"
+ },
+ {
+  "id": "421",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "gum pockets with probe"
+ },
+ {
+  "id": "422",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental x-ray film"
+ },
+ {
+  "id": "424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "excess cement on teeth"
+ },
+ {
+  "id": "425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental impressions for study casts"
+ },
+ {
+  "id": "427",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "local anesthetic to patients"
+ },
+ {
+  "id": "428",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community dental health clinics"
+ },
+ {
+  "id": "18405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient joint and soft tissue adjustments"
+ },
+ {
+  "id": "18406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional development activities"
+ },
+ {
+  "id": "18407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic imaging orders and referrals"
+ },
+ {
+  "id": "18408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient physical therapies"
+ },
+ {
+  "id": "18409",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "natural medicine prescriptions and dispensing"
+ },
+ {
+  "id": "18410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient physical examination"
+ },
+ {
+  "id": "18411",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient symptoms and health histories"
+ },
+ {
+  "id": "18412",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient health care management education"
+ },
+ {
+  "id": "18413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient exercise and nutrition advice"
+ },
+ {
+  "id": "18414",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient condition diagnosis"
+ },
+ {
+  "id": "18415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient blood sample collection"
+ },
+ {
+  "id": "18416",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "minor cuts and bruises"
+ },
+ {
+  "id": "18417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "synthetic drug prescriptions"
+ },
+ {
+  "id": "18418",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient history documentation"
+ },
+ {
+  "id": "18419",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "minor surgical procedures"
+ },
+ {
+  "id": "18420",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "consultation with other clinicians"
+ },
+ {
+  "id": "18421",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "health condition reports to agencies"
+ },
+ {
+  "id": "18422",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public health agency updates"
+ },
+ {
+  "id": "18423",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "immunizations and disease screenings"
+ },
+ {
+  "id": "18424",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "previous provider medical records"
+ },
+ {
+  "id": "18425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ophthalmic diagnostic procedure assistance"
+ },
+ {
+  "id": "18426",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "nonsurgical eye muscle treatments"
+ },
+ {
+  "id": "18427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nonsurgical eye treatment plans"
+ },
+ {
+  "id": "18428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vision and eye motor measurements"
+ },
+ {
+  "id": "18429",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient eye motility examination"
+ },
+ {
+  "id": "18430",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "binocular vision disorder care"
+ },
+ {
+  "id": "18431",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical and diagnostic test results"
+ },
+ {
+  "id": "18432",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient diagnosis and treatment instructions"
+ },
+ {
+  "id": "18433",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to physicians"
+ },
+ {
+  "id": "18434",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "child and disabled patient test techniques"
+ },
+ {
+  "id": "18435",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "specialist collaboration on eye conditions"
+ },
+ {
+  "id": "18436",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "diagnostic and treatment reports"
+ },
+ {
+  "id": "18437",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical research project work"
+ },
+ {
+  "id": "18438",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific papers and presentations"
+ },
+ {
+  "id": "18439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "child vision screening"
+ },
+ {
+  "id": "18440",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "orthoptics training for clinicians"
+ },
+ {
+  "id": "15232",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laboratory quality assurance programs"
+ },
+ {
+  "id": "15233",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "blood cell and type microscopy"
+ },
+ {
+  "id": "1886",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory result accuracy"
+ },
+ {
+  "id": "1887",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "body fluid chemical analysis"
+ },
+ {
+  "id": "1888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory analyzers and instruments"
+ },
+ {
+  "id": "1889",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test result data entry"
+ },
+ {
+  "id": "1890",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "biological sample chemical analysis"
+ },
+ {
+  "id": "1892",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory equipment setup and cleaning"
+ },
+ {
+  "id": "1893",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "test result information to clinicians"
+ },
+ {
+  "id": "1894",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "laboratory staff supervision and training"
+ },
+ {
+  "id": "1895",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laboratory test procedures development"
+ },
+ {
+  "id": "1896",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microbial organism cultures"
+ },
+ {
+  "id": "1898",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue slides cutting staining mounting"
+ },
+ {
+  "id": "1899",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell culture specimens and media"
+ },
+ {
+  "id": "1901",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell culture harvesting"
+ },
+ {
+  "id": "17374",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "trainee training programs"
+ },
+ {
+  "id": "17375",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slides for chromosome visibility"
+ },
+ {
+  "id": "17376",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test result summary reports"
+ },
+ {
+  "id": "17377",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell culture specimens and media"
+ },
+ {
+  "id": "17378",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "chromosome banding methods"
+ },
+ {
+  "id": "17379",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specimen collection and transport methods"
+ },
+ {
+  "id": "17380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell culture slides"
+ },
+ {
+  "id": "17381",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "culture media preparation methods"
+ },
+ {
+  "id": "17382",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell culture harvesting reagents"
+ },
+ {
+  "id": "17383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chromosome images from imaging systems"
+ },
+ {
+  "id": "17384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cell harvest timing and methods"
+ },
+ {
+  "id": "17385",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chromosome abnormalities in specimens"
+ },
+ {
+  "id": "17386",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "abnormal cell appearance"
+ },
+ {
+  "id": "17387",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "test results to clinicians and patients"
+ },
+ {
+  "id": "17388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biological specimens for chromosome examination"
+ },
+ {
+  "id": "17389",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chromosome counts on slides"
+ },
+ {
+  "id": "17390",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "karyotype chart chromosome pairs"
+ },
+ {
+  "id": "17391",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "chromosome analysis for genetic diagnosis"
+ },
+ {
+  "id": "17392",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specimen log entries"
+ },
+ {
+  "id": "17393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microscopes and darkroom equipment"
+ },
+ {
+  "id": "17394",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "laboratory staff supervision"
+ },
+ {
+  "id": "20565",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "culturing method choice by specimen"
+ },
+ {
+  "id": "20566",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cytogenetic results in ISCN notation"
+ },
+ {
+  "id": "20567",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "DNA extraction for array analysis"
+ },
+ {
+  "id": "20568",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "specimen processing log entries"
+ },
+ {
+  "id": "20569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specimen loading and instrument run"
+ },
+ {
+  "id": "20570",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laboratory quality control programs"
+ },
+ {
+  "id": "20571",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "received specimen suitability"
+ },
+ {
+  "id": "20572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "unacceptable specimen notices"
+ },
+ {
+  "id": "20573",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "case documentation archive"
+ },
+ {
+  "id": "17395",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cell sample abnormalities"
+ },
+ {
+  "id": "17396",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "specimen quality under microscope"
+ },
+ {
+  "id": "17397",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Pap smear and aspirate samples"
+ },
+ {
+  "id": "17398",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clinical data for pathology reports"
+ },
+ {
+  "id": "17399",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fine needle aspiration sample collection"
+ },
+ {
+  "id": "17400",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "specimens for hormonal abnormalities"
+ },
+ {
+  "id": "17401",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patient and specimen identity verification"
+ },
+ {
+  "id": "17402",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory collection and safety standards"
+ },
+ {
+  "id": "17404",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cell staining"
+ },
+ {
+  "id": "17405",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "abnormal slides referred to pathologists"
+ },
+ {
+  "id": "17406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "microscopes and laboratory equipment"
+ },
+ {
+  "id": "17407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laboratory task assignments"
+ },
+ {
+  "id": "17408",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "continuing education programs"
+ },
+ {
+  "id": "22778",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment maintenance and performance records"
+ },
+ {
+  "id": "22779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pathologist materials and slides"
+ },
+ {
+  "id": "22780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue sections with microtome"
+ },
+ {
+  "id": "22781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue paraffin embedding"
+ },
+ {
+  "id": "22782",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "slide preparation quality"
+ },
+ {
+  "id": "22783",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tissue structures and cell components"
+ },
+ {
+  "id": "22784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue processing equipment"
+ },
+ {
+  "id": "22785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electron microscopy and mass spectrometry"
+ },
+ {
+  "id": "22786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "histochemistry specimen preparation"
+ },
+ {
+  "id": "22787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physician-ordered laboratory tests"
+ },
+ {
+  "id": "22788",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue specimens for teaching or research"
+ },
+ {
+  "id": "22789",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reagents and stains"
+ },
+ {
+  "id": "22790",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory instrument problems"
+ },
+ {
+  "id": "22791",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue specimen staining"
+ },
+ {
+  "id": "22792",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "histology laboratory staff"
+ },
+ {
+  "id": "22793",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students and staff teaching"
+ },
+ {
+  "id": "18535",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory equipment setup and sterility"
+ },
+ {
+  "id": "1902",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "body fluid analyses and findings entry"
+ },
+ {
+  "id": "1904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test results conformity to specifications"
+ },
+ {
+  "id": "1905",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test data reports"
+ },
+ {
+  "id": "1906",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "medical disease research"
+ },
+ {
+  "id": "1907",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "transfusion blood tests and counts"
+ },
+ {
+  "id": "1908",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specimens and microorganism cultures"
+ },
+ {
+  "id": "1909",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stained cells for abnormalities"
+ },
+ {
+  "id": "1910",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient blood and tissue samples"
+ },
+ {
+  "id": "1911",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pathologist consultation on abnormal cells"
+ },
+ {
+  "id": "1914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technician and assistant supervision"
+ },
+ {
+  "id": "1915",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "volumetric solutions and reagents"
+ },
+ {
+  "id": "1917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material and product quality testing"
+ },
+ {
+  "id": "22794",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "histology slides and blocks archive"
+ },
+ {
+  "id": "22795",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue sections with microtome"
+ },
+ {
+  "id": "22796",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue paraffin embedding"
+ },
+ {
+  "id": "22797",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue specimen freezing"
+ },
+ {
+  "id": "22798",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "histology laboratory equipment"
+ },
+ {
+  "id": "22799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue mounting on slides"
+ },
+ {
+  "id": "22800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue processing equipment"
+ },
+ {
+  "id": "22801",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue specimen staining"
+ }
+]

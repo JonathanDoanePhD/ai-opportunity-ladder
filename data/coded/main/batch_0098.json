@@ -1,0 +1,1554 @@
+[
+ {
+  "id": "7150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "signal and alarm levers"
+ },
+ {
+  "id": "7151",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "vessel and crossing traffic log"
+ },
+ {
+  "id": "7152",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lock, dam, bridge machinery"
+ },
+ {
+  "id": "7153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "vessel movements in locks"
+ },
+ {
+  "id": "7154",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accident report documents"
+ },
+ {
+  "id": "7155",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "approaching vessels and whistle signals"
+ },
+ {
+  "id": "7156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "vessel positions in lock space"
+ },
+ {
+  "id": "7157",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "waterway boat traffic watch"
+ },
+ {
+  "id": "7158",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "canal and bridge equipment condition"
+ },
+ {
+  "id": "7159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bridge equipment upkeep"
+ },
+ {
+  "id": "7160",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water level and weather data"
+ },
+ {
+  "id": "7161",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance requisition forms"
+ },
+ {
+  "id": "7162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility grounds and surfaces"
+ },
+ {
+  "id": "7163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "bridge deck safety clearance"
+ },
+ {
+  "id": "7164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lock water level valves"
+ },
+ {
+  "id": "7165",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "road traffic and gates"
+ },
+ {
+  "id": "7166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drawbridge raising and lowering"
+ },
+ {
+  "id": "7169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel mooring lines"
+ },
+ {
+  "id": "20835",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "parking tickets and tags"
+ },
+ {
+  "id": "20836",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash drawer and tips"
+ },
+ {
+  "id": "20837",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "parking fees and complaints"
+ },
+ {
+  "id": "20838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers needing directions or wheelchairs"
+ },
+ {
+  "id": "20839",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergencies and stranded motorists"
+ },
+ {
+  "id": "3187",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customer vehicles retrieval"
+ },
+ {
+  "id": "3188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parking area tidiness"
+ },
+ {
+  "id": "3189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motorists entering parking"
+ },
+ {
+  "id": "3190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "parking area security patrol"
+ },
+ {
+  "id": "3191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customer automobiles"
+ },
+ {
+  "id": "3192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "arriving customers and car doors"
+ },
+ {
+  "id": "3195",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parking area barricades"
+ },
+ {
+  "id": "3196",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle exterior damage"
+ },
+ {
+  "id": "3198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers walking to cars"
+ },
+ {
+  "id": "3200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stored cars tires batteries exteriors"
+ },
+ {
+  "id": "10712",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer payments and receipts"
+ },
+ {
+  "id": "10713",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle fuel tanks"
+ },
+ {
+  "id": "10714",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel, oil, accessory sales reports"
+ },
+ {
+  "id": "10715",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lot, offices, restrooms cleaning"
+ },
+ {
+  "id": "10718",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "local road information for customers"
+ },
+ {
+  "id": "10719",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle brakes, plugs, oil"
+ },
+ {
+  "id": "10720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming store stock"
+ },
+ {
+  "id": "10721",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle tires"
+ },
+ {
+  "id": "10723",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer service reminder records"
+ },
+ {
+  "id": "10724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle joints and springs"
+ },
+ {
+  "id": "10725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vehicle accessories sales installation"
+ },
+ {
+  "id": "10726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle batteries"
+ },
+ {
+  "id": "20936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tire pressure and fluid levels"
+ },
+ {
+  "id": "20937",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle windshields"
+ },
+ {
+  "id": "23832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft surfaces de-icing"
+ },
+ {
+  "id": "23833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft fluids"
+ },
+ {
+  "id": "23834",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft cabin interiors"
+ },
+ {
+  "id": "23835",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft surfaces by ladder"
+ },
+ {
+  "id": "23836",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "task completion forms"
+ },
+ {
+  "id": "23837",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft exterior grease"
+ },
+ {
+  "id": "23838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft lavatory systems"
+ },
+ {
+  "id": "23839",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "taxiing aircraft positioning"
+ },
+ {
+  "id": "23840",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft component defects"
+ },
+ {
+  "id": "23841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "baggage and cargo"
+ },
+ {
+  "id": "23842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning solutions"
+ },
+ {
+  "id": "23843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft exteriors polish"
+ },
+ {
+  "id": "23844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flight dispatcher radio communication"
+ },
+ {
+  "id": "23845",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft water tanks"
+ },
+ {
+  "id": "23846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft fuel tanks"
+ },
+ {
+  "id": "23847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft exhaust stains"
+ },
+ {
+  "id": "23848",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft towing"
+ },
+ {
+  "id": "23849",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft exterior washing"
+ },
+ {
+  "id": "20938",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "road condition public information"
+ },
+ {
+  "id": "8630",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public traffic questions and complaints"
+ },
+ {
+  "id": "8631",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "signal installation drawings"
+ },
+ {
+  "id": "8632",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "traffic control system design"
+ },
+ {
+  "id": "8633",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic flow and accident data"
+ },
+ {
+  "id": "8634",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic system work orders"
+ },
+ {
+  "id": "8635",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lighting, signs, marking visibility"
+ },
+ {
+  "id": "8636",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "development sites traffic effects"
+ },
+ {
+  "id": "8637",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pavement striping layout"
+ },
+ {
+  "id": "8638",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle and pedestrian counts"
+ },
+ {
+  "id": "8639",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "traffic technicians supervision"
+ },
+ {
+  "id": "8640",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic count data coding"
+ },
+ {
+  "id": "8641",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automatic traffic counters"
+ },
+ {
+  "id": "8642",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle speed measurement"
+ },
+ {
+  "id": "8643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic delay observations"
+ },
+ {
+  "id": "8644",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event and construction permits"
+ },
+ {
+  "id": "8645",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic charts and graphs"
+ },
+ {
+  "id": "8646",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "street closure procedures"
+ },
+ {
+  "id": "8647",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "signal timing settings"
+ },
+ {
+  "id": "8648",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "work site permit compliance"
+ },
+ {
+  "id": "8649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traffic survey equipment repairs"
+ },
+ {
+  "id": "8650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stoplight timing"
+ },
+ {
+  "id": "8652",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "long-range parking strategy"
+ },
+ {
+  "id": "23850",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight shipment reports"
+ },
+ {
+  "id": "23851",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "freight bracing and blocking"
+ },
+ {
+  "id": "23852",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "freight condition problems"
+ },
+ {
+  "id": "23853",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dangerous cargo stowing technique"
+ },
+ {
+  "id": "23854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crew freight loading procedures"
+ },
+ {
+  "id": "23855",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "inspection violation remedies"
+ },
+ {
+  "id": "23856",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "loaded cargo safety compliance"
+ },
+ {
+  "id": "23857",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "special shipment treatment notices"
+ },
+ {
+  "id": "23858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew reloading and bracing"
+ },
+ {
+  "id": "23859",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "storage area temperature humidity"
+ },
+ {
+  "id": "23860",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cargo loading capacity documents"
+ },
+ {
+  "id": "23861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel draft markings"
+ },
+ {
+  "id": "23864",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous vehicle warning signs"
+ },
+ {
+  "id": "23865",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "load heights and widths"
+ },
+ {
+  "id": "23868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tonnage and stability calculations"
+ },
+ {
+  "id": "23869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vessel holds and tanks"
+ },
+ {
+  "id": "23870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "arriving cargo damage"
+ },
+ {
+  "id": "10728",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "aircraft mechanics' maintenance work"
+ },
+ {
+  "id": "10729",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft engine instruments"
+ },
+ {
+  "id": "10730",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft access plates and doors"
+ },
+ {
+  "id": "10731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "landing gear, fuselage, wings"
+ },
+ {
+  "id": "10732",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection and certification records"
+ },
+ {
+  "id": "10733",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "aircraft airworthiness"
+ },
+ {
+  "id": "10734",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance records and flight logs"
+ },
+ {
+  "id": "10735",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "aircraft equipment repair recommendations"
+ },
+ {
+  "id": "10736",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "aviation rules and standards"
+ },
+ {
+  "id": "10738",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "air accident causes"
+ },
+ {
+  "id": "10740",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "aircraft equipment flight tests"
+ },
+ {
+  "id": "10741",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "airworthiness certificates decision"
+ },
+ {
+  "id": "10742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "aircraft personnel competency exams"
+ },
+ {
+  "id": "14569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle damage or malfunction"
+ },
+ {
+  "id": "14570",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vehicle regulatory compliance"
+ },
+ {
+  "id": "14572",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle equipment diagnostic tests"
+ },
+ {
+  "id": "14573",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "completed vehicle repairs"
+ },
+ {
+  "id": "14574",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inspection investigation reports"
+ },
+ {
+  "id": "14575",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "infraction notices and corrective actions"
+ },
+ {
+  "id": "14576",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "safety violation complaints"
+ },
+ {
+  "id": "14577",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carrier rules and training programs"
+ },
+ {
+  "id": "14579",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "driver logs and shipping papers"
+ },
+ {
+  "id": "14580",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "delays, accidents, equipment failures"
+ },
+ {
+  "id": "19924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle OBD emissions port"
+ },
+ {
+  "id": "19926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "remote vehicle inspection devices"
+ },
+ {
+  "id": "19927",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "emission equipment and exhaust smoke"
+ },
+ {
+  "id": "19929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle system modifications"
+ },
+ {
+  "id": "13172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "elderly or injured boarding passengers"
+ },
+ {
+  "id": "13173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "passenger vehicle doors"
+ },
+ {
+  "id": "13174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "passenger questions and complaints"
+ },
+ {
+  "id": "13175",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "safety procedures demonstration"
+ },
+ {
+  "id": "13176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pre-departure equipment safety"
+ },
+ {
+  "id": "13177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "transport operator signals"
+ },
+ {
+  "id": "13178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tickets and passenger counts"
+ },
+ {
+  "id": "13179",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "boarding passengers and route announcements"
+ },
+ {
+  "id": "13182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "routes, gates, fares information"
+ },
+ {
+  "id": "13183",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger seating arrangements"
+ },
+ {
+  "id": "13184",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "window shades and seat cushions"
+ },
+ {
+  "id": "20841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "passenger seatbelts and wheelchair straps"
+ },
+ {
+  "id": "10744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor diverters and chutes"
+ },
+ {
+  "id": "10745",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material weights on scales"
+ },
+ {
+  "id": "10746",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "conveyor controls and valves"
+ },
+ {
+  "id": "10747",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production data and downtime"
+ },
+ {
+  "id": "10748",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment malfunction reports"
+ },
+ {
+  "id": "10749",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment and work stations cleaning"
+ },
+ {
+  "id": "10750",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "conveyor gauges and malfunctions"
+ },
+ {
+  "id": "10752",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production schedules and sorting procedures"
+ },
+ {
+  "id": "10753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor blades, rolls, pumps"
+ },
+ {
+  "id": "10754",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material movement requests"
+ },
+ {
+  "id": "10755",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor jams and damaged materials"
+ },
+ {
+  "id": "10756",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material and product samples"
+ },
+ {
+  "id": "10757",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor materials loading"
+ },
+ {
+  "id": "10759",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product identification labels"
+ },
+ {
+  "id": "10760",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work station supplies"
+ },
+ {
+  "id": "10761",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoses, nozzles, hoppers"
+ },
+ {
+  "id": "10764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "package sorting console"
+ },
+ {
+  "id": "10765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "conveyor frames and power units"
+ },
+ {
+  "id": "10766",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "strapping and battens on pallets"
+ },
+ {
+  "id": "21030",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "package defects on conveyors"
+ },
+ {
+  "id": "10767",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "load weights against capacity"
+ },
+ {
+  "id": "10768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crane lifting controls"
+ },
+ {
+  "id": "10769",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crane cables and grapples"
+ },
+ {
+  "id": "10770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crane cables and pulleys upkeep"
+ },
+ {
+  "id": "10771",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crane mechanisms and accessories"
+ },
+ {
+  "id": "10772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crane blocking and outrigging helpers"
+ },
+ {
+  "id": "10773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "truck bundles and containers"
+ },
+ {
+  "id": "10774",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bundle weights records"
+ },
+ {
+  "id": "10775",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery schedules and loading instructions"
+ },
+ {
+  "id": "10776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "truck drivers at loading bays"
+ },
+ {
+  "id": "10777",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bundle packaging conformance"
+ },
+ {
+  "id": "15177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dredge positioning levers"
+ },
+ {
+  "id": "15178",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dredge engines"
+ },
+ {
+  "id": "15179",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dredge winches and cables"
+ },
+ {
+  "id": "15180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery pipelines"
+ },
+ {
+  "id": "15181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excavation depth"
+ },
+ {
+  "id": "15182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dredge shore workers"
+ },
+ {
+  "id": "4979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hoist and winch drums"
+ },
+ {
+  "id": "4980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hoist engines and cable"
+ },
+ {
+  "id": "4981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "load positions and gauges"
+ },
+ {
+  "id": "4982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoists and winches"
+ },
+ {
+  "id": "4983",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoists, winches, loads"
+ },
+ {
+  "id": "4984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loads by weight and size"
+ },
+ {
+  "id": "4985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "material loading helpers"
+ },
+ {
+  "id": "4986",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables attached to loads"
+ },
+ {
+  "id": "4987",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hoist brakes and levers"
+ },
+ {
+  "id": "4988",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "winch drum cables"
+ },
+ {
+  "id": "4989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle-mounted derricks"
+ },
+ {
+  "id": "4990",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoist and winch equipment"
+ },
+ {
+  "id": "4991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jacks, slings, cables, blocks"
+ }
+]

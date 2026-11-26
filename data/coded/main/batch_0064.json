@@ -1,0 +1,1514 @@
+[
+ {
+  "id": "20137",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "resident educational programming"
+ },
+ {
+  "id": "20138",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "residence hall student staff"
+ },
+ {
+  "id": "20139",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "departmental budget"
+ },
+ {
+  "id": "6970",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dormitory rules and order"
+ },
+ {
+  "id": "6971",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "injured residents, medical help"
+ },
+ {
+  "id": "6972",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "conflicts between residents"
+ },
+ {
+  "id": "6973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "resident disciplinary actions"
+ },
+ {
+  "id": "6974",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff coordination on student problems"
+ },
+ {
+  "id": "6975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students' personal problems"
+ },
+ {
+  "id": "6976",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "dorm safety patrols"
+ },
+ {
+  "id": "6977",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student behavior observation"
+ },
+ {
+  "id": "6978",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "facility repair needs"
+ },
+ {
+  "id": "6979",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling programs with counselors"
+ },
+ {
+  "id": "6980",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "individual resident program plans"
+ },
+ {
+  "id": "6981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "unit meetings with residents"
+ },
+ {
+  "id": "6982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "resident recreational activities"
+ },
+ {
+  "id": "6983",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student room assignments"
+ },
+ {
+  "id": "6984",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student progress information"
+ },
+ {
+  "id": "6985",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "resident backgrounds from medical staff"
+ },
+ {
+  "id": "6986",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "telephone calls and messages"
+ },
+ {
+  "id": "6988",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "student housing contract cancellations"
+ },
+ {
+  "id": "6989",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming mail sorting"
+ },
+ {
+  "id": "6990",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "housekeeping staff activities"
+ },
+ {
+  "id": "6991",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility supply orders"
+ },
+ {
+  "id": "6992",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "students' housekeeping work"
+ },
+ {
+  "id": "6993",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "group trips and social events"
+ },
+ {
+  "id": "6994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "resident activity and supply reports"
+ },
+ {
+  "id": "6995",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "students at mealtimes"
+ },
+ {
+  "id": "6996",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "resident outings transportation"
+ },
+ {
+  "id": "6997",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "former residents' leftover items"
+ },
+ {
+  "id": "657",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customers' questions and complaints"
+ },
+ {
+  "id": "658",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "sales floor service quality"
+ },
+ {
+  "id": "659",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee duty assignments"
+ },
+ {
+  "id": "660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sales and service employees"
+ },
+ {
+  "id": "661",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stock levels and reordering"
+ },
+ {
+  "id": "662",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase and sales records"
+ },
+ {
+  "id": "663",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "store safety and security rules"
+ },
+ {
+  "id": "664",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received merchandise condition"
+ },
+ {
+  "id": "665",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales personnel hiring and training"
+ },
+ {
+  "id": "666",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shelves, displays, selling"
+ },
+ {
+  "id": "667",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department policies and goals"
+ },
+ {
+  "id": "668",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff handling difficult sales"
+ },
+ {
+  "id": "669",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchandise pricing policy"
+ },
+ {
+  "id": "670",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "consumer demand and stock"
+ },
+ {
+  "id": "671",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise pricing and display"
+ },
+ {
+  "id": "672",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules and time cards"
+ },
+ {
+  "id": "673",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and sales reports"
+ },
+ {
+  "id": "674",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "advertising campaigns and displays"
+ },
+ {
+  "id": "675",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales growth methods with officials"
+ },
+ {
+  "id": "676",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit policies and procedures"
+ },
+ {
+  "id": "677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets, payments, merchandise returns"
+ },
+ {
+  "id": "20266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales and service employees"
+ },
+ {
+  "id": "9660",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints"
+ },
+ {
+  "id": "9661",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales staff performance"
+ },
+ {
+  "id": "9662",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sales personnel hiring and training"
+ },
+ {
+  "id": "9663",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sales expansion methods with officials"
+ },
+ {
+  "id": "9665",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff on complicated duties"
+ },
+ {
+  "id": "9666",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work schedules and duty assignments"
+ },
+ {
+  "id": "9667",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "company meetings, department coordination"
+ },
+ {
+  "id": "9668",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales and inventory reports"
+ },
+ {
+  "id": "9669",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchandise pricing policy"
+ },
+ {
+  "id": "9670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise pricing and display"
+ },
+ {
+  "id": "9671",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales territory growth and quotas"
+ },
+ {
+  "id": "9672",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "retailers and sales representatives"
+ },
+ {
+  "id": "9673",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase, sales, requisition records"
+ },
+ {
+  "id": "9674",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "promotions, displays, advertising copy"
+ },
+ {
+  "id": "9675",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment rental and lease agreements"
+ },
+ {
+  "id": "9676",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stock levels and reordering"
+ },
+ {
+  "id": "9677",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received product condition"
+ },
+ {
+  "id": "18765",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer questions and complaints"
+ },
+ {
+  "id": "18766",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "checkout area cleaning"
+ },
+ {
+  "id": "18767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fitting rooms, bagging, carryout"
+ },
+ {
+  "id": "18768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "coworkers' on-the-job training"
+ },
+ {
+  "id": "21072",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customers seeking products"
+ },
+ {
+  "id": "21073",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incoming store phone calls"
+ },
+ {
+  "id": "21074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shelf stock and returned items"
+ },
+ {
+  "id": "2400",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer payments, cash and cards"
+ },
+ {
+  "id": "2401",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "receipts, refunds, change"
+ },
+ {
+  "id": "2402",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash drawer starting counts"
+ },
+ {
+  "id": "2403",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customers entering store"
+ },
+ {
+  "id": "2405",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "item prices and bills"
+ },
+ {
+  "id": "2406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "coupons and food stamps"
+ },
+ {
+  "id": "2408",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer questions about policies"
+ },
+ {
+  "id": "2409",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer check cashing"
+ },
+ {
+  "id": "2410",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "items sold by weight"
+ },
+ {
+  "id": "2411",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "period payments versus sales"
+ },
+ {
+  "id": "2412",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction totals"
+ },
+ {
+  "id": "2413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tickets and other items sold"
+ },
+ {
+  "id": "2414",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "periodic balance sheets"
+ },
+ {
+  "id": "2415",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise bagging and wrapping"
+ },
+ {
+  "id": "2416",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "currency and coins"
+ },
+ {
+  "id": "2417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "merchandise returns and exchanges"
+ },
+ {
+  "id": "2419",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "paging system requests"
+ },
+ {
+  "id": "2421",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "non-monetary reports and records"
+ },
+ {
+  "id": "2422",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "checkout cash levels and staffing"
+ },
+ {
+  "id": "2423",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "guest and patient account charges"
+ },
+ {
+  "id": "2424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer carry-out service"
+ },
+ {
+  "id": "21152",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "money, chips, tickets exchange"
+ },
+ {
+  "id": "21153",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "players' age identification"
+ },
+ {
+  "id": "21154",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "casino area cleaning"
+ },
+ {
+  "id": "6998",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash and money drawers"
+ },
+ {
+  "id": "6999",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "monetary exchange and authorization records"
+ },
+ {
+  "id": "7002",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "jackpot payoffs to winners"
+ },
+ {
+  "id": "7003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cage security"
+ },
+ {
+  "id": "7004",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "winner receipt signatures"
+ },
+ {
+  "id": "7005",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily transaction summaries"
+ },
+ {
+  "id": "7006",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "gambling chips and tickets"
+ },
+ {
+  "id": "7007",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "players' chip win and loss value"
+ },
+ {
+  "id": "7008",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "money banks for change persons"
+ },
+ {
+  "id": "7009",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit applications and references"
+ },
+ {
+  "id": "678",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "merchandise charges and payments"
+ },
+ {
+  "id": "679",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise display preparation"
+ },
+ {
+  "id": "680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer product and service advice"
+ },
+ {
+  "id": "681",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phone information and orders"
+ },
+ {
+  "id": "682",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer rental needs"
+ },
+ {
+  "id": "683",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction and customer-count records"
+ },
+ {
+  "id": "684",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rental forms and signatures"
+ },
+ {
+  "id": "685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "articles for alteration or repair"
+ },
+ {
+  "id": "686",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "rental items fit to customer"
+ },
+ {
+  "id": "687",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rental fees and policies"
+ },
+ {
+  "id": "688",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "item reservations and rental records"
+ },
+ {
+  "id": "689",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "service and rental orders"
+ },
+ {
+  "id": "690",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "rentals, services, returns"
+ },
+ {
+  "id": "691",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rental item information"
+ },
+ {
+  "id": "692",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "merchandise use and care"
+ },
+ {
+  "id": "693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment for event participants"
+ },
+ {
+  "id": "20775",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "customer part orders from stock"
+ },
+ {
+  "id": "20776",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer complaints, back-order updates"
+ },
+ {
+  "id": "20777",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts labeling and inventory"
+ },
+ {
+  "id": "20778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts pickup and delivery"
+ },
+ {
+  "id": "20779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work and inventory area cleaning"
+ },
+ {
+  "id": "20780",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping methods, costs, tracking"
+ },
+ {
+  "id": "2425",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "replacement part numbers and prices"
+ },
+ {
+  "id": "2426",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "required replacement parts"
+ },
+ {
+  "id": "2427",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "telephone parts orders"
+ },
+ {
+  "id": "2429",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales slips and contracts"
+ },
+ {
+  "id": "2430",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payment and credit authorization"
+ },
+ {
+  "id": "2432",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "substitute or modified parts advice"
+ },
+ {
+  "id": "2433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "returned parts defects and refunds"
+ },
+ {
+  "id": "2434",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts storage in stockrooms"
+ },
+ {
+  "id": "2435",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "parts features and use"
+ },
+ {
+  "id": "2436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment demonstrations for customers"
+ },
+ {
+  "id": "2437",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new merchandise displays"
+ },
+ {
+  "id": "2438",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts measured precisely"
+ },
+ {
+  "id": "2439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts and equipment repair"
+ },
+ {
+  "id": "694",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer wants and needs"
+ },
+ {
+  "id": "695",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash registers and drawers"
+ },
+ {
+  "id": "696",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales, policies, security knowledge"
+ },
+ {
+  "id": "697",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sales prices and payments"
+ },
+ {
+  "id": "698",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales records"
+ },
+ {
+  "id": "699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "store theft and security risks"
+ },
+ {
+  "id": "700",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "merchandise selection for customers"
+ },
+ {
+  "id": "701",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer questions about store"
+ },
+ {
+  "id": "702",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "merchandise use and care"
+ },
+ {
+  "id": "703",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise tickets and displays"
+ },
+ {
+  "id": "704",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales slips and contracts"
+ },
+ {
+  "id": "705",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "special orders, other stores"
+ },
+ {
+  "id": "706",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "merchandise demonstrations"
+ },
+ {
+  "id": "707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shelves, counters, tables"
+ },
+ {
+  "id": "708",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "merchandise exchanges and returns"
+ },
+ {
+  "id": "709",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "purchases bagging and gift wrapping"
+ },
+ {
+  "id": "710",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customers trying on merchandise"
+ },
+ {
+  "id": "711",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stock inventory and requisitions"
+ },
+ {
+  "id": "712",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "merchandise for purchase or rental"
+ },
+ {
+  "id": "713",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delivery, insurance, financing, service contracts"
+ },
+ {
+  "id": "714",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "trade-in allowance quotes"
+ },
+ {
+  "id": "715",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "repair or alteration cost"
+ },
+ {
+  "id": "716",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "merchandise quantity and cost"
+ },
+ {
+  "id": "717",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "merchandise rentals"
+ },
+ {
+  "id": "4579",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising sales presentations"
+ },
+ {
+  "id": "4580",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising benefits for customers"
+ },
+ {
+  "id": "4581",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advertising client accounts"
+ },
+ {
+  "id": "4582",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "account correspondence and paperwork"
+ },
+ {
+  "id": "4583",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising proofs for approval"
+ },
+ {
+  "id": "4584",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising contracts and payments"
+ },
+ {
+  "id": "4585",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "potential advertising clients"
+ },
+ {
+  "id": "4586",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising cost estimates"
+ },
+ {
+  "id": "4587",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertisement sizes and formats"
+ },
+ {
+  "id": "4588",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertisement artwork options and samples"
+ },
+ {
+  "id": "4589",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client products, needs, business practices"
+ },
+ {
+  "id": "4590",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "advertising medium and sample ads"
+ },
+ {
+  "id": "4591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "promotional plans with company staff"
+ },
+ {
+  "id": "4592",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "promotional plans, media kits, contracts"
+ },
+ {
+  "id": "4593",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new advertising markets and products"
+ },
+ {
+  "id": "4594",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advertising copy for layout"
+ },
+ {
+  "id": "4595",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "meetings, trade shows, networking"
+ },
+ {
+  "id": "4596",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bid materials and contract approval"
+ },
+ {
+  "id": "4597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "clients at commercial taping sessions"
+ },
+ {
+  "id": "4598",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales outlines for staff"
+ }
+]

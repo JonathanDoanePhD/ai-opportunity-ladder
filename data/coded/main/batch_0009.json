@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "20847",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring, training, facility oversight"
+ },
+ {
+  "id": "8932",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer key-contact relationships"
+ },
+ {
+  "id": "8933",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer needs and fulfillment"
+ },
+ {
+  "id": "8934",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "material and product allocation"
+ },
+ {
+  "id": "8935",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cross-department customer coordination"
+ },
+ {
+  "id": "8936",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "proprietary materials control"
+ },
+ {
+  "id": "8937",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer logistics performance reviews"
+ },
+ {
+  "id": "8938",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project plans and schedules"
+ },
+ {
+  "id": "8939",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "team priorities and assignments"
+ },
+ {
+  "id": "8940",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project progress reporting"
+ },
+ {
+  "id": "8941",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical source data analysis"
+ },
+ {
+  "id": "8942",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "solution proposals presented to customers"
+ },
+ {
+  "id": "8943",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "proposal estimate documentation"
+ },
+ {
+  "id": "8944",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance and repair planning"
+ },
+ {
+  "id": "8945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project management technical data"
+ },
+ {
+  "id": "8946",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design alternatives review"
+ },
+ {
+  "id": "8947",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training materials and manuals"
+ },
+ {
+  "id": "8948",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics technology awareness"
+ },
+ {
+  "id": "8949",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "goods movement redesign"
+ },
+ {
+  "id": "8950",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subcontractor management and liaison"
+ },
+ {
+  "id": "8951",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product lifecycle logistics"
+ },
+ {
+  "id": "8952",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lifecycle cost analysis"
+ },
+ {
+  "id": "15861",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "logistics solutions for customers"
+ },
+ {
+  "id": "15863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "staff interviews and facility tours"
+ },
+ {
+  "id": "15864",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "logistics analysts' work"
+ },
+ {
+  "id": "15865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "distribution center design"
+ },
+ {
+  "id": "15866",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and layout specifications"
+ },
+ {
+  "id": "15867",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contracts and customer specifications"
+ },
+ {
+  "id": "15868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics systems documentation"
+ },
+ {
+  "id": "15870",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "standard operating procedures"
+ },
+ {
+  "id": "15872",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost estimates and forecasts"
+ },
+ {
+  "id": "15873",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility modification feasibility"
+ },
+ {
+  "id": "15874",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics support requirements"
+ },
+ {
+  "id": "15875",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics studies and analyses"
+ },
+ {
+  "id": "15876",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics operational data"
+ },
+ {
+  "id": "15877",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics technology information"
+ },
+ {
+  "id": "15879",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "logistics process effectiveness"
+ },
+ {
+  "id": "15880",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics modeling techniques"
+ },
+ {
+  "id": "19995",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory tracking technology evaluation"
+ },
+ {
+  "id": "19996",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics metrics and KPIs"
+ },
+ {
+  "id": "19997",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics cost-reduction opportunities"
+ },
+ {
+  "id": "19998",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transport technology evaluation"
+ },
+ {
+  "id": "19999",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "logistics strategies, facility concepts"
+ },
+ {
+  "id": "20000",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supply chain design"
+ },
+ {
+  "id": "20001",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reverse logistics processes"
+ },
+ {
+  "id": "20002",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "logistics environmental audits"
+ },
+ {
+  "id": "20003",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "predictive logistics scenario models"
+ },
+ {
+  "id": "20004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics reports review"
+ },
+ {
+  "id": "20005",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental certification requirements"
+ },
+ {
+  "id": "20006",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility capacity planning analyses"
+ },
+ {
+  "id": "20007",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carbon-reduction procedures"
+ },
+ {
+  "id": "20008",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics energy efficiency assessment"
+ },
+ {
+  "id": "15881",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory reduction opportunities"
+ },
+ {
+  "id": "15882",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics industry trends"
+ },
+ {
+  "id": "15883",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics database entries"
+ },
+ {
+  "id": "15884",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vendor payment systems"
+ },
+ {
+  "id": "15885",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "packaging requirements"
+ },
+ {
+  "id": "15886",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight rate databases"
+ },
+ {
+  "id": "15887",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor material availability inquiries"
+ },
+ {
+  "id": "15888",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carrier rate and schedule inquiries"
+ },
+ {
+  "id": "15889",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "service provider communication monitoring"
+ },
+ {
+  "id": "15890",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product flow tracking"
+ },
+ {
+  "id": "15891",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics standard operating procedures"
+ },
+ {
+  "id": "15892",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "distribution procedure efficiency review"
+ },
+ {
+  "id": "15893",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics process improvement recommendations"
+ },
+ {
+  "id": "15894",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics cost and delivery analyses"
+ },
+ {
+  "id": "15895",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics performance reports"
+ },
+ {
+  "id": "15896",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics pricing structures"
+ },
+ {
+  "id": "15897",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "warehouse inventory transactions"
+ },
+ {
+  "id": "15898",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics information databases"
+ },
+ {
+  "id": "15899",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics records"
+ },
+ {
+  "id": "15900",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forecasting and cost models"
+ },
+ {
+  "id": "15901",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "logistics management team conferring"
+ },
+ {
+  "id": "15902",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery and inventory metrics"
+ },
+ {
+  "id": "15903",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics element data"
+ },
+ {
+  "id": "15904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics operations analytics"
+ },
+ {
+  "id": "15905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logistics data mining"
+ },
+ {
+  "id": "20009",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle and inventory flow"
+ },
+ {
+  "id": "20010",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping schedule consolidation"
+ },
+ {
+  "id": "20011",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "driver routes in real time"
+ },
+ {
+  "id": "20012",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "excess storage and transport capacity"
+ },
+ {
+  "id": "20013",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carrier and supplier environmental policies"
+ },
+ {
+  "id": "20014",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carbon-output data entry"
+ },
+ {
+  "id": "21462",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "duties assigned to project staff"
+ },
+ {
+  "id": "21463",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stakeholder project requirements"
+ },
+ {
+  "id": "21464",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project team problem solving"
+ },
+ {
+  "id": "21465",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project status presentations"
+ },
+ {
+  "id": "21466",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project plans"
+ },
+ {
+  "id": "21467",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project resource needs"
+ },
+ {
+  "id": "21468",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendor and consultant selection"
+ },
+ {
+  "id": "21469",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project staff costs"
+ },
+ {
+  "id": "21470",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project milestones and deliverables"
+ },
+ {
+  "id": "21471",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "team member performance feedback"
+ },
+ {
+  "id": "21472",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "resource negotiations with stakeholders"
+ },
+ {
+  "id": "21473",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project activity schedules"
+ },
+ {
+  "id": "21474",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budget and progress reports"
+ },
+ {
+  "id": "21475",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project documents distribution"
+ },
+ {
+  "id": "21476",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project plan modifications"
+ },
+ {
+  "id": "21477",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project personnel hiring"
+ },
+ {
+  "id": "21478",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project status reporting to managers"
+ },
+ {
+  "id": "21479",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project update requests and review"
+ },
+ {
+  "id": "21480",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project meetings scheduling"
+ },
+ {
+  "id": "21481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client deliverables quality assurance"
+ },
+ {
+  "id": "7276",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "information on organizational procedures"
+ },
+ {
+  "id": "7277",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "gathered problem data and solutions"
+ },
+ {
+  "id": "7278",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "newly implemented systems follow-up"
+ },
+ {
+  "id": "7279",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records management program"
+ },
+ {
+  "id": "7280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "forms and reports review"
+ },
+ {
+  "id": "7281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "personnel interviews and on-site observation"
+ },
+ {
+  "id": "7282",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study findings and recommendations"
+ },
+ {
+  "id": "7283",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker training and manuals"
+ },
+ {
+  "id": "7284",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "forms and reports changes"
+ },
+ {
+  "id": "7285",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work problem study plans"
+ },
+ {
+  "id": "7286",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "storage equipment and layout"
+ },
+ {
+  "id": "1209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer event objectives"
+ },
+ {
+  "id": "1210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "event activities compliance and satisfaction"
+ },
+ {
+  "id": "1211",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event site staff coordination"
+ },
+ {
+  "id": "1212",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event bill review"
+ },
+ {
+  "id": "1213",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event programs, agendas, budgets"
+ },
+ {
+  "id": "1214",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event services coordination"
+ },
+ {
+  "id": "1215",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event equipment arrangements"
+ },
+ {
+  "id": "1216",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "event facility inspection"
+ },
+ {
+  "id": "1217",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event financial records"
+ },
+ {
+  "id": "1218",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "post-event evaluation"
+ },
+ {
+  "id": "1219",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier contract negotiation"
+ },
+ {
+  "id": "1220",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sponsor and committee planning meetings"
+ },
+ {
+  "id": "1221",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event administrative details"
+ },
+ {
+  "id": "1222",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "service provider selection"
+ },
+ {
+  "id": "1223",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting industry trends"
+ },
+ {
+  "id": "1224",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event participant registration"
+ },
+ {
+  "id": "1225",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event publicity and sponsorships"
+ },
+ {
+  "id": "1226",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "event volunteers and staff"
+ },
+ {
+  "id": "1227",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "event permit applications"
+ },
+ {
+  "id": "1228",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "conference services promotion"
+ },
+ {
+  "id": "1229",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event topics and speakers"
+ },
+ {
+  "id": "18905",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community events donation solicitation"
+ },
+ {
+  "id": "18906",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "officials and leaders for awareness"
+ },
+ {
+  "id": "18907",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "donor databases"
+ },
+ {
+  "id": "18908",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising promotional materials"
+ },
+ {
+  "id": "18909",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "corporate fundraising programs"
+ },
+ {
+  "id": "18910",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising activity plans"
+ },
+ {
+  "id": "18911",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising campaigns and mailings"
+ },
+ {
+  "id": "18912",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "donor contribution strategies"
+ },
+ {
+  "id": "18913",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "web-based fundraising activities"
+ },
+ {
+  "id": "18914",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fundraising staff and volunteers"
+ },
+ {
+  "id": "18915",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fundraising goals"
+ },
+ {
+  "id": "18916",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "donor tax advantages"
+ },
+ {
+  "id": "18917",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "potential donor relationships"
+ },
+ {
+  "id": "18918",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fundraising budgets and expenses"
+ },
+ {
+  "id": "18919",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fundraising drive progress"
+ },
+ {
+  "id": "18920",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "special fundraising events"
+ },
+ {
+  "id": "18921",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sponsors and volunteers recruited"
+ },
+ {
+  "id": "18922",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "donor commitments"
+ },
+ {
+  "id": "18923",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "donations and sponsorships"
+ },
+ {
+  "id": "18924",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "promotional speeches and releases"
+ },
+ {
+  "id": "18925",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funder submission materials"
+ },
+ {
+  "id": "18926",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prospective donor background"
+ },
+ {
+  "id": "18927",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "event supplies and donations delivery"
+ },
+ {
+  "id": "18928",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "media contact lists"
+ },
+ {
+  "id": "18929",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "event gift bags and sheets"
+ },
+ {
+  "id": "18930",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "speakers for charitable events"
+ },
+ {
+  "id": "18931",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "donor thank-you letters"
+ },
+ {
+  "id": "18932",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fundraising data reports"
+ },
+ {
+  "id": "23985",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compensation programs"
+ },
+ {
+  "id": "3351",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "job positions classification and salary"
+ },
+ {
+  "id": "3352",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legal compliance and reporting"
+ },
+ {
+  "id": "3353",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "managers and employees on regulations"
+ },
+ {
+  "id": "3354",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "selection, evaluation, training methods"
+ },
+ {
+  "id": "3355",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "classification and salary complaints"
+ },
+ {
+  "id": "3356",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job descriptions and salary scales"
+ },
+ {
+  "id": "3357",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel records and handbooks"
+ },
+ {
+  "id": "3358",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job analysis summary reports"
+ },
+ {
+  "id": "3359",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee insurance and pension plans"
+ },
+ {
+  "id": "3360",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collective agreements and labor disputes"
+ },
+ {
+  "id": "3361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel and labor relations programs"
+ },
+ {
+  "id": "3362",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "multifactor cost analyses"
+ },
+ {
+  "id": "3363",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "benefit and safety practices"
+ },
+ {
+  "id": "3364",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "organizational and occupational data"
+ },
+ {
+  "id": "3365",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff qualifications advice"
+ },
+ {
+  "id": "3366",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job analysis instruments"
+ },
+ {
+  "id": "3368",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job requirements and occupational trends"
+ },
+ {
+  "id": "3369",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "training curricula and sessions"
+ },
+ {
+  "id": "3370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "employee interviews and focus groups"
+ },
+ {
+  "id": "3371",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "liaison between industry, government, unions"
+ },
+ {
+  "id": "3372",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research results for publication"
+ }
+]

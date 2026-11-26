@@ -1,0 +1,1578 @@
+[
+{
+"id": "20143",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "road work zone traffic"
+},
+{
+"id": "4796",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "paving machine controls"
+},
+{
+"id": "4797",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "paving equipment upkeep"
+},
+{
+"id": "4798",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "road bed paving material"
+},
+{
+"id": "4799",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "road surfacing vehicles"
+},
+{
+"id": "4800",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "dump truck positioning"
+},
+{
+"id": "4801",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "paving equipment setup"
+},
+{
+"id": "4802",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "road fill compaction"
+},
+{
+"id": "4803",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "hot blacktop"
+},
+{
+"id": "4804",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine transport driving"
+},
+{
+"id": "4805",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "paving material distribution"
+},
+{
+"id": "4806",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "screed heating settings"
+},
+{
+"id": "4807",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "asphalt flow to hoppers"
+},
+{
+"id": "4808",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "curb forms and guidelines"
+},
+{
+"id": "4809",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "paving machine hoppers"
+},
+{
+"id": "4810",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "curb extrusion machine"
+},
+{
+"id": "4811",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pavement breaking, guardrail posts"
+},
+{
+"id": "4812",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "screed attachments"
+},
+{
+"id": "4813",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pavement joints and cracks"
+},
+{
+"id": "4814",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "joint filler material"
+},
+{
+"id": "14901",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pile hoisting equipment"
+},
+{
+"id": "14902",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment pre-operation checks"
+},
+{
+"id": "14903",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "structural support pilings"
+},
+{
+"id": "14904",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pile hammer controls"
+},
+{
+"id": "14905",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pile driver servicing"
+},
+{
+"id": "9849",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "safety regulations learning"
+},
+{
+"id": "9850",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "site hazards and obstructions"
+},
+{
+"id": "9851",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment attachment controls"
+},
+{
+"id": "9852",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "earthmoving machine operation"
+},
+{
+"id": "9853",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "underground utility locations"
+},
+{
+"id": "9854",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 2,
+"notes": "site safety standards"
+},
+{
+"id": "9855",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "machine alignment to stakes"
+},
+{
+"id": "9856",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "earth and materials moving"
+},
+{
+"id": "9857",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "land clearing and grading"
+},
+{
+"id": "9858",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "machine and crew signals"
+},
+{
+"id": "9859",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "bulldozer site work"
+},
+{
+"id": "9860",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "construction equipment repair"
+},
+{
+"id": "9861",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "site fuel supplies"
+},
+{
+"id": "9862",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tractor hoses and linkages"
+},
+{
+"id": "9863",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "loader site clearing"
+},
+{
+"id": "9864",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "bulldozer blade attachments"
+},
+{
+"id": "9865",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "confined space air"
+},
+{
+"id": "9866",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "refuse compaction equipment"
+},
+{
+"id": "9867",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "client work requirements"
+},
+{
+"id": "9868",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "tractor operator guidance"
+},
+{
+"id": "9869",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "road watering and sealing"
+},
+{
+"id": "9871",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment push assistance"
+},
+{
+"id": "9872",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "material usage records"
+},
+{
+"id": "9873",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "equipment transport trucks"
+},
+{
+"id": "9874",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "compressor and pump valves"
+},
+{
+"id": "9875",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "debris and snow removal"
+},
+{
+"id": "13503",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 2,
+"notes": "wall layout marking"
+},
+{
+"id": "13504",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "blueprint installation specifications"
+},
+{
+"id": "13505",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallboard on frameworks"
+},
+{
+"id": "13506",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ceiling molding guide lines"
+},
+{
+"id": "13507",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "panel fixture openings"
+},
+{
+"id": "13508",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "drywall panels on frames"
+},
+{
+"id": "13509",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "window and door framing trim"
+},
+{
+"id": "13510",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "drywall finisher work coordination"
+},
+{
+"id": "13511",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallboard rough edges"
+},
+{
+"id": "13512",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal channel ceiling frames"
+},
+{
+"id": "13513",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "furring and mounting surfaces"
+},
+{
+"id": "13514",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "border ceiling tiles"
+},
+{
+"id": "13515",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "framing and trim pieces"
+},
+{
+"id": "13516",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall studs for wallboard"
+},
+{
+"id": "13517",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tile edges at walls"
+},
+{
+"id": "13518",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "lath on framework"
+},
+{
+"id": "13519",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ceiling suspended grids"
+},
+{
+"id": "13520",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ceiling tile joints"
+},
+{
+"id": "13521",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tile mounting on framework"
+},
+{
+"id": "13522",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stud insulation and barriers"
+},
+{
+"id": "13523",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "exterior metal lath"
+},
+{
+"id": "13524",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tile adhesive and placement"
+},
+{
+"id": "13525",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "tile mounting furring strips"
+},
+{
+"id": "13526",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "concrete surface washing"
+},
+{
+"id": "13527",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "acoustical wall and ceiling tile"
+},
+{
+"id": "13528",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "old plaster and drywall"
+},
+{
+"id": "13529",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "excess joint compound"
+},
+{
+"id": "13530",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "board seam sealing compound"
+},
+{
+"id": "13531",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "joint tape embedding"
+},
+{
+"id": "13532",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sealing compound mixing"
+},
+{
+"id": "13533",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cement over tape"
+},
+{
+"id": "13534",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallboard joint sealing"
+},
+{
+"id": "13535",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallboard nicks and cracks"
+},
+{
+"id": "13536",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mechanical taping applicators"
+},
+{
+"id": "13537",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "hole filling coats"
+},
+{
+"id": "13538",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "corner metal molding"
+},
+{
+"id": "13539",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "dried compound rough spots"
+},
+{
+"id": "13540",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "nails and screws countersinking"
+},
+{
+"id": "13541",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "sealing compound and tape choice"
+},
+{
+"id": "13542",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall texture and primer"
+},
+{
+"id": "13543",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 1,
+"notes": "adhesive durability checks"
+},
+{
+"id": "20788",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "high ceiling work"
+},
+{
+"id": "20439",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "electrical parts fabrication"
+},
+{
+"id": "2873",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "electrical wiring and fixtures"
+},
+{
+"id": "2874",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 2,
+"notes": "malfunctioning electrical systems"
+},
+{
+"id": "2875",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "breaker and transformer wiring"
+},
+{
+"id": "2876",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 2,
+"notes": "electrical system hazards and codes"
+},
+{
+"id": "2877",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "equipment hazard advice to management"
+},
+{
+"id": "2878",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "circuit continuity testing"
+},
+{
+"id": "2879",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "electrician license renewal"
+},
+{
+"id": "2880",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "wiring layout and codes"
+},
+{
+"id": "2881",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "worker direction and training"
+},
+{
+"id": "2882",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "wiring location sketches"
+},
+{
+"id": "2883",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "electrical tools and equipment"
+},
+{
+"id": "2884",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "ground leads and motor power"
+},
+{
+"id": "2885",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "business records and supplies"
+},
+{
+"id": "2886",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "faulty wiring and fixtures"
+},
+{
+"id": "2887",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "elevated electrical work"
+},
+{
+"id": "2888",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "conduit and wire pulling"
+},
+{
+"id": "2890",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "switch and outlet boxes"
+},
+{
+"id": "2891",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "trenches and heavy lifting"
+},
+{
+"id": "2892",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "preliminary job cost estimates"
+},
+{
+"id": "2893",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "emergency floodlights and generators"
+},
+{
+"id": "11484",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "glass specifications from blueprints"
+},
+{
+"id": "11485",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall and ceiling plumb"
+},
+{
+"id": "11486",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "metal sashes and moldings"
+},
+{
+"id": "11487",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mirror and area dimensions"
+},
+{
+"id": "11488",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass panes in frames"
+},
+{
+"id": "11489",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mirror mounting"
+},
+{
+"id": "11490",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass in buildings and products"
+},
+{
+"id": "11491",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "broken glass removal"
+},
+{
+"id": "11492",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass doors and hardware"
+},
+{
+"id": "11493",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass scoring and breaking"
+},
+{
+"id": "11494",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass enclosures and structures"
+},
+{
+"id": "11495",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass delivery driving"
+},
+{
+"id": "11496",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "preassembled window frameworks"
+},
+{
+"id": "11497",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "mirror mounting strips"
+},
+{
+"id": "11498",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "scaffolds and hoisting rigging"
+},
+{
+"id": "11499",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass loading onto trucks"
+},
+{
+"id": "11500",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass cutting outlines"
+},
+{
+"id": "11501",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass edge grinding"
+},
+{
+"id": "11502",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass cutting preparation"
+},
+{
+"id": "11503",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glazing compound sealing"
+},
+{
+"id": "11504",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "suction cup cranes"
+},
+{
+"id": "11505",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "customer project requirements and quotes"
+},
+{
+"id": "11506",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "glass type specification"
+},
+{
+"id": "11507",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "furniture and floor covering"
+},
+{
+"id": "11508",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stained glass sections"
+},
+{
+"id": "11509",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glare film on glass"
+},
+{
+"id": "11510",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "glass etched designs"
+},
+{
+"id": "13544",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "insulation choice from blueprints"
+},
+{
+"id": "13545",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulation cutting"
+},
+{
+"id": "13546",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "structure insulation lining"
+},
+{
+"id": "13547",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulating material fastening"
+},
+{
+"id": "13548",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulated surface sealing"
+},
+{
+"id": "13549",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "blown insulation in cavities"
+},
+{
+"id": "13550",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "blower hoppers"
+},
+{
+"id": "13551",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulation blower controls"
+},
+{
+"id": "13552",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface preparation for insulation"
+},
+{
+"id": "13553",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "old asbestos insulation"
+},
+{
+"id": "13554",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulation cutting"
+},
+{
+"id": "13555",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulation around obstructions"
+},
+{
+"id": "13556",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 1,
+"notes": "insulation amounts and methods"
+},
+{
+"id": "13557",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "sheet metal pipe covers"
+},
+{
+"id": "13558",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "industrial equipment insulation"
+},
+{
+"id": "13559",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "insulation material selection"
+},
+{
+"id": "13560",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "blueprint job requirements"
+},
+{
+"id": "13561",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "insulated surface sealing"
+},
+{
+"id": "13562",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface preparation for insulation"
+},
+{
+"id": "11511",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface protection coverings"
+},
+{
+"id": "11512",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cracks and holes filling"
+},
+{
+"id": "11513",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "primer on new surfaces"
+},
+{
+"id": "11514",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "paint on structures"
+},
+{
+"id": "11515",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "paint quantities and costs"
+},
+{
+"id": "11516",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "work orders and instructions"
+},
+{
+"id": "11517",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "scaffolding and ladders"
+},
+{
+"id": "11518",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall fixtures removal"
+},
+{
+"id": "11519",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface washing and sanding"
+},
+{
+"id": "11520",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "paint color mixing"
+},
+{
+"id": "11521",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "old finish stripping"
+},
+{
+"id": "11522",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "painting tools and finishes"
+},
+{
+"id": "11523",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface smoothing"
+},
+{
+"id": "11524",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "final coat polishing"
+},
+{
+"id": "11525",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "decorative finishing techniques"
+},
+{
+"id": "11526",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "building waterproofing"
+},
+{
+"id": "11527",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "stencil lettering on surfaces"
+},
+{
+"id": "14906",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper strips smoothing"
+},
+{
+"id": "14907",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper rough edges"
+},
+{
+"id": "14908",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper excess at ceilings"
+},
+{
+"id": "14909",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallcovering alignment and seams"
+},
+{
+"id": "14910",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall guidelines"
+},
+{
+"id": "14911",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "room wallcoverings"
+},
+{
+"id": "14912",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper adhesive"
+},
+{
+"id": "14913",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper strips"
+},
+{
+"id": "14914",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper strip placement"
+},
+{
+"id": "14915",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall holes and cracks"
+},
+{
+"id": "14916",
+"ai_alone": 3,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "wallpaper material quantities"
+},
+{
+"id": "14917",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface sizing"
+},
+{
+"id": "14918",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wall and ceiling rough spots"
+},
+{
+"id": "14919",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "pasteboards and scaffolds"
+},
+{
+"id": "14920",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "old wallpaper removal"
+},
+{
+"id": "14921",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "porous surface glue"
+},
+{
+"id": "14922",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "wallpaper paste"
+},
+{
+"id": "14923",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "advertising posters"
+},
+{
+"id": "14924",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "surface paint and grease"
+},
+{
+"id": "14925",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "plaster lime bleeding"
+}
+]

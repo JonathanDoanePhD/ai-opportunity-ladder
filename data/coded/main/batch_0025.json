@@ -1,0 +1,1458 @@
+[
+ {
+  "id": "1505",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "compound samples analyzed with instruments"
+ },
+ {
+  "id": "1506",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "products, formulas, processes, analytical methods"
+ },
+ {
+  "id": "1507",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test data on process efficiency"
+ },
+ {
+  "id": "1508",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "colleague consultations on research results"
+ },
+ {
+  "id": "1509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "lab personnel test procedures"
+ },
+ {
+  "id": "1510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "substances altered by heat or catalysts"
+ },
+ {
+  "id": "1511",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical papers and process specifications"
+ },
+ {
+  "id": "1513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory test solutions and reagents"
+ },
+ {
+  "id": "18474",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory instrument maintenance and repair"
+ },
+ {
+  "id": "18475",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "quality control laboratory tests"
+ },
+ {
+  "id": "20388",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "laboratory safety procedures compliance"
+ },
+ {
+  "id": "20389",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory supply reordering"
+ },
+ {
+  "id": "20213",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "metal alloy experiments and modeling"
+ },
+ {
+  "id": "20214",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reports, manuscripts, proposals for sponsors"
+ },
+ {
+  "id": "20215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production process supervision"
+ },
+ {
+  "id": "21175",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "journal research papers"
+ },
+ {
+  "id": "9085",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "laboratory feasibility experiment plans"
+ },
+ {
+  "id": "9086",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer material requirements"
+ },
+ {
+  "id": "9087",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material structure and property research"
+ },
+ {
+  "id": "9089",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material testing methods"
+ },
+ {
+  "id": "9090",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new material property development"
+ },
+ {
+  "id": "9091",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "material recommendations for environments"
+ },
+ {
+  "id": "9092",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "parts tested against quality standards"
+ },
+ {
+  "id": "9093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "supplier and user site visits"
+ },
+ {
+  "id": "9094",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ceramic processing and firing methods"
+ },
+ {
+  "id": "9097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material samples under mechanical stress"
+ },
+ {
+  "id": "9098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal specification conformance tests"
+ },
+ {
+  "id": "9099",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "university students in classroom"
+ },
+ {
+  "id": "1514",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental audits and violation investigations"
+ },
+ {
+  "id": "1515",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "violations and regulatory action decisions"
+ },
+ {
+  "id": "1517",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental standards and regulations"
+ },
+ {
+  "id": "1519",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental standards and policy advice"
+ },
+ {
+  "id": "1520",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental data validity and correlations"
+ },
+ {
+  "id": "15218",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "environmental measurements and samples data"
+ },
+ {
+  "id": "15219",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "scientific information to audiences"
+ },
+ {
+  "id": "1522",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research data collection methods"
+ },
+ {
+  "id": "15220",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "agencies and programs technical guidance"
+ },
+ {
+  "id": "15221",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental permits and licenses"
+ },
+ {
+  "id": "15222",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "students and technicians training"
+ },
+ {
+  "id": "15223",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "waste and pollution applied research"
+ },
+ {
+  "id": "1523",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "charts from environmental data"
+ },
+ {
+  "id": "1524",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical sections of legal orders"
+ },
+ {
+  "id": "1525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental accidents investigation reports"
+ },
+ {
+  "id": "1526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental impacts of development"
+ },
+ {
+  "id": "1528",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "land use programs"
+ },
+ {
+  "id": "1529",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pollution sources and effects"
+ },
+ {
+  "id": "1530",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "pollution and land degradation effects"
+ },
+ {
+  "id": "1531",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "technical studies for planned projects"
+ },
+ {
+  "id": "1533",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "industrial production environmental impact reduction"
+ },
+ {
+  "id": "1534",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research models using statistics"
+ },
+ {
+  "id": "16841",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate study reports and papers"
+ },
+ {
+  "id": "16842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "climate initiatives with government groups"
+ },
+ {
+  "id": "16843",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "climate information at meetings"
+ },
+ {
+  "id": "16844",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "climate research proposals defended"
+ },
+ {
+  "id": "16845",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "climate program grant applications"
+ },
+ {
+  "id": "16846",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate studies from agencies"
+ },
+ {
+  "id": "16847",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental outreach and education programs"
+ },
+ {
+  "id": "16848",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "policies and legislation environmental impacts"
+ },
+ {
+  "id": "16849",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "policy briefs on energy and climate"
+ },
+ {
+  "id": "16850",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "memoranda and briefs on environmental issues"
+ },
+ {
+  "id": "16851",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "legislative climate recommendations"
+ },
+ {
+  "id": "16852",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate management policies and procedures"
+ },
+ {
+  "id": "16853",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fuel and transport climate policies"
+ },
+ {
+  "id": "16854",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "climate research findings for stakeholders"
+ },
+ {
+  "id": "16855",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "agency notices of remediation deviations"
+ },
+ {
+  "id": "16856",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "restoration schedules and budgets"
+ },
+ {
+  "id": "16857",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "landowner restoration recommendations"
+ },
+ {
+  "id": "16858",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remediation planning diagrams"
+ },
+ {
+  "id": "16859",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remediation project permit applications"
+ },
+ {
+  "id": "16860",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "existing remediation designs"
+ },
+ {
+  "id": "16861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "field habitat restoration employees"
+ },
+ {
+  "id": "16862",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical direction to professionals"
+ },
+ {
+  "id": "16863",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "environmental compliance studies"
+ },
+ {
+  "id": "16864",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "active remediation sites inspection"
+ },
+ {
+  "id": "16865",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "restoration projects using planning software"
+ },
+ {
+  "id": "16866",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "remediation activity impacts"
+ },
+ {
+  "id": "16867",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mitigation alternatives and regulatory compliance"
+ },
+ {
+  "id": "16868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "GIS-based ecosystem models"
+ },
+ {
+  "id": "16869",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "remediation feasibility and cost-benefit"
+ },
+ {
+  "id": "16870",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "ecological effects of pollutants and activities"
+ },
+ {
+  "id": "16871",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study findings to restoration professionals"
+ },
+ {
+  "id": "16872",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental condition data and needs"
+ },
+ {
+  "id": "16873",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "natural resource management plans"
+ },
+ {
+  "id": "16874",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "restoration plans for energy facilities"
+ },
+ {
+  "id": "16875",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "habitat restoration and weed control plans"
+ },
+ {
+  "id": "16876",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "habitat sites assessed for damage"
+ },
+ {
+  "id": "23907",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "restoration project grant proposals"
+ },
+ {
+  "id": "16879",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental accidents ecological impact"
+ },
+ {
+  "id": "16880",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "species adaptability to environmental change"
+ },
+ {
+  "id": "16881",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "industrial practices environmental hazards"
+ },
+ {
+  "id": "16882",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pollution sources and abatement"
+ },
+ {
+  "id": "16883",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental compliance materials for managers"
+ },
+ {
+  "id": "16884",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial change ecological implications"
+ },
+ {
+  "id": "16885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field research on industrial ecology"
+ },
+ {
+  "id": "16886",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pollution and land degradation impacts"
+ },
+ {
+  "id": "16888",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "industrial process impact minimization strategies"
+ },
+ {
+  "id": "16889",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "land management effects on ecosystems"
+ },
+ {
+  "id": "16890",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ecosystem monitoring protocols"
+ },
+ {
+  "id": "16891",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ecological system mathematical models"
+ },
+ {
+  "id": "16892",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "habitat protection and restoration projects"
+ },
+ {
+  "id": "16893",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "environmental assessments to standards"
+ },
+ {
+  "id": "16894",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental information databases"
+ },
+ {
+  "id": "16895",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ecosystem condition forecasts"
+ },
+ {
+  "id": "16896",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial effects on species restoration"
+ },
+ {
+  "id": "19963",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "methods protecting environment from production"
+ },
+ {
+  "id": "19964",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alternative energy investment scenarios"
+ },
+ {
+  "id": "19965",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental performance changes of systems"
+ },
+ {
+  "id": "19966",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ecosystem research applied to industry"
+ },
+ {
+  "id": "19967",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "energy work limits of systems"
+ },
+ {
+  "id": "19968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material flow sustainability assessments"
+ },
+ {
+  "id": "19969",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "industrial ecology program effectiveness statistics"
+ },
+ {
+  "id": "19970",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material and energy flows in production"
+ },
+ {
+  "id": "19971",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "societal issues and technical systems"
+ },
+ {
+  "id": "19972",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental impacts of products and projects"
+ },
+ {
+  "id": "19973",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industrial, social, natural system relationships"
+ },
+ {
+  "id": "19974",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainable industrial and waste alternatives"
+ },
+ {
+  "id": "19975",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "human behavior and environment interaction"
+ },
+ {
+  "id": "19976",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmentally extended input-output analyses"
+ },
+ {
+  "id": "19977",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "renewable resource management plans"
+ },
+ {
+  "id": "19978",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental impact reports and communication"
+ },
+ {
+  "id": "19979",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "environmental management systems promotion"
+ },
+ {
+  "id": "19980",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "linear systems redesigned as closed-loop"
+ },
+ {
+  "id": "19981",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "land and water use effects"
+ },
+ {
+  "id": "19982",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industrial ecology research literature"
+ },
+ {
+  "id": "19983",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "industrial ecology theory into practice"
+ },
+ {
+  "id": "15224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geological data with software"
+ },
+ {
+  "id": "15226",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mine maps, structure, crews"
+ },
+ {
+  "id": "19760",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "health problems from geological materials"
+ },
+ {
+  "id": "19761",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "methane hydrates energy production"
+ },
+ {
+  "id": "19762",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mineral dust dispersion mitigation"
+ },
+ {
+  "id": "19763",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "resource extraction and reclamation strategies"
+ },
+ {
+  "id": "19764",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "waste gases from oil production"
+ },
+ {
+  "id": "19765",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "platinum group element sources"
+ },
+ {
+  "id": "19766",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "carbon sequestration sites"
+ },
+ {
+  "id": "19767",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "geothermal energy sources"
+ },
+ {
+  "id": "19768",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nuclear siting and waste advice"
+ },
+ {
+  "id": "19769",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "carbon sequestration geochemical processes"
+ },
+ {
+  "id": "19770",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "megacity ecological footprint research"
+ },
+ {
+  "id": "19771",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contamination mitigation work plans"
+ },
+ {
+  "id": "19772",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "historical climate indicators and models"
+ },
+ {
+  "id": "20390",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research articles and technical reports"
+ },
+ {
+  "id": "20391",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "natural disaster risks"
+ },
+ {
+  "id": "20392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "construction projects engineering problems"
+ },
+ {
+  "id": "20393",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction material deposits"
+ },
+ {
+  "id": "21176",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reports and publications for accuracy"
+ },
+ {
+  "id": "3702",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geological survey and well data"
+ },
+ {
+  "id": "3703",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "geological field surveys and sampling"
+ },
+ {
+  "id": "3704",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crust soils, minerals, rocks, fossils"
+ },
+ {
+  "id": "3705",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "geological maps and reports"
+ },
+ {
+  "id": "3706",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "oil, gas, ore, water deposits"
+ },
+ {
+  "id": "3707",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "groundwater movement advice"
+ },
+ {
+  "id": "3709",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "geological studies for development"
+ },
+ {
+  "id": "3711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "construction and land use advice"
+ },
+ {
+  "id": "3712",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "geological findings papers and teaching"
+ },
+ {
+  "id": "3713",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Earth gravity and magnetic measurements"
+ },
+ {
+  "id": "3714",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rocks, soil, diamonds characteristics testing"
+ },
+ {
+  "id": "3716",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geological analysis software"
+ },
+ {
+  "id": "18617",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrologic prediction computer models"
+ },
+ {
+  "id": "18618",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hydrology research reports"
+ },
+ {
+  "id": "9100",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "groundwater and surface water quantities"
+ },
+ {
+  "id": "9102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "professional and technical staff"
+ },
+ {
+  "id": "9103",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hazardous waste site hydrogeology"
+ },
+ {
+  "id": "9104",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hydrogeological investigations for decisions"
+ },
+ {
+  "id": "9105",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public water supply issues"
+ },
+ {
+  "id": "9106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water samples from field sites"
+ },
+ {
+  "id": "9107",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pollution erosion minimization findings"
+ },
+ {
+  "id": "9108",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lake levels and stream flows"
+ },
+ {
+  "id": "9109",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public water alteration complaints"
+ },
+ {
+  "id": "9110",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "contractor and public technical questions"
+ },
+ {
+  "id": "9111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrologic study methods"
+ },
+ {
+  "id": "9112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water monitoring instruments"
+ },
+ {
+  "id": "9113",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "municipal project feasibility"
+ },
+ {
+  "id": "9114",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "climate assessments and storms"
+ },
+ {
+  "id": "9115",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "earth hydrological components"
+ },
+ {
+  "id": "9116",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "water conservation research communication"
+ },
+ {
+  "id": "9117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hydrographic civil works"
+ },
+ {
+  "id": "9118",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "site plan and permit applications"
+ },
+ {
+  "id": "9119",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research data on water conservation"
+ },
+ {
+  "id": "9120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "well contractors and boring work"
+ },
+ {
+  "id": "9121",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "abandoned well sealing programs"
+ },
+ {
+  "id": "9122",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "navigational charts and atmospheric predictions"
+ },
+ {
+  "id": "9123",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "glaciers, ice, snow, permafrost"
+ }
+]

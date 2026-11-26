@@ -1,0 +1,1570 @@
+[
+ {
+  "id": "20154",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee equipment and safety training"
+ },
+ {
+  "id": "20155",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee attendance and hours records"
+ },
+ {
+  "id": "20156",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring, evaluation and promotion actions"
+ },
+ {
+  "id": "21207",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee performance evaluation"
+ },
+ {
+  "id": "8450",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "safety and sanitation rule compliance"
+ },
+ {
+  "id": "8451",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production workers' daily activities"
+ },
+ {
+  "id": "8452",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and production schedules"
+ },
+ {
+  "id": "8453",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cross-department operations coordination"
+ },
+ {
+  "id": "8454",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work schedules and production sequences"
+ },
+ {
+  "id": "8455",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials and equipment defects"
+ },
+ {
+  "id": "8457",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "operators and gauge readings"
+ },
+ {
+  "id": "8458",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker complaints and grievances"
+ },
+ {
+  "id": "8459",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "specifications and policies explained to workers"
+ },
+ {
+  "id": "8460",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production time and cost records"
+ },
+ {
+  "id": "8461",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee motivation and process improvement"
+ },
+ {
+  "id": "8462",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production standards, budgets and goals"
+ },
+ {
+  "id": "8463",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "materials and repair requisitions"
+ },
+ {
+  "id": "8465",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production machine setup"
+ },
+ {
+  "id": "8466",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor and equipment requirement calculations"
+ },
+ {
+  "id": "8467",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new products and processes"
+ },
+ {
+  "id": "13919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prefabricated aircraft subassembly parts"
+ },
+ {
+  "id": "13921",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "subassemblies in alignment fixtures"
+ },
+ {
+  "id": "13924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft system components"
+ },
+ {
+  "id": "13925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wing, tail, fuselage structures"
+ },
+ {
+  "id": "13926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part installation reference marks"
+ },
+ {
+  "id": "13928",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brackets, hinges, clips"
+ },
+ {
+  "id": "13929",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installed aircraft units and systems"
+ },
+ {
+  "id": "13930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sheet metal aircraft coverings"
+ },
+ {
+  "id": "13931",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "system components before assembly"
+ },
+ {
+  "id": "13932",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft rigging and control components"
+ },
+ {
+  "id": "13934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "assembly parts made on shop machines"
+ },
+ {
+  "id": "13935",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tubing forming machines"
+ },
+ {
+  "id": "13936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tubing fittings and cable ends"
+ },
+ {
+  "id": "13938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable assembly dimensions"
+ },
+ {
+  "id": "13939",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tubing and cable identification marks"
+ },
+ {
+  "id": "13942",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables and tubing cutting"
+ },
+ {
+  "id": "19901",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "environmental technology aircraft prototypes"
+ },
+ {
+  "id": "19902",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "waste swarf, fluids, solvents"
+ },
+ {
+  "id": "19903",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft parts cleaning"
+ },
+ {
+  "id": "20810",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft parts and fittings"
+ },
+ {
+  "id": "20811",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and assembly specifications"
+ },
+ {
+  "id": "20812",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "faulty aircraft parts and assemblies"
+ },
+ {
+  "id": "20813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts trimmed to fit"
+ },
+ {
+  "id": "20814",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "structural assemblies and crane signaling"
+ },
+ {
+  "id": "20815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "control cables to electronic units"
+ },
+ {
+  "id": "20816",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "linkages, actuators, cable tension"
+ },
+ {
+  "id": "20817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "swaging machine accessories"
+ },
+ {
+  "id": "11904",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire-coiling machine operation"
+ },
+ {
+  "id": "11905",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and materials needed"
+ },
+ {
+  "id": "11906",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coil wire leads"
+ },
+ {
+  "id": "11907",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces loaded onto coiling equipment"
+ },
+ {
+  "id": "11908",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production data forms"
+ },
+ {
+  "id": "11909",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire, insulation, coil trimming"
+ },
+ {
+  "id": "11910",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machine stopped, finished components removed"
+ },
+ {
+  "id": "11911",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wired motor components testing"
+ },
+ {
+  "id": "11912",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paint application and component baking"
+ },
+ {
+  "id": "11913",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motors and electrical component repair"
+ },
+ {
+  "id": "11914",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coil slots insulation and insertion"
+ },
+ {
+  "id": "10018",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring and circuit testing results"
+ },
+ {
+  "id": "10019",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical systems and components assembly"
+ },
+ {
+  "id": "10020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective electronic components"
+ },
+ {
+  "id": "10021",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts cleaning"
+ },
+ {
+  "id": "10022",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "schematics and assembly instructions"
+ },
+ {
+  "id": "10023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "component inventory tags"
+ },
+ {
+  "id": "10024",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces and electrical parts positioning"
+ },
+ {
+  "id": "10025",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished assemblies packing and transport"
+ },
+ {
+  "id": "10026",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production problems with engineers"
+ },
+ {
+  "id": "10027",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "assembly procedures taught to coworkers"
+ },
+ {
+  "id": "10028",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instrument voltage adjustment"
+ },
+ {
+  "id": "10029",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coils and structures fabricated"
+ },
+ {
+  "id": "10030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holes drilled in equipment"
+ },
+ {
+  "id": "10031",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production and waste reports"
+ },
+ {
+  "id": "10033",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer product installation instruction"
+ },
+ {
+  "id": "10034",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials delivered to work areas"
+ },
+ {
+  "id": "13944",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed units inspection and adjustment"
+ },
+ {
+  "id": "13945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts and units assembly"
+ },
+ {
+  "id": "13946",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts position and fit"
+ },
+ {
+  "id": "13947",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables, tubes and wiring"
+ },
+ {
+  "id": "13948",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nameplates and part markings"
+ },
+ {
+  "id": "13949",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and assembly sequences"
+ },
+ {
+  "id": "13950",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "units disassembled for parts or crating"
+ },
+ {
+  "id": "13951",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part tolerances with precision tools"
+ },
+ {
+  "id": "13952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts cleaning and lubricating"
+ },
+ {
+  "id": "13953",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bolt holes drilled in parts"
+ },
+ {
+  "id": "13954",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts filed and buffed"
+ },
+ {
+  "id": "13955",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "panel insulation"
+ },
+ {
+  "id": "13956",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "automated assembly equipment"
+ },
+ {
+  "id": "13957",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "small crane moving large parts"
+ },
+ {
+  "id": "13958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed products functional testing"
+ },
+ {
+  "id": "13959",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "components aligned for assembly"
+ },
+ {
+  "id": "13960",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part clearances"
+ },
+ {
+  "id": "13961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged parts reworked"
+ },
+ {
+  "id": "13962",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assembly blueprints and planning"
+ },
+ {
+  "id": "13963",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "component lubrication and maintenance"
+ },
+ {
+  "id": "13964",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gears meshed in gearboxes"
+ },
+ {
+  "id": "13965",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts checked against blueprints"
+ },
+ {
+  "id": "13966",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "piping and wiring assemblies"
+ },
+ {
+  "id": "13967",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rough spots smoothed on parts"
+ },
+ {
+  "id": "13968",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts layout and drilling"
+ },
+ {
+  "id": "13969",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "milling and grinding machines"
+ },
+ {
+  "id": "10035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal parts welded into units"
+ },
+ {
+  "id": "10036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece measurement against specifications"
+ },
+ {
+  "id": "10037",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fitted parts tack welds"
+ },
+ {
+  "id": "10038",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal stock layout and examination"
+ },
+ {
+  "id": "10039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts aligned using jacks and wedges"
+ },
+ {
+  "id": "10040",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bending and cutting lines"
+ },
+ {
+  "id": "10041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "braces and clamps for welding"
+ },
+ {
+  "id": "10042",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering drawings and task sequence"
+ },
+ {
+  "id": "10043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts moved with hoists"
+ },
+ {
+  "id": "10044",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal fabricating machines"
+ },
+ {
+  "id": "10045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal hammered, chipped, ground"
+ },
+ {
+  "id": "10046",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpiece edges and fittings"
+ },
+ {
+  "id": "10047",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "templates and fixtures built"
+ },
+ {
+  "id": "10048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "warped metal parts"
+ },
+ {
+  "id": "10049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reference points on floors"
+ },
+ {
+  "id": "10050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "face blocks, jigs, fixtures"
+ },
+ {
+  "id": "10051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "high spots and bevels"
+ },
+ {
+  "id": "10052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "welders directed to build up"
+ },
+ {
+  "id": "10053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "materials moved with large cranes"
+ },
+ {
+  "id": "10054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts heat-treated with torches"
+ },
+ {
+  "id": "10055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "workpieces preheated"
+ },
+ {
+  "id": "10056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boilers and containers installed"
+ },
+ {
+  "id": "10057",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ladders and scaffolding erected"
+ },
+ {
+  "id": "13970",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fiberglass air bubbles and seams"
+ },
+ {
+  "id": "13971",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fiberglass resin spraying onto molds"
+ },
+ {
+  "id": "13972",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fiberglass mats and cloth selection"
+ },
+ {
+  "id": "13973",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "saturated mat layers pressed onto molds"
+ },
+ {
+  "id": "13974",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "resin catalyst mixing and saturation"
+ },
+ {
+  "id": "13975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wood reinforcing strips on watercraft"
+ },
+ {
+  "id": "13976",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "completed fiberglass products defect check"
+ },
+ {
+  "id": "13977",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess material trimmed from molds"
+ },
+ {
+  "id": "13978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged glass-fiber part repair"
+ },
+ {
+  "id": "13979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "material curing"
+ },
+ {
+  "id": "13980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "resin layers on mold surfaces"
+ },
+ {
+  "id": "13981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mold areas masked off"
+ },
+ {
+  "id": "13982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lacquer and wax on molds"
+ },
+ {
+  "id": "13983",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dies and templates conformity check"
+ },
+ {
+  "id": "13984",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "molds inspected, cleaned, assembled"
+ },
+ {
+  "id": "13985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cured materials sawed"
+ },
+ {
+  "id": "15003",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece mechanism assembly"
+ },
+ {
+  "id": "15004",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece movement accuracy and defects"
+ },
+ {
+  "id": "15005",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece parts operation and fit"
+ },
+ {
+  "id": "15006",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "malfunctioning timepiece part replacement"
+ },
+ {
+  "id": "15007",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepieces taken apart for repair"
+ },
+ {
+  "id": "15008",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece parts cleaned and lubricated"
+ },
+ {
+  "id": "15009",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece component defects under magnification"
+ },
+ {
+  "id": "15010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hairsprings, pallets, bridges bending"
+ },
+ {
+  "id": "15011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "balance wheel timing weights"
+ },
+ {
+  "id": "15012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "timepiece part size and position"
+ },
+ {
+  "id": "15013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hairspring and balance wheel mounting"
+ },
+ {
+  "id": "15014",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "collet and coil spacing"
+ },
+ {
+  "id": "15015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spring inner coils bending"
+ },
+ {
+  "id": "15016",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spring center coil roundness"
+ },
+ {
+  "id": "15017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hairspring alignment adjustment"
+ },
+ {
+  "id": "15018",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and work orders"
+ },
+ {
+  "id": "15019",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loose jewels tightened"
+ },
+ {
+  "id": "20157",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product and part quality checks"
+ },
+ {
+  "id": "20158",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished products packaging"
+ },
+ {
+  "id": "20159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work area cleaning"
+ },
+ {
+  "id": "20160",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and blueprints"
+ },
+ {
+  "id": "20161",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "team production reports"
+ },
+ {
+  "id": "20162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production equipment maintenance"
+ },
+ {
+  "id": "20163",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "assemblers supervision and job training"
+ },
+ {
+  "id": "20164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "forklifts and heavy equipment"
+ },
+ {
+  "id": "8468",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rotating through production process tasks"
+ },
+ {
+  "id": "8469",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work assignments and procedures"
+ },
+ {
+  "id": "8472",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring assembly production help"
+ },
+ {
+  "id": "11915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "baked product color and oven settings"
+ },
+ {
+  "id": "11916",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "oven temperature and loading items"
+ },
+ {
+  "id": "11917",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ingredients into mixing machinery"
+ },
+ {
+  "id": "11918",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flour and ingredients weighed"
+ },
+ {
+  "id": "11919",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dough rolled, kneaded, shaped"
+ },
+ {
+  "id": "11920",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dough in pans and ovens"
+ },
+ {
+  "id": "11921",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "raw material quality"
+ },
+ {
+  "id": "11922",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ingredient quantity scaling"
+ },
+ {
+  "id": "11923",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "glazes and icings on baked goods"
+ },
+ {
+  "id": "11924",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bakery equipment safety and cleaning"
+ },
+ {
+  "id": "11925",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cakes and pastries decoration"
+ },
+ {
+  "id": "11926",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixing machine time and speed controls"
+ },
+ {
+  "id": "11927",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory and production records"
+ },
+ {
+  "id": "11928",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bakery deliveries coordination"
+ },
+ {
+  "id": "11929",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies and equipment orders"
+ },
+ {
+  "id": "11930",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slicing and wrapping machines"
+ },
+ {
+  "id": "11931",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new baked goods recipes"
+ },
+ {
+  "id": "20819",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "products quality and expired goods"
+ },
+ {
+  "id": "8783",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat wrapping, weighing, labeling"
+ },
+ {
+  "id": "8784",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "meat display counter arrangement"
+ },
+ {
+  "id": "8785",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "custom meat cuts for customers"
+ },
+ {
+  "id": "8786",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat cutting and grinding"
+ },
+ {
+  "id": "8787",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivered meat inspection and storage"
+ },
+ {
+  "id": "8788",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roasts shaped and tied"
+ },
+ {
+  "id": "8789",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meat supply inventory orders"
+ },
+ {
+  "id": "8790",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "butcher staff supervision"
+ },
+ {
+  "id": "8791",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meat received and sales records"
+ },
+ {
+  "id": "8792",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier order negotiations"
+ },
+ {
+  "id": "8793",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meat curing and smoking"
+ }
+]

@@ -1,0 +1,1514 @@
+[
+ {
+  "id": "15449",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "safety and production training for staff"
+ },
+ {
+  "id": "15450",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee compliance with plant standards"
+ },
+ {
+  "id": "15451",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flammable feedstock transport and storage safety"
+ },
+ {
+  "id": "15452",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biofuel product samples for testing"
+ },
+ {
+  "id": "15453",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "plant safety and quality issues with staff"
+ },
+ {
+  "id": "15454",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "biofuel production employees"
+ },
+ {
+  "id": "15455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant equipment emergency shutdown and restart"
+ },
+ {
+  "id": "15456",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production logs and equipment datasheets"
+ },
+ {
+  "id": "15457",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biofuels plant budgets"
+ },
+ {
+  "id": "15458",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "real-time meter and gauge readings"
+ },
+ {
+  "id": "15459",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost, material and efficiency studies"
+ },
+ {
+  "id": "15460",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment acquisition and process proposals"
+ },
+ {
+  "id": "15461",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "temperature, pressure and flow settings"
+ },
+ {
+  "id": "15462",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "biofuels power facility operations"
+ },
+ {
+  "id": "15463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical distribution equipment repair"
+ },
+ {
+  "id": "15464",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biomass plant parts inventories"
+ },
+ {
+  "id": "15465",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "mobile radio communications"
+ },
+ {
+  "id": "15466",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational data in logs"
+ },
+ {
+  "id": "15467",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment controls for power output"
+ },
+ {
+  "id": "15468",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "biomass plant operations and maintenance staff"
+ },
+ {
+  "id": "15469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biomass equipment emergency shutdown and restart"
+ },
+ {
+  "id": "15470",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production logs for abnormalities"
+ },
+ {
+  "id": "15471",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating specifications versus regulations"
+ },
+ {
+  "id": "15472",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biomass plant status reports"
+ },
+ {
+  "id": "15473",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biomass plant budgets"
+ },
+ {
+  "id": "15474",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fuel delivery, ash removal, maintenance schedules"
+ },
+ {
+  "id": "15475",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "generators, boilers and auxiliary controls"
+ },
+ {
+  "id": "15476",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "gasification equipment capacity and costs"
+ },
+ {
+  "id": "15477",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "power production and demand trends"
+ },
+ {
+  "id": "15478",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "plant or substation maintenance and testing crews"
+ },
+ {
+  "id": "15479",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "control system parameters and gauges"
+ },
+ {
+  "id": "15480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant and substation field conditions"
+ },
+ {
+  "id": "21162",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "power facility safety programs"
+ },
+ {
+  "id": "15502",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydroelectric policy evaluation procedures"
+ },
+ {
+  "id": "15503",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hydroelectric equipment erection and commissioning"
+ },
+ {
+  "id": "15504",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hydroelectric plant efficiency improvement projects"
+ },
+ {
+  "id": "15505",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "hydropower equipment installation and maintenance crews"
+ },
+ {
+  "id": "15506",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stakeholder problems with power resources"
+ },
+ {
+  "id": "15507",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hydroelectric plant upgrades"
+ },
+ {
+  "id": "15508",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hydroelectric production versus customer requirements"
+ },
+ {
+  "id": "15509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "environmental spill containment and cleanup"
+ },
+ {
+  "id": "15510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "energized substation transmission equipment"
+ },
+ {
+  "id": "15512",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility operation and repair records"
+ },
+ {
+  "id": "15513",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "turbines, generators and control systems"
+ },
+ {
+  "id": "15514",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "switchyards and control houses"
+ },
+ {
+  "id": "15515",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "power system emergencies"
+ },
+ {
+  "id": "15516",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets, contracts, rates and studies"
+ },
+ {
+  "id": "15517",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrostation voltage schedules"
+ },
+ {
+  "id": "15518",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "operating limits compliance for loads and voltages"
+ },
+ {
+  "id": "15519",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility generation equipment regulatory conformance"
+ },
+ {
+  "id": "15520",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hydroelectric plant operations and repair"
+ },
+ {
+  "id": "1020",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods ordered and received records"
+ },
+ {
+  "id": "1021",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendors and product availability terms"
+ },
+ {
+  "id": "1022",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "requisitions and purchase orders"
+ },
+ {
+  "id": "1023",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchasing department budgets"
+ },
+ {
+  "id": "1024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "purchasing staff hiring and training"
+ },
+ {
+  "id": "1025",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchase order claims and contracts"
+ },
+ {
+  "id": "1026",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material availability and delivery markets"
+ },
+ {
+  "id": "1027",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "purchasing and contract management policies"
+ },
+ {
+  "id": "1028",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment and material specifications"
+ },
+ {
+  "id": "1029",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendor and contractor grievances"
+ },
+ {
+  "id": "1030",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier contract negotiations"
+ },
+ {
+  "id": "1031",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "bid specifications and awards"
+ },
+ {
+  "id": "1032",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "buying and distribution personnel"
+ },
+ {
+  "id": "1033",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bid awards for board approval"
+ },
+ {
+  "id": "1034",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market conditions and merchandise costs"
+ },
+ {
+  "id": "1035",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "online purchasing systems"
+ },
+ {
+  "id": "1036",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "surplus materials disposal"
+ },
+ {
+  "id": "21039",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "purchasing cost reduction and savings plans"
+ },
+ {
+  "id": "21340",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "warehouse receiving and shipping workers"
+ },
+ {
+  "id": "21341",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "warehouse safety and security programs"
+ },
+ {
+  "id": "21342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "warehouses, vehicle fleets and equipment condition"
+ },
+ {
+  "id": "21343",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinate staff work assignments"
+ },
+ {
+  "id": "21344",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "logistics integration with other departments"
+ },
+ {
+  "id": "21345",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "corporate logistics transport cost efficiency"
+ },
+ {
+  "id": "21346",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "transportation, logistics and customer problems"
+ },
+ {
+  "id": "21347",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "standard and emergency handling procedures"
+ },
+ {
+  "id": "21348",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "staff compliance with rules and regulations"
+ },
+ {
+  "id": "21349",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial impact of logistics changes"
+ },
+ {
+  "id": "21350",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "warehouse inventory levels"
+ },
+ {
+  "id": "21351",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply chain performance measurement systems"
+ },
+ {
+  "id": "21352",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "departmental budgets"
+ },
+ {
+  "id": "21353",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "import export regulatory compliance"
+ },
+ {
+  "id": "21354",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fee, tariff and schedule recommendations"
+ },
+ {
+  "id": "21355",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "warehouse personnel selection and training"
+ },
+ {
+  "id": "21356",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation charges for billing"
+ },
+ {
+  "id": "21357",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "expenditure data for budget plans"
+ },
+ {
+  "id": "21358",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "warehouse coordination with department heads"
+ },
+ {
+  "id": "21359",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer reporting and transport metrics"
+ },
+ {
+  "id": "21360",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "metrics, logs and safety records"
+ },
+ {
+  "id": "21361",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "invoices and manifests against customs rules"
+ },
+ {
+  "id": "21362",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transport routes and energy savings"
+ },
+ {
+  "id": "21363",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contractor and partner performance records"
+ },
+ {
+  "id": "21364",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "carrier, warehouse and insurance rates"
+ },
+ {
+  "id": "21365",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility expansion and equipment plans"
+ },
+ {
+  "id": "21366",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inbound and outbound logistics operations"
+ },
+ {
+  "id": "21367",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "internal and external business processes"
+ },
+ {
+  "id": "21368",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "capital expenditure for equipment and property"
+ },
+ {
+  "id": "21369",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "invoices and demand forecasts for assignments"
+ },
+ {
+  "id": "15680",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transport routes and shipment consolidation"
+ },
+ {
+  "id": "15681",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supply chain models for customer discussions"
+ },
+ {
+  "id": "15685",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier and freight price negotiations"
+ },
+ {
+  "id": "15688",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier performance meetings"
+ },
+ {
+  "id": "15691",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physical supply chain process documentation"
+ },
+ {
+  "id": "15692",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier evaluation and selection systems"
+ },
+ {
+  "id": "15693",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "plant warehousing strategies"
+ },
+ {
+  "id": "15694",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "demand forecasts and supply plans"
+ },
+ {
+  "id": "15695",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply chain performance metrics"
+ },
+ {
+  "id": "15696",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory turns and waste"
+ },
+ {
+  "id": "15697",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier and procurement performance data"
+ },
+ {
+  "id": "15698",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineering changes and product launches"
+ },
+ {
+  "id": "15700",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cross-functional supply chain coordination procedures"
+ },
+ {
+  "id": "15701",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supply chain design for strategy"
+ },
+ {
+  "id": "19539",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product environmental life cycle analyses"
+ },
+ {
+  "id": "19540",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "supply chains for environmental policies"
+ },
+ {
+  "id": "19541",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product take back and reverse logistics"
+ },
+ {
+  "id": "19542",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tracking technology for distribution and inventory"
+ },
+ {
+  "id": "19543",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "material reuse and recycling opportunities"
+ },
+ {
+  "id": "19544",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "provider carbon footprints and environmental records"
+ },
+ {
+  "id": "19545",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmentally friendly raw materials"
+ },
+ {
+  "id": "19546",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "practices versus environmental regulations"
+ },
+ {
+  "id": "20942",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and staffing for material handling"
+ },
+ {
+  "id": "20943",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "purchasing, planning, inventory and warehousing activities"
+ },
+ {
+  "id": "20944",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supply chain process improvements"
+ },
+ {
+  "id": "20945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier quality and delivery performance"
+ },
+ {
+  "id": "20946",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "forecasts and quotas"
+ },
+ {
+  "id": "20947",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new supplier identification and qualification"
+ },
+ {
+  "id": "20948",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "material costs and standard cost lists"
+ },
+ {
+  "id": "20949",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "vendor manufacturing capability on-site"
+ },
+ {
+  "id": "3266",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equal opportunity and harassment advice"
+ },
+ {
+  "id": "3267",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee benefits and policy communications"
+ },
+ {
+  "id": "3268",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee benefit programs"
+ },
+ {
+  "id": "3269",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new employee orientations"
+ },
+ {
+  "id": "3270",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "HR and labor relations subordinates"
+ },
+ {
+  "id": "3271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "benefits improvements with brokers"
+ },
+ {
+  "id": "3272",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "benefits policies and legal compliance"
+ },
+ {
+  "id": "3273",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compensation policies and prevailing wages"
+ },
+ {
+  "id": "3274",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "recruitment and compensation policies"
+ },
+ {
+  "id": "3275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee benefits questions with providers"
+ },
+ {
+  "id": "3276",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government and ERISA reporting requirements"
+ },
+ {
+  "id": "3277",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel records and statistical reports"
+ },
+ {
+  "id": "3278",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel data and problem causes"
+ },
+ {
+  "id": "3279",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employment policies and processes"
+ },
+ {
+  "id": "3280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collective bargaining agreements"
+ },
+ {
+  "id": "3282",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel hearings and investigations"
+ },
+ {
+  "id": "3283",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job descriptions and classification systems"
+ },
+ {
+  "id": "3285",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "benefits selection and compensation tools"
+ },
+ {
+  "id": "3287",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel operations budgets"
+ },
+ {
+  "id": "3288",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employment needs forecasts"
+ },
+ {
+  "id": "3289",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee service vendor contracts"
+ },
+ {
+  "id": "3290",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legislation and bargaining contract trends"
+ },
+ {
+  "id": "1000",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employment needs projection"
+ },
+ {
+  "id": "1001",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel operations budgets"
+ },
+ {
+  "id": "1002",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicant tests"
+ },
+ {
+  "id": "1003",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "occupation and position classification"
+ },
+ {
+  "id": "1004",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legislation and arbitration decisions"
+ },
+ {
+  "id": "1005",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "special employee programs"
+ },
+ {
+  "id": "1006",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "terminated employee outplacement help"
+ },
+ {
+  "id": "1007",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee service vendor contracts"
+ },
+ {
+  "id": "982",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compensation, benefits and performance systems"
+ },
+ {
+  "id": "983",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff vacancy recruiting and selection"
+ },
+ {
+  "id": "984",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "personnel allocation to roles"
+ },
+ {
+  "id": "985",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee information on policies and benefits"
+ },
+ {
+  "id": "986",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "difficult staffing and disciplinary matters"
+ },
+ {
+  "id": "987",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "policy advice to managers"
+ },
+ {
+  "id": "988",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "compensation and benefits policies"
+ },
+ {
+  "id": "989",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new employee orientation"
+ },
+ {
+  "id": "990",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management and employee work problems"
+ },
+ {
+  "id": "991",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "HR department staff activities"
+ },
+ {
+  "id": "992",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training needs for development programs"
+ },
+ {
+  "id": "993",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel records and statistical reports"
+ },
+ {
+  "id": "994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel data and policy recommendations"
+ },
+ {
+  "id": "995",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel and labor relations activities"
+ },
+ {
+  "id": "996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departing employees' termination reasons"
+ },
+ {
+  "id": "997",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "industrial accidents for insurers"
+ },
+ {
+  "id": "998",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel hearings and investigations"
+ },
+ {
+  "id": "999",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "bargaining agreements and labor contracts"
+ },
+ {
+  "id": "1008",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new hire orientation and on-the-job training"
+ },
+ {
+  "id": "1009",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instructor performance and training effectiveness"
+ },
+ {
+  "id": "1010",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing and evaluation procedures"
+ },
+ {
+  "id": "1011",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "ongoing staff technical training classes"
+ },
+ {
+  "id": "1012",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training needs surveys and consultations"
+ },
+ {
+  "id": "1013",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training manuals and visual aids"
+ },
+ {
+  "id": "1014",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training and staff development programs"
+ },
+ {
+  "id": "1015",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training needs and program updates"
+ },
+ {
+  "id": "1016",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training programs versus government standards"
+ },
+ {
+  "id": "1017",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instructor and supervisor training techniques"
+ },
+ {
+  "id": "1018",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "courses coordinated with community schools"
+ },
+ {
+  "id": "1019",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "training department budget"
+ }
+]

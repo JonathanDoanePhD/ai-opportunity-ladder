@@ -1,0 +1,1450 @@
+[
+ {
+  "id": "19416",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital print file elements"
+ },
+ {
+  "id": "19417",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Adjust ink fountain flow rates"
+ },
+ {
+  "id": "19418",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Change press plates, blankets, or cylinders, as"
+ },
+ {
+  "id": "19419",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Clean ink fountains, plates, or printing unit"
+ },
+ {
+  "id": "19420",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Clean or oil presses or make minor"
+ },
+ {
+  "id": "19421",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "press run sample sheets"
+ },
+ {
+  "id": "19422",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "print job files"
+ },
+ {
+  "id": "19423",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job order specifications"
+ },
+ {
+  "id": "19424",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Feed paper through press cylinders and adjust"
+ },
+ {
+  "id": "19425",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "press job settings entry"
+ },
+ {
+  "id": "19426",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Load presses with paper and make necessary"
+ },
+ {
+  "id": "19427",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "automated press fault alerts"
+ },
+ {
+  "id": "19428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Obtain or mix inks and fill ink"
+ },
+ {
+  "id": "19429",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Secure printing plates to printing units and"
+ },
+ {
+  "id": "19430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Start presses and pull proofs to check"
+ },
+ {
+  "id": "19431",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "paper and ink specifications"
+ },
+ {
+  "id": "19432",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job workflow schedule"
+ },
+ {
+  "id": "19433",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "press crew work"
+ },
+ {
+  "id": "19434",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "completed job archive files"
+ },
+ {
+  "id": "19435",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "time and production records"
+ },
+ {
+  "id": "19436",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "press room humidity and temperature"
+ },
+ {
+  "id": "19437",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supply inventory and orders"
+ },
+ {
+  "id": "19438",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Set up or operate auxiliary equipment, such"
+ },
+ {
+  "id": "19440",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Bind new books, using hand tools such"
+ },
+ {
+  "id": "19441",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Compress sewed or glued signatures, using hand"
+ },
+ {
+  "id": "19442",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut binder boards to specified dimensions, using"
+ },
+ {
+  "id": "19443",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut cover material to specified dimensions, fitting"
+ },
+ {
+  "id": "19444",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "custom book binding designs"
+ },
+ {
+  "id": "19445",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Form book bodies by folding and sewing"
+ },
+ {
+  "id": "19446",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Imprint or emboss lettering, designs, or numbers"
+ },
+ {
+  "id": "19447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Insert book bodies in devices that form"
+ },
+ {
+  "id": "19448",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily production records"
+ },
+ {
+  "id": "19449",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client binding job requirements"
+ },
+ {
+  "id": "19450",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bindery machine operation"
+ },
+ {
+  "id": "19451",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Perform highly skilled hand finishing binding operations"
+ },
+ {
+  "id": "19452",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Punch holes in and fasten paper sheets"
+ },
+ {
+  "id": "19453",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work order instructions"
+ },
+ {
+  "id": "19454",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "old damaged books"
+ },
+ {
+  "id": "19455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Set up or operate bindery machines, such"
+ },
+ {
+  "id": "19456",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Set up or operate glue machines by"
+ },
+ {
+  "id": "19457",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Set up or operate machines that perform"
+ },
+ {
+  "id": "19458",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Stitch or glue endpapers, bindings, backings, or"
+ },
+ {
+  "id": "19459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Trim edges of books to size, using"
+ },
+ {
+  "id": "19460",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bound product defects"
+ },
+ {
+  "id": "19461",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Install or adjust bindery machine devices, such"
+ },
+ {
+  "id": "19462",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Lubricate, clean, or make minor repairs to"
+ },
+ {
+  "id": "19463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Prepare finished books for shipping by wrapping"
+ },
+ {
+  "id": "19464",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "workers learning bindery machines"
+ },
+ {
+  "id": "12117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "laundry articles identification marks"
+ },
+ {
+  "id": "12118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Start washers, dry cleaners, driers, or extractors"
+ },
+ {
+  "id": "12119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Sort and count articles removed from dryers"
+ },
+ {
+  "id": "12120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Examine and sort into lots articles to"
+ },
+ {
+  "id": "12121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Load articles into washers or dry-cleaning machines"
+ },
+ {
+  "id": "12122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Mix and add detergents, dyes, bleaches, starches"
+ },
+ {
+  "id": "12123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Clean machine filters, and lubricate equipment"
+ },
+ {
+  "id": "12124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Remove items from washers or dry-cleaning machines"
+ },
+ {
+  "id": "12125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Operate extractors and driers, or direct their"
+ },
+ {
+  "id": "12126",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soiled article stains"
+ },
+ {
+  "id": "12127",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "spotting solvents and procedures"
+ },
+ {
+  "id": "12128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Spray steam, water, or air over spots"
+ },
+ {
+  "id": "12131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Pre-soak, sterilize, scrub, spot-clean, and dry contaminated"
+ },
+ {
+  "id": "12133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Operate machines that comb, dry and polish"
+ },
+ {
+  "id": "12134",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Spread soiled articles on work tables, and"
+ },
+ {
+  "id": "12135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Sprinkle chemical solvents over stains, and pat"
+ },
+ {
+  "id": "12136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Apply bleaching powders to spots and spray"
+ },
+ {
+  "id": "12137",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Mix bleaching agents with hot water in"
+ },
+ {
+  "id": "12138",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sample color matching"
+ },
+ {
+  "id": "12140",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fabric and dye identification"
+ },
+ {
+  "id": "12142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Iron or press articles, fabrics, and furs"
+ },
+ {
+  "id": "12143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Hang curtains, drapes, blankets, pants, and other"
+ },
+ {
+  "id": "12147",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Immerse articles in bleaching baths to strip"
+ },
+ {
+  "id": "14035",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Operate steam, hydraulic, or other pressing machines"
+ },
+ {
+  "id": "14036",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Lower irons, rams, or pressing heads of"
+ },
+ {
+  "id": "14037",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Remove finished pieces from pressing machines and"
+ },
+ {
+  "id": "14038",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Hang, fold, package, and tag finished articles"
+ },
+ {
+  "id": "14039",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Slide material back and forth over heated"
+ },
+ {
+  "id": "14040",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pressing machine choice"
+ },
+ {
+  "id": "14041",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Push and pull irons over surfaces of"
+ },
+ {
+  "id": "14042",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Finish pleated garments, determining sizes of pleats"
+ },
+ {
+  "id": "14043",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Straighten, smooth, or shape materials to prepare"
+ },
+ {
+  "id": "14044",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Finish pants, jackets, shirts, skirts and other"
+ },
+ {
+  "id": "14045",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Position materials such as cloth garments, felt"
+ },
+ {
+  "id": "14046",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Spray water over fabric to soften fibers"
+ },
+ {
+  "id": "14047",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Moisten materials to soften and smooth them"
+ },
+ {
+  "id": "14048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Finish velvet garments by steaming them on"
+ },
+ {
+  "id": "14049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Finish fancy garments such as evening gowns"
+ },
+ {
+  "id": "14050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "press temperature and pressure controls"
+ },
+ {
+  "id": "14051",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Shrink, stretch, or block articles by hand"
+ },
+ {
+  "id": "14052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Clean and maintain pressing machines, using cleaning"
+ },
+ {
+  "id": "14053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Block or shape knitted garments after cleaning"
+ },
+ {
+  "id": "14054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Insert heated metal forms into ties and"
+ },
+ {
+  "id": "14055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Brush materials made of suede, leather, or"
+ },
+ {
+  "id": "14056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "delicate fabric covering cloths"
+ },
+ {
+  "id": "14057",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Press ties on small pressing machines"
+ },
+ {
+  "id": "14058",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Select, install, and adjust machine components, including"
+ },
+ {
+  "id": "14059",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "finished article measurements"
+ },
+ {
+  "id": "14060",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Sew ends of new material to leaders"
+ },
+ {
+  "id": "14061",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Measure fabric to specifications, cut uneven edges"
+ },
+ {
+  "id": "21026",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Identify and treat spots on garments"
+ },
+ {
+  "id": "12149",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sewing machine stitching problems"
+ },
+ {
+  "id": "12150",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Position items under needles, using marks on"
+ },
+ {
+  "id": "12151",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Place spools of thread, cord, or other"
+ },
+ {
+  "id": "12152",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Match cloth pieces in correct sequences prior"
+ },
+ {
+  "id": "12153",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Guide garments or garment parts under machine"
+ },
+ {
+  "id": "12154",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Start and operate or tend machines, such"
+ },
+ {
+  "id": "12155",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quantities of materials processed"
+ },
+ {
+  "id": "12156",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "garment defects and repair tags"
+ },
+ {
+  "id": "12157",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fasteners and thread supplies"
+ },
+ {
+  "id": "12158",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Mount attachments, such as needles, cutting blades"
+ },
+ {
+  "id": "12159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut excess material or thread from finished"
+ },
+ {
+  "id": "12160",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Fold or stretch edges or lengths of"
+ },
+ {
+  "id": "12161",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Perform equipment maintenance tasks such as replacing"
+ },
+ {
+  "id": "12162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "finished article measurements"
+ },
+ {
+  "id": "12163",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Turn knobs, screws, and dials to adjust"
+ },
+ {
+  "id": "12164",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Repair or alter items by adding replacement"
+ },
+ {
+  "id": "12165",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut materials according to specifications, using blades"
+ },
+ {
+  "id": "12166",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Remove holding devices and finished items from"
+ },
+ {
+  "id": "12167",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Position and mark patterns on materials to"
+ },
+ {
+  "id": "12168",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Position material or articles in clamps, templates"
+ },
+ {
+  "id": "12169",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Attach tape, trim, appliques, or elastic to"
+ },
+ {
+  "id": "12170",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Perform specialized or automatic sewing machine functions"
+ },
+ {
+  "id": "12171",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Attach buttons, hooks, zippers, fasteners, or other"
+ },
+ {
+  "id": "12172",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Baste edges of material to align and"
+ },
+ {
+  "id": "12173",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Tape or twist together thread or cord"
+ },
+ {
+  "id": "12174",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Draw markings or pin appliques on fabric"
+ },
+ {
+  "id": "14062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut out parts, following patterns or outlines"
+ },
+ {
+  "id": "14063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Construct, decorate, or repair leather products according"
+ },
+ {
+  "id": "14064",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Align and stitch or glue materials such"
+ },
+ {
+  "id": "14065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Dye, soak, polish, paint, stamp, stitch, stain"
+ },
+ {
+  "id": "14066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Select materials and patterns, and trace patterns"
+ },
+ {
+  "id": "14067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Dress and otherwise finish boots or shoes"
+ },
+ {
+  "id": "14068",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "repair costs and customer payment"
+ },
+ {
+  "id": "14069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Attach insoles to shoe lasts, affix shoe"
+ },
+ {
+  "id": "14070",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cement, nail, or sew soles and heels"
+ },
+ {
+  "id": "14071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Shape shoe heels with a knife, and"
+ },
+ {
+  "id": "14072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Repair or replace soles, heels, and other"
+ },
+ {
+  "id": "14073",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "orthopedic footwear per prescription"
+ },
+ {
+  "id": "14074",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Repair and recondition leather products such as"
+ },
+ {
+  "id": "14075",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Place shoes on lasts to remove soles"
+ },
+ {
+  "id": "14076",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Clean and polish shoes"
+ },
+ {
+  "id": "14077",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "leather texture, color, strength"
+ },
+ {
+  "id": "14078",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "prescription specs and measurements"
+ },
+ {
+  "id": "14079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Inspect articles for defects, and remove damaged"
+ },
+ {
+  "id": "14080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Drill or punch holes and insert or"
+ },
+ {
+  "id": "14081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Attach accessories or ornamentation to decorate or"
+ },
+ {
+  "id": "14082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut, insert, position, and secure paddings, cushioning"
+ },
+ {
+  "id": "14083",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patterns from measurements and designs"
+ },
+ {
+  "id": "14085",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Stretch shoes, dampening parts and inserting and"
+ },
+ {
+  "id": "14086",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Nail heel and toe cleats onto shoes"
+ },
+ {
+  "id": "14087",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "inserts from foot casts"
+ },
+ {
+  "id": "14088",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Re-sew seams, and replace handles and linings"
+ },
+ {
+  "id": "14089",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work order specifications"
+ },
+ {
+  "id": "14090",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shoe parts conformance"
+ },
+ {
+  "id": "14091",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Perform routine equipment maintenance such as cleaning"
+ },
+ {
+  "id": "14092",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Cut excess thread or material from shoe"
+ },
+ {
+  "id": "14093",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Turn screws to regulate size of staples"
+ },
+ {
+  "id": "14094",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Align parts to be stitched, following seams"
+ },
+ {
+  "id": "14095",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Turn setscrews on needle bars, and position"
+ },
+ {
+  "id": "14096",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Switch on machines, lower pressure feet or"
+ },
+ {
+  "id": "14097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Collect shoe parts from conveyer belts or"
+ },
+ {
+  "id": "14098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Position dies on material in a manner"
+ },
+ {
+  "id": "14099",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Test machinery to ensure proper functioning before"
+ },
+ {
+  "id": "14100",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Operate or tend machines to join, decorate"
+ },
+ {
+  "id": "14101",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Draw thread through machine guide slots, needles"
+ },
+ {
+  "id": "14102",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Fill shuttle spools with thread from a"
+ },
+ {
+  "id": "14104",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Staple sides of shoes, pressing a foot"
+ },
+ {
+  "id": "14105",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Select and place spools of thread or"
+ },
+ {
+  "id": "14106",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Hammer loose staples for proper attachment"
+ },
+ {
+  "id": "14107",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Turn knobs to adjust stitch length and"
+ },
+ {
+  "id": "24000",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "finished shoes specifications"
+ },
+ {
+  "id": "14108",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Sew, join, reinforce, or finish parts of"
+ },
+ {
+  "id": "14109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Trim excess threads or edges of parts"
+ },
+ {
+  "id": "14110",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sewing thread selection"
+ },
+ {
+  "id": "14111",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Draw and cut patterns according to specifications"
+ },
+ {
+  "id": "14112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Fold, twist, stretch, or drape material, and"
+ },
+ {
+  "id": "14113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Smooth seams with heated irons, flat bones"
+ },
+ {
+  "id": "14114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Measure and align parts, fasteners, or trimmings"
+ },
+ {
+  "id": "14115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Use different sewing techniques such as felling"
+ },
+ {
+  "id": "14116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Sew buttonholes, or add lace or other"
+ },
+ {
+  "id": "14118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Tie, knit, weave or knot ribbon, yarn"
+ },
+ {
+  "id": "24001",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client garment fitting alterations"
+ }
+]

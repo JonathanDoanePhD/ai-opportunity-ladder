@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "1282",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "user software and hardware problems"
+ },
+ {
+  "id": "1283",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "system commands and operation checks"
+ },
+ {
+  "id": "1284",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardware and software installation repairs"
+ },
+ {
+  "id": "1285",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily computer system performance"
+ },
+ {
+  "id": "1286",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "employee equipment setup and cabling"
+ },
+ {
+  "id": "1287",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "support problem and activity records"
+ },
+ {
+  "id": "1288",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical problem diagnosis and support"
+ },
+ {
+  "id": "1289",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "system requirements from stakeholders"
+ },
+ {
+  "id": "1290",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "training materials and user training"
+ },
+ {
+  "id": "1291",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "major problems referred to vendors"
+ },
+ {
+  "id": "1292",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "software and hardware evaluations"
+ },
+ {
+  "id": "1293",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry knowledge upkeep"
+ },
+ {
+  "id": "1295",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment inspection before delivery"
+ },
+ {
+  "id": "1296",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commercial program customization"
+ },
+ {
+  "id": "1297",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "office automation feasibility studies"
+ },
+ {
+  "id": "15204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring and supervising support workers"
+ },
+ {
+  "id": "18956",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network capacity adjustment"
+ },
+ {
+  "id": "18957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer needs communication"
+ },
+ {
+  "id": "18958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "user accounts and operational problems"
+ },
+ {
+  "id": "18959",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new equipment installation coordination"
+ },
+ {
+  "id": "18960",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network maintenance and upgrades"
+ },
+ {
+  "id": "18961",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network design coordination with designers"
+ },
+ {
+  "id": "18962",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "network equipment configuration prototypes"
+ },
+ {
+  "id": "18963",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "product education sessions"
+ },
+ {
+  "id": "18964",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network hardware software requirements"
+ },
+ {
+  "id": "18965",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network problem solutions"
+ },
+ {
+  "id": "18966",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "communications hardware procedures"
+ },
+ {
+  "id": "18967",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network designs"
+ },
+ {
+  "id": "18968",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disaster recovery plans"
+ },
+ {
+  "id": "18969",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network documentation"
+ },
+ {
+  "id": "18970",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project reporting systems"
+ },
+ {
+  "id": "18971",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network security measures"
+ },
+ {
+  "id": "18972",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment replacement plans budgets"
+ },
+ {
+  "id": "18973",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network availability tracking procedures"
+ },
+ {
+  "id": "18974",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project time and materials estimates"
+ },
+ {
+  "id": "18975",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network design evaluation"
+ },
+ {
+  "id": "18976",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design specifications explained to engineers"
+ },
+ {
+  "id": "18977",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network file maintenance and backup"
+ },
+ {
+  "id": "18978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "network peripherals such as printers"
+ },
+ {
+  "id": "18979",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network performance data and reports"
+ },
+ {
+  "id": "18980",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "network upgrade installation and testing"
+ },
+ {
+  "id": "18981",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design presentations and proposals"
+ },
+ {
+  "id": "18982",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network specifications and diagrams"
+ },
+ {
+  "id": "18983",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project schedules and budgets"
+ },
+ {
+  "id": "18984",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "new hardware software testing"
+ },
+ {
+  "id": "18985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "engineers designing network solutions"
+ },
+ {
+  "id": "18986",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network design optimization software"
+ },
+ {
+  "id": "18987",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "technology change monitoring"
+ },
+ {
+  "id": "18988",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "vendor product information and issues"
+ },
+ {
+  "id": "16058",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry practice and technology updates"
+ },
+ {
+  "id": "16059",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system implementation cost estimates"
+ },
+ {
+  "id": "16060",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "telecom disaster recovery plans"
+ },
+ {
+  "id": "16061",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "telecom hardware software testing"
+ },
+ {
+  "id": "16062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "telecom equipment maintenance staff"
+ },
+ {
+  "id": "16063",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system modification requests"
+ },
+ {
+  "id": "16064",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network and device problems"
+ },
+ {
+  "id": "16065",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system performance reports"
+ },
+ {
+  "id": "16066",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment purchase requisitions"
+ },
+ {
+  "id": "16067",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network diagrams and site plans"
+ },
+ {
+  "id": "16069",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network traffic security capacity"
+ },
+ {
+  "id": "16070",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user accounts and passwords"
+ },
+ {
+  "id": "16072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site physical configuration inspection"
+ },
+ {
+  "id": "16073",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "system renovation project collaboration"
+ },
+ {
+  "id": "16074",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "preventive maintenance backup procedures"
+ },
+ {
+  "id": "16075",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system software and data security controls"
+ },
+ {
+  "id": "16076",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "user support activity records"
+ },
+ {
+  "id": "16077",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "telecom equipment specifications"
+ },
+ {
+  "id": "16078",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "installation and usage procedures"
+ },
+ {
+  "id": "16079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "user connectivity equipment relocation"
+ },
+ {
+  "id": "16080",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users technical and business requirements"
+ },
+ {
+  "id": "16081",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor pricing and specifications"
+ },
+ {
+  "id": "16082",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility telecom system needs"
+ },
+ {
+  "id": "16083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "telecom system installation coordination"
+ },
+ {
+  "id": "20365",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "telecom equipment inventory orders"
+ },
+ {
+  "id": "20366",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "communications system use instruction"
+ },
+ {
+  "id": "1298",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "software and data protection standards"
+ },
+ {
+  "id": "1299",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing databases and management systems"
+ },
+ {
+  "id": "1300",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database testing and error correction"
+ },
+ {
+  "id": "1301",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database security measures"
+ },
+ {
+  "id": "1302",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new database installation oversight"
+ },
+ {
+  "id": "1303",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user training and questions"
+ },
+ {
+  "id": "1305",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database user access levels"
+ },
+ {
+  "id": "1306",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database data models"
+ },
+ {
+  "id": "1309",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database changes from manuals"
+ },
+ {
+  "id": "1311",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database performance monitoring codes"
+ },
+ {
+  "id": "1312",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database industry trends advice"
+ },
+ {
+  "id": "1313",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database descriptions coding"
+ },
+ {
+  "id": "1314",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programmer workflow charts review"
+ },
+ {
+  "id": "1315",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data dictionary definitions"
+ },
+ {
+  "id": "21648",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database technology recommendations"
+ },
+ {
+  "id": "21649",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database software upgrades"
+ },
+ {
+  "id": "21650",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "junior staff and client technical support"
+ },
+ {
+  "id": "21651",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database application changes testing"
+ },
+ {
+  "id": "16099",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "junior staff and client technical support"
+ },
+ {
+  "id": "16100",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database clusters backup and recovery"
+ },
+ {
+  "id": "16101",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database hardware software recommendations"
+ },
+ {
+  "id": "16102",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database software upgrades"
+ },
+ {
+  "id": "16104",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database development standard deviations"
+ },
+ {
+  "id": "16105",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database schema documentation"
+ },
+ {
+  "id": "16106",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "archived procedures and queries"
+ },
+ {
+  "id": "16107",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "backup load balancing processes"
+ },
+ {
+  "id": "16108",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "application data models"
+ },
+ {
+  "id": "16109",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "business application databases"
+ },
+ {
+  "id": "16110",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database application interfaces and indexes"
+ },
+ {
+  "id": "16111",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "database functionality demonstrations"
+ },
+ {
+  "id": "16112",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database development standards"
+ },
+ {
+  "id": "16113",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "business requirements from other architects"
+ },
+ {
+  "id": "16114",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database architecture strategies"
+ },
+ {
+  "id": "16115",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database architecture documentation"
+ },
+ {
+  "id": "21652",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data element models"
+ },
+ {
+  "id": "21653",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database product integration methods"
+ },
+ {
+  "id": "21654",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database parameter values"
+ },
+ {
+  "id": "21655",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database industry trends advice"
+ },
+ {
+  "id": "21656",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "database project time and cost"
+ },
+ {
+  "id": "21657",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database testing and error correction"
+ },
+ {
+  "id": "21658",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "user training and questions"
+ },
+ {
+  "id": "21659",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "database project team coordination"
+ },
+ {
+  "id": "21660",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database descriptions coding"
+ },
+ {
+  "id": "16116",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software enhancement testing"
+ },
+ {
+  "id": "16117",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "designs code and test plans"
+ },
+ {
+  "id": "16118",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data warehouse troubleshooting"
+ },
+ {
+  "id": "16119",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data warehouse documentation"
+ },
+ {
+  "id": "16120",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer program code"
+ },
+ {
+  "id": "16121",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "warehouse data quality"
+ },
+ {
+  "id": "16122",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data warehouse evaluation methods"
+ },
+ {
+  "id": "16123",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system data analysis programming"
+ },
+ {
+  "id": "16124",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "source to warehouse data mapping"
+ },
+ {
+  "id": "16125",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business rules in stored procedures"
+ },
+ {
+  "id": "16126",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data extraction procedures"
+ },
+ {
+  "id": "16127",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data warehouse design standards"
+ },
+ {
+  "id": "16128",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "warehouse database structures"
+ },
+ {
+  "id": "16129",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "metadata and process diagrams"
+ },
+ {
+  "id": "16130",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data warehouse test plans scripts"
+ },
+ {
+  "id": "16131",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "metadata processes and frameworks"
+ },
+ {
+  "id": "16132",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "warehouse load and transform models"
+ },
+ {
+  "id": "16133",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "comprehensive data warehouse systems"
+ },
+ {
+  "id": "1317",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "data backups and disaster recovery"
+ },
+ {
+  "id": "1318",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "computer networks and environments"
+ },
+ {
+  "id": "1319",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "network security measures"
+ },
+ {
+  "id": "1320",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system and network performance monitoring"
+ },
+ {
+  "id": "1321",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "network startup shutdown records"
+ },
+ {
+  "id": "1322",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "hardware networking operating system software"
+ },
+ {
+  "id": "1323",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system configuration changes"
+ },
+ {
+  "id": "1324",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "network user problem discussions"
+ },
+ {
+  "id": "1325",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network performance adjustment needs"
+ },
+ {
+  "id": "1326",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "people computer system use"
+ },
+ {
+  "id": "1327",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tapes disks software paper loading"
+ },
+ {
+  "id": "1328",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer needs and network requirements"
+ },
+ {
+  "id": "1329",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment performance repair records"
+ },
+ {
+  "id": "1330",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network function maintenance logs"
+ },
+ {
+  "id": "1332",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "emergency repair parts inventory"
+ },
+ {
+  "id": "1333",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vendor and staff purchase coordination"
+ },
+ {
+  "id": "15205",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardware software network problems"
+ },
+ {
+  "id": "15206",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "email and virus protection configuration"
+ },
+ {
+  "id": "15207",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new technology research"
+ },
+ {
+  "id": "15208",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "voice services and equipment"
+ },
+ {
+  "id": "1267",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program errors correction"
+ },
+ {
+  "id": "1268",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program trial runs"
+ },
+ {
+  "id": "1269",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program documentation and comments"
+ },
+ {
+  "id": "1270",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computer programs and software packages"
+ },
+ {
+  "id": "1271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "program intent with technical staff"
+ },
+ {
+  "id": "1272",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing program revision"
+ },
+ {
+  "id": "1273",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programs writing and reviewing"
+ },
+ {
+  "id": "1274",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "end user instructions manuals"
+ },
+ {
+  "id": "1275",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment response to program instructions"
+ },
+ {
+  "id": "1276",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "workflow charts converted to code"
+ },
+ {
+  "id": "1277",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "systems software programming analysis"
+ },
+ {
+  "id": "1278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "operators and analysts problem resolution"
+ },
+ {
+  "id": "1279",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "programming staff work review"
+ },
+ {
+  "id": "1280",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new programming methods collaboration"
+ },
+ {
+  "id": "1281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinate programming training"
+ },
+ {
+  "id": "21049",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "web site development"
+ },
+ {
+  "id": "21050",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users on computer programs"
+ },
+ {
+  "id": "21661",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system installation or modification plans"
+ },
+ {
+  "id": "21662",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "user needs and software requirements"
+ },
+ {
+  "id": "21663",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "data processing project limitations"
+ },
+ {
+  "id": "21664",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "system design with technical staff"
+ },
+ {
+  "id": "21665",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer project status and issues"
+ },
+ {
+  "id": "21666",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "software system installation coordination"
+ },
+ {
+  "id": "21667",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "software systems design and modification"
+ },
+ {
+  "id": "21668",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "system performance standards"
+ },
+ {
+  "id": "21669",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software testing procedures and documentation"
+ },
+ {
+  "id": "21670",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "existing software error fixes"
+ },
+ {
+  "id": "21671",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment functioning against specifications"
+ },
+ {
+  "id": "21672",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hardware configuration factors"
+ },
+ {
+  "id": "21673",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project status reports"
+ },
+ {
+  "id": "21676",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "system data analysis"
+ },
+ {
+  "id": "21677",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "programmers and technical staff work"
+ },
+ {
+  "id": "21678",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "programmers and technicians supervision"
+ },
+ {
+  "id": "21679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "users on new equipment"
+ }
+]

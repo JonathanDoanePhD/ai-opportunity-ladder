@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "20575",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "training new staff on procedures"
+ },
+ {
+  "id": "20576",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients traveling to appointments"
+ },
+ {
+  "id": "6944",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient wellbeing and behavior"
+ },
+ {
+  "id": "6945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients with developmental disabilities"
+ },
+ {
+  "id": "6946",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient behavior and rapport"
+ },
+ {
+  "id": "6947",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient vital measurements"
+ },
+ {
+  "id": "6948",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient social and work skills"
+ },
+ {
+  "id": "6949",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "clinical team treatment support"
+ },
+ {
+  "id": "6950",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client wellness and independence strategies"
+ },
+ {
+  "id": "6951",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "violent or suicidal patients"
+ },
+ {
+  "id": "6952",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient hygiene and living areas"
+ },
+ {
+  "id": "6953",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient medication doses"
+ },
+ {
+  "id": "6954",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dispensed medication records"
+ },
+ {
+  "id": "6955",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new patient admission interview"
+ },
+ {
+  "id": "6956",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "therapy sessions with patients"
+ },
+ {
+  "id": "6957",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "relatives and family conferences"
+ },
+ {
+  "id": "15242",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sterile field in surgery"
+ },
+ {
+  "id": "15243",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient surgical positioning and draping"
+ },
+ {
+  "id": "15244",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating room supplies and instruments"
+ },
+ {
+  "id": "15245",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surgical supply purchase orders"
+ },
+ {
+  "id": "1959",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sponges needles instruments count"
+ },
+ {
+  "id": "1960",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "instruments to surgeons during operation"
+ },
+ {
+  "id": "1961",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "team hand scrubbing and gowning"
+ },
+ {
+  "id": "1963",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surgical team technical assistance"
+ },
+ {
+  "id": "1964",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgical equipment sterilization"
+ },
+ {
+  "id": "1965",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tissue specimens for laboratory"
+ },
+ {
+  "id": "1967",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "post-surgical dressings"
+ },
+ {
+  "id": "1968",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sterilizers lights suction equipment"
+ },
+ {
+  "id": "1969",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "operating room conditions and needs"
+ },
+ {
+  "id": "1970",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient vital signs during surgery"
+ },
+ {
+  "id": "1971",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating fluids supply"
+ },
+ {
+  "id": "1972",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "surgical procedure records"
+ },
+ {
+  "id": "18548",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "controlled drug inventory logs"
+ },
+ {
+  "id": "18549",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "veterinary staff and student training"
+ },
+ {
+  "id": "18550",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical supply inventory orders"
+ },
+ {
+  "id": "20422",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals during exams"
+ },
+ {
+  "id": "20423",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pet owners about pet health"
+ },
+ {
+  "id": "20424",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animal appointment schedules"
+ },
+ {
+  "id": "4176",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal anesthesia monitoring"
+ },
+ {
+  "id": "4177",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals recovering from surgery"
+ },
+ {
+  "id": "4178",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal medications and vaccines"
+ },
+ {
+  "id": "4179",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal blood urine fecal tests"
+ },
+ {
+  "id": "4180",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal emergency resuscitation"
+ },
+ {
+  "id": "4181",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal laboratory samples"
+ },
+ {
+  "id": "4182",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "veterinary instruments cleaning"
+ },
+ {
+  "id": "4183",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instruments for veterinarians"
+ },
+ {
+  "id": "4184",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prescription medication measuring labeling"
+ },
+ {
+  "id": "4185",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animals prepared for surgery"
+ },
+ {
+  "id": "4186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animals vitals during exams"
+ },
+ {
+  "id": "4187",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "animal behavior and symptoms"
+ },
+ {
+  "id": "4188",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal diagnostic radiographs"
+ },
+ {
+  "id": "4189",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory and treatment records"
+ },
+ {
+  "id": "4190",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal enemas catheters and flushes"
+ },
+ {
+  "id": "4191",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surgery treatment rooms"
+ },
+ {
+  "id": "4192",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "veterinary equipment upkeep"
+ },
+ {
+  "id": "4193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal teeth cleaning extraction"
+ },
+ {
+  "id": "4194",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "kennels and exam rooms"
+ },
+ {
+  "id": "4195",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pet owners health and behavior advice"
+ },
+ {
+  "id": "4196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "animal euthanasia and remains"
+ },
+ {
+  "id": "4197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal wounds and splints"
+ },
+ {
+  "id": "4198",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "reception billing and clerical duties"
+ },
+ {
+  "id": "4199",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal grooming"
+ },
+ {
+  "id": "4200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal branding tattooing hoof trimming"
+ },
+ {
+  "id": "19239",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient eye medications"
+ },
+ {
+  "id": "19240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eye refractive condition"
+ },
+ {
+  "id": "19241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient contact lens handling"
+ },
+ {
+  "id": "19242",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "post-operative patient phone calls"
+ },
+ {
+  "id": "19243",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ophthalmic instruments sterilization"
+ },
+ {
+  "id": "19244",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eye muscle function tests"
+ },
+ {
+  "id": "19245",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient visual field tests"
+ },
+ {
+  "id": "19246",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient contact lens care teaching"
+ },
+ {
+  "id": "19247",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ophthalmic instruments upkeep"
+ },
+ {
+  "id": "19248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens power measurement"
+ },
+ {
+  "id": "19249",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient visual acuity"
+ },
+ {
+  "id": "19250",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ophthalmic testing equipment operation"
+ },
+ {
+  "id": "19251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eye anatomical measurements"
+ },
+ {
+  "id": "19252",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient medical histories"
+ },
+ {
+  "id": "19253",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "eyeglasses minor adjustment repair"
+ },
+ {
+  "id": "19254",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient eyewear selection"
+ },
+ {
+  "id": "19255",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physician ophthalmic procedures"
+ },
+ {
+  "id": "19256",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "depth perception tests"
+ },
+ {
+  "id": "19257",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eye pressure tests"
+ },
+ {
+  "id": "19258",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "corneal curvature measurement"
+ },
+ {
+  "id": "507",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient condition changes charting"
+ },
+ {
+  "id": "508",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prescribed medications and IV fluids"
+ },
+ {
+  "id": "509",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient call requests"
+ },
+ {
+  "id": "510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient vital signs"
+ },
+ {
+  "id": "511",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "basic patient treatments"
+ },
+ {
+  "id": "512",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient hygiene and mobility"
+ },
+ {
+  "id": "513",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nursing aides supervision"
+ },
+ {
+  "id": "514",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "healthcare team patient care planning"
+ },
+ {
+  "id": "515",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "patient food fluid intake output"
+ },
+ {
+  "id": "516",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nursing intervention outcome evaluation"
+ },
+ {
+  "id": "517",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "catheters trach tubes oxygen equipment"
+ },
+ {
+  "id": "518",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient samples and routine lab tests"
+ },
+ {
+  "id": "519",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients prepared and told procedures"
+ },
+ {
+  "id": "520",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food trays against diets"
+ },
+ {
+  "id": "521",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "compresses and ice bags"
+ },
+ {
+  "id": "522",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient rooms and beds"
+ },
+ {
+  "id": "523",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supplies and instruments requisition"
+ },
+ {
+  "id": "524",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patients at home care"
+ },
+ {
+  "id": "525",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment sterilization"
+ },
+ {
+  "id": "527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "deceased bodies washing dressing"
+ },
+ {
+  "id": "528",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointments records clerical duties"
+ },
+ {
+  "id": "529",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "treatment rooms and equipment setup"
+ },
+ {
+  "id": "22877",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient diagnosis-related group assignment"
+ },
+ {
+  "id": "22878",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient medical records compilation"
+ },
+ {
+  "id": "22879",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "disease classification manual lookup"
+ },
+ {
+  "id": "22880",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient data computer entry"
+ },
+ {
+  "id": "22881",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient data diagnostic coding"
+ },
+ {
+  "id": "22882",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "health record indexes and retrieval"
+ },
+ {
+  "id": "22883",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance billing postings"
+ },
+ {
+  "id": "22884",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business or government forms"
+ },
+ {
+  "id": "22885",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "admission and discharge documents"
+ },
+ {
+  "id": "22886",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical records security confidentiality"
+ },
+ {
+  "id": "22887",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "record release per regulations"
+ },
+ {
+  "id": "22888",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "conflicting or unclear diagnosis codes"
+ },
+ {
+  "id": "22889",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient records retrieval"
+ },
+ {
+  "id": "22890",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "records completeness accuracy compliance"
+ },
+ {
+  "id": "22891",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "paper health records scanning"
+ },
+ {
+  "id": "22892",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient appointment scheduling"
+ },
+ {
+  "id": "22893",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical report transcription"
+ },
+ {
+  "id": "18551",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "frames and lenses orders"
+ },
+ {
+  "id": "4201",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "client face and eye measurements"
+ },
+ {
+  "id": "4202",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished lens specifications"
+ },
+ {
+  "id": "4203",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lens grinding work orders"
+ },
+ {
+  "id": "4204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client frame selection"
+ },
+ {
+  "id": "4205",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescriptions orders payments records"
+ },
+ {
+  "id": "4206",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "inventory sales insurance bookkeeping"
+ },
+ {
+  "id": "4207",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "lenses coatings frames recommendations"
+ },
+ {
+  "id": "4208",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "eyewear sales to customers"
+ },
+ {
+  "id": "4209",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "eyeglasses frame fitting"
+ },
+ {
+  "id": "4210",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prescriptions and client visual needs"
+ },
+ {
+  "id": "4211",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client eyeglasses wearing and care"
+ },
+ {
+  "id": "4212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "current lens prescriptions"
+ },
+ {
+  "id": "4213",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "customer contact lens handling"
+ },
+ {
+  "id": "4214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged eyeglass frames"
+ },
+ {
+  "id": "4215",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer records prescription verification"
+ },
+ {
+  "id": "4216",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "optical merchandise displays"
+ },
+ {
+  "id": "4217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prescription lens fabrication"
+ },
+ {
+  "id": "4218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lens edges and coatings"
+ },
+ {
+  "id": "4219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "eyeglasses lens cutting assembly"
+ },
+ {
+  "id": "4220",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student optician training"
+ },
+ {
+  "id": "9383",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient appliance needs and fit"
+ },
+ {
+  "id": "9384",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "prosthetic devices fitted on patients"
+ },
+ {
+  "id": "9385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient orthosis and prosthesis instruction"
+ },
+ {
+  "id": "9386",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "orthopedic and prosthetic device design"
+ },
+ {
+  "id": "9387",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient records"
+ },
+ {
+  "id": "9388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plaster casts for prostheses"
+ },
+ {
+  "id": "9389",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "device materials and components"
+ },
+ {
+  "id": "9390",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physician device specifications"
+ },
+ {
+  "id": "9391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prosthetic and orthotic appliances repair"
+ },
+ {
+  "id": "9392",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliance construction"
+ },
+ {
+  "id": "9393",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "support staff training supervision"
+ },
+ {
+  "id": "9394",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "own skills and knowledge update"
+ },
+ {
+  "id": "9395",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "appliances shown to healthcare workers"
+ },
+ {
+  "id": "9396",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new device construction methods"
+ },
+ {
+  "id": "9397",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research findings publication presentation"
+ },
+ {
+  "id": "17439",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hearing evaluation tests selection"
+ },
+ {
+  "id": "17440",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "client hearing tests"
+ },
+ {
+  "id": "17441",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client hearing aid training"
+ },
+ {
+  "id": "17442",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "earmold and shell impressions"
+ },
+ {
+  "id": "17443",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hearing aids repair"
+ },
+ {
+  "id": "17444",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "assistive listening devices demonstration"
+ },
+ {
+  "id": "17445",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hearing disabilities diagnosis treatment"
+ },
+ {
+  "id": "17446",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hearing screening procedures"
+ },
+ {
+  "id": "17447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "audiologist aural procedures assistance"
+ },
+ {
+  "id": "17448",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audiology literature and developments"
+ },
+ {
+  "id": "21189",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients families hearing loss counseling"
+ },
+ {
+  "id": "17423",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient electrodes attachment"
+ },
+ {
+  "id": "17424",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technical data for diagnosis"
+ },
+ {
+  "id": "17425",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "neurodiagnostic tests and studies"
+ },
+ {
+  "id": "17426",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diagnostic equipment calibration repair"
+ },
+ {
+  "id": "17427",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "brain activity death tests"
+ },
+ {
+  "id": "17428",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "evoked potentials measurement"
+ },
+ {
+  "id": "17429",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recording artifacts and interference"
+ },
+ {
+  "id": "17430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient body electrode locations"
+ },
+ {
+  "id": "17431",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patients during tests surgeries"
+ },
+ {
+  "id": "17432",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing montages and electrical combinations"
+ },
+ {
+  "id": "17433",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment settings for viewing"
+ },
+ {
+  "id": "17434",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient information for test customization"
+ },
+ {
+  "id": "17435",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test result reports to physicians"
+ },
+ {
+  "id": "17436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "technicians students staff training"
+ },
+ {
+  "id": "17437",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients testing procedures explanation"
+ },
+ {
+  "id": "17438",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research projects and meetings"
+ }
+]

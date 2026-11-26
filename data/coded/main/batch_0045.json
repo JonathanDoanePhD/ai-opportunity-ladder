@@ -1,0 +1,1570 @@
+[
+ {
+  "id": "20244",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "cosmetic facial contouring procedures"
+ },
+ {
+  "id": "20245",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "Botox and laser facial treatments"
+ },
+ {
+  "id": "9370",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient anesthesia delivery"
+ },
+ {
+  "id": "9371",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "damaged teeth extraction"
+ },
+ {
+  "id": "9372",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "wisdom tooth position assessment"
+ },
+ {
+  "id": "9373",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dental specialist treatment planning"
+ },
+ {
+  "id": "9374",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "implant site bone surgery"
+ },
+ {
+  "id": "9375",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "oral facial tumor removal"
+ },
+ {
+  "id": "9376",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "oral and neck infections"
+ },
+ {
+  "id": "9377",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "oral mucosa ulcers, infections"
+ },
+ {
+  "id": "9378",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facial injury emergency repair"
+ },
+ {
+  "id": "9379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cleft and jaw surgery"
+ },
+ {
+  "id": "9380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "jaw and face reconstruction grafts"
+ },
+ {
+  "id": "9382",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "snoring laser surgery"
+ },
+ {
+  "id": "23973",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient treatment plan compliance"
+ },
+ {
+  "id": "7732",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "orthodontic appliances in patient mouths"
+ },
+ {
+  "id": "7733",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient dental records for plans"
+ },
+ {
+  "id": "7734",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "teeth and jaw abnormalities"
+ },
+ {
+  "id": "7735",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "jaw and tooth examination"
+ },
+ {
+  "id": "7736",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "diagnostic and treatment records"
+ },
+ {
+  "id": "7737",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "orthodontic appliance adjustment"
+ },
+ {
+  "id": "7738",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "treatment proposals and cost estimates"
+ },
+ {
+  "id": "7739",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dental staff orthodontic instruction"
+ },
+ {
+  "id": "7740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "orthodontic and medical service coordination"
+ },
+ {
+  "id": "7741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "orthodontic appliance fabrication"
+ },
+ {
+  "id": "20246",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "missing teeth replacement prostheses"
+ },
+ {
+  "id": "23996",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "oral health diagnosis exams"
+ },
+ {
+  "id": "7743",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prosthesis fitting and adjustment"
+ },
+ {
+  "id": "7744",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dental prosthesis design, fabrication"
+ },
+ {
+  "id": "7745",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "jaw and teeth impressions"
+ },
+ {
+  "id": "7746",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dental and health professional collaboration"
+ },
+ {
+  "id": "7747",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "denture repair and relining"
+ },
+ {
+  "id": "7748",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "restoring function for injury survivors"
+ },
+ {
+  "id": "7749",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tooth bonding shape change"
+ },
+ {
+  "id": "7750",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facial pain, jaw joint"
+ },
+ {
+  "id": "7751",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tooth veneer placement"
+ },
+ {
+  "id": "7752",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tooth whitening"
+ },
+ {
+  "id": "23913",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lab tests for nutrition advice"
+ },
+ {
+  "id": "23914",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cultural preferences in nutrition plans"
+ },
+ {
+  "id": "23915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient health and food history"
+ },
+ {
+  "id": "23916",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "special diet recipes and menus"
+ },
+ {
+  "id": "23917",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nutrigenomic research"
+ },
+ {
+  "id": "314",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nutritional needs and diet plans"
+ },
+ {
+  "id": "315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "physician consultation on diet needs"
+ },
+ {
+  "id": "316",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient and family diet advice"
+ },
+ {
+  "id": "317",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "nutrition counseling for individuals, groups"
+ },
+ {
+  "id": "318",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food service standards monitoring"
+ },
+ {
+  "id": "319",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recipe standardization and menus"
+ },
+ {
+  "id": "320",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nutrition program policies"
+ },
+ {
+  "id": "321",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "served meals against diet standards"
+ },
+ {
+  "id": "322",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nutrition teaching materials"
+ },
+ {
+  "id": "323",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food equipment supplies budgets"
+ },
+ {
+  "id": "324",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food purchasing under safety codes"
+ },
+ {
+  "id": "325",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "meal service worker training supervision"
+ },
+ {
+  "id": "326",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "food service or nutrition departments"
+ },
+ {
+  "id": "327",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diet counseling services coordination"
+ },
+ {
+  "id": "328",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "food service sanitation and planning advice"
+ },
+ {
+  "id": "329",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "special diet meals preparation"
+ },
+ {
+  "id": "330",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "dietary and epidemiological research"
+ },
+ {
+  "id": "331",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "dietetics training programs delivery"
+ },
+ {
+  "id": "332",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public nutrition policy recommendations"
+ },
+ {
+  "id": "333",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research findings reports"
+ },
+ {
+  "id": "334",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program funding grant proposals"
+ },
+ {
+  "id": "335",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new food products, equipment testing"
+ },
+ {
+  "id": "336",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "food unit construction planning"
+ },
+ {
+  "id": "337",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eye exams and disease diagnosis"
+ },
+ {
+  "id": "338",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "eye test results treatment plan"
+ },
+ {
+  "id": "339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eyeglasses and contact lenses"
+ },
+ {
+  "id": "340",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "eye disease medication prescribing"
+ },
+ {
+  "id": "341",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient lens care education"
+ },
+ {
+  "id": "342",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to specialists"
+ },
+ {
+  "id": "343",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "eye foreign body removal"
+ },
+ {
+  "id": "344",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "eye surgery patient care"
+ },
+ {
+  "id": "345",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "vision correction therapeutic procedures"
+ },
+ {
+  "id": "346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "vision therapy and rehabilitation"
+ },
+ {
+  "id": "1808",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "prescription accuracy and suitability"
+ },
+ {
+  "id": "1809",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "drug interaction and dosage advice"
+ },
+ {
+  "id": "1810",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescribing trends and compliance"
+ },
+ {
+  "id": "1811",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pharmaceutical supplies ordering, stock"
+ },
+ {
+  "id": "1812",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pharmacy and patient records"
+ },
+ {
+  "id": "1813",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient chronic condition management"
+ },
+ {
+  "id": "1814",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medication and supply selection advice"
+ },
+ {
+  "id": "1815",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "drug regimen quality review"
+ },
+ {
+  "id": "1816",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medication compounding and dispensing"
+ },
+ {
+  "id": "1818",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals to health professionals"
+ },
+ {
+  "id": "1819",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sterile solutions and infusions"
+ },
+ {
+  "id": "1820",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "pharmaceutical mixing, packaging procedures"
+ },
+ {
+  "id": "1822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "pharmacy operations and staff"
+ },
+ {
+  "id": "1823",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hospital medication dispensing consulting"
+ },
+ {
+  "id": "1824",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medication identity, strength, purity"
+ },
+ {
+  "id": "1825",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "pharmacy intern teaching"
+ },
+ {
+  "id": "1826",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "educational information for pharmacists"
+ },
+ {
+  "id": "20404",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "health promotion device training"
+ },
+ {
+  "id": "20405",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurance billing issues"
+ },
+ {
+  "id": "20406",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pharmacy information databases"
+ },
+ {
+  "id": "4073",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient physical condition exams"
+ },
+ {
+  "id": "4074",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "diagnostic test results"
+ },
+ {
+  "id": "4075",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient diagnosis and management decisions"
+ },
+ {
+  "id": "4076",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient health history and notes"
+ },
+ {
+  "id": "4077",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "diagnostic tests ordering, administering"
+ },
+ {
+  "id": "4078",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "therapy and medication prescriptions"
+ },
+ {
+  "id": "4079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "injections, suturing, wound care"
+ },
+ {
+  "id": "4080",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient regimen counseling"
+ },
+ {
+  "id": "4081",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surgical procedure assistance"
+ },
+ {
+  "id": "4082",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "technician activity supervision"
+ },
+ {
+  "id": "4083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hospital rounds patient charts"
+ },
+ {
+  "id": "4084",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical supplies and equipment ordering"
+ },
+ {
+  "id": "17296",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating room supplies and gases"
+ },
+ {
+  "id": "17297",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff anesthesia practice training"
+ },
+ {
+  "id": "17298",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "diagnostic specimens collection"
+ },
+ {
+  "id": "17299",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "anesthesiology professional development activities"
+ },
+ {
+  "id": "17300",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pre-anesthetic health histories"
+ },
+ {
+  "id": "17301",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient airway management"
+ },
+ {
+  "id": "17302",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency resuscitation of patients"
+ },
+ {
+  "id": "17303",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "post-anesthesia patient monitoring records"
+ },
+ {
+  "id": "17304",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "anesthesia delivery systems calibration"
+ },
+ {
+  "id": "17305",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient vital sign monitoring"
+ },
+ {
+  "id": "17306",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "advanced life support techniques"
+ },
+ {
+  "id": "17307",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "epidural and spinal injections"
+ },
+ {
+  "id": "17308",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient monitoring catheter techniques"
+ },
+ {
+  "id": "17309",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "blood and fluid administration"
+ },
+ {
+  "id": "17310",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient anesthesia levels"
+ },
+ {
+  "id": "17311",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "anesthetic drug administration"
+ },
+ {
+  "id": "20122",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "foot and ankle disorders"
+ },
+ {
+  "id": "7849",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "foot disease and deformity diagnosis"
+ },
+ {
+  "id": "7850",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "foot medications, devices, surgery orders"
+ },
+ {
+  "id": "7851",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "foot condition surgery"
+ },
+ {
+  "id": "7852",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient foot care advice"
+ },
+ {
+  "id": "7853",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient referrals for systemic disorders"
+ },
+ {
+  "id": "7854",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "deformity casts and strapping"
+ },
+ {
+  "id": "7855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prosthetic appliances making, fitting"
+ },
+ {
+  "id": "7856",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "practice hiring, supplies, records"
+ },
+ {
+  "id": "7857",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public foot care education"
+ },
+ {
+  "id": "7858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "whirlpool and electrical foot therapy"
+ },
+ {
+  "id": "15231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "caregivers of therapy patients"
+ },
+ {
+  "id": "347",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "therapy records"
+ },
+ {
+  "id": "348",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient progress reports"
+ },
+ {
+  "id": "349",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient ability tests, rehab goals"
+ },
+ {
+  "id": "350",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient activities for life skills"
+ },
+ {
+  "id": "351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "occupational therapy programs delivery"
+ },
+ {
+  "id": "352",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient work or living environments"
+ },
+ {
+  "id": "353",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rehabilitation team activity programs"
+ },
+ {
+  "id": "354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client cognitive computer-program training"
+ },
+ {
+  "id": "355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "health promotion group activities"
+ },
+ {
+  "id": "356",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student and staff therapy training"
+ },
+ {
+  "id": "357",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "splints and adaptive equipment"
+ },
+ {
+  "id": "358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient work and school skills"
+ },
+ {
+  "id": "359",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "therapy materials setup and cleaning"
+ },
+ {
+  "id": "360",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "workplace health risks advice"
+ },
+ {
+  "id": "361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "occupational therapy research"
+ },
+ {
+  "id": "362",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient job locating assistance"
+ },
+ {
+  "id": "17336",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client cane skills teaching"
+ },
+ {
+  "id": "17337",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client service referrals"
+ },
+ {
+  "id": "17338",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent and teacher consultation"
+ },
+ {
+  "id": "17339",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "professional development activities"
+ },
+ {
+  "id": "17340",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "low vision devices distribution"
+ },
+ {
+  "id": "17341",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "communication device instruction programs"
+ },
+ {
+  "id": "17342",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "rehabilitation specialist collaboration"
+ },
+ {
+  "id": "17343",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client tests and rehabilitation plans"
+ },
+ {
+  "id": "17344",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client Braille training"
+ },
+ {
+  "id": "17345",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client independent travel teaching"
+ },
+ {
+  "id": "17346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client sensory information training"
+ },
+ {
+  "id": "17347",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client adaptive equipment training"
+ },
+ {
+  "id": "17348",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "client rehabilitation progress"
+ },
+ {
+  "id": "17349",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assessment and progress reports"
+ },
+ {
+  "id": "17350",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collaborative client rehabilitation plans"
+ },
+ {
+  "id": "17351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "client functioning assessment"
+ },
+ {
+  "id": "17352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "client mobility device training"
+ },
+ {
+  "id": "17353",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "visual impairment life skill needs"
+ },
+ {
+  "id": "17354",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client independent living skills"
+ },
+ {
+  "id": "17355",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client mobility device recommendations"
+ },
+ {
+  "id": "23918",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client self-advocacy skills"
+ },
+ {
+  "id": "20407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient findings outside therapy"
+ },
+ {
+  "id": "363",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient physical treatment programs"
+ },
+ {
+  "id": "364",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient initial exam and diagnosis"
+ },
+ {
+  "id": "365",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "treatment effects and adjustments"
+ },
+ {
+  "id": "366",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "manual exercises, massage, traction"
+ },
+ {
+  "id": "367",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient and family home treatment"
+ },
+ {
+  "id": "368",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient and practitioner intervention planning"
+ },
+ {
+  "id": "369",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "referral and medical records review"
+ },
+ {
+  "id": "370",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient chart treatment progress"
+ },
+ {
+  "id": "371",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient informed consent"
+ },
+ {
+  "id": "372",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient discharge and follow-up"
+ },
+ {
+  "id": "373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient strength and function measurement"
+ },
+ {
+  "id": "374",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient goals and reevaluation plans"
+ },
+ {
+  "id": "375",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "intervention risks and benefits explanation"
+ },
+ {
+  "id": "377",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supportive personnel supervision"
+ },
+ {
+  "id": "378",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical agent treatment equipment"
+ },
+ {
+  "id": "379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "health profession student teaching"
+ },
+ {
+  "id": "380",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prosthetic and orthotic devices"
+ },
+ {
+  "id": "381",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "physical therapy educational information"
+ },
+ {
+  "id": "382",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "community resource referrals"
+ },
+ {
+  "id": "383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research findings in practice"
+ },
+ {
+  "id": "384",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community activities and public policy"
+ },
+ {
+  "id": "385",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "medical supportive devices repair"
+ },
+ {
+  "id": "386",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "group rehabilitation activities"
+ }
+]

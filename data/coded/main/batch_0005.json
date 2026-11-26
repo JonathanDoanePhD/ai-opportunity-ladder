@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "20472",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "casino marketing and promotion"
+ },
+ {
+  "id": "7185",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer payout complaints"
+ },
+ {
+  "id": "7186",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "suspected cheating players at tables"
+ },
+ {
+  "id": "7187",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "casino games and strategies knowledge"
+ },
+ {
+  "id": "7188",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new dealers training and evaluation"
+ },
+ {
+  "id": "7189",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "gaming floor rule compliance"
+ },
+ {
+  "id": "7190",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "house rules and betting limits"
+ },
+ {
+  "id": "7191",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "table staffing levels and rotations"
+ },
+ {
+  "id": "7192",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring gaming workers"
+ },
+ {
+  "id": "7193",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work schedules and attendance records"
+ },
+ {
+  "id": "7194",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "player comps distribution"
+ },
+ {
+  "id": "7195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "casino gambling policies"
+ },
+ {
+  "id": "7196",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash supply to tables paperwork"
+ },
+ {
+  "id": "7197",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "game bank and table limits"
+ },
+ {
+  "id": "7198",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit extended to players"
+ },
+ {
+  "id": "7199",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "expense budgets and collection reports"
+ },
+ {
+  "id": "7200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "player bets and payoffs"
+ },
+ {
+  "id": "7201",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "wager and payoff summary sheets"
+ },
+ {
+  "id": "7202",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "table vacancy notices to attendants"
+ },
+ {
+  "id": "21400",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency first aid for injured guests"
+ },
+ {
+  "id": "21401",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff task and hour assignments"
+ },
+ {
+  "id": "21402",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "department expenses and revenue records"
+ },
+ {
+  "id": "21403",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "recreational facility equipment cleaning"
+ },
+ {
+  "id": "21404",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility rules for customers"
+ },
+ {
+  "id": "21405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ride equipment wear inspection"
+ },
+ {
+  "id": "21406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring recreation associates"
+ },
+ {
+  "id": "21407",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "amusement mechanical equipment operation"
+ },
+ {
+  "id": "21408",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "event programs and activity schedules"
+ },
+ {
+  "id": "21409",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "group recreational activities leading"
+ },
+ {
+  "id": "21410",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints about workers"
+ },
+ {
+  "id": "21411",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ride components and vehicles storage"
+ },
+ {
+  "id": "21412",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "coworker electronic communication"
+ },
+ {
+  "id": "21413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "event information for customers"
+ },
+ {
+  "id": "21414",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker procedure training"
+ },
+ {
+  "id": "21415",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programming strategy from customer data"
+ },
+ {
+  "id": "21416",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "recreational program budgets"
+ },
+ {
+  "id": "1104",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hotel guest check-in"
+ },
+ {
+  "id": "1105",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "guest inquiries and complaints"
+ },
+ {
+  "id": "1106",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "worker duties and shift schedules"
+ },
+ {
+  "id": "1107",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "hotel front-office coordination"
+ },
+ {
+  "id": "1108",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "room rates and budgets"
+ },
+ {
+  "id": "1109",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordination with other managers"
+ },
+ {
+  "id": "1111",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "hotel facility operations upkeep"
+ },
+ {
+  "id": "1112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "staff performance on site"
+ },
+ {
+  "id": "1113",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "hotel staff training"
+ },
+ {
+  "id": "1114",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "guest accommodation assignment"
+ },
+ {
+  "id": "1115",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department policies and procedures"
+ },
+ {
+  "id": "1116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guest rooms and grounds cleanliness"
+ },
+ {
+  "id": "1117",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "departmental paperwork"
+ },
+ {
+  "id": "1118",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "job applicant interviewing and hiring"
+ },
+ {
+  "id": "1119",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies and outside services purchasing"
+ },
+ {
+  "id": "1120",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "messages, mail, local recommendations"
+ },
+ {
+  "id": "1121",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hotel marketing and public relations"
+ },
+ {
+  "id": "1122",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "convention staff coordination"
+ },
+ {
+  "id": "1123",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "advance registration payments and confirmations"
+ },
+ {
+  "id": "1124",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "event planning meetings with clients"
+ },
+ {
+  "id": "1125",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rooms, tables, laundry staff assistance"
+ },
+ {
+  "id": "1126",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "guest tour ticket bookings"
+ },
+ {
+  "id": "18599",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hotel revenue activity"
+ },
+ {
+  "id": "18600",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payments and expenditure records"
+ },
+ {
+  "id": "46",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clinical staff supervision"
+ },
+ {
+  "id": "47",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "unit objectives and criteria"
+ },
+ {
+  "id": "48",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel recruitment and training"
+ },
+ {
+  "id": "49",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computerized record systems"
+ },
+ {
+  "id": "50",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "facility policies and procedures"
+ },
+ {
+  "id": "51",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fiscal operations and budgets"
+ },
+ {
+  "id": "52",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff schedules and assignments"
+ },
+ {
+  "id": "53",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "board and department communication"
+ },
+ {
+  "id": "54",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "resource and facility utilization"
+ },
+ {
+  "id": "55",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medical and regulatory developments"
+ },
+ {
+  "id": "56",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "healthcare delivery organizational change"
+ },
+ {
+  "id": "57",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program status activity reports"
+ },
+ {
+  "id": "58",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "health facility programs and services"
+ },
+ {
+  "id": "59",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community and medical group consultation"
+ },
+ {
+  "id": "60",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility safety and compliance"
+ },
+ {
+  "id": "61",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility data for planning and risk"
+ },
+ {
+  "id": "62",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medical and community health programs"
+ },
+ {
+  "id": "63",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educational materials and programs"
+ },
+ {
+  "id": "7203",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical project planning conferences"
+ },
+ {
+  "id": "7204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client proposals and research findings"
+ },
+ {
+  "id": "7205",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "research and production activities"
+ },
+ {
+  "id": "7206",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project proposals"
+ },
+ {
+  "id": "7207",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "problem analysis and testing phases"
+ },
+ {
+  "id": "7208",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project and testing reports"
+ },
+ {
+  "id": "7209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical staff hiring and supervision"
+ },
+ {
+  "id": "7210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific goals and plans"
+ },
+ {
+  "id": "7211",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical work standards compliance"
+ },
+ {
+  "id": "7212",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new technology and staff training"
+ },
+ {
+  "id": "7213",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "plant, animal and habitat stewardship"
+ },
+ {
+  "id": "7214",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "own field research"
+ },
+ {
+  "id": "7215",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel recruitment and competence"
+ },
+ {
+  "id": "7216",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patents and legal requirements"
+ },
+ {
+  "id": "7217",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets and expenditures"
+ },
+ {
+  "id": "7218",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "professional meeting presentations"
+ },
+ {
+  "id": "15582",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "industry-sponsored trial solicitation"
+ },
+ {
+  "id": "15583",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "clinical studies literature and learning"
+ },
+ {
+  "id": "15584",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "protocol patient registration"
+ },
+ {
+  "id": "15585",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality assurance audits preparation"
+ },
+ {
+  "id": "15586",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research budgets and disbursements"
+ },
+ {
+  "id": "15587",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "subject interviews, vitals, ECGs"
+ },
+ {
+  "id": "15588",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "protocol dosage advice for physicians"
+ },
+ {
+  "id": "15589",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "subject recruitment advertising materials"
+ },
+ {
+  "id": "15590",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment and software specifications vendors"
+ },
+ {
+  "id": "15591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "study recruitment practices with clinicians"
+ },
+ {
+  "id": "15592",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "subject enrollment and dropout records"
+ },
+ {
+  "id": "15593",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study protocols review"
+ },
+ {
+  "id": "15594",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "adverse event data"
+ },
+ {
+  "id": "15595",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "study documentation and reports"
+ },
+ {
+  "id": "15596",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study protocol development"
+ },
+ {
+  "id": "15597",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "informed consent at enrollment"
+ },
+ {
+  "id": "15598",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "study drug and device orders"
+ },
+ {
+  "id": "15599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "study equipment and supplies space"
+ },
+ {
+  "id": "15600",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sponsor visits and data questions"
+ },
+ {
+  "id": "15601",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "research staff instruction"
+ },
+ {
+  "id": "15602",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patients about study expectations"
+ },
+ {
+  "id": "15603",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "protocol problems"
+ },
+ {
+  "id": "15604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "study drugs and devices dispensing"
+ },
+ {
+  "id": "15605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "study specimen handling"
+ },
+ {
+  "id": "15606",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "follow-up information from subjects"
+ },
+ {
+  "id": "15607",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "laboratory findings communication"
+ },
+ {
+  "id": "15608",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study presentations and reports"
+ },
+ {
+  "id": "15609",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "collected study data"
+ },
+ {
+  "id": "15610",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "potential subject eligibility screening"
+ },
+ {
+  "id": "15611",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "study sites and equipment availability"
+ },
+ {
+  "id": "15612",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "subject appointment scheduling"
+ },
+ {
+  "id": "15613",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "study compliance monitoring"
+ },
+ {
+  "id": "15614",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "study records and forms"
+ },
+ {
+  "id": "15615",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "water capture work crews"
+ },
+ {
+  "id": "15616",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hydraulic structure designs"
+ },
+ {
+  "id": "15617",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "water rights with communities"
+ },
+ {
+  "id": "15618",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hydrologic water quality models"
+ },
+ {
+  "id": "15619",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water data in GIS"
+ },
+ {
+  "id": "15620",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water body health documentation"
+ },
+ {
+  "id": "15621",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "water resource proposals and reports"
+ },
+ {
+  "id": "15622",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "water conservation policy recommendations"
+ },
+ {
+  "id": "15623",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community stormwater programs assistance"
+ },
+ {
+  "id": "15624",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "water proposals to community groups"
+ },
+ {
+  "id": "15625",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "treated wastewater discharge methods"
+ },
+ {
+  "id": "15626",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water use, demand and quality"
+ },
+ {
+  "id": "15627",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "water pollution causes and sources"
+ },
+ {
+  "id": "15628",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "watershed protection and rehabilitation plans"
+ },
+ {
+  "id": "15629",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water monitoring and assessment methods"
+ },
+ {
+  "id": "15630",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "water pollutants and treatment studies"
+ },
+ {
+  "id": "15631",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "water compliance investigations"
+ },
+ {
+  "id": "15632",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "watershed project cost-benefit studies"
+ },
+ {
+  "id": "15633",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stormwater systems improvement opportunities"
+ },
+ {
+  "id": "15634",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "watershed operations strategies"
+ },
+ {
+  "id": "15635",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "water quality sampling and monitoring"
+ },
+ {
+  "id": "20842",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee schedules and attendance"
+ },
+ {
+  "id": "5260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mail processing operations supervision"
+ },
+ {
+  "id": "5261",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "postal facility operations"
+ },
+ {
+  "id": "5262",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer complaints"
+ },
+ {
+  "id": "5263",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "postal employee hiring and training"
+ },
+ {
+  "id": "5264",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee work schedules"
+ },
+ {
+  "id": "5265",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "post office activity reports"
+ },
+ {
+  "id": "5266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "labor disputes"
+ },
+ {
+  "id": "5267",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "post office box rent collection"
+ },
+ {
+  "id": "5268",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "money orders issuing and cashing"
+ },
+ {
+  "id": "5269",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public postal services and regulations"
+ },
+ {
+  "id": "5270",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "postmaster selection and training"
+ },
+ {
+  "id": "5271",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplier bids and supply requisitions"
+ },
+ {
+  "id": "7219",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "prospective tenants property showing"
+ },
+ {
+  "id": "7220",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rent, assessments and expense payments"
+ },
+ {
+  "id": "7221",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grounds, facilities and equipment inspection"
+ },
+ {
+  "id": "7222",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "tenant complaints and violations"
+ },
+ {
+  "id": "7223",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "maintenance and construction projects"
+ },
+ {
+  "id": "7224",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "property operations management"
+ },
+ {
+  "id": "7225",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "property sale and lease negotiation"
+ },
+ {
+  "id": "7226",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales, rental and cost records"
+ },
+ {
+  "id": "7227",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "tenant eligibility certification"
+ },
+ {
+  "id": "7228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property budgets and financial reports"
+ },
+ {
+  "id": "7229",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff and contractor direction"
+ },
+ {
+  "id": "7230",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "insurers and emergency agencies contact"
+ },
+ {
+  "id": "7231",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "vacant space marketing"
+ },
+ {
+  "id": "7232",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contractor bids analysis"
+ },
+ {
+  "id": "7233",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "rents versus rental market"
+ },
+ {
+  "id": "7234",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property service contracts"
+ },
+ {
+  "id": "7235",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building supplies and equipment purchasing"
+ },
+ {
+  "id": "7236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "managers, tenants and owners liaison"
+ },
+ {
+  "id": "7237",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "association members needs"
+ },
+ {
+  "id": "7238",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "boards on legal and neighbor disputes"
+ },
+ {
+  "id": "7239",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rental practices legal compliance"
+ },
+ {
+  "id": "7240",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "common area cleaning and minor repairs"
+ },
+ {
+  "id": "7241",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management contract negotiation with clients"
+ },
+ {
+  "id": "7242",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "construction financing loans negotiation"
+ },
+ {
+  "id": "7243",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "architectural firm contracting for plans"
+ },
+ {
+  "id": "7244",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project support from officials and utilities"
+ },
+ {
+  "id": "7245",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "property acquisition market information"
+ }
+]

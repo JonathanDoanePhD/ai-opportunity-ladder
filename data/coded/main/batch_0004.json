@@ -1,0 +1,1570 @@
+[
+ {
+  "id": "21370",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "crop and environmental data"
+ },
+ {
+  "id": "21371",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "plant nursery operations"
+ },
+ {
+  "id": "21372",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fish spawning and incubation"
+ },
+ {
+  "id": "21373",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "live fish transfers"
+ },
+ {
+  "id": "21374",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "farm resource allocation, crises"
+ },
+ {
+  "id": "21375",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant growing conditions and schedules"
+ },
+ {
+  "id": "21376",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hatchery fish growth and health"
+ },
+ {
+  "id": "21377",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "irrigation systems and controllers"
+ },
+ {
+  "id": "21378",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legally required farm reports"
+ },
+ {
+  "id": "21379",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facilities and equipment repair"
+ },
+ {
+  "id": "21380",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "farm financial and production records"
+ },
+ {
+  "id": "21381",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clerical, inventory, marketing coordination"
+ },
+ {
+  "id": "21382",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "livestock breeding programs"
+ },
+ {
+  "id": "21383",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "crop and livestock sale negotiation"
+ },
+ {
+  "id": "21384",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hatchery brood stock selection"
+ },
+ {
+  "id": "21385",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "soil fertilizer requirements"
+ },
+ {
+  "id": "21386",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer plant care advice"
+ },
+ {
+  "id": "21387",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market conditions, acreage choices"
+ },
+ {
+  "id": "21388",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "farm structure construction supervision"
+ },
+ {
+  "id": "21389",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pest control practices"
+ },
+ {
+  "id": "21390",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crop condition inspections"
+ },
+ {
+  "id": "21391",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "livestock disease and parasite exams"
+ },
+ {
+  "id": "21392",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "crop and livestock planning decisions"
+ },
+ {
+  "id": "21393",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "farm operations and safety policies"
+ },
+ {
+  "id": "21394",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "crop production field operations"
+ },
+ {
+  "id": "21395",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product marketing alternatives"
+ },
+ {
+  "id": "21396",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "farm staff hiring and training"
+ },
+ {
+  "id": "21397",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "farm activity safety compliance"
+ },
+ {
+  "id": "21398",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant and animal environments"
+ },
+ {
+  "id": "21399",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financing and farm purchases"
+ },
+ {
+  "id": "19518",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green building strategies"
+ },
+ {
+  "id": "19519",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green construction budgets"
+ },
+ {
+  "id": "19520",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental protection programs"
+ },
+ {
+  "id": "19521",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "green building staff training"
+ },
+ {
+  "id": "19522",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "project environmental regulation compliance"
+ },
+ {
+  "id": "19523",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "pre-building cost and feasibility assessments"
+ },
+ {
+  "id": "19524",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "LEED third-party verification"
+ },
+ {
+  "id": "20332",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "construction project schedules"
+ },
+ {
+  "id": "20333",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "site damage, accident, delay investigation"
+ },
+ {
+  "id": "20334",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "construction contracts and negotiations"
+ },
+ {
+  "id": "20335",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "construction plans for delays, emergencies"
+ },
+ {
+  "id": "20336",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "plans and contract terms explanations"
+ },
+ {
+  "id": "20337",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction permits and licenses"
+ },
+ {
+  "id": "20338",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction methods cost-effectiveness"
+ },
+ {
+  "id": "20339",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "craft work contractors, oversight"
+ },
+ {
+  "id": "20340",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "construction workers supervision"
+ },
+ {
+  "id": "3314",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "construction problems, stakeholder discussions"
+ },
+ {
+  "id": "3315",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "construction project activities"
+ },
+ {
+  "id": "3317",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor requirements, worker dispatch"
+ },
+ {
+  "id": "3318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "building code compliance inspection"
+ },
+ {
+  "id": "3323",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job specifications, construction methods"
+ },
+ {
+  "id": "3325",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction supplies requisitions"
+ },
+ {
+  "id": "3326",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budget and progress reports"
+ },
+ {
+  "id": "3327",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "construction quality control programs"
+ },
+ {
+  "id": "3331",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "land acquisition for construction"
+ },
+ {
+  "id": "5193",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parents and staff discussions"
+ },
+ {
+  "id": "5194",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance, planning, personnel reports"
+ },
+ {
+  "id": "5195",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educational standards, goals, policies"
+ },
+ {
+  "id": "5196",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student progress, problem resolution"
+ },
+ {
+  "id": "5197",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funding allocation and purchase authorization"
+ },
+ {
+  "id": "5198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff recruitment, hiring, evaluation"
+ },
+ {
+  "id": "5199",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teachers and administrators direction"
+ },
+ {
+  "id": "5200",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "instructional methods and content"
+ },
+ {
+  "id": "5201",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "government codes, facility safety"
+ },
+ {
+  "id": "5202",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program offerings and schedules"
+ },
+ {
+  "id": "5203",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "program evaluation and compliance"
+ },
+ {
+  "id": "5204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children teaching and care"
+ },
+ {
+  "id": "5205",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budget requests, grant proposals"
+ },
+ {
+  "id": "5206",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program publications and promotional literature"
+ },
+ {
+  "id": "5207",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "enrollment forecasting data"
+ },
+ {
+  "id": "5208",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community and agency program information"
+ },
+ {
+  "id": "5209",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "committees of specialists, volunteers"
+ },
+ {
+  "id": "18587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teacher professional development"
+ },
+ {
+  "id": "18588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "special education meetings and support"
+ },
+ {
+  "id": "18589",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "agency policy meetings"
+ },
+ {
+  "id": "18590",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "school bus and food services"
+ },
+ {
+  "id": "18591",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "extracurricular activities and events"
+ },
+ {
+  "id": "18592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "administrative staff mentoring"
+ },
+ {
+  "id": "21040",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "school improvement plans from data"
+ },
+ {
+  "id": "5210",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "school program approvals and proposals"
+ },
+ {
+  "id": "5211",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "attendance and personnel records"
+ },
+ {
+  "id": "5212",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parents and staff discussions"
+ },
+ {
+  "id": "5213",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budget requests, grant proposals"
+ },
+ {
+  "id": "5214",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "school maintenance and facility use"
+ },
+ {
+  "id": "5215",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student personal, academic counseling"
+ },
+ {
+  "id": "5216",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "committees of specialists, volunteers"
+ },
+ {
+  "id": "5217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student classroom teaching"
+ },
+ {
+  "id": "5218",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "school construction and repair advocacy"
+ },
+ {
+  "id": "5219",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "instructional methods and content"
+ },
+ {
+  "id": "5220",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "business and community partnerships"
+ },
+ {
+  "id": "5221",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "teachers and staff direction"
+ },
+ {
+  "id": "5222",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula and program evaluation"
+ },
+ {
+  "id": "5223",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "educational standards and policies"
+ },
+ {
+  "id": "5224",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "school staff hiring and training"
+ },
+ {
+  "id": "5225",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student discipline and attendance enforcement"
+ },
+ {
+  "id": "5226",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "classroom teaching methods observation"
+ },
+ {
+  "id": "5227",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "district-wide school programs"
+ },
+ {
+  "id": "5228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "government codes, facility safety"
+ },
+ {
+  "id": "5229",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funding allocation and purchase authorization"
+ },
+ {
+  "id": "5230",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program publications and promotional literature"
+ },
+ {
+  "id": "5231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel action recommendations"
+ },
+ {
+  "id": "5232",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "curriculum standards, mission statements"
+ },
+ {
+  "id": "5233",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "enrollment and curriculum forecasting data"
+ },
+ {
+  "id": "5234",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course schedules and staffing estimates"
+ },
+ {
+  "id": "18593",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student course and career advising"
+ },
+ {
+  "id": "18594",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "administrative personnel direction"
+ },
+ {
+  "id": "18595",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "institutional strategic plans"
+ },
+ {
+  "id": "18596",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "university promotion and partnerships"
+ },
+ {
+  "id": "18597",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grant writing and project supervision"
+ },
+ {
+  "id": "21041",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student learning assessments"
+ },
+ {
+  "id": "21042",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "academic and institutional data reports"
+ },
+ {
+  "id": "5235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "departmental personnel hiring and termination"
+ },
+ {
+  "id": "5236",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets and financial reports"
+ },
+ {
+  "id": "5237",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "institutional representation at events"
+ },
+ {
+  "id": "5238",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "faculty and college committees"
+ },
+ {
+  "id": "5239",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "faculty and staff assistance"
+ },
+ {
+  "id": "5240",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational policies from analysis"
+ },
+ {
+  "id": "5241",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "admission requirements and credit policies"
+ },
+ {
+  "id": "5242",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "faculty appointments and evaluation"
+ },
+ {
+  "id": "5243",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "administrative departments direction"
+ },
+ {
+  "id": "5244",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "curricula development and revision"
+ },
+ {
+  "id": "5245",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "course, teaching, room schedules"
+ },
+ {
+  "id": "5246",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory agency consultation"
+ },
+ {
+  "id": "5248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "department course teaching"
+ },
+ {
+  "id": "5249",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student recruitment and admissions"
+ },
+ {
+  "id": "5250",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student misconduct review, counseling"
+ },
+ {
+  "id": "5253",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scholarship and loan programs"
+ },
+ {
+  "id": "5254",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "university catalogs and schedules"
+ },
+ {
+  "id": "5255",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "registration statistics and policies"
+ },
+ {
+  "id": "5258",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "sporting and cultural events"
+ },
+ {
+  "id": "5259",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "institutional fundraising activities"
+ },
+ {
+  "id": "1060",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project specification discussions"
+ },
+ {
+  "id": "1063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility and equipment installation, repair"
+ },
+ {
+  "id": "1070",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "proposals and findings for clients"
+ },
+ {
+  "id": "1071",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client project specifications negotiation"
+ },
+ {
+  "id": "19525",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability and environmental programs"
+ },
+ {
+  "id": "19526",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental regulations and pressures"
+ },
+ {
+  "id": "19527",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering environmental impacts"
+ },
+ {
+  "id": "19528",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technology environmental threats, opportunities"
+ },
+ {
+  "id": "20170",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "technical activities coordination"
+ },
+ {
+  "id": "20171",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project design changes"
+ },
+ {
+  "id": "20172",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets, bids, contracts"
+ },
+ {
+  "id": "20173",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project feasibility analysis"
+ },
+ {
+  "id": "20174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project staff recruitment and evaluation"
+ },
+ {
+  "id": "20175",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contracts and cost estimates"
+ },
+ {
+  "id": "20176",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering policies, standards, procedures"
+ },
+ {
+  "id": "20177",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "administrative reports and expenditures"
+ },
+ {
+  "id": "20178",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "scientific and technical goals"
+ },
+ {
+  "id": "20179",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project support from officials, public"
+ },
+ {
+  "id": "20180",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "survey work coordination"
+ },
+ {
+  "id": "15563",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab-scale industrial process models"
+ },
+ {
+  "id": "15564",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computational tools for biofuels research"
+ },
+ {
+  "id": "15566",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "biofuels research technical staff guidance"
+ },
+ {
+  "id": "15567",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biofuels experimental plans"
+ },
+ {
+  "id": "15568",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biofuels research reports"
+ },
+ {
+  "id": "15569",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "protein analysis for biofuel production"
+ },
+ {
+  "id": "15570",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biofuel recovery separation processes"
+ },
+ {
+  "id": "15571",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "ethanol recovery from bioreactor streams"
+ },
+ {
+  "id": "15572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biomass pretreatment efficiency estimation"
+ },
+ {
+  "id": "15573",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "solvent and product recovery experiments"
+ },
+ {
+  "id": "15574",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "applied biofuels research projects"
+ },
+ {
+  "id": "15575",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical conversion process designs"
+ },
+ {
+  "id": "15576",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "biomass pretreatment experiments"
+ },
+ {
+  "id": "15577",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "feedstock fermentation experiments"
+ },
+ {
+  "id": "15578",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biofuels study data"
+ },
+ {
+  "id": "15579",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "biofuels prototyping projects"
+ },
+ {
+  "id": "15580",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new biofuels products from research"
+ },
+ {
+  "id": "15581",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "energy crop breeding research"
+ },
+ {
+  "id": "1077",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cooked food flavor and palatability"
+ },
+ {
+  "id": "1078",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer food quality complaints"
+ },
+ {
+  "id": "1079",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food deliveries and contents"
+ },
+ {
+  "id": "1080",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food preparation and presentation"
+ },
+ {
+  "id": "1081",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budgets, payroll, financial transactions"
+ },
+ {
+  "id": "1082",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staff hours and duties"
+ },
+ {
+  "id": "1083",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "health and fire regulation compliance"
+ },
+ {
+  "id": "1084",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "cooking staff assignments"
+ },
+ {
+  "id": "1085",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sanitation and subsidy records"
+ },
+ {
+  "id": "1086",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel performance and service standards"
+ },
+ {
+  "id": "1087",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food and beverage consumption estimates"
+ },
+ {
+  "id": "1088",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "work procedures and operational problems"
+ },
+ {
+  "id": "1089",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cooking and serving food"
+ },
+ {
+  "id": "1090",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "food and equipment inventories"
+ },
+ {
+  "id": "1091",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker training, hiring, evaluation"
+ },
+ {
+  "id": "1092",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and supply orders"
+ },
+ {
+  "id": "1093",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "menu costs and pricing"
+ },
+ {
+  "id": "1094",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "item sales and profitability"
+ },
+ {
+  "id": "1095",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff recruitment and staffing needs"
+ },
+ {
+  "id": "1096",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment maintenance and services coordination"
+ },
+ {
+  "id": "1097",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "liquor regulation compliance"
+ },
+ {
+  "id": "1098",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "restaurant guests seating"
+ },
+ {
+  "id": "1099",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nutritional standards for dining"
+ },
+ {
+  "id": "1100",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "menus and food utilization"
+ },
+ {
+  "id": "1101",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "specialty dishes and recipes"
+ },
+ {
+  "id": "1102",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "dining reservations"
+ },
+ {
+  "id": "1103",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "event facility scheduling and negotiation"
+ },
+ {
+  "id": "15199",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cash counting and bank deposits"
+ }
+]

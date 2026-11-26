@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "22454",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student bus boarding"
+ },
+ {
+  "id": "22456",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff meetings and committees"
+ },
+ {
+  "id": "22457",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "classroom cleaning"
+ },
+ {
+  "id": "22458",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student payments for projects"
+ },
+ {
+  "id": "22459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "skills demonstrations to students"
+ },
+ {
+  "id": "22460",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coordination with classroom teachers"
+ },
+ {
+  "id": "22461",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "handing out class materials"
+ },
+ {
+  "id": "22462",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tests and homework papers"
+ },
+ {
+  "id": "22463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student rule enforcement"
+ },
+ {
+  "id": "22464",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student homework and test scoring"
+ },
+ {
+  "id": "22465",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student equipment safety"
+ },
+ {
+  "id": "22466",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laminating teaching materials"
+ },
+ {
+  "id": "22467",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "classroom computers and student help"
+ },
+ {
+  "id": "22468",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student performance observations"
+ },
+ {
+  "id": "22469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audio-visual equipment"
+ },
+ {
+  "id": "22470",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "classroom displays and materials"
+ },
+ {
+  "id": "22471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's recreational games"
+ },
+ {
+  "id": "22472",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent-teacher conferences"
+ },
+ {
+  "id": "22473",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "teaching aids such as charts"
+ },
+ {
+  "id": "22474",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lesson materials and displays"
+ },
+ {
+  "id": "22476",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "presenting lessons to students"
+ },
+ {
+  "id": "22477",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "classroom supply orders"
+ },
+ {
+  "id": "22478",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student supervision across school"
+ },
+ {
+  "id": "22479",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class attendance records"
+ },
+ {
+  "id": "22480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student social skills"
+ },
+ {
+  "id": "22481",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "children's individual tutoring"
+ },
+ {
+  "id": "22482",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "document typing and filing"
+ },
+ {
+  "id": "22483",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "presentation supplements with technology"
+ },
+ {
+  "id": "22484",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student bus boarding"
+ },
+ {
+  "id": "22485",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "school library help"
+ },
+ {
+  "id": "22486",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff meetings and committees"
+ },
+ {
+  "id": "22487",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student behavior therapy regimens"
+ },
+ {
+  "id": "22488",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "classroom cleaning"
+ },
+ {
+  "id": "22489",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "coordination with classroom teachers"
+ },
+ {
+  "id": "22490",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "handing out class materials"
+ },
+ {
+  "id": "22491",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "special instruction strategies"
+ },
+ {
+  "id": "22492",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student rule enforcement"
+ },
+ {
+  "id": "22493",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student homework and test scoring"
+ },
+ {
+  "id": "22494",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "student equipment safety"
+ },
+ {
+  "id": "22495",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "students' daily living skills"
+ },
+ {
+  "id": "22496",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laminating teaching materials"
+ },
+ {
+  "id": "22497",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "classroom computers and student help"
+ },
+ {
+  "id": "22498",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "student performance observations"
+ },
+ {
+  "id": "22499",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "classroom displays and materials"
+ },
+ {
+  "id": "22500",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "children's recreational games"
+ },
+ {
+  "id": "22501",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "parent-teacher conferences"
+ },
+ {
+  "id": "22502",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "classroom learning materials setup"
+ },
+ {
+  "id": "22503",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lesson materials and displays"
+ },
+ {
+  "id": "22504",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lesson outlines for teacher review"
+ },
+ {
+  "id": "22505",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "presenting lessons to students"
+ },
+ {
+  "id": "22506",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "students with special needs"
+ },
+ {
+  "id": "22507",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "assistive devices and facility access"
+ },
+ {
+  "id": "22508",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "classroom supply orders"
+ },
+ {
+  "id": "22509",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "student supervision across school"
+ },
+ {
+  "id": "22510",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class attendance records"
+ },
+ {
+  "id": "22511",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "student behavior teaching"
+ },
+ {
+  "id": "22512",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "children's individual tutoring"
+ },
+ {
+  "id": "22513",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "presentation supplements with technology"
+ },
+ {
+  "id": "10955",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "discussion and lab sections"
+ },
+ {
+  "id": "10956",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "student exams and papers grading"
+ },
+ {
+  "id": "10957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "returning student assignments"
+ },
+ {
+  "id": "10958",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "student office hours"
+ },
+ {
+  "id": "10959",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "class work submission procedures"
+ },
+ {
+  "id": "10960",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "examinations preparation and proctoring"
+ },
+ {
+  "id": "10961",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "assignment problems reported to instructors"
+ },
+ {
+  "id": "10962",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "grade discussions with supervisors"
+ },
+ {
+  "id": "10963",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "classroom materials copies"
+ },
+ {
+  "id": "10964",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "laboratory equipment and rules"
+ },
+ {
+  "id": "10965",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "undergraduate courses"
+ },
+ {
+  "id": "10966",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory projects trial run"
+ },
+ {
+  "id": "10967",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "syllabi and course materials"
+ },
+ {
+  "id": "10968",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "faculty laboratory or field research"
+ },
+ {
+  "id": "10971",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "class materials ordering"
+ },
+ {
+  "id": "10972",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "audiovisual equipment help"
+ },
+ {
+  "id": "10973",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "faculty student conferences"
+ },
+ {
+  "id": "20878",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "students needing extra instruction"
+ },
+ {
+  "id": "20879",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supervising instructor's lectures"
+ },
+ {
+  "id": "20880",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "teaching observation scheduling"
+ },
+ {
+  "id": "20242",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design trends and technology"
+ },
+ {
+  "id": "284",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "layout design and material specifications"
+ },
+ {
+  "id": "285",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff art and copy proofs"
+ },
+ {
+  "id": "286",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "own accounts, budgets and schedules"
+ },
+ {
+  "id": "287",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "creative department coordination"
+ },
+ {
+  "id": "288",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "final layouts for clients"
+ },
+ {
+  "id": "289",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client objectives and budgets"
+ },
+ {
+  "id": "290",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design staff hiring and direction"
+ },
+ {
+  "id": "291",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design solutions with creative directors"
+ },
+ {
+  "id": "292",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "illustrative material standards check"
+ },
+ {
+  "id": "293",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "photo shoots and print sessions"
+ },
+ {
+  "id": "294",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "custom illustrations and graphics"
+ },
+ {
+  "id": "295",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layouts and typography instructions"
+ },
+ {
+  "id": "296",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "printer service negotiations"
+ },
+ {
+  "id": "297",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "multimedia product interfaces"
+ },
+ {
+  "id": "298",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "television storyboards"
+ },
+ {
+  "id": "20881",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "craft show planning and attendance"
+ },
+ {
+  "id": "24006",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product shipping packaging"
+ },
+ {
+  "id": "9247",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "handmade functional or decorative objects"
+ },
+ {
+  "id": "9248",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "craft materials cutting and shaping"
+ },
+ {
+  "id": "9250",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "craft materials selection"
+ },
+ {
+  "id": "9251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finishes on crafted objects"
+ },
+ {
+  "id": "9252",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "craft object concepts"
+ },
+ {
+  "id": "9253",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials, dimensions and finishes specs"
+ },
+ {
+  "id": "9254",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer needs and feedback"
+ },
+ {
+  "id": "9255",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "craft patterns and templates"
+ },
+ {
+  "id": "9256",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prototypes of crafted objects"
+ },
+ {
+  "id": "9257",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sketches of crafted objects"
+ },
+ {
+  "id": "9258",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "craft product advertising"
+ },
+ {
+  "id": "9259",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "packaging, display and pricing strategy"
+ },
+ {
+  "id": "9260",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "craft trends and buyer patterns"
+ },
+ {
+  "id": "9261",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software designs for craft"
+ },
+ {
+  "id": "10989",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "artwork in pens, paint or software"
+ },
+ {
+  "id": "10990",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "visual elements for desired effect"
+ },
+ {
+  "id": "10991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "artwork content with clients and editors"
+ },
+ {
+  "id": "10992",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "artwork plans for client approval"
+ },
+ {
+  "id": "10993",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "artistic portfolio maintenance"
+ },
+ {
+  "id": "10994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "finished decorative or communicative artwork"
+ },
+ {
+  "id": "10995",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mixed materials artworks"
+ },
+ {
+  "id": "10996",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "art world trends and events"
+ },
+ {
+  "id": "10997",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "artistic techniques study"
+ },
+ {
+  "id": "10998",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "drawings of buildings and products"
+ },
+ {
+  "id": "10999",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "likenesses of subjects or photos"
+ },
+ {
+  "id": "11000",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sculptures and 3D artwork"
+ },
+ {
+  "id": "11002",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project budgets and timelines"
+ },
+ {
+  "id": "11003",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sketch outlines shading and fill"
+ },
+ {
+  "id": "11004",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "technical experts for installation"
+ },
+ {
+  "id": "11005",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cartoon character sketches"
+ },
+ {
+  "id": "11008",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "protective finishes on paintings"
+ },
+ {
+  "id": "11009",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "drawings traced onto acetate"
+ },
+ {
+  "id": "11010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "painting surface cleaning"
+ },
+ {
+  "id": "11011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clay or wax object modeling"
+ },
+ {
+  "id": "11012",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collaboration with writers on captions"
+ },
+ {
+  "id": "11013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "live cartoon drawing at events"
+ },
+ {
+  "id": "20990",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "artwork marketing materials"
+ },
+ {
+  "id": "20991",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reference photographs of scenes"
+ },
+ {
+  "id": "20992",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "artwork exhibition display setup"
+ },
+ {
+  "id": "20993",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artwork framing and matting"
+ },
+ {
+  "id": "20994",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "artwork submissions to galleries"
+ },
+ {
+  "id": "20995",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "artistic techniques teaching"
+ },
+ {
+  "id": "6882",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "complex graphics and animation"
+ },
+ {
+  "id": "6883",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "2D and 3D motion images"
+ },
+ {
+  "id": "6884",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lifelike lighting and textures"
+ },
+ {
+  "id": "6885",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "camera-ready art and proofs"
+ },
+ {
+  "id": "6886",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "animation storyboards"
+ },
+ {
+  "id": "6887",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "animated narrative sequences"
+ },
+ {
+  "id": "6888",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labels and carton illustrations"
+ },
+ {
+  "id": "6889",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pen-and-paper images for scanning"
+ },
+ {
+  "id": "6890",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "presentations, brochures and web pages"
+ },
+ {
+  "id": "6891",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "animated object behavior simulation"
+ },
+ {
+  "id": "6893",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "multimedia campaign production coordination"
+ },
+ {
+  "id": "6894",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "real objects scanned to models"
+ },
+ {
+  "id": "6895",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "configuration control systems"
+ },
+ {
+  "id": "6896",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "product sketches and drawings"
+ },
+ {
+  "id": "6897",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "model fabrication and drafting direction"
+ },
+ {
+  "id": "6898",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "designs refined to specifications"
+ },
+ {
+  "id": "6899",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product line look and function"
+ },
+ {
+  "id": "6900",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design concepts with departments"
+ },
+ {
+  "id": "6901",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "designs for customer approval"
+ },
+ {
+  "id": "6902",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design feasibility factors"
+ },
+ {
+  "id": "6903",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design publications and competing products"
+ },
+ {
+  "id": "6904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production specifications and costs"
+ },
+ {
+  "id": "6905",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "packaging and advertising graphics"
+ },
+ {
+  "id": "6906",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "manufacturing of own designs"
+ },
+ {
+  "id": "6907",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design assistants' work"
+ },
+ {
+  "id": "6908",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical models and samples"
+ },
+ {
+  "id": "6909",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product safety and appeal"
+ },
+ {
+  "id": "6910",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "industrial standards and regulations"
+ },
+ {
+  "id": "6911",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new product planning and research"
+ },
+ {
+  "id": "6912",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "corporate image advice"
+ },
+ {
+  "id": "13013",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "garment construction workers"
+ },
+ {
+  "id": "13014",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sample garments on models"
+ },
+ {
+  "id": "13015",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "apparel drawings and specifications"
+ },
+ {
+  "id": "13016",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design ideas with executives"
+ },
+ {
+  "id": "13017",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "target markets for designs"
+ },
+ {
+  "id": "13018",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "fashion trends and consumer preferences"
+ },
+ {
+  "id": "13019",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "materials and production techniques"
+ },
+ {
+  "id": "13020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sample garments to sales agents"
+ },
+ {
+  "id": "13021",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "other designers' ideas adapted"
+ },
+ {
+  "id": "13022",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clothing and accessory purchases"
+ },
+ {
+  "id": "13023",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "textile showroom visits"
+ },
+ {
+  "id": "13024",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "collaboration with other designers"
+ },
+ {
+  "id": "13025",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "custom clothing and accessories"
+ },
+ {
+  "id": "13026",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "style pricing"
+ },
+ {
+  "id": "13027",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patterns and fabric cutting"
+ },
+ {
+  "id": "13028",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "product groups marketed via venues"
+ },
+ {
+  "id": "13029",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "scripts and production design concepts"
+ },
+ {
+  "id": "13030",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fabric testing for care labels"
+ },
+ {
+  "id": "13031",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garment mockup sewing"
+ },
+ {
+  "id": "13032",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "period clothing styles for productions"
+ }
+]

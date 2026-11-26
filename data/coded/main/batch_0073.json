@@ -1,0 +1,1490 @@
+[
+ {
+  "id": "8766",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wall or foundation layout lines"
+ },
+ {
+  "id": "8767",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marble and stone pieces"
+ },
+ {
+  "id": "8768",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structure alignment, plumb and level"
+ },
+ {
+  "id": "8769",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mortar or grout mix"
+ },
+ {
+  "id": "8770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "joints between stones"
+ },
+ {
+  "id": "8771",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stone placement per pattern"
+ },
+ {
+  "id": "8772",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess mortar on stone surfaces"
+ },
+ {
+  "id": "8773",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "brick chimneys, furnaces, kilns"
+ },
+ {
+  "id": "8774",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broken masonry units"
+ },
+ {
+  "id": "8775",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stone surface finishing"
+ },
+ {
+  "id": "8776",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stone holes and anchor brackets"
+ },
+ {
+  "id": "8777",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cracked stone and concrete defects"
+ },
+ {
+  "id": "8778",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "monument sections moved onto foundation"
+ },
+ {
+  "id": "8779",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prefabricated masonry units"
+ },
+ {
+  "id": "8780",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "monument foundation trench"
+ },
+ {
+  "id": "8781",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wall mold placement"
+ },
+ {
+  "id": "23430",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "job site safety rules"
+ },
+ {
+  "id": "23431",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints, layout, material needs"
+ },
+ {
+  "id": "23432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cutting lines on materials"
+ },
+ {
+  "id": "23433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lumber cut to size"
+ },
+ {
+  "id": "23434",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "windows, frames, floors, trim"
+ },
+ {
+  "id": "23435",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structure plumb and level"
+ },
+ {
+  "id": "23436",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lumber and materials orders"
+ },
+ {
+  "id": "23437",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "subcontractor scheduling for specialty work"
+ },
+ {
+  "id": "23438",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "job records and progress reports"
+ },
+ {
+  "id": "23439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cabinets, doors, wooden fixtures"
+ },
+ {
+  "id": "23440",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scaffolding and ladders"
+ },
+ {
+  "id": "23441",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete forms and braces"
+ },
+ {
+  "id": "23442",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile, siding, woodwork damage"
+ },
+ {
+  "id": "23443",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frameworks and props"
+ },
+ {
+  "id": "23444",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boltholes in timber or masonry"
+ },
+ {
+  "id": "23445",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "job records and crew schedule"
+ },
+ {
+  "id": "23446",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged structural parts"
+ },
+ {
+  "id": "23447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rough door and window frames"
+ },
+ {
+  "id": "23448",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "woodwork and wallboard surfaces"
+ },
+ {
+  "id": "23449",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structural timber decay"
+ },
+ {
+  "id": "23450",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ceiling and wall paneling"
+ },
+ {
+  "id": "23451",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardwood floor installation"
+ },
+ {
+  "id": "23452",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plaster and plasterboard defects"
+ },
+ {
+  "id": "23453",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor plumbing, welding, concrete work"
+ },
+ {
+  "id": "23454",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client cost estimates"
+ },
+ {
+  "id": "23455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete forms and chutes"
+ },
+ {
+  "id": "23456",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "log and timber sleds"
+ },
+ {
+  "id": "23457",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hazardous material handling"
+ },
+ {
+  "id": "23458",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "post holes and support poles"
+ },
+ {
+  "id": "20142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation site cleanup"
+ },
+ {
+  "id": "2833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet edges and seams"
+ },
+ {
+  "id": "2834",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet trimmed at walls"
+ },
+ {
+  "id": "2835",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor surface condition"
+ },
+ {
+  "id": "2836",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet roll cut to size"
+ },
+ {
+  "id": "2837",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "carpet layout and seam placement"
+ },
+ {
+  "id": "2838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet stretched and fastened"
+ },
+ {
+  "id": "2839",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "floor area and material quantity"
+ },
+ {
+  "id": "2840",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet padding"
+ },
+ {
+  "id": "2841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet glued to floor"
+ },
+ {
+  "id": "2842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tack strips around room"
+ },
+ {
+  "id": "2843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal treads at doorways"
+ },
+ {
+  "id": "2844",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tackless strips along walls"
+ },
+ {
+  "id": "2845",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "building diagrams and dimensions"
+ },
+ {
+  "id": "2846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture and old carpet removal"
+ },
+ {
+  "id": "2847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet cutting and binding"
+ },
+ {
+  "id": "8253",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "base surfaces to be covered"
+ },
+ {
+  "id": "8254",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flooring cut around obstructions"
+ },
+ {
+  "id": "8255",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface firmness and dryness"
+ },
+ {
+  "id": "8256",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "covering edges and joints"
+ },
+ {
+  "id": "8257",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor foundation preparation"
+ },
+ {
+  "id": "8258",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guidelines on surfaces"
+ },
+ {
+  "id": "8259",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "covering and foundation materials"
+ },
+ {
+  "id": "8260",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sheet covering pressed into cement"
+ },
+ {
+  "id": "8261",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "adhesive on floor or wall"
+ },
+ {
+  "id": "8262",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "traffic areas and seam locations"
+ },
+ {
+  "id": "8263",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor, wall, cabinet coverings"
+ },
+ {
+  "id": "8264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess cement on surface"
+ },
+ {
+  "id": "8265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "appliances, fixtures, old coverings"
+ },
+ {
+  "id": "8266",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor covering patches with torch"
+ },
+ {
+  "id": "14869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor smoothness check"
+ },
+ {
+  "id": "14870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor edges and corners"
+ },
+ {
+  "id": "14871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sanding machine on floors"
+ },
+ {
+  "id": "14872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sandpaper on sander rollers"
+ },
+ {
+  "id": "14873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor filler and finish"
+ },
+ {
+  "id": "14874",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "excess glue at joints"
+ },
+ {
+  "id": "23933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floors buffed and vacuumed"
+ },
+ {
+  "id": "2848",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile alignment with levels"
+ },
+ {
+  "id": "2849",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "tile layout pattern"
+ },
+ {
+  "id": "2850",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile cut around obstacles"
+ },
+ {
+  "id": "2851",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grout joints between tiles"
+ },
+ {
+  "id": "2852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile set in mortar"
+ },
+ {
+  "id": "2853",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile bed adhesives"
+ },
+ {
+  "id": "2854",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project cost and labor estimates"
+ },
+ {
+  "id": "2855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surfaces marked for tiling"
+ },
+ {
+  "id": "2856",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete leveled to dry"
+ },
+ {
+  "id": "2857",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "underbeds, anchor bolts, brackets"
+ },
+ {
+  "id": "2858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lath and paper on surfaces"
+ },
+ {
+  "id": "2859",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "blueprints and surface material needs"
+ },
+ {
+  "id": "2860",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marble and granite pieces"
+ },
+ {
+  "id": "2861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fixtures anchored in place"
+ },
+ {
+  "id": "2862",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile backing cut to size"
+ },
+ {
+  "id": "2863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "old tile, grout, adhesive"
+ },
+ {
+  "id": "2864",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mosaic tile designs"
+ },
+ {
+  "id": "2865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer tile and grout choice"
+ },
+ {
+  "id": "2866",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cracked or damaged tile"
+ },
+ {
+  "id": "2867",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal lath cut to size"
+ },
+ {
+  "id": "2868",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tile and accessory orders"
+ },
+ {
+  "id": "2869",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drain tile joints sealed"
+ },
+ {
+  "id": "2870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roof deck adhesive base"
+ },
+ {
+  "id": "2871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grout sealer application"
+ },
+ {
+  "id": "2872",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tile design on manila paper"
+ },
+ {
+  "id": "7047",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete form construction check"
+ },
+ {
+  "id": "7048",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete form pitch and depth"
+ },
+ {
+  "id": "7049",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "poured concrete surface"
+ },
+ {
+  "id": "7050",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "expansion joints and edges"
+ },
+ {
+  "id": "7051",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "weather effects on concrete curing"
+ },
+ {
+  "id": "7052",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete truck and chute"
+ },
+ {
+  "id": "7053",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rough concrete surface"
+ },
+ {
+  "id": "7054",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete compaction with vibrator"
+ },
+ {
+  "id": "7055",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "concrete pour and laborers"
+ },
+ {
+  "id": "7056",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete, grout, slurry mix"
+ },
+ {
+  "id": "7057",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged concrete and reinforcing rods"
+ },
+ {
+  "id": "7058",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete surface rubbed smooth"
+ },
+ {
+  "id": "7059",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete holes and cracks"
+ },
+ {
+  "id": "7060",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chipped concrete area"
+ },
+ {
+  "id": "7061",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete curing and sealing"
+ },
+ {
+  "id": "7062",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "high spots on concrete"
+ },
+ {
+  "id": "7063",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roofing paper and terrazzo base"
+ },
+ {
+  "id": "7064",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wooden repair molds"
+ },
+ {
+  "id": "7065",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface chips or coloring powder"
+ },
+ {
+  "id": "7066",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal strips in terrazzo base"
+ },
+ {
+  "id": "7067",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete beams, columns, panels"
+ },
+ {
+  "id": "7068",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete surface waterproofing"
+ },
+ {
+  "id": "7069",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "anchor bolts and fixtures in concrete"
+ },
+ {
+  "id": "7070",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface cleaned with muriatic acid"
+ },
+ {
+  "id": "7071",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roller embedding chips in surface"
+ },
+ {
+  "id": "7072",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface polishing machine"
+ },
+ {
+  "id": "9823",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "metal strips in terrazzo base"
+ },
+ {
+  "id": "9824",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "marble chip mixtures in panels"
+ },
+ {
+  "id": "9825",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "terrazzo and grout ingredients"
+ },
+ {
+  "id": "9826",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "expansion joints and edges"
+ },
+ {
+  "id": "9827",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "terrazzo or concrete surface"
+ },
+ {
+  "id": "9828",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "curved terrazzo surfaces by hand grinder"
+ },
+ {
+  "id": "9829",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "terrazzo grinding and polishing"
+ },
+ {
+  "id": "9830",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moisture membrane and wire mesh"
+ },
+ {
+  "id": "9831",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "mixing and grinding procedures adjusted"
+ },
+ {
+  "id": "9832",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "polished terrazzo cleaning and sealing"
+ },
+ {
+  "id": "9833",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete, grout, slurry mix"
+ },
+ {
+  "id": "9834",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface chips or coloring powder"
+ },
+ {
+  "id": "9835",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surface bonding and filling holes"
+ },
+ {
+  "id": "9836",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "damaged concrete and reinforcing rods"
+ },
+ {
+  "id": "9837",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "site, tools, and equipment cleanup"
+ },
+ {
+  "id": "9838",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grinding depressions filled with grout"
+ },
+ {
+  "id": "9839",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "high spots on concrete"
+ },
+ {
+  "id": "9840",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chipped concrete area"
+ },
+ {
+  "id": "9841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "terrazzo materials moved to work areas"
+ },
+ {
+  "id": "9842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wooden molds and frames"
+ },
+ {
+  "id": "9843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete truck and chute"
+ },
+ {
+  "id": "9844",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rough concrete surface"
+ },
+ {
+  "id": "9845",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "precast terrazzo blocks"
+ },
+ {
+  "id": "9846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "roofing paper and terrazzo base"
+ },
+ {
+  "id": "9847",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frames removed from dry foundation"
+ },
+ {
+  "id": "9848",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete surface rubbed smooth"
+ },
+ {
+  "id": "11455",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction site hazards"
+ },
+ {
+  "id": "11456",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "plans and specifications"
+ },
+ {
+  "id": "11457",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "traffic near work zones"
+ },
+ {
+  "id": "11458",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment operator signals"
+ },
+ {
+  "id": "11459",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ditches, trenches, earth grade"
+ },
+ {
+  "id": "11460",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "structural components such as wall sections"
+ },
+ {
+  "id": "11461",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "openings and distances for layout"
+ },
+ {
+  "id": "11462",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building materials and tools moved"
+ },
+ {
+  "id": "11463",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scaffolding and temporary structures"
+ },
+ {
+  "id": "11464",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete forms"
+ },
+ {
+  "id": "11465",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "machinery, equipment, tools upkeep"
+ },
+ {
+  "id": "11466",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete or pavement breaking"
+ },
+ {
+  "id": "11467",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "freshly poured concrete finishing"
+ },
+ {
+  "id": "11468",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "air monitoring in hazardous spaces"
+ },
+ {
+  "id": "11469",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sewer, water, storm drain pipes"
+ },
+ {
+  "id": "11471",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "craft workers' assistance"
+ },
+ {
+  "id": "11472",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pumps, compressors, generators"
+ },
+ {
+  "id": "11473",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surfaces cleaned or protected"
+ },
+ {
+  "id": "11474",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cast-in-place concrete structures"
+ },
+ {
+  "id": "11477",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete from portable mixers"
+ },
+ {
+  "id": "11478",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete, marble, terrazzo, wood surfaces"
+ },
+ {
+  "id": "11479",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "concrete and stucco spray machines"
+ },
+ {
+  "id": "11480",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "covering and cleaning compounds"
+ },
+ {
+  "id": "11481",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "buildings razed, materials salvaged"
+ },
+ {
+  "id": "11482",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "surfaces sprayed through hoses"
+ },
+ {
+  "id": "11483",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "caulking for water and air"
+ },
+ {
+  "id": "19838",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "green construction waste practices"
+ }
+]

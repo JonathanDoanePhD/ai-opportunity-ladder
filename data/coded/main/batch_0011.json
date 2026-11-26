@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "21535",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property value from comparables"
+ },
+ {
+  "id": "21536",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "completed appraisal database"
+ },
+ {
+  "id": "21537",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "type of valuation needed"
+ },
+ {
+  "id": "21538",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "property measurements and features"
+ },
+ {
+  "id": "21539",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "future property value"
+ },
+ {
+  "id": "21540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "personal or business property"
+ },
+ {
+  "id": "21541",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "comparable property sales data"
+ },
+ {
+  "id": "21542",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan amount versus collateral value"
+ },
+ {
+  "id": "21543",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "property photographs"
+ },
+ {
+  "id": "21544",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court testimony on property value"
+ },
+ {
+  "id": "21545",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "existing appraisal updates"
+ },
+ {
+  "id": "21546",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "property versus legal descriptions"
+ },
+ {
+  "id": "21547",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appraisal reports"
+ },
+ {
+  "id": "21548",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appraised property descriptions"
+ },
+ {
+  "id": "21549",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "final property value estimate"
+ },
+ {
+  "id": "21550",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "written valuation reports"
+ },
+ {
+  "id": "21551",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "new construction and improvements"
+ },
+ {
+  "id": "21552",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "real estate market trends"
+ },
+ {
+  "id": "21553",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "parcel data and maps"
+ },
+ {
+  "id": "21554",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "assessed values, appeals hearings"
+ },
+ {
+  "id": "21555",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "taxable property owners"
+ },
+ {
+  "id": "21556",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "properties for appraisal value"
+ },
+ {
+  "id": "21558",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property transfer records"
+ },
+ {
+  "id": "21559",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "property taxes for owners"
+ },
+ {
+  "id": "21560",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "construction or demolition changes"
+ },
+ {
+  "id": "21561",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "assessment systems for property classes"
+ },
+ {
+  "id": "21562",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "income property records and costs"
+ },
+ {
+  "id": "21563",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "land and neighborhood conditions"
+ },
+ {
+  "id": "21564",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "local real estate market knowledge"
+ },
+ {
+  "id": "21565",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "public transaction records"
+ },
+ {
+  "id": "21566",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building codes and zoning"
+ },
+ {
+  "id": "21567",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legal descriptions versus county records"
+ },
+ {
+  "id": "21568",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "people familiar with properties"
+ },
+ {
+  "id": "21569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "property interiors and exteriors"
+ },
+ {
+  "id": "21570",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "county land values and sales"
+ },
+ {
+  "id": "21571",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "nearby services and neighborhood features"
+ },
+ {
+  "id": "21572",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "building replacement costs"
+ },
+ {
+  "id": "21573",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "land diagrams for reports"
+ },
+ {
+  "id": "21574",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "court testimony on property value"
+ },
+ {
+  "id": "21575",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property tax bills"
+ },
+ {
+  "id": "21577",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sales, construction cost, rent trends"
+ },
+ {
+  "id": "21578",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "property taxability determination"
+ },
+ {
+  "id": "3394",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "department budget and accounting reports"
+ },
+ {
+  "id": "3395",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budget report preparation"
+ },
+ {
+  "id": "3396",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budget adjustments with managers"
+ },
+ {
+  "id": "3397",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program appropriations matching"
+ },
+ {
+  "id": "3398",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cost analysis and budget guidance"
+ },
+ {
+  "id": "3399",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budget summaries and funding recommendations"
+ },
+ {
+  "id": "3400",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizational efficiency and profits"
+ },
+ {
+  "id": "3401",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating budgets and trends"
+ },
+ {
+  "id": "3402",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "budget estimates for compliance"
+ },
+ {
+  "id": "3403",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program costs and benefits"
+ },
+ {
+  "id": "3404",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "budget directives and policies"
+ },
+ {
+  "id": "3405",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accounting records for program resources"
+ },
+ {
+  "id": "3406",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "testimony defending proposed budgets"
+ },
+ {
+  "id": "1250",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit data and financial statements"
+ },
+ {
+  "id": "1251",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "credit risk reports"
+ },
+ {
+  "id": "1252",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer payment plans"
+ },
+ {
+  "id": "1253",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit information exchange"
+ },
+ {
+  "id": "1254",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "loan applications and summaries"
+ },
+ {
+  "id": "1255",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer financial ratios"
+ },
+ {
+  "id": "1256",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delinquent account selection"
+ },
+ {
+  "id": "1257",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "comparisons with similar establishments"
+ },
+ {
+  "id": "1258",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer complaints and transactions"
+ },
+ {
+  "id": "1259",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial data for loan profitability"
+ },
+ {
+  "id": "21164",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "delinquent customer payment collection"
+ },
+ {
+  "id": "21579",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client capitalization advice"
+ },
+ {
+  "id": "21580",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "troubled company financial performance"
+ },
+ {
+  "id": "21581",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "company facilities as investments"
+ },
+ {
+  "id": "21582",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cross-professional project collaboration"
+ },
+ {
+  "id": "21583",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "new corporate clients with bankers"
+ },
+ {
+  "id": "21584",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green construction investment finances"
+ },
+ {
+  "id": "21585",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client debt restructuring"
+ },
+ {
+  "id": "21586",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client plan presentations"
+ },
+ {
+  "id": "21587",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "securities syndication pricing"
+ },
+ {
+  "id": "21588",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client relationships"
+ },
+ {
+  "id": "21589",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spreadsheet charts for reports"
+ },
+ {
+  "id": "21590",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial models for transactions"
+ },
+ {
+  "id": "21591",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry securities quality"
+ },
+ {
+  "id": "21592",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client capital needs and markets"
+ },
+ {
+  "id": "21593",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business and economic forecasts"
+ },
+ {
+  "id": "21594",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price, yield, risk data"
+ },
+ {
+  "id": "21595",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry and finance developments"
+ },
+ {
+  "id": "21596",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "economic and corporate developments"
+ },
+ {
+  "id": "21597",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "securities valuation and pricing"
+ },
+ {
+  "id": "21598",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "deal transaction materials"
+ },
+ {
+  "id": "21599",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investment action plans"
+ },
+ {
+  "id": "21600",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "economic and industry reports"
+ },
+ {
+  "id": "21601",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company investment purchases"
+ },
+ {
+  "id": "21602",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "investment recommendations and timing"
+ },
+ {
+  "id": "21603",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green financial instruments"
+ },
+ {
+  "id": "21604",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "junior team members"
+ },
+ {
+  "id": "12904",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client financial information and strategies"
+ },
+ {
+  "id": "12905",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client questions on financial plans"
+ },
+ {
+  "id": "12907",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial situation interviews"
+ },
+ {
+  "id": "12909",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial plan implementation"
+ },
+ {
+  "id": "12913",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client performance reports and projections"
+ },
+ {
+  "id": "12914",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client financial document gathering"
+ },
+ {
+  "id": "12915",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client financial status changes"
+ },
+ {
+  "id": "12916",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clients' other advisors"
+ },
+ {
+  "id": "12917",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "debt payoff plans"
+ },
+ {
+  "id": "12918",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client accounts and disbursements"
+ },
+ {
+  "id": "12919",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "financial planning seminars"
+ },
+ {
+  "id": "19570",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "tax benefits for green purchases"
+ },
+ {
+  "id": "19571",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmentally responsible investments"
+ },
+ {
+  "id": "20182",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client cash, insurance, investment strategies"
+ },
+ {
+  "id": "20183",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client accounts and plans"
+ },
+ {
+  "id": "20184",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client portfolios and plans"
+ },
+ {
+  "id": "20185",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client base"
+ },
+ {
+  "id": "20186",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advisor services explained to clients"
+ },
+ {
+  "id": "20187",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investment opportunities and client plans"
+ },
+ {
+  "id": "20188",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial market trends"
+ },
+ {
+  "id": "20189",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stocks, bonds, funds, insurance"
+ },
+ {
+  "id": "1261",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "excessive insurance risks"
+ },
+ {
+  "id": "1262",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "underwriting correspondence and rate quotes"
+ },
+ {
+  "id": "1263",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "catastrophe and excess insurance losses"
+ },
+ {
+  "id": "1264",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policy value and endorsements"
+ },
+ {
+  "id": "1265",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance in force records"
+ },
+ {
+  "id": "1266",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "reinsurance on high-risk policies"
+ },
+ {
+  "id": "21045",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "applicant risk documents"
+ },
+ {
+  "id": "21605",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "organizational asset and earnings risk"
+ },
+ {
+  "id": "21606",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legislation and risk exposure"
+ },
+ {
+  "id": "21607",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk statistics and models"
+ },
+ {
+  "id": "21608",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "traders' strategy risks"
+ },
+ {
+  "id": "21609",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "financial literature and models"
+ },
+ {
+  "id": "21610",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk management systems"
+ },
+ {
+  "id": "21611",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental impacts on profitability"
+ },
+ {
+  "id": "21612",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency contingency plans"
+ },
+ {
+  "id": "21613",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk assessment models"
+ },
+ {
+  "id": "21614",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "severe market scenario analyses"
+ },
+ {
+  "id": "21615",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk assessment validity monitoring"
+ },
+ {
+  "id": "21616",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "key risks documentation and communication"
+ },
+ {
+  "id": "21617",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spreadsheet charts for reports"
+ },
+ {
+  "id": "21618",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry securities quality"
+ },
+ {
+  "id": "21619",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green building technology risks"
+ },
+ {
+  "id": "21620",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "green investment risks"
+ },
+ {
+  "id": "21621",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk-related data sources"
+ },
+ {
+  "id": "21622",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investment risks and mitigating factors"
+ },
+ {
+  "id": "21623",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "business and economic forecasts"
+ },
+ {
+  "id": "21624",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "price, yield, risk data"
+ },
+ {
+  "id": "21625",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk system data quality"
+ },
+ {
+  "id": "21626",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client risk exposure queries"
+ },
+ {
+  "id": "21627",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "industry and finance developments"
+ },
+ {
+  "id": "21628",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investment action plans"
+ },
+ {
+  "id": "21629",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk findings reports"
+ },
+ {
+  "id": "21630",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "statistical modeling for departments"
+ },
+ {
+  "id": "21631",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "investment recommendations and timing"
+ },
+ {
+  "id": "21632",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "risk control measures"
+ },
+ {
+  "id": "21633",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "offer document risk disclosures"
+ },
+ {
+  "id": "21634",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "market risk for traded issues"
+ },
+ {
+  "id": "20190",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee regulatory compliance training"
+ },
+ {
+  "id": "7314",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "institution activities and legality"
+ },
+ {
+  "id": "7315",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laws and regulations impact"
+ },
+ {
+  "id": "7316",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "subordinate examiners' work"
+ },
+ {
+  "id": "7317",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "compliance and solvency actions"
+ },
+ {
+  "id": "7318",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meeting minutes and authority"
+ },
+ {
+  "id": "7319",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "institution soundness reports"
+ },
+ {
+  "id": "7320",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "balance sheets and loan documents"
+ },
+ {
+  "id": "7321",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "internal and external audit reports"
+ },
+ {
+  "id": "7322",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "other examiners"
+ },
+ {
+  "id": "7323",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "regulatory compliance procedures"
+ },
+ {
+  "id": "7324",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "meetings with bank officials"
+ },
+ {
+  "id": "7325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cash reserves and collateral"
+ },
+ {
+  "id": "7326",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "merger and registration applications"
+ },
+ {
+  "id": "7327",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "banking institution financial integrity"
+ },
+ {
+  "id": "7328",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "institution data processing applications"
+ },
+ {
+  "id": "7329",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "financial industry officials"
+ },
+ {
+  "id": "18933",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial inquiries"
+ },
+ {
+  "id": "18934",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client income, debts, credit reports"
+ },
+ {
+  "id": "18935",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client available monthly income"
+ },
+ {
+  "id": "18936",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "debt management plans and budgets"
+ },
+ {
+  "id": "18937",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "debt repayment time"
+ },
+ {
+  "id": "18938",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "counseling services and policies"
+ },
+ {
+  "id": "18939",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial information interviews"
+ },
+ {
+  "id": "18940",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client account records"
+ },
+ {
+  "id": "18941",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "creditor payment adjustments"
+ },
+ {
+  "id": "18942",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client contracts and recommendations"
+ },
+ {
+  "id": "18943",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client debt repayment priority"
+ },
+ {
+  "id": "18944",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial education resources"
+ },
+ {
+  "id": "18945",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client financial goal strategies"
+ },
+ {
+  "id": "18946",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "social service referrals"
+ },
+ {
+  "id": "18947",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client situation changes and plans"
+ },
+ {
+  "id": "18948",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client housing matters"
+ },
+ {
+  "id": "18949",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repossession and garnishment research"
+ },
+ {
+  "id": "18950",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "permanent housing action plans"
+ },
+ {
+  "id": "18951",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client account fund disbursements"
+ },
+ {
+  "id": "18952",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "credit and consumer law topics"
+ },
+ {
+  "id": "18953",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan types and eligibility"
+ },
+ {
+  "id": "18954",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "missing checks and payment issues"
+ },
+ {
+  "id": "18955",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "budgeting and financial literacy courses"
+ }
+]

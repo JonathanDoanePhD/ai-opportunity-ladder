@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "19",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "support services department operations"
+ },
+ {
+  "id": "20",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department goals and deadlines"
+ },
+ {
+  "id": "21",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational reports and schedules"
+ },
+ {
+  "id": "21262",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "external vendors and service providers"
+ },
+ {
+  "id": "21263",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department operating standards procedures"
+ },
+ {
+  "id": "21264",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "administrative staff work schedules"
+ },
+ {
+  "id": "21265",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new office technologies"
+ },
+ {
+  "id": "21266",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "filing systems attendance records correspondence"
+ },
+ {
+  "id": "21267",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "organizational goals plans personnel resources"
+ },
+ {
+  "id": "21268",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "payroll timekeeping processing"
+ },
+ {
+  "id": "21269",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contracts regulations procedural guidelines comprehension"
+ },
+ {
+  "id": "21270",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "work unit representation, complaints liaison"
+ },
+ {
+  "id": "21271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "administrative staff supervision orientation"
+ },
+ {
+  "id": "22",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "internal processes policy improvements"
+ },
+ {
+  "id": "23",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "office supplies inventory distribution"
+ },
+ {
+  "id": "24",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contract equipment supply budgets"
+ },
+ {
+  "id": "26",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "clerical personnel hiring termination"
+ },
+ {
+  "id": "30",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff procedure classes"
+ },
+ {
+  "id": "21272",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility supplies storage distribution"
+ },
+ {
+  "id": "21273",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff procedure classes"
+ },
+ {
+  "id": "21274",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "surplus unclaimed property disposal"
+ },
+ {
+  "id": "21275",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "facility space leases"
+ },
+ {
+  "id": "21276",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "facility safety security maintenance"
+ },
+ {
+  "id": "21277",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "construction renovation projects compliance"
+ },
+ {
+  "id": "21278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "machinery electrical mechanical systems maintenance"
+ },
+ {
+  "id": "21279",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "architectural engineering space planning"
+ },
+ {
+  "id": "21280",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contract equipment supply budgets"
+ },
+ {
+  "id": "21281",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational reports and schedules"
+ },
+ {
+  "id": "21282",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department goals and deadlines"
+ },
+ {
+  "id": "21283",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security operations audit evaluation"
+ },
+ {
+  "id": "21284",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "incident risks response plans"
+ },
+ {
+  "id": "21285",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "security seminars conferences legislation"
+ },
+ {
+  "id": "21286",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security status updates problems"
+ },
+ {
+  "id": "21287",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "property physical security inspection"
+ },
+ {
+  "id": "21288",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "threat vulnerability disaster analyses"
+ },
+ {
+  "id": "21289",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "law enforcement fire agency coordination"
+ },
+ {
+  "id": "21290",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security standards policies procedures"
+ },
+ {
+  "id": "21291",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security operations budgets"
+ },
+ {
+  "id": "21292",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "investigation programs surveillance video interviews"
+ },
+ {
+  "id": "21293",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "executive protection activities"
+ },
+ {
+  "id": "21294",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "facility personnel security process reviews"
+ },
+ {
+  "id": "21295",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "personnel harassment threat violence protection"
+ },
+ {
+  "id": "21296",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "access control call center procedures"
+ },
+ {
+  "id": "21297",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "emergency management contingency plans"
+ },
+ {
+  "id": "21298",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "security breaches investigation"
+ },
+ {
+  "id": "21299",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "ethical workplace environment"
+ },
+ {
+  "id": "21300",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security policy compliance monitoring"
+ },
+ {
+  "id": "21301",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "special high-risk event security"
+ },
+ {
+  "id": "21302",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee guest safety activities"
+ },
+ {
+  "id": "21303",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "investigation loss violation reports"
+ },
+ {
+  "id": "21304",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security supplies equipment purchasing"
+ },
+ {
+  "id": "21305",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "medical bomb fire intrusion emergencies"
+ },
+ {
+  "id": "21306",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "security financial reports"
+ },
+ {
+  "id": "21307",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "security staff supervision hiring discipline"
+ },
+ {
+  "id": "21308",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "workplace substance abuse reduction"
+ },
+ {
+  "id": "21309",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "security rules training"
+ },
+ {
+  "id": "21310",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "incident reports security proposals"
+ },
+ {
+  "id": "15198",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "user computer problems support"
+ },
+ {
+  "id": "966",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "backup security help systems"
+ },
+ {
+  "id": "967",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "computing needs system requirements"
+ },
+ {
+  "id": "968",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department workflow priorities standards"
+ },
+ {
+  "id": "969",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "analyst programmer work assignments review"
+ },
+ {
+  "id": "970",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "technology advances"
+ },
+ {
+  "id": "971",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "information resources security disaster recovery"
+ },
+ {
+  "id": "972",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "systems charts programs approval"
+ },
+ {
+  "id": "973",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technology upgrade recommendations"
+ },
+ {
+  "id": "974",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operational budget expenditures"
+ },
+ {
+  "id": "975",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "department heads vendors problem resolution"
+ },
+ {
+  "id": "976",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "organizational goals policies procedures"
+ },
+ {
+  "id": "977",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff recruitment hiring supervision"
+ },
+ {
+  "id": "978",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "IT project plans coordination"
+ },
+ {
+  "id": "979",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "data processing proposal feasibility"
+ },
+ {
+  "id": "980",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational project progress reports"
+ },
+ {
+  "id": "981",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "IT equipment purchasing"
+ },
+ {
+  "id": "21311",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer relationships problem assistance"
+ },
+ {
+  "id": "21312",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "branch office worker activities"
+ },
+ {
+  "id": "21313",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff recruitment"
+ },
+ {
+  "id": "21314",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operational risk management reports"
+ },
+ {
+  "id": "21315",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost data budget planning"
+ },
+ {
+  "id": "21316",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "training programs oversight"
+ },
+ {
+  "id": "21317",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "loan applications processing"
+ },
+ {
+  "id": "21318",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "credit line loan approval decisions"
+ },
+ {
+  "id": "21319",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cash financial instruments flow"
+ },
+ {
+  "id": "21320",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory board financial reports"
+ },
+ {
+  "id": "21321",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "firm financial status analysis"
+ },
+ {
+  "id": "21322",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "stockholder investor communication capital raising"
+ },
+ {
+  "id": "21323",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial reporting control procedures"
+ },
+ {
+  "id": "21325",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community networking new business"
+ },
+ {
+  "id": "21326",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "collection reports outstanding balances"
+ },
+ {
+  "id": "21327",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "asset collateral securities custody procedures"
+ },
+ {
+  "id": "21329",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "securities transactions market conditions"
+ },
+ {
+  "id": "20168",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cash flow reserves regulatory compliance"
+ },
+ {
+  "id": "20169",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "employee insurance benefits programs"
+ },
+ {
+  "id": "8855",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "annual tax returns financial info"
+ },
+ {
+  "id": "8856",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "financial statements forecasts budgets"
+ },
+ {
+  "id": "8857",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "accounting billing payroll staff"
+ },
+ {
+  "id": "8858",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "funds securities custody authority"
+ },
+ {
+  "id": "8859",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "accounting standards policies knowledge"
+ },
+ {
+  "id": "8860",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "company accounts transactions audits"
+ },
+ {
+  "id": "8861",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "disbursement requests authorization"
+ },
+ {
+  "id": "8863",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "financial staff performance personnel actions"
+ },
+ {
+  "id": "8864",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "banking insurance accounting relationships"
+ },
+ {
+  "id": "8865",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "financial planning procurement investment activities"
+ },
+ {
+  "id": "8866",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "internal control policies procedures"
+ },
+ {
+  "id": "8867",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations financial details improvement areas"
+ },
+ {
+  "id": "8868",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management financial objectives advice"
+ },
+ {
+  "id": "8869",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "units accounting budgeting guidance"
+ },
+ {
+  "id": "8870",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fund procurement surplus investment recommendations"
+ },
+ {
+  "id": "8871",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "budgeting financial management training"
+ },
+ {
+  "id": "8872",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cash checks bank deposits"
+ },
+ {
+  "id": "8873",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "payroll deductions withholding"
+ },
+ {
+  "id": "8874",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "tax planning"
+ },
+ {
+  "id": "8875",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "capital item depreciation rates"
+ },
+ {
+  "id": "15660",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory inquiries responses"
+ },
+ {
+  "id": "15661",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transaction reporting regulatory compliance"
+ },
+ {
+  "id": "15662",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff hiring evaluation"
+ },
+ {
+  "id": "15663",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "accounting operations departments direction"
+ },
+ {
+  "id": "15664",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "security valuation policies"
+ },
+ {
+  "id": "15665",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investment markets briefings media"
+ },
+ {
+  "id": "15666",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "offering documents marketing compliance"
+ },
+ {
+  "id": "15667",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "company industry research analyses"
+ },
+ {
+  "id": "15668",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fund risks fees performance presentations"
+ },
+ {
+  "id": "15669",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "investment portfolio performance risk"
+ },
+ {
+  "id": "15670",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory tax law changes"
+ },
+ {
+  "id": "15671",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "investor goals strategy meetings"
+ },
+ {
+  "id": "15672",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "target investors for fund"
+ },
+ {
+  "id": "15673",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "offering documents marketing materials"
+ },
+ {
+  "id": "15674",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new product market opportunities evaluation"
+ },
+ {
+  "id": "15675",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fund investment policies strategies"
+ },
+ {
+  "id": "15676",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "trade selection execution"
+ },
+ {
+  "id": "15677",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "acquisitions strategic regulatory conformance"
+ },
+ {
+  "id": "15678",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "investment funds client returns"
+ },
+ {
+  "id": "15679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fund investment selection mix"
+ },
+ {
+  "id": "21332",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "site safety environmental audits"
+ },
+ {
+  "id": "21333",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "manufacturing system operating procedures"
+ },
+ {
+  "id": "21334",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "operational emergency procedures implementation"
+ },
+ {
+  "id": "21335",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "safety environmental compliance records"
+ },
+ {
+  "id": "21336",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "permit requirement updates"
+ },
+ {
+  "id": "21337",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "operational costs productivity optimization"
+ },
+ {
+  "id": "21338",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operations productivity efficiency reports"
+ },
+ {
+  "id": "21339",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "subordinate employees supervision"
+ },
+ {
+  "id": "32",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production distribution marketing activities"
+ },
+ {
+  "id": "33",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production budgets expenditures approval"
+ },
+ {
+  "id": "34",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production schedules inventory staffing decisions"
+ },
+ {
+  "id": "35",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production processing problems resolution"
+ },
+ {
+  "id": "36",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff hiring discharge grievances"
+ },
+ {
+  "id": "37",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "inventory cost control programs"
+ },
+ {
+  "id": "38",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production reports personnel records"
+ },
+ {
+  "id": "39",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "product quality standards samples testing"
+ },
+ {
+  "id": "40",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production tracking quality control systems"
+ },
+ {
+  "id": "41",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new products processes development"
+ },
+ {
+  "id": "43",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "facility equipment maintenance procedures"
+ },
+ {
+  "id": "44",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality control literature knowledge"
+ },
+ {
+  "id": "45",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "supplier materials price negotiation"
+ },
+ {
+  "id": "15405",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "production stoppage for defects"
+ },
+ {
+  "id": "15406",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contractor quality plans approval"
+ },
+ {
+  "id": "15407",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality control field developments"
+ },
+ {
+  "id": "15408",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality control operating budgets"
+ },
+ {
+  "id": "15409",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing sampling methodologies evaluation"
+ },
+ {
+  "id": "15410",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "quality control inspection equipment"
+ },
+ {
+  "id": "15411",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "production samples quality analysis"
+ },
+ {
+  "id": "15412",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "subcontractor facilities laboratories inspection"
+ },
+ {
+  "id": "15413",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "raw materials components product inspection"
+ },
+ {
+  "id": "15414",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "regulatory submission quality documentation"
+ },
+ {
+  "id": "15415",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "operating procedures quality manuals"
+ },
+ {
+  "id": "15416",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "nonconformance root cause trend reports"
+ },
+ {
+  "id": "15417",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "product specifications development"
+ },
+ {
+  "id": "15418",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "new product mass production problems"
+ },
+ {
+  "id": "15419",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "vendor contractor quality guidelines"
+ },
+ {
+  "id": "15420",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality problems solutions"
+ },
+ {
+  "id": "15421",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff quality control procedure instruction"
+ },
+ {
+  "id": "15422",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "manufacturing critical points sampling procedures"
+ },
+ {
+  "id": "15423",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing procedures methodology documentation"
+ },
+ {
+  "id": "15424",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "defect test result tracking"
+ },
+ {
+  "id": "15425",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "inspection testing criteria procedures"
+ },
+ {
+  "id": "15426",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client requirements expectations marketing"
+ },
+ {
+  "id": "15427",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality control information distribution"
+ },
+ {
+  "id": "15428",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "quality test results interpretation"
+ },
+ {
+  "id": "15429",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "inspectors laboratory workers oversight"
+ },
+ {
+  "id": "15430",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "quality control system performance"
+ },
+ {
+  "id": "15431",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "production cycle product testing"
+ },
+ {
+  "id": "15432",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "geothermal well field site assessment"
+ },
+ {
+  "id": "15433",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "corrosion control mitigation systems"
+ },
+ {
+  "id": "15434",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "plant conditions employee communication"
+ },
+ {
+  "id": "15435",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant instrumentation electrical repairs"
+ },
+ {
+  "id": "15436",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geothermal operations logs records"
+ },
+ {
+  "id": "15437",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "environmental permit applications compliance reports"
+ },
+ {
+  "id": "15438",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "power plant construction operating permits"
+ },
+ {
+  "id": "15439",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "plant equipment preventive maintenance"
+ },
+ {
+  "id": "15440",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "utility interconnection agreement negotiation"
+ },
+ {
+  "id": "15441",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "PLC geothermal operations monitoring"
+ },
+ {
+  "id": "15442",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "electrical controls process improvements"
+ },
+ {
+  "id": "15443",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant system inefficiencies"
+ },
+ {
+  "id": "15444",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "geothermal operating plans schedules"
+ },
+ {
+  "id": "15445",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geothermal operations budgets"
+ },
+ {
+  "id": "15446",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "power plant well field employees"
+ },
+ {
+  "id": "15447",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "plant operations maintenance compliance"
+ },
+ {
+  "id": "15448",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plant injection well equipment inspection"
+ }
+]

@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "18476",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public land use meetings"
+ },
+ {
+  "id": "19775",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sustainability advocacy to groups"
+ },
+ {
+  "id": "19776",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public transit plans"
+ },
+ {
+  "id": "19777",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "infrastructure proposal environmental impact"
+ },
+ {
+  "id": "19778",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sustainability project plans"
+ },
+ {
+  "id": "20523",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regulatory limits on land use"
+ },
+ {
+  "id": "20524",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "land use proposal feasibility"
+ },
+ {
+  "id": "20525",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "property availability for development"
+ },
+ {
+  "id": "220",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "government land use policies"
+ },
+ {
+  "id": "222",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "development proposals approval recommendation"
+ },
+ {
+  "id": "22225",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "land use interviews, surveys, inspections"
+ },
+ {
+  "id": "22226",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "planning study reports"
+ },
+ {
+  "id": "22227",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and databases"
+ },
+ {
+  "id": "22228",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "land use files and records"
+ },
+ {
+  "id": "22229",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "planning source materials"
+ },
+ {
+  "id": "22230",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public inquiries and complaints"
+ },
+ {
+  "id": "225",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "land use data reports"
+ },
+ {
+  "id": "226",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advice to planning officials"
+ },
+ {
+  "id": "227",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "field land use data research"
+ },
+ {
+  "id": "228",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "project purposes discussion with officials"
+ },
+ {
+  "id": "229",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "zoning, building, environmental regulations updates"
+ },
+ {
+  "id": "230",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "community disputes"
+ },
+ {
+  "id": "231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "plan coordination with consultants"
+ },
+ {
+  "id": "232",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental impact reports"
+ },
+ {
+  "id": "233",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "planning technicians supervision"
+ },
+ {
+  "id": "22231",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "excavated artifacts and structures"
+ },
+ {
+  "id": "22232",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "observations, interviews, documents"
+ },
+ {
+  "id": "22233",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "past society sites"
+ },
+ {
+  "id": "22234",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research findings write-up"
+ },
+ {
+  "id": "22235",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "artifact physical properties"
+ },
+ {
+  "id": "22236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "cultural group research"
+ },
+ {
+  "id": "22237",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "archeological site data comparison"
+ },
+ {
+  "id": "22238",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artifact locations and conditions"
+ },
+ {
+  "id": "22239",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "archeological sites for conservation"
+ },
+ {
+  "id": "22240",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artifacts and skeletal remains"
+ },
+ {
+  "id": "22241",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical artifact collection"
+ },
+ {
+  "id": "22242",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cultural health beliefs and practices"
+ },
+ {
+  "id": "22243",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "site reports and maps"
+ },
+ {
+  "id": "22244",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "training in ethnographic methods"
+ },
+ {
+  "id": "22245",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "programs affecting cultural communities"
+ },
+ {
+  "id": "22246",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "social pattern recordings"
+ },
+ {
+  "id": "22247",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "intervention procedures via interviews"
+ },
+ {
+  "id": "22248",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "theories of past cultures"
+ },
+ {
+  "id": "22249",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "field training in excavation"
+ },
+ {
+  "id": "22250",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "development policies cultural barriers"
+ },
+ {
+  "id": "22251",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artifact cleaning and restoration"
+ },
+ {
+  "id": "22252",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "community participatory research"
+ },
+ {
+  "id": "22253",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "public cultural exhibits"
+ },
+ {
+  "id": "22254",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rules predicting cultural development"
+ },
+ {
+  "id": "22255",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "archival primary sources"
+ },
+ {
+  "id": "22256",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "ecological knowledge for habitat conflicts"
+ },
+ {
+  "id": "22257",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "school curricula cultural sensitivity"
+ },
+ {
+  "id": "22258",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "forensic bone identification"
+ },
+ {
+  "id": "22259",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "anthropology students"
+ },
+ {
+  "id": "22260",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research grant proposals"
+ },
+ {
+  "id": "5503",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and diagrams in GIS"
+ },
+ {
+  "id": "5504",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research findings reports"
+ },
+ {
+  "id": "5505",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "GIS systems"
+ },
+ {
+  "id": "5506",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geographic databases"
+ },
+ {
+  "id": "5507",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geographic distributions"
+ },
+ {
+  "id": "5508",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "geography classes"
+ },
+ {
+  "id": "5509",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "geographic data compilation"
+ },
+ {
+  "id": "5510",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "outdoor fieldwork"
+ },
+ {
+  "id": "5511",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "regional population characteristics"
+ },
+ {
+  "id": "5512",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "geographic consulting clients"
+ },
+ {
+  "id": "5513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical area characteristics data"
+ },
+ {
+  "id": "5514",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "GIS support for clients"
+ },
+ {
+  "id": "20744",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "manuscripts and artifacts conservation"
+ },
+ {
+  "id": "3717",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "historical data authenticity analysis"
+ },
+ {
+  "id": "3718",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "historical source data"
+ },
+ {
+  "id": "3719",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "historical development of a field"
+ },
+ {
+  "id": "3720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "historic places research"
+ },
+ {
+  "id": "3721",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "college teaching and research"
+ },
+ {
+  "id": "3722",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "historical research and findings"
+ },
+ {
+  "id": "3723",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "talks to society groups"
+ },
+ {
+  "id": "3724",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "publications for historical accuracy"
+ },
+ {
+  "id": "3725",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "history of a region"
+ },
+ {
+  "id": "3726",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "historical accounts of groups"
+ },
+ {
+  "id": "3727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research topics selection"
+ },
+ {
+  "id": "3728",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "information organized for publication"
+ },
+ {
+  "id": "3729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuscripts for exhibits and programs"
+ },
+ {
+  "id": "3730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "historical authenticity advice"
+ },
+ {
+  "id": "3731",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reference materials translation"
+ },
+ {
+  "id": "3732",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "biographical information on individuals"
+ },
+ {
+  "id": "3733",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "oral history interviews"
+ },
+ {
+  "id": "3734",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "collection and exhibit item recommendations"
+ },
+ {
+  "id": "3735",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cataloging workers coordination"
+ },
+ {
+  "id": "3736",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "historical society publications"
+ },
+ {
+  "id": "23949",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "political science students advising"
+ },
+ {
+  "id": "23950",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "committee service"
+ },
+ {
+  "id": "5515",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "political science classes"
+ },
+ {
+  "id": "5516",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research results dissemination"
+ },
+ {
+  "id": "5517",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "research issues identification"
+ },
+ {
+  "id": "5518",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "political theories and data"
+ },
+ {
+  "id": "5519",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "government policy decisions"
+ },
+ {
+  "id": "5520",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "election and survey data"
+ },
+ {
+  "id": "5521",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "policies and legislation"
+ },
+ {
+  "id": "5522",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programs and policies evaluation"
+ },
+ {
+  "id": "5523",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "legislative proposals and speeches"
+ },
+ {
+  "id": "5524",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "political and economic trends"
+ },
+ {
+  "id": "5525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "advice to officials and media"
+ },
+ {
+  "id": "5526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public policy media commentary"
+ },
+ {
+  "id": "16934",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "engineering studies and specifications"
+ },
+ {
+  "id": "16935",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "jurisdiction development approvals representation"
+ },
+ {
+  "id": "16937",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "urban traffic counting program"
+ },
+ {
+  "id": "16938",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation analysis methods"
+ },
+ {
+  "id": "16939",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "urban boundaries and roadway classes"
+ },
+ {
+  "id": "16941",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic count data"
+ },
+ {
+  "id": "16942",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "development plans transportation impacts"
+ },
+ {
+  "id": "16943",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transportation planning reports"
+ },
+ {
+  "id": "16944",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "environmental assessment documents"
+ },
+ {
+  "id": "16945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public meetings on proposals"
+ },
+ {
+  "id": "16948",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation planning models"
+ },
+ {
+  "id": "16949",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation public surveys"
+ },
+ {
+  "id": "16951",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design issues with engineers"
+ },
+ {
+  "id": "16952",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transportation improvement projects"
+ },
+ {
+  "id": "16953",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transportation planning priorities"
+ },
+ {
+  "id": "16954",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transportation and land use information"
+ },
+ {
+  "id": "19779",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "sustainable transportation strategies"
+ },
+ {
+  "id": "20976",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic model and GIS data"
+ },
+ {
+  "id": "20977",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transport infrastructure design"
+ },
+ {
+  "id": "20978",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "transportation project needs and costs"
+ },
+ {
+  "id": "20979",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project approval and permit documents"
+ },
+ {
+  "id": "20980",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "legislative proposals transportation effects"
+ },
+ {
+  "id": "19780",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil erosion tillage comparison"
+ },
+ {
+  "id": "19781",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fertilizer application studies"
+ },
+ {
+  "id": "19782",
+  "ai_alone": 0,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "field environmental data"
+ },
+ {
+  "id": "20526",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory testing ingredients"
+ },
+ {
+  "id": "20527",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab or field equipment"
+ },
+ {
+  "id": "20528",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory samples preparation"
+ },
+ {
+  "id": "20529",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal or crop specimens"
+ },
+ {
+  "id": "20530",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "animal or crop samples"
+ },
+ {
+  "id": "20531",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "pest and weed control operations"
+ },
+ {
+  "id": "20532",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public inquiries"
+ },
+ {
+  "id": "20533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "land preparation for crops"
+ },
+ {
+  "id": "20534",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lab or field tests"
+ },
+ {
+  "id": "20535",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "seed viability tests"
+ },
+ {
+  "id": "20536",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "culture media"
+ },
+ {
+  "id": "20537",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "seed germination rates"
+ },
+ {
+  "id": "5528",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "research or animal care data"
+ },
+ {
+  "id": "5530",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "research data summaries and reports"
+ },
+ {
+  "id": "5538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "insect or plant disease surveys"
+ },
+ {
+  "id": "5540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "nursery plants and seeds"
+ },
+ {
+  "id": "5541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "farm machinery operation"
+ },
+ {
+  "id": "5542",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crop production field work"
+ },
+ {
+  "id": "5543",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "plant cultural methods"
+ },
+ {
+  "id": "5544",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "agricultural facilities and equipment repair"
+ },
+ {
+  "id": "5547",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trees and plants transplanting"
+ },
+ {
+  "id": "5548",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "agricultural workers training and supervision"
+ },
+ {
+  "id": "5549",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "agricultural demonstrations"
+ },
+ {
+  "id": "18278",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "farm equipment programming"
+ },
+ {
+  "id": "18279",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "yield and soil maps comparison"
+ },
+ {
+  "id": "18280",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sensors and GPS guidance systems"
+ },
+ {
+  "id": "18281",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soil and field data collection"
+ },
+ {
+  "id": "18282",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "spatial coordinates from GPS imagery"
+ },
+ {
+  "id": "18284",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fields divided into zones"
+ },
+ {
+  "id": "18287",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial pesticide treatment areas"
+ },
+ {
+  "id": "18288",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "crop varieties and seeding rates"
+ },
+ {
+  "id": "18289",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "precision agriculture maps"
+ },
+ {
+  "id": "18290",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment manufacturers technical contact"
+ },
+ {
+  "id": "18293",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote sensing imagery"
+ },
+ {
+  "id": "18295",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "precision agriculture records"
+ },
+ {
+  "id": "18296",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "soil and contour maps"
+ },
+ {
+  "id": "19800",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "GPS equipment upgrade advice"
+ },
+ {
+  "id": "19801",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "farming environmental impact reduction"
+ },
+ {
+  "id": "19802",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "precision agriculture technology development"
+ },
+ {
+  "id": "19803",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "boom-spray technology advice"
+ },
+ {
+  "id": "20872",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "soil sampling grids and sites"
+ },
+ {
+  "id": "20873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "geospatial technology demonstrations"
+ },
+ {
+  "id": "20874",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "harvester monitor yield maps"
+ },
+ {
+  "id": "20875",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "geospatial agricultural factors"
+ },
+ {
+  "id": "20876",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "field productivity reports"
+ },
+ {
+  "id": "20394",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing results records"
+ },
+ {
+  "id": "20395",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "product temperature"
+ },
+ {
+  "id": "20396",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laboratory equipment maintenance"
+ },
+ {
+  "id": "20397",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new laboratory personnel training"
+ },
+ {
+  "id": "20398",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slides with cell cultures"
+ },
+ {
+  "id": "22261",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "food technicians supervision"
+ },
+ {
+  "id": "7576",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "food and additives standardized tests"
+ },
+ {
+  "id": "7577",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "food scientists research assistance"
+ },
+ {
+  "id": "7578",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "moisture, salt, ingredient calculations"
+ },
+ {
+  "id": "7579",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test results charts and reports"
+ },
+ {
+  "id": "7581",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test results classification"
+ },
+ {
+  "id": "7582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "food flavors by taste or smell"
+ },
+ {
+  "id": "7583",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "samples under microscope"
+ },
+ {
+  "id": "7584",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reagents and food products"
+ },
+ {
+  "id": "7585",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "containers hardness and dimensions"
+ },
+ {
+  "id": "7587",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "laboratory supplies inventory"
+ }
+]

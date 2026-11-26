@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "15234",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "appointment scheduling and supply orders"
+ },
+ {
+  "id": "15235",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "sterile field in surgery"
+ },
+ {
+  "id": "15236",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physician cardiac procedures assistance"
+ },
+ {
+  "id": "15237",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "diagnostic procedure report transcription"
+ },
+ {
+  "id": "15238",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "Holter monitor setup and tape review"
+ },
+ {
+  "id": "4127",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient heart rate and blood pressure"
+ },
+ {
+  "id": "4128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient comfort and safety during tests"
+ },
+ {
+  "id": "4129",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient explanation of testing procedures"
+ },
+ {
+  "id": "4131",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "imaging gauges and screens"
+ },
+ {
+  "id": "4132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cardiac testing with electronic equipment"
+ },
+ {
+  "id": "4133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient preparation and positioning"
+ },
+ {
+  "id": "4134",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient identification, history, test results"
+ },
+ {
+  "id": "4135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "EKG electrode attachment"
+ },
+ {
+  "id": "4136",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "equipment controls per physician orders"
+ },
+ {
+  "id": "4137",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cardiology equipment checks and repairs"
+ },
+ {
+  "id": "4138",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "cardiology technologist training and supervision"
+ },
+ {
+  "id": "4140",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contrast radiograph imaging equipment"
+ },
+ {
+  "id": "4141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "contrast injection into blood vessels"
+ },
+ {
+  "id": "4142",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ultrasound vascular signals"
+ },
+ {
+  "id": "4143",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "valve areas from flow velocity"
+ },
+ {
+  "id": "4144",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "heart measurements versus norms"
+ },
+ {
+  "id": "431",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "diagnostic ultrasound image selection"
+ },
+ {
+  "id": "432",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "live scan image quality"
+ },
+ {
+  "id": "433",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient safety and comfort during exams"
+ },
+ {
+  "id": "434",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "sonogram findings summary for physician"
+ },
+ {
+  "id": "435",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "ultrasound equipment imaging of body"
+ },
+ {
+  "id": "436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment settings and patient positions"
+ },
+ {
+  "id": "437",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "exam scope extension decision"
+ },
+ {
+  "id": "438",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film coding and documentation"
+ },
+ {
+  "id": "439",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient history records"
+ },
+ {
+  "id": "440",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient exam preparation and positioning"
+ },
+ {
+  "id": "441",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "ultrasound image recording"
+ },
+ {
+  "id": "442",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "physician and team coordination"
+ },
+ {
+  "id": "443",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient and quality assurance records"
+ },
+ {
+  "id": "444",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "consent, safety reports, abuse reporting"
+ },
+ {
+  "id": "445",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sonographer and student training"
+ },
+ {
+  "id": "446",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "supply stock and ordering"
+ },
+ {
+  "id": "447",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sonography equipment cleaning and repair"
+ },
+ {
+  "id": "448",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exam scheduling and image archiving"
+ },
+ {
+  "id": "449",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency medical procedures on patients"
+ },
+ {
+  "id": "450",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "film cassette loading"
+ },
+ {
+  "id": "15239",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiopharmaceutical administration to patients"
+ },
+ {
+  "id": "15240",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "imaging equipment quality control"
+ },
+ {
+  "id": "4148",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radiation dosage calculation and records"
+ },
+ {
+  "id": "4149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiopharmaceutical imaging camera"
+ },
+ {
+  "id": "4150",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "test procedures explained to patients"
+ },
+ {
+  "id": "4152",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "diagnostic image production"
+ },
+ {
+  "id": "4153",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cardiac function study processing"
+ },
+ {
+  "id": "4154",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioactive material disposal and storage"
+ },
+ {
+  "id": "4155",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "procedure result records"
+ },
+ {
+  "id": "4156",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock radiopharmaceutical preparation"
+ },
+ {
+  "id": "4157",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioisotope equipment calibration"
+ },
+ {
+  "id": "4158",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patient history for procedure choice"
+ },
+ {
+  "id": "4159",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient radioactivity measurement"
+ },
+ {
+  "id": "4160",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "nuclear technologist training"
+ },
+ {
+  "id": "4161",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiation beams and patient positioning"
+ },
+ {
+  "id": "4162",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioactive additions to specimens"
+ },
+ {
+  "id": "4163",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "nuclear medicine treatment procedures"
+ },
+ {
+  "id": "22802",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radiographic image diagnostic quality"
+ },
+ {
+  "id": "22803",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiologic imaging equipment operation"
+ },
+ {
+  "id": "22804",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient positioning on exam table"
+ },
+ {
+  "id": "22805",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exposed radiograph processing"
+ },
+ {
+  "id": "22806",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "radiation safety measures"
+ },
+ {
+  "id": "22807",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "imaging equipment exposure settings"
+ },
+ {
+  "id": "22808",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient explanation and safety observation"
+ },
+ {
+  "id": "22809",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physician x-ray requests"
+ },
+ {
+  "id": "22810",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scan sequence data entry"
+ },
+ {
+  "id": "22811",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient medical histories"
+ },
+ {
+  "id": "22812",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "x-ray exposures and repeats"
+ },
+ {
+  "id": "22813",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "examination room setup"
+ },
+ {
+  "id": "22814",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "picture archiving system operation"
+ },
+ {
+  "id": "22815",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient transport to exam rooms"
+ },
+ {
+  "id": "22816",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "patient condition and reactions"
+ },
+ {
+  "id": "22817",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physician procedure assistance"
+ },
+ {
+  "id": "22818",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mobile x-ray equipment"
+ },
+ {
+  "id": "22819",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient data and treatment records"
+ },
+ {
+  "id": "22820",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physician-supervised imaging procedures"
+ },
+ {
+  "id": "22821",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "dressing ill or disabled patients"
+ },
+ {
+  "id": "22822",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "quality control and equipment monitoring"
+ },
+ {
+  "id": "22823",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "examination protocol file"
+ },
+ {
+  "id": "22824",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "phones, scheduling, and filing"
+ },
+ {
+  "id": "22825",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "employee and student training"
+ },
+ {
+  "id": "22826",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "contrast and drug preparation"
+ },
+ {
+  "id": "22827",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "fluoroscope guiding catheter procedures"
+ },
+ {
+  "id": "22828",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radiologic staff duty assignments"
+ },
+ {
+  "id": "22829",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "clerical and technologist coordination"
+ },
+ {
+  "id": "22830",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department budget, purchasing, schedules"
+ },
+ {
+  "id": "22831",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "imaging technique suggestions to technologists"
+ },
+ {
+  "id": "19216",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "physiological monitoring leads on patient"
+ },
+ {
+  "id": "19217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "MRI console hardware calibration"
+ },
+ {
+  "id": "19218",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient MRI contraindication screening"
+ },
+ {
+  "id": "19219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "leads connected to acquisition units"
+ },
+ {
+  "id": "19220",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image backup copies"
+ },
+ {
+  "id": "19221",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MRI film records"
+ },
+ {
+  "id": "19222",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "MRI explanation to patients and families"
+ },
+ {
+  "id": "19223",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "intravenous contrast injection"
+ },
+ {
+  "id": "19224",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "MRI image quality"
+ },
+ {
+  "id": "19225",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "MRI scanner operation"
+ },
+ {
+  "id": "19226",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient positioning on MRI cradle"
+ },
+ {
+  "id": "19227",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "headphones or earplugs for patients"
+ },
+ {
+  "id": "19228",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "MRI technique and coil selection"
+ },
+ {
+  "id": "19229",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "MRI scanner technical troubleshooting"
+ },
+ {
+  "id": "19230",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "clinical supply inventory"
+ },
+ {
+  "id": "19231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "medical staff MRI instruction"
+ },
+ {
+  "id": "19232",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dynamic MRI optical imaging"
+ },
+ {
+  "id": "19233",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "portable MRI scanner placement"
+ },
+ {
+  "id": "19235",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient appointment scheduling"
+ },
+ {
+  "id": "19236",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "brief patient medical histories"
+ },
+ {
+  "id": "19237",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "MRI equipment performance testing"
+ },
+ {
+  "id": "19238",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "testing procedure summary reports"
+ },
+ {
+  "id": "23974",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "physician orders and prescribed exams"
+ },
+ {
+  "id": "23975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient comfort during exams"
+ },
+ {
+  "id": "22832",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "oncology team device advice"
+ },
+ {
+  "id": "22833",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radiation dose calculations"
+ },
+ {
+  "id": "22834",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radiation treatment delivery calculations"
+ },
+ {
+  "id": "22835",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radiation oncology research"
+ },
+ {
+  "id": "22836",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "reference images and localization markers"
+ },
+ {
+  "id": "22837",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radiation field arrangement"
+ },
+ {
+  "id": "22838",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radiation treatment plans"
+ },
+ {
+  "id": "22839",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "immobilization device requirements"
+ },
+ {
+  "id": "22840",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "brachytherapy plans and doses"
+ },
+ {
+  "id": "22841",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient treatment education"
+ },
+ {
+  "id": "22842",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "beam modifying device fabrication"
+ },
+ {
+  "id": "22843",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "patient immobilization device fabrication"
+ },
+ {
+  "id": "22844",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "bodily structures on medical images"
+ },
+ {
+  "id": "22846",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "radioactivity in patients and equipment"
+ },
+ {
+  "id": "22847",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "treatment planning computer quality checks"
+ },
+ {
+  "id": "22848",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "beam modifying device planning"
+ },
+ {
+  "id": "22849",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient radiation dose records"
+ },
+ {
+  "id": "22850",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "tumor localization simulation scans"
+ },
+ {
+  "id": "22851",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "dosimetry teaching to students"
+ },
+ {
+  "id": "22852",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prehospital first aid and life support"
+ },
+ {
+  "id": "22853",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient illness or injury assessment"
+ },
+ {
+  "id": "22854",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "certification training classes"
+ },
+ {
+  "id": "22855",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient reassurance"
+ },
+ {
+  "id": "22856",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "dispatch and hospital communication"
+ },
+ {
+  "id": "22857",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "emergency team coordination"
+ },
+ {
+  "id": "22858",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ambulance interior decontamination"
+ },
+ {
+  "id": "22859",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ambulance driving to scene"
+ },
+ {
+  "id": "22860",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient immobilization for transport"
+ },
+ {
+  "id": "22861",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicles and medical equipment upkeep"
+ },
+ {
+  "id": "22862",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient condition and treatment report"
+ },
+ {
+  "id": "22863",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency diagnostic procedures in ambulance"
+ },
+ {
+  "id": "22864",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "drug administration and IV procedures"
+ },
+ {
+  "id": "22865",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "prehospital first aid and life support"
+ },
+ {
+  "id": "22866",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient illness or injury assessment"
+ },
+ {
+  "id": "22867",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "certification training classes"
+ },
+ {
+  "id": "22868",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patient reassurance"
+ },
+ {
+  "id": "22869",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "hospital coordination for emergency care"
+ },
+ {
+  "id": "22870",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "emergency team coordination"
+ },
+ {
+  "id": "22871",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "emergency response team instruction"
+ },
+ {
+  "id": "22872",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "patient condition and treatment report"
+ },
+ {
+  "id": "22873",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "EKG, defibrillator, resuscitator operation"
+ },
+ {
+  "id": "22874",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency cardiac care"
+ },
+ {
+  "id": "22875",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency invasive interventions"
+ },
+ {
+  "id": "22876",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "emergency drug interventions"
+ },
+ {
+  "id": "20421",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient nutritional assessments"
+ },
+ {
+  "id": "23922",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "patient food intake and weight"
+ },
+ {
+  "id": "23923",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "interdisciplinary patient care meetings"
+ },
+ {
+  "id": "4165",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "large group meal preparation"
+ },
+ {
+  "id": "4166",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "menus, recipes, and new products"
+ },
+ {
+  "id": "4167",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "food production and service supervision"
+ },
+ {
+  "id": "4169",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "menus, diets, food selection guidance"
+ },
+ {
+  "id": "4170",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food and beverage costs"
+ },
+ {
+  "id": "4171",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "job descriptions and work schedules"
+ },
+ {
+  "id": "4172",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "orientation and in-service programs"
+ },
+ {
+  "id": "4173",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "food and nutrition research"
+ },
+ {
+  "id": "4174",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "speeches on diet and nutrition"
+ },
+ {
+  "id": "4175",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patient referrals to services"
+ },
+ {
+  "id": "18544",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bulk medicine packaging and labeling"
+ },
+ {
+  "id": "18545",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming pharmacy supplies and stock"
+ },
+ {
+  "id": "18546",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sterile IV solution preparation"
+ },
+ {
+  "id": "1939",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescription request completeness"
+ },
+ {
+  "id": "1940",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drug storage and security"
+ },
+ {
+  "id": "1941",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pharmacy telephone calls"
+ },
+ {
+  "id": "1943",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer questions and item location"
+ },
+ {
+  "id": "1944",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "filled prescription pricing and filing"
+ },
+ {
+  "id": "1945",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pharmacy equipment and work area cleaning"
+ },
+ {
+  "id": "1946",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "patient medication profiles"
+ },
+ {
+  "id": "1947",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "pharmacy stock counts and inventory data"
+ },
+ {
+  "id": "1949",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vial to sterile syringe transfer"
+ },
+ {
+  "id": "1951",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "robotic dispensing machine supply"
+ },
+ {
+  "id": "1952",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "insurance claim forms"
+ },
+ {
+  "id": "1953",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pharmaceutical preparation mixing"
+ },
+ {
+  "id": "1954",
+  "ai_alone": 3,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "customer payment at register"
+ },
+ {
+  "id": "1955",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "medication charges data entry"
+ },
+ {
+  "id": "1956",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "medication delivery to patients and units"
+ },
+ {
+  "id": "1957",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stock pricing and item marking"
+ },
+ {
+  "id": "1958",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "home healthcare products and services"
+ },
+ {
+  "id": "23924",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "prescription data entry"
+ }
+]

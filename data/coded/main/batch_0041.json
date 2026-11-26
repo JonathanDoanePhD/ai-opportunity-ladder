@@ -1,0 +1,1498 @@
+[
+ {
+  "id": "1719",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client order preferences"
+ },
+ {
+  "id": "1720",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "floral arrangement plans"
+ },
+ {
+  "id": "1721",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "live flowers and foliage"
+ },
+ {
+  "id": "1722",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "flowers for new designs"
+ },
+ {
+  "id": "1723",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "floral supply orders"
+ },
+ {
+  "id": "1724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "finished arrangements"
+ },
+ {
+  "id": "1725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "bouquets and wreaths"
+ },
+ {
+  "id": "1726",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "shop office and sales duties"
+ },
+ {
+  "id": "1727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "flower care advice"
+ },
+ {
+  "id": "1728",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "venue decoration for events"
+ },
+ {
+  "id": "1729",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shop cleanliness"
+ },
+ {
+  "id": "1730",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "incoming stock"
+ },
+ {
+  "id": "1731",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shop and window displays"
+ },
+ {
+  "id": "1732",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "floral classes and worker training"
+ },
+ {
+  "id": "20751",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "arrangement deliveries"
+ },
+ {
+  "id": "15228",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "image and work archive"
+ },
+ {
+  "id": "15229",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design software and concepts"
+ },
+ {
+  "id": "23970",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "digital print files"
+ },
+ {
+  "id": "23971",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "project target audience"
+ },
+ {
+  "id": "23972",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client marketing copy"
+ },
+ {
+  "id": "299",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design concepts and layouts"
+ },
+ {
+  "id": "300",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "copy and illustration arrangement"
+ },
+ {
+  "id": "301",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "software-generated images"
+ },
+ {
+  "id": "302",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "final print layouts"
+ },
+ {
+  "id": "303",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "charts graphs and artwork"
+ },
+ {
+  "id": "304",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "final layouts critique"
+ },
+ {
+  "id": "305",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client layout preferences"
+ },
+ {
+  "id": "306",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "logos product art web graphics"
+ },
+ {
+  "id": "307",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layout text entry"
+ },
+ {
+  "id": "308",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "rough sketches for clients"
+ },
+ {
+  "id": "309",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "reference illustrations and photos"
+ },
+ {
+  "id": "310",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "layout assembly instructions"
+ },
+ {
+  "id": "312",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "physical layout photographs"
+ },
+ {
+  "id": "313",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "television news graphics"
+ },
+ {
+  "id": "1734",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "material estimates and design pitch"
+ },
+ {
+  "id": "1735",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client needs for interiors"
+ },
+ {
+  "id": "1736",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client space and furnishing advice"
+ },
+ {
+  "id": "1737",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "furnishings art and accessories"
+ },
+ {
+  "id": "1738",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "interior environment plan"
+ },
+ {
+  "id": "1739",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "fabrication and installation subcontracts"
+ },
+ {
+  "id": "1740",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "design renderings and drawings"
+ },
+ {
+  "id": "1741",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "vehicle interior designs"
+ },
+ {
+  "id": "18519",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "contractors and architects coordination"
+ },
+ {
+  "id": "18520",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "construction shop drawings"
+ },
+ {
+  "id": "18521",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "CAD construction documents"
+ },
+ {
+  "id": "20996",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "ADA-compliant safe design"
+ },
+ {
+  "id": "20997",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "on-site construction work"
+ },
+ {
+  "id": "20998",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "sustainable material design"
+ },
+ {
+  "id": "20999",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new materials and products"
+ },
+ {
+  "id": "23995",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "health and safety codes"
+ },
+ {
+  "id": "20752",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "display placement with store staff"
+ },
+ {
+  "id": "20753",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "props and mannequins"
+ },
+ {
+  "id": "20754",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "in-store display setups"
+ },
+ {
+  "id": "20755",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff visual merchandising training"
+ },
+ {
+  "id": "20756",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "prop and display inventory"
+ },
+ {
+  "id": "9262",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "displays and signage photos"
+ },
+ {
+  "id": "9263",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "commercial display plans"
+ },
+ {
+  "id": "9264",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "price and descriptive signs"
+ },
+ {
+  "id": "9265",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "window displays and signage"
+ },
+ {
+  "id": "9266",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "display plans with supervisors"
+ },
+ {
+  "id": "9267",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "display and window ideas"
+ },
+ {
+  "id": "9268",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "featured merchandise with sales staff"
+ },
+ {
+  "id": "9269",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "props furniture and backdrops"
+ },
+ {
+  "id": "9270",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "display components from materials"
+ },
+ {
+  "id": "9271",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "display item sourcing"
+ },
+ {
+  "id": "9272",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "store signage"
+ },
+ {
+  "id": "9273",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "display mannequins"
+ },
+ {
+  "id": "9275",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "display themes lighting props"
+ },
+ {
+  "id": "9276",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "training and planning meetings"
+ },
+ {
+  "id": "9277",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "sales staff color coordination"
+ },
+ {
+  "id": "9279",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "display sketches and floor plans"
+ },
+ {
+  "id": "9280",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cardboard and plywood cutouts"
+ },
+ {
+  "id": "9281",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "booths exhibits and drapes"
+ },
+ {
+  "id": "9282",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "banners and festive lights"
+ },
+ {
+  "id": "9284",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "exhibit objects display planning"
+ },
+ {
+  "id": "9285",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "exhibit specimens and graphics"
+ },
+ {
+  "id": "9286",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "set drafts and drawings"
+ },
+ {
+  "id": "9287",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exhibit requirements with clients"
+ },
+ {
+  "id": "9288",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "set and exhibit costs"
+ },
+ {
+  "id": "9289",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "set designs from scripts"
+ },
+ {
+  "id": "9290",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "set construction crews"
+ },
+ {
+  "id": "9291",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "installed exhibits and effects"
+ },
+ {
+  "id": "9292",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "exhibit space and safety issues"
+ },
+ {
+  "id": "9293",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "design plans for approval"
+ },
+ {
+  "id": "9294",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exhibit renderings and specifications"
+ },
+ {
+  "id": "9295",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "set lumber and hardware"
+ },
+ {
+  "id": "9296",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lighting and sound coordination"
+ },
+ {
+  "id": "9297",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "period architecture and style"
+ },
+ {
+  "id": "9298",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "window and event decorations"
+ },
+ {
+  "id": "9299",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "set and prop removal"
+ },
+ {
+  "id": "9300",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "set furniture and props"
+ },
+ {
+  "id": "9301",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exhibit environment with conservators"
+ },
+ {
+  "id": "9302",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "design staff assignments"
+ },
+ {
+  "id": "9303",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "sets during rehearsals"
+ },
+ {
+  "id": "9304",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scale models of sets"
+ },
+ {
+  "id": "9305",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "script set requirements"
+ },
+ {
+  "id": "9306",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "rehearsals and production meetings"
+ },
+ {
+  "id": "9307",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exhibit structure contractors"
+ },
+ {
+  "id": "9308",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exhibit publicity and print materials"
+ },
+ {
+  "id": "9309",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "exhibit security systems"
+ },
+ {
+  "id": "9310",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "set transport and setup"
+ },
+ {
+  "id": "7643",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "script lines and cues"
+ },
+ {
+  "id": "7644",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "role interpretation with directors"
+ },
+ {
+  "id": "7645",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "characters and script relationships"
+ },
+ {
+  "id": "7646",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "ensemble cast collaboration"
+ },
+ {
+  "id": "7647",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "emotional live performance"
+ },
+ {
+  "id": "7648",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "auditions and casting calls"
+ },
+ {
+  "id": "7649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "role portrayal for audiences"
+ },
+ {
+  "id": "7650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "lighting costume and prop crew"
+ },
+ {
+  "id": "7651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "singing and dancing in performance"
+ },
+ {
+  "id": "7652",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "script readings for audiences"
+ },
+ {
+  "id": "7653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production promotion interviews"
+ },
+ {
+  "id": "7654",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "original performance writing"
+ },
+ {
+  "id": "7655",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "action stunts"
+ },
+ {
+  "id": "7656",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "comedy for live audiences"
+ },
+ {
+  "id": "7657",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "performance introductions at events"
+ },
+ {
+  "id": "7659",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "clown comedy routines"
+ },
+ {
+  "id": "7660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "illusion tricks for audiences"
+ },
+ {
+  "id": "7661",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "puppets and dummies"
+ },
+ {
+  "id": "22514",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "news stories from sources"
+ },
+ {
+  "id": "22515",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shot framing and composition"
+ },
+ {
+  "id": "22516",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "actor direction in scenes"
+ },
+ {
+  "id": "22517",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "live broadcasts and films"
+ },
+ {
+  "id": "22518",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production personnel coordination"
+ },
+ {
+  "id": "22519",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scripts for direction"
+ },
+ {
+  "id": "22520",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "camera lighting and sound crews"
+ },
+ {
+  "id": "22521",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production details with crew"
+ },
+ {
+  "id": "22522",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production topic research"
+ },
+ {
+  "id": "22523",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "film and rehearsal standards"
+ },
+ {
+  "id": "22524",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "script changes with writers"
+ },
+ {
+  "id": "22525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production equipment and elements"
+ },
+ {
+  "id": "22526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "program pace and sequences"
+ },
+ {
+  "id": "22527",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff production meetings"
+ },
+ {
+  "id": "22528",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scripts and program notes"
+ },
+ {
+  "id": "22529",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "production administrative paperwork"
+ },
+ {
+  "id": "22530",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production personnel disputes"
+ },
+ {
+  "id": "22531",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "production financing"
+ },
+ {
+  "id": "22532",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production budgeting and scheduling"
+ },
+ {
+  "id": "22533",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "scripts and story outlines"
+ },
+ {
+  "id": "22534",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "distribution deals with parties"
+ },
+ {
+  "id": "22535",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "film and tape sequences"
+ },
+ {
+  "id": "22536",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "film settings and locations"
+ },
+ {
+  "id": "22537",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "daily footage review"
+ },
+ {
+  "id": "22538",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "script and footage rights"
+ },
+ {
+  "id": "22539",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "project bid proposals"
+ },
+ {
+  "id": "22540",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "marketing plans for productions"
+ },
+ {
+  "id": "22541",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "cast and crew hiring"
+ },
+ {
+  "id": "22542",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "auditions and actor contracts"
+ },
+ {
+  "id": "22543",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "plays scripts and ideas"
+ },
+ {
+  "id": "7662",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programming schedule planning"
+ },
+ {
+  "id": "7663",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programming quality and schedules"
+ },
+ {
+  "id": "7664",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "broadcast personnel direction"
+ },
+ {
+  "id": "7665",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program logs and FCC rules"
+ },
+ {
+  "id": "7666",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "staff work schedules"
+ },
+ {
+  "id": "7667",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "department coordination"
+ },
+ {
+  "id": "7668",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff hiring and evaluation"
+ },
+ {
+  "id": "7669",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programming and audience feedback"
+ },
+ {
+  "id": "7670",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "programming budgets and spending"
+ },
+ {
+  "id": "7671",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "production issues with directors"
+ },
+ {
+  "id": "7672",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "programs music and clearances"
+ },
+ {
+  "id": "7673",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "network transmission advisories"
+ },
+ {
+  "id": "7674",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program promotions"
+ },
+ {
+  "id": "7675",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "broadcast copy and tape"
+ },
+ {
+  "id": "7676",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "station program ideas"
+ },
+ {
+  "id": "7677",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "fundraising activities"
+ },
+ {
+  "id": "7678",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "program schedule information accuracy"
+ },
+ {
+  "id": "7679",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "on-air news and announcements"
+ },
+ {
+  "id": "7680",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "audio equipment"
+ },
+ {
+  "id": "7681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "remote facility setup"
+ },
+ {
+  "id": "7682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "on-air talent cues"
+ },
+ {
+  "id": "7683",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "broadcast interviews"
+ },
+ {
+  "id": "7684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "talent and director communication"
+ },
+ {
+  "id": "11015",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "performer submissions for auditions"
+ },
+ {
+  "id": "11016",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "performer needs from scripts"
+ },
+ {
+  "id": "11017",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "performer selection for roles"
+ },
+ {
+  "id": "11018",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "performer auditions and interviews"
+ },
+ {
+  "id": "11019",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "talent files"
+ },
+ {
+  "id": "11020",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "actor audition preparation"
+ },
+ {
+  "id": "11021",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "directors actors and agents liaison"
+ },
+ {
+  "id": "11022",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "productions viewed for talent"
+ },
+ {
+  "id": "11023",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "performer contract terms"
+ },
+ {
+  "id": "11024",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "audition notifications and scheduling"
+ },
+ {
+  "id": "11025",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "talent scouting staff"
+ },
+ {
+  "id": "11026",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "screen tests and auditions"
+ },
+ {
+  "id": "11027",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "extras and stand-ins"
+ },
+ {
+  "id": "21139",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "shows and plays"
+ },
+ {
+  "id": "21140",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "acting classes"
+ }
+]

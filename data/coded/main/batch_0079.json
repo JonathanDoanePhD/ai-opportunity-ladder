@@ -1,0 +1,1378 @@
+[
+ {
+  "id": "11648",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire and cable colors"
+ },
+ {
+  "id": "11649",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "malfunctioning telecom circuits and components"
+ },
+ {
+  "id": "11650",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired telecom equipment function"
+ },
+ {
+  "id": "11651",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "crew trucks driving"
+ },
+ {
+  "id": "11652",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "telecom equipment inspection"
+ },
+ {
+  "id": "11653",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "faulty telephones and switching components"
+ },
+ {
+  "id": "11654",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuit connections per work orders"
+ },
+ {
+  "id": "11655",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer equipment demonstration and questions"
+ },
+ {
+  "id": "11656",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test readings and trouble reports"
+ },
+ {
+  "id": "11657",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment adjustment for performance or requests"
+ },
+ {
+  "id": "11658",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "technical service center support requests"
+ },
+ {
+  "id": "11659",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "loose wires and debris"
+ },
+ {
+  "id": "11660",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "communication lines and equipment assembly"
+ },
+ {
+  "id": "11661",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "radio or phone reports to base"
+ },
+ {
+  "id": "11662",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "coworker collaboration on malfunctions"
+ },
+ {
+  "id": "11663",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manuals, specs, permits, ordinances"
+ },
+ {
+  "id": "11664",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "power supply and link tests"
+ },
+ {
+  "id": "11665",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "poles, ladders, manholes climbing"
+ },
+ {
+  "id": "11666",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "manufacturer manuals for malfunctions"
+ },
+ {
+  "id": "11667",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cable availability designations"
+ },
+ {
+  "id": "11668",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wires between components and outside cables"
+ },
+ {
+  "id": "11669",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "plug-in circuit equipment"
+ },
+ {
+  "id": "11670",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables to switches and frames"
+ },
+ {
+  "id": "11671",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools, test gear, vehicles cleaning"
+ },
+ {
+  "id": "11672",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "computerized switch feature programming"
+ },
+ {
+  "id": "11673",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "remote switchboard problem diagnosis"
+ },
+ {
+  "id": "11674",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility and equipment records"
+ },
+ {
+  "id": "11675",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switch software updates"
+ },
+ {
+  "id": "11676",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "switching system programming codes"
+ },
+ {
+  "id": "11677",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "database verification"
+ },
+ {
+  "id": "11678",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "unauthorized use and shock incidents"
+ },
+ {
+  "id": "11679",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "telephone transmission facilities examination"
+ },
+ {
+  "id": "11680",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "installation sites and customer discussion"
+ },
+ {
+  "id": "11681",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "routine equipment maintenance upkeep"
+ },
+ {
+  "id": "11682",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation site measurements"
+ },
+ {
+  "id": "11683",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "switch cleaning, contact point replacement"
+ },
+ {
+  "id": "11684",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holes and trenches digging"
+ },
+ {
+  "id": "11685",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "telephone station equipment installation"
+ },
+ {
+  "id": "11686",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "new equipment design input"
+ },
+ {
+  "id": "9933",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "ground support flight test equipment"
+ },
+ {
+  "id": "9934",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "avionics components troubleshooting"
+ },
+ {
+  "id": "9935",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maintenance and repair records"
+ },
+ {
+  "id": "9936",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "avionics work coordination with staff"
+ },
+ {
+  "id": "9937",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "flight test data malfunctions"
+ },
+ {
+  "id": "9938",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft electronic components installation"
+ },
+ {
+  "id": "9939",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "malfunctioning avionics components"
+ },
+ {
+  "id": "9940",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "avionics component connections"
+ },
+ {
+  "id": "9941",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "switches, controls, junction boxes assembly"
+ },
+ {
+  "id": "9942",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parts and test aids"
+ },
+ {
+  "id": "9943",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "aircraft system installation layout"
+ },
+ {
+  "id": "9944",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuit and instrument prototypes"
+ },
+ {
+  "id": "9945",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "avionics modification CAD designs"
+ },
+ {
+  "id": "11688",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "motor performance measurements and diagnosis"
+ },
+ {
+  "id": "11689",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair, parts, labor records"
+ },
+ {
+  "id": "11690",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired electric motors"
+ },
+ {
+  "id": "11691",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "parts stock"
+ },
+ {
+  "id": "11692",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mechanical parts in motors"
+ },
+ {
+  "id": "11693",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical systems and accessories"
+ },
+ {
+  "id": "11694",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "connections, relays, batteries"
+ },
+ {
+  "id": "11695",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "service guides for repairs"
+ },
+ {
+  "id": "11696",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment damage and malfunction diagnosis"
+ },
+ {
+  "id": "11697",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wire insulation"
+ },
+ {
+  "id": "11698",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "alternators, generators, switches"
+ },
+ {
+  "id": "11699",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moving parts lubrication"
+ },
+ {
+  "id": "11700",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coil leads, brushes, wires"
+ },
+ {
+  "id": "11701",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective equipment disassembly"
+ },
+ {
+  "id": "11702",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "motors and generators lifting"
+ },
+ {
+  "id": "11703",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical connections welding"
+ },
+ {
+  "id": "11704",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "commutators and machine parts"
+ },
+ {
+  "id": "11705",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "belts, contacts, springs"
+ },
+ {
+  "id": "11706",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cells, leads, battery poles"
+ },
+ {
+  "id": "11707",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "units and parts scraping"
+ },
+ {
+  "id": "11708",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coils and cores rewinding"
+ },
+ {
+  "id": "11709",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "armature, rotor, stator insulation"
+ },
+ {
+  "id": "11710",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "machinery settings by computer"
+ },
+ {
+  "id": "11713",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "part alignments and dimensions"
+ },
+ {
+  "id": "11714",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment overheating"
+ },
+ {
+  "id": "11720",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "polishing and buffing wheels"
+ },
+ {
+  "id": "11721",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "battery charges and replacement"
+ },
+ {
+  "id": "11722",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "battery-charging equipment"
+ },
+ {
+  "id": "11724",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand tools sharpening"
+ },
+ {
+  "id": "11725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "joints sealing"
+ },
+ {
+  "id": "11726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dented tools and equipment"
+ },
+ {
+  "id": "11727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical systems malfunction diagnosis"
+ },
+ {
+  "id": "11728",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired equipment reassembly and testing"
+ },
+ {
+  "id": "11729",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wires and connections splicing"
+ },
+ {
+  "id": "11730",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fuses, cables, power sources"
+ },
+ {
+  "id": "11731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuit defects"
+ },
+ {
+  "id": "11732",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wiring and relays in vehicle systems"
+ },
+ {
+  "id": "11733",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "schematics and specifications"
+ },
+ {
+  "id": "11734",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment service records"
+ },
+ {
+  "id": "11735",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "openings and holes for fixtures"
+ },
+ {
+  "id": "11736",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "frameworks and conduit"
+ },
+ {
+  "id": "11737",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical equipment installation"
+ },
+ {
+  "id": "11738",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fixtures, outlets, switches"
+ },
+ {
+  "id": "11739",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "starters, generators, controls"
+ },
+ {
+  "id": "11740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer malfunction description"
+ },
+ {
+  "id": "11741",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair costs from parts and labor"
+ },
+ {
+  "id": "882",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "scheduled preventive equipment maintenance"
+ },
+ {
+  "id": "883",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "work orders and operator conversations"
+ },
+ {
+  "id": "884",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "industrial equipment setup and testing"
+ },
+ {
+  "id": "885",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment demonstration or malfunction analysis"
+ },
+ {
+  "id": "886",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "faulty electronic equipment diagnosis"
+ },
+ {
+  "id": "887",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "defective components, gaskets, seals"
+ },
+ {
+  "id": "888",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "instruments and equipment calibration"
+ },
+ {
+  "id": "889",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "management advice on product performance"
+ },
+ {
+  "id": "890",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "industrial equipment component defects"
+ },
+ {
+  "id": "891",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "blueprints and schematics for installation"
+ },
+ {
+  "id": "892",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment performance and repair logs"
+ },
+ {
+  "id": "893",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "worker coordination on installation"
+ },
+ {
+  "id": "894",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spare parts inventory"
+ },
+ {
+  "id": "895",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer and engineer layout consultation"
+ },
+ {
+  "id": "896",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "defective units shipment"
+ },
+ {
+  "id": "897",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "repaired equipment installation"
+ },
+ {
+  "id": "898",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "equipment feasibility and specifications"
+ },
+ {
+  "id": "899",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "schematics and program entry"
+ },
+ {
+  "id": "900",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "overhaul document signing"
+ },
+ {
+  "id": "901",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "industrial electronic devices and circuits"
+ },
+ {
+  "id": "11742",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "substation relay and control systems"
+ },
+ {
+  "id": "11743",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment and circuit defects"
+ },
+ {
+  "id": "11744",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "manuals, schematics, engineers for troubleshooting"
+ },
+ {
+  "id": "11745",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "facility staff shutdown notices"
+ },
+ {
+  "id": "11746",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "switches isolating defective relays"
+ },
+ {
+  "id": "11747",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test, repair, maintenance records"
+ },
+ {
+  "id": "11748",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "test data for malfunction diagnosis"
+ },
+ {
+  "id": "11749",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "insulators and bushings"
+ },
+ {
+  "id": "11750",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuit breakers, brushes, commutators"
+ },
+ {
+  "id": "11751",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "voltage regulators on high-voltage lines"
+ },
+ {
+  "id": "11752",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "special device construction schedule and supervision"
+ },
+ {
+  "id": "11753",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cable signal quality tests"
+ },
+ {
+  "id": "11754",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "cable splicing schedule and supervision"
+ },
+ {
+  "id": "11755",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuit breaker and transformer oil"
+ },
+ {
+  "id": "11756",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "spare parts inventories and requisitions"
+ },
+ {
+  "id": "13725",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wires and connections splicing"
+ },
+ {
+  "id": "13726",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle electronic equipment problems"
+ },
+ {
+  "id": "13727",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle electrical systems malfunction diagnosis"
+ },
+ {
+  "id": "13728",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle stereos, navigation, security systems"
+ },
+ {
+  "id": "13729",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "repair costs from parts and labor"
+ },
+ {
+  "id": "13730",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer malfunction description"
+ },
+ {
+  "id": "13731",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "speaker and electrical cables"
+ },
+ {
+  "id": "13732",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "openings and holes for equipment"
+ },
+ {
+  "id": "13733",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "electrical or electronic components"
+ },
+ {
+  "id": "13734",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vehicle seats, carpeting, door interiors"
+ },
+ {
+  "id": "13735",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "diagnostic test results"
+ },
+ {
+  "id": "13736",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sound component enclosures"
+ },
+ {
+  "id": "13737",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "entertainment equipment components and wiring"
+ },
+ {
+  "id": "13738",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "televisions, radios, recorders"
+ },
+ {
+  "id": "13739",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment calibration and fault location"
+ },
+ {
+  "id": "13740",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer problems and repair explanation"
+ },
+ {
+  "id": "13741",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment reception tuning"
+ },
+ {
+  "id": "13742",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer instruction on equipment"
+ },
+ {
+  "id": "13743",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "labor and materials cost estimates"
+ },
+ {
+  "id": "13744",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "circuit diagrams and service manuals"
+ },
+ {
+  "id": "13745",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders and maintenance reports"
+ },
+ {
+  "id": "13746",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "customer home service calls"
+ },
+ {
+  "id": "13747",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "speakers and consoles"
+ },
+ {
+  "id": "11758",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "systems for loose connections"
+ },
+ {
+  "id": "11760",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "control panels, contacts, sensors, cameras"
+ },
+ {
+  "id": "11761",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "security and alarm systems"
+ },
+ {
+  "id": "11763",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "installation sites, plans, work orders"
+ },
+ {
+  "id": "11764",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unit sensitivity via keypads"
+ },
+ {
+  "id": "11765",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "circuits and sensors"
+ },
+ {
+  "id": "11766",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "holes in studs, joists, floors"
+ },
+ {
+  "id": "11767",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "customer system demonstration"
+ },
+ {
+  "id": "11768",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "client risk and security needs"
+ },
+ {
+  "id": "11769",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "new products and developments"
+ },
+ {
+  "id": "11770",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "raceways, conduits, wires"
+ },
+ {
+  "id": "11771",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer installation cost estimates"
+ },
+ {
+  "id": "11772",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "invoices and warranties"
+ },
+ {
+  "id": "11773",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "replacement parts ordering"
+ },
+ {
+  "id": "20799",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cables through holes and walls"
+ },
+ {
+  "id": "20800",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "backup batteries, keypads, sirens"
+ }
+]

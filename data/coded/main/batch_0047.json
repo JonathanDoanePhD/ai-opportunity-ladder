@@ -1,0 +1,1458 @@
+[
+{
+"id": "1839",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "nursing reports and records"
+},
+{
+"id": "1840",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "patient symptoms and condition changes"
+},
+{
+"id": "1841",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "patient medical information and vital signs"
+},
+{
+"id": "1842",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient treatment plans"
+},
+{
+"id": "1843",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "healthcare team care plan coordination"
+},
+{
+"id": "1844",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "diagnostic tests for patient condition"
+},
+{
+"id": "1845",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "patient diet and activity care"
+},
+{
+"id": "1846",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "less-skilled nursing staff and unit"
+},
+{
+"id": "1847",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patients before examinations or treatments"
+},
+{
+"id": "1848",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "nurses' work and patient visits"
+},
+{
+"id": "1849",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "individual, family, community health and safety needs"
+},
+{
+"id": "1850",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "health education and improvement programs"
+},
+{
+"id": "1851",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "rooms, sterile instruments, supply stock"
+},
+{
+"id": "1852",
+"ai_alone": 1,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 1,
+"notes": "physician updates during anesthesia"
+},
+{
+"id": "1854",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "anesthetic administration to patients"
+},
+{
+"id": "1855",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "first aid, immunizations, convalescence care"
+},
+{
+"id": "1856",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "field exams and triage of patients"
+},
+{
+"id": "1857",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "specified laboratory tests"
+},
+{
+"id": "1859",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "drug and treatment recommendations"
+},
+{
+"id": "1860",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "infection control programs and precautions"
+},
+{
+"id": "1861",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "unit staff, budget and planning"
+},
+{
+"id": "1862",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "training of auxiliary staff or students"
+},
+{
+"id": "1863",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "referrals to community health resources"
+},
+{
+"id": "1864",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "nursing practice issues with institutions"
+},
+{
+"id": "1865",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "community health improvement programs"
+},
+{
+"id": "1866",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "nursing research activities"
+},
+{
+"id": "20413",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "medication administration and reaction monitoring"
+},
+{
+"id": "18297",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "therapeutic intervention risks and tradeoffs"
+},
+{
+"id": "18298",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "acute conditions risking deterioration"
+},
+{
+"id": "18299",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "normal versus abnormal physiological changes"
+},
+{
+"id": "18300",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "patient pain and sedation management"
+},
+{
+"id": "18301",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "EKG and x-ray information"
+},
+{
+"id": "18302",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "emergency life support procedures"
+},
+{
+"id": "18303",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "urgent health conditions and data"
+},
+{
+"id": "18304",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 1,
+"notes": "pacemaker and assistive device settings"
+},
+{
+"id": "18305",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "illness impact on patient life"
+},
+{
+"id": "18306",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "multidisciplinary team treatment planning"
+},
+{
+"id": "18307",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "illness discussions with patients and families"
+},
+{
+"id": "18308",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient care documentation data"
+},
+{
+"id": "18309",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "wounds and superficial lacerations"
+},
+{
+"id": "18310",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "invasive medical equipment and devices"
+},
+{
+"id": "18311",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "lab specimens from patients"
+},
+{
+"id": "18312",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "diagnostic tests and screenings"
+},
+{
+"id": "18313",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient care meetings"
+},
+{
+"id": "18314",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "medication prescriptions and reactions"
+},
+{
+"id": "18315",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "specialty consultation referrals"
+},
+{
+"id": "18316",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "blood transfusions and infusions"
+},
+{
+"id": "18317",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patients' healthcare system activities"
+},
+{
+"id": "18318",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "family and caregiver needs"
+},
+{
+"id": "18319",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "future care and transitions planning"
+},
+{
+"id": "18321",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "acute care literature and developments"
+},
+{
+"id": "18322",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "practice protocol development"
+},
+{
+"id": "18323",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "admission, transfer, discharge paperwork"
+},
+{
+"id": "18324",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "staff education"
+},
+{
+"id": "17312",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "mental health classes"
+},
+{
+"id": "17313",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 0,
+"notes": "professional growth and continuing education"
+},
+{
+"id": "17314",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "home health services"
+},
+{
+"id": "17315",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "medical and pharmaceutical supplies status"
+},
+{
+"id": "17316",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "mental health protocols from research"
+},
+{
+"id": "17317",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "outreach and crisis response programs"
+},
+{
+"id": "17318",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "routine physical health problems"
+},
+{
+"id": "17319",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "psychotropic medication prescriptions"
+},
+{
+"id": "17320",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "referrals to specialists"
+},
+{
+"id": "17321",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "routine physical health screenings"
+},
+{
+"id": "17322",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "treatment team case conferences"
+},
+{
+"id": "17323",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "EKG and renal test results"
+},
+{
+"id": "17324",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient behavior for diagnosis"
+},
+{
+"id": "17325",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient treatment plans"
+},
+{
+"id": "17326",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient medication use and results"
+},
+{
+"id": "17327",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient and family health education"
+},
+{
+"id": "17328",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "physiological versus psychological disorders"
+},
+{
+"id": "17329",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient histories, assessments, treatment documentation"
+},
+{
+"id": "17330",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "complex cases with psychiatrists"
+},
+{
+"id": "17331",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "patient mental and physical status"
+},
+{
+"id": "17332",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "interdisciplinary treatment plan collaboration"
+},
+{
+"id": "17333",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "medication injections to patients"
+},
+{
+"id": "17334",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "psychiatric disorders"
+},
+{
+"id": "17335",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "psychotherapy sessions for mental disorders"
+},
+{
+"id": "18325",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "age-specific patient care needs"
+},
+{
+"id": "18326",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "deceased patient care"
+},
+{
+"id": "18327",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "vital signs and lab emergency needs"
+},
+{
+"id": "18328",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "therapeutic or diagnostic procedures"
+},
+{
+"id": "18329",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "blood products and transfusion reactions"
+},
+{
+"id": "18330",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "medications by various routes"
+},
+{
+"id": "18331",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "patient and family advocacy, emotional support"
+},
+{
+"id": "18332",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "cardiac monitors, ventilators, pressure lines"
+},
+{
+"id": "18333",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "patient fluid intake and output"
+},
+{
+"id": "18334",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "sepsis or shock status changes"
+},
+{
+"id": "18335",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "patient pain and sedation levels"
+},
+{
+"id": "18336",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient psychosocial status and support systems"
+},
+{
+"id": "18337",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "treatment plan collaboration with professionals"
+},
+{
+"id": "18338",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "laboratory specimen collection"
+},
+{
+"id": "18339",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "monitoring and diagnostic test data"
+},
+{
+"id": "18340",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "breathing sounds and respiratory patterns"
+},
+{
+"id": "18341",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "medical histories and assessment findings"
+},
+{
+"id": "18342",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "treatment plans and outcomes documentation"
+},
+{
+"id": "18343",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "nutritional risk of patients"
+},
+{
+"id": "18344",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "care priorities for critically ill"
+},
+{
+"id": "18345",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "physician bronchoscopy and intubation procedures"
+},
+{
+"id": "18346",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "used equipment storage"
+},
+{
+"id": "18347",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "faulty equipment or devices"
+},
+{
+"id": "18348",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "family coping and adaptation"
+},
+{
+"id": "18349",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient care conferences"
+},
+{
+"id": "18350",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "professional organizations and continuing education"
+},
+{
+"id": "18351",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "nursing practice protocols"
+},
+{
+"id": "18352",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "educational programs for staff and community"
+},
+{
+"id": "18353",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "unit nursing staff"
+},
+{
+"id": "18000",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "in-service training on clinical procedures"
+},
+{
+"id": "18001",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "patients' care needs through interview"
+},
+{
+"id": "18002",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "nursing practice quality and effectiveness"
+},
+{
+"id": "18003",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 1,
+"notes": "comprehensive health assessments and prescriptions"
+},
+{
+"id": "18004",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "specialty inpatient and outpatient care"
+},
+{
+"id": "18005",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "departmental policies and infection standards"
+},
+{
+"id": "18006",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "collaboration with care providers"
+},
+{
+"id": "18007",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "nursing service goals and policies"
+},
+{
+"id": "18008",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "nursing practice standards in specialty"
+},
+{
+"id": "18009",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "care and treatment plans"
+},
+{
+"id": "18010",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "clinical recommendations to providers and insurers"
+},
+{
+"id": "18011",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "treatment programs from patient information"
+},
+{
+"id": "18012",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "informed treatment decision information for clients"
+},
+{
+"id": "18013",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "nursing staff instruction"
+},
+{
+"id": "18014",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "nursing staff providing patient therapy"
+},
+{
+"id": "18015",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "training needs and sessions"
+},
+{
+"id": "18016",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "nursing literature and developments"
+},
+{
+"id": "18017",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "patients' medical conditions with colleagues"
+},
+{
+"id": "18018",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "clinical research protocols and records"
+},
+{
+"id": "18019",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "patient discharge planning"
+},
+{
+"id": "18020",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient care activity reports"
+},
+{
+"id": "18021",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "nursing orders"
+},
+{
+"id": "20414",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "consultation to other health providers"
+},
+{
+"id": "20415",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "evidence-based departmental policies and standards"
+},
+{
+"id": "20416",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "evaluation programs for nursing quality"
+},
+{
+"id": "20417",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "patient education program design"
+},
+{
+"id": "20418",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "regulatory and accreditation compliance"
+},
+{
+"id": "20419",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "nursing departments or committees"
+},
+{
+"id": "20420",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "patient education teaching"
+},
+{
+"id": "21188",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 0,
+"notes": "other caregivers' professional growth"
+},
+{
+"id": "18354",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "post-anesthesia cardiovascular support medications"
+},
+{
+"id": "18355",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "post-surgical and post-anesthesia patient responses"
+},
+{
+"id": "18356",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "pre-anesthetic patient screening"
+},
+{
+"id": "18357",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "post-anesthesia medications and treatments"
+},
+{
+"id": "18358",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "pre-anesthetic medications"
+},
+{
+"id": "18359",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 1,
+"notes": "post-anesthesia care patient discharge"
+},
+{
+"id": "18360",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 0,
+"physical": 1,
+"notes": "x-rays and EKG results"
+},
+{
+"id": "18361",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "patient airway and pulmonary status"
+},
+{
+"id": "18362",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 2,
+"notes": "patient vital responses during anesthesia"
+},
+{
+"id": "18363",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "regional anesthetic techniques"
+},
+{
+"id": "18364",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "anesthetic solutions preparation and administration"
+},
+{
+"id": "18365",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "emergency airway and resuscitation"
+},
+{
+"id": "18366",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "anesthetics, drugs, fluids, blood products"
+},
+{
+"id": "18367",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "medical histories for anesthesia response"
+},
+{
+"id": "18368",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "anesthesia care plans"
+},
+{
+"id": "18369",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "anesthesia informed consent"
+},
+{
+"id": "18370",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "anesthesia equipment, monitors, supplies, drugs"
+},
+{
+"id": "18371",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "anesthesia equipment calibration"
+},
+{
+"id": "18372",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 0,
+"physical": 2,
+"notes": "anesthesia equipment cleaning"
+},
+{
+"id": "18373",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "arterial catheters and punctures"
+},
+{
+"id": "18374",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "peripheral or central IV catheters"
+},
+{
+"id": "18375",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "nurses and students on anesthesia topics"
+},
+{
+"id": "18376",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "nursing literature and developments"
+},
+{
+"id": "18377",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "anesthesia equipment repair requests"
+},
+{
+"id": "18441",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "prenatal to newborn patient education"
+},
+{
+"id": "18442",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "prenatal, birth, postpartum, newborn care"
+},
+{
+"id": "18443",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "patient health histories and symptoms"
+},
+{
+"id": "18444",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "fetal development and heartbeat"
+},
+{
+"id": "18445",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "physical exams and vital signs"
+},
+{
+"id": "18446",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "specialist consultations and referrals"
+},
+{
+"id": "18447",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "individualized health care plans"
+},
+{
+"id": "18448",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "physical examination findings documentation"
+},
+{
+"id": "18449",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "procedure explanations to patients and staff"
+},
+{
+"id": "18450",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 1,
+"physical": 2,
+"notes": "emergency stabilization of patients"
+},
+{
+"id": "18451",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "newborn care in early weeks"
+},
+{
+"id": "18452",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "women's primary care and childbirth"
+},
+{
+"id": "18453",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "diagnostic and lab tests"
+},
+{
+"id": "18454",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "medication prescriptions"
+},
+{
+"id": "18455",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 2,
+"notes": "family planning devices and contraceptives"
+},
+{
+"id": "18456",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "medical records and narrative summaries"
+},
+{
+"id": "18457",
+"ai_alone": 2,
+"ai_speedup": "moderate",
+"human_core": 1,
+"physical": 0,
+"notes": "maternal and infant health research"
+},
+{
+"id": "18458",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 1,
+"physical": 0,
+"notes": "specialty practice guidelines"
+},
+{
+"id": "18459",
+"ai_alone": 2,
+"ai_speedup": "large",
+"human_core": 0,
+"physical": 0,
+"notes": "midwifery literature and developments"
+},
+{
+"id": "18460",
+"ai_alone": 1,
+"ai_speedup": "moderate",
+"human_core": 2,
+"physical": 0,
+"notes": "educational programs for staff and community"
+},
+{
+"id": "23919",
+"ai_alone": 0,
+"ai_speedup": "none",
+"human_core": 2,
+"physical": 1,
+"notes": "student midwives on birthing process"
+}
+]

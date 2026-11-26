@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "20130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cleaning equipment working condition"
+ },
+ {
+  "id": "20131",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grounds snow and lawn upkeep"
+ },
+ {
+  "id": "9512",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "infection control activities in facilities"
+ },
+ {
+  "id": "9513",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "cleaning work quality inspection"
+ },
+ {
+  "id": "9514",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "employee work schedules"
+ },
+ {
+  "id": "9515",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hands-on cleaning duties"
+ },
+ {
+  "id": "9516",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "service and equipment complaints"
+ },
+ {
+  "id": "9517",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cross-department service coordination"
+ },
+ {
+  "id": "9519",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "facility physical condition walkthrough"
+ },
+ {
+  "id": "9520",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cleaning material choice by surface"
+ },
+ {
+  "id": "9521",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "staff training on policies, equipment"
+ },
+ {
+  "id": "9522",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "handing out supplies and equipment"
+ },
+ {
+  "id": "9523",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "staffing and stock forecasts"
+ },
+ {
+  "id": "9524",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "physical stock counts of supplies"
+ },
+ {
+  "id": "9525",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "employee evaluations and personnel actions"
+ },
+ {
+  "id": "9526",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "staff performance and personnel conversations"
+ },
+ {
+  "id": "9527",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "departmental standards and procedures"
+ },
+ {
+  "id": "9528",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "repair and renovation service recommendations"
+ },
+ {
+  "id": "9529",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "purchasing equipment and supplies"
+ },
+ {
+  "id": "9530",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "service improvement recommendations"
+ },
+ {
+  "id": "9531",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hours, budget, payroll records"
+ },
+ {
+  "id": "9532",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "applicant screening and hiring"
+ },
+ {
+  "id": "9533",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "laundry, repair, valet service supervision"
+ },
+ {
+  "id": "9534",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "room readiness notices to desk"
+ },
+ {
+  "id": "9535",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost estimates and budgets"
+ },
+ {
+  "id": "9536",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "activity, personnel, expense reports"
+ },
+ {
+  "id": "11199",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "operating procedures and safety standards"
+ },
+ {
+  "id": "11200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "completed landscaping work inspection"
+ },
+ {
+  "id": "11201",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "crew direction for landscaping duties"
+ },
+ {
+  "id": "11202",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "crew work schedules"
+ },
+ {
+  "id": "11203",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "vegetation planting and upkeep"
+ },
+ {
+  "id": "11204",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "project progress and deadlines"
+ },
+ {
+  "id": "11205",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "worker training in landscaping skills"
+ },
+ {
+  "id": "11206",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "helping crew meet deadlines"
+ },
+ {
+  "id": "11207",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tool and material inventory"
+ },
+ {
+  "id": "11208",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "coordination with other supervisors"
+ },
+ {
+  "id": "11209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "hiring, evaluation, discipline of workers"
+ },
+ {
+  "id": "11210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "mixing and applying lawn chemicals"
+ },
+ {
+  "id": "11211",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "contract review for resource needs"
+ },
+ {
+  "id": "11212",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel and project records"
+ },
+ {
+  "id": "11213",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work activity and personnel reports"
+ },
+ {
+  "id": "11214",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "corrective work orders and changes"
+ },
+ {
+  "id": "11215",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "landscape disease and pest identification"
+ },
+ {
+  "id": "11216",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "work-related customer complaints"
+ },
+ {
+  "id": "11217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "equipment repair crew assistance"
+ },
+ {
+  "id": "11218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "landscape installation, snow, sidewalk repair"
+ },
+ {
+  "id": "11219",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "leave authorizations and time sheets"
+ },
+ {
+  "id": "11220",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "working condition and equipment changes"
+ },
+ {
+  "id": "11221",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "landscaping maintenance plans and schedules"
+ },
+ {
+  "id": "11222",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer fee negotiation"
+ },
+ {
+  "id": "11223",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer questions on methods, prices"
+ },
+ {
+  "id": "11224",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "service cost estimates and budgets"
+ },
+ {
+  "id": "11225",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grounds plants and soil inspection"
+ },
+ {
+  "id": "11226",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "sprinkler system design calculations"
+ },
+ {
+  "id": "20590",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building security and hazard checks"
+ },
+ {
+  "id": "20591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lawn and shrubbery trimming"
+ },
+ {
+  "id": "20592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving vehicles to cleaning jobs"
+ },
+ {
+  "id": "9538",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "restroom cleaning and supplying"
+ },
+ {
+  "id": "9539",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trash collection"
+ },
+ {
+  "id": "9540",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "building floor cleaning"
+ },
+ {
+  "id": "9541",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "chemical and equipment use procedures"
+ },
+ {
+  "id": "9542",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cleaning solution mixing"
+ },
+ {
+  "id": "9543",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor stripping, sealing, polishing"
+ },
+ {
+  "id": "9544",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "building system repair needs reports"
+ },
+ {
+  "id": "9545",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cleaning supply requisitions"
+ },
+ {
+  "id": "9546",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "windows, glass, mirrors"
+ },
+ {
+  "id": "9547",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "carpet steam cleaning"
+ },
+ {
+  "id": "9548",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "event room setup furniture"
+ },
+ {
+  "id": "9549",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture and fixtures polishing"
+ },
+ {
+  "id": "9550",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dusting surfaces and equipment"
+ },
+ {
+  "id": "9551",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "moving heavy furniture and supplies"
+ },
+ {
+  "id": "9552",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "snow removal outdoor areas"
+ },
+ {
+  "id": "9554",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "insect and rodent spraying"
+ },
+ {
+  "id": "9555",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "minor building systems repairs"
+ },
+ {
+  "id": "9559",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chimneys, flues, connecting pipes"
+ },
+ {
+  "id": "9560",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "linens and supplies on carts"
+ },
+ {
+  "id": "9561",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rooms and common areas cleaning"
+ },
+ {
+  "id": "9562",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "wastebaskets and trash removal"
+ },
+ {
+  "id": "9563",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "guest room supplies restocking"
+ },
+ {
+  "id": "9564",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "storage areas and carts upkeep"
+ },
+ {
+  "id": "9565",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture dusting and polishing"
+ },
+ {
+  "id": "9566",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "floor sweeping, scrubbing, waxing"
+ },
+ {
+  "id": "9567",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "rugs, carpets, upholstery cleaning"
+ },
+ {
+  "id": "9568",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "windows, walls, ceilings, woodwork"
+ },
+ {
+  "id": "9569",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "draperies and window blinds"
+ },
+ {
+  "id": "9570",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "equipment disinfecting"
+ },
+ {
+  "id": "9571",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "guest property protection and damage reports"
+ },
+ {
+  "id": "9575",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "laundry sorting, washing, ironing, folding"
+ },
+ {
+  "id": "9577",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clean linens sorting and storing"
+ },
+ {
+  "id": "9578",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "silver and metalwork polishing"
+ },
+ {
+  "id": "9579",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meeting room preparation and furniture"
+ },
+ {
+  "id": "9581",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "repair requests and waiting"
+ },
+ {
+  "id": "9582",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "light bulb replacement"
+ },
+ {
+  "id": "9586",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivering items to guest rooms"
+ },
+ {
+  "id": "9587",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "furniture and mattress moving"
+ },
+ {
+  "id": "20759",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "pest treatment recommendations for clients"
+ },
+ {
+  "id": "20760",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "treatment area measurements and cost estimate"
+ },
+ {
+  "id": "7974",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work activity records"
+ },
+ {
+  "id": "7975",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "premises infestation inspection"
+ },
+ {
+  "id": "7976",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chemical spraying of infested areas"
+ },
+ {
+  "id": "7977",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "work site cleanup"
+ },
+ {
+  "id": "7978",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "extermination work direction and assistance"
+ },
+ {
+  "id": "7979",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "driving spray truck"
+ },
+ {
+  "id": "7981",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fumigation warning signs and locking"
+ },
+ {
+  "id": "7982",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "drilling and injecting pesticide"
+ },
+ {
+  "id": "7983",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "infestation reports and treatment choice"
+ },
+ {
+  "id": "7985",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "traps and bait placement"
+ },
+ {
+  "id": "7986",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clearing blockages from infested areas"
+ },
+ {
+  "id": "20761",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "operating mowers, tractors, chainsaws"
+ },
+ {
+  "id": "9589",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lawn mowing and edging"
+ },
+ {
+  "id": "9590",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "snow shoveling and salting"
+ },
+ {
+  "id": "9591",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "established lawn care"
+ },
+ {
+  "id": "9592",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hand tool grounds work"
+ },
+ {
+  "id": "9593",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree, shrub, hedge pruning"
+ },
+ {
+  "id": "9594",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "litter removal"
+ },
+ {
+  "id": "9595",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tools, equipment, structures repair"
+ },
+ {
+  "id": "9596",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "fertilizer and pesticide application"
+ },
+ {
+  "id": "9597",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sidewalks, lots, fountains, grounds features"
+ },
+ {
+  "id": "9598",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "watering lawns and plants"
+ },
+ {
+  "id": "9599",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "flower trimming and bed cleaning"
+ },
+ {
+  "id": "9600",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "leaf raking, mulching, composting"
+ },
+ {
+  "id": "9601",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sod, seed, plant placement by design"
+ },
+ {
+  "id": "9602",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "planting seeds, shrubs, trees"
+ },
+ {
+  "id": "9603",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garden decoration with stones, plants"
+ },
+ {
+  "id": "9604",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "irrigation system maintenance"
+ },
+ {
+  "id": "9605",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "natural turf field care"
+ },
+ {
+  "id": "9606",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "irrigation water use adjustment"
+ },
+ {
+  "id": "9607",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "topsoil and straw hauling"
+ },
+ {
+  "id": "9608",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer plant selection and care advice"
+ },
+ {
+  "id": "9609",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "artificial turf field care"
+ },
+ {
+  "id": "9610",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "lawn and garden cultivation"
+ },
+ {
+  "id": "9611",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree support wires and stakes"
+ },
+ {
+  "id": "9612",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hardscape and irrigation installations"
+ },
+ {
+  "id": "9614",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "garden border cement forms"
+ },
+ {
+  "id": "11227",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sprayer tank filling"
+ },
+ {
+  "id": "11228",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pesticide and herbicide mixing"
+ },
+ {
+  "id": "11229",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "pesticide coverage of areas"
+ },
+ {
+  "id": "11230",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spray nozzles and hoses handling"
+ },
+ {
+  "id": "11231",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sprayer motors and pumps"
+ },
+ {
+  "id": "11232",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hose and nozzle connections"
+ },
+ {
+  "id": "11233",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spray machinery servicing"
+ },
+ {
+  "id": "11234",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "truck driver signals for coverage"
+ },
+ {
+  "id": "11235",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "grass seeding and straw blowing"
+ },
+ {
+  "id": "20762",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "lawn and plant disease identification"
+ },
+ {
+  "id": "13112",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "tree crew supervision and training"
+ },
+ {
+  "id": "13113",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "boom trucks, chippers, saws operation"
+ },
+ {
+  "id": "13114",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree and ladder climbing"
+ },
+ {
+  "id": "13115",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tool cleaning and sharpening"
+ },
+ {
+  "id": "13116",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "dead branch removal"
+ },
+ {
+  "id": "13117",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree trimming and shaping"
+ },
+ {
+  "id": "13118",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree pruning, felling, spraying"
+ },
+ {
+  "id": "13119",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "hoisting tools, lowering branches"
+ },
+ {
+  "id": "13120",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "chipper and shredder feeding"
+ },
+ {
+  "id": "13121",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "debris loading and hauling"
+ },
+ {
+  "id": "13122",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "tree disease and pest inspection"
+ },
+ {
+  "id": "13123",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree bracing and support"
+ },
+ {
+  "id": "13124",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "trimming debris piles collection"
+ },
+ {
+  "id": "13125",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "public tree care information"
+ },
+ {
+  "id": "13126",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "clearing stumps and fallen trees"
+ },
+ {
+  "id": "13127",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "broken limbs on wires"
+ },
+ {
+  "id": "13128",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "jagged stump trimming"
+ },
+ {
+  "id": "13129",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree and shrub transplanting"
+ },
+ {
+  "id": "13130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "spraying diseased trees"
+ },
+ {
+  "id": "13131",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tree work budgets and valuation"
+ },
+ {
+  "id": "13132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree watering and fertilizing"
+ },
+ {
+  "id": "13133",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "protective coating on cut surfaces"
+ },
+ {
+  "id": "13135",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "tree cavity cleaning and filling"
+ },
+ {
+  "id": "13136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "splitting logs into stakes"
+ },
+ {
+  "id": "23127",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "casino game operations rule compliance"
+ },
+ {
+  "id": "23128",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "patron complaint resolution"
+ },
+ {
+  "id": "23129",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "gambler behavior for cheating"
+ },
+ {
+  "id": "23130",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slot machine minor repairs"
+ },
+ {
+  "id": "23131",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "jackpot payment promptness"
+ },
+ {
+  "id": "23132",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "greeting customers, asking service quality"
+ },
+ {
+  "id": "23133",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "monetary transaction paperwork"
+ },
+ {
+  "id": "23134",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "house rules explained to patrons"
+ },
+ {
+  "id": "23135",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "games and cheating strategies knowledge"
+ },
+ {
+  "id": "23136",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slot machine resetting after payoffs"
+ },
+ {
+  "id": "23137",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "patron questions on machines, payouts"
+ },
+ {
+  "id": "23138",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "slot machine malfunction records"
+ },
+ {
+  "id": "23139",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer incident reports"
+ },
+ {
+  "id": "23140",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "game banks and table limits"
+ },
+ {
+  "id": "23141",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "out-of-order signs on machines"
+ },
+ {
+  "id": "23142",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "safety rules and disruptive guests"
+ },
+ {
+  "id": "23143",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer currency exchange"
+ },
+ {
+  "id": "23144",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "dealer assignment across games"
+ },
+ {
+  "id": "23145",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "slot machine cleaning"
+ },
+ {
+  "id": "23146",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker performance evaluations"
+ },
+ {
+  "id": "23147",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "patrons showing compulsive gambling signs"
+ },
+ {
+  "id": "23148",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "bets, receipts, payoffs"
+ },
+ {
+  "id": "23149",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "coin dispensers and hoppers"
+ },
+ {
+  "id": "23150",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily table openings and staffing"
+ },
+ {
+  "id": "23151",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "race wager summary sheets"
+ },
+ {
+  "id": "23152",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "complimentary items for players"
+ },
+ {
+  "id": "23153",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "expenses, budgets, collection reports"
+ },
+ {
+  "id": "23154",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "gambling types, odds, credit policy"
+ },
+ {
+  "id": "23155",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker interviews and hiring"
+ },
+ {
+  "id": "23156",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "worker training, scheduling, evaluation"
+ }
+]

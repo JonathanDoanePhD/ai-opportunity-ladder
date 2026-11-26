@@ -1,0 +1,1498 @@
+[
+ {
+  "id": "20436",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "information facility cleanliness"
+ },
+ {
+  "id": "20437",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "information facility opening/closing"
+ },
+ {
+  "id": "9749",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "routes, itineraries, fares"
+ },
+ {
+  "id": "9750",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "transport and lodging reservations"
+ },
+ {
+  "id": "9751",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer invoices and payments"
+ },
+ {
+  "id": "9752",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer schedule and policy inquiries"
+ },
+ {
+  "id": "9753",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "tickets, itineraries, insurance documents"
+ },
+ {
+  "id": "9754",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "travel date space availability"
+ },
+ {
+  "id": "9755",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "travel times, connections, visa info"
+ },
+ {
+  "id": "9756",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "passenger space inventory records"
+ },
+ {
+  "id": "9757",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer travel preferences"
+ },
+ {
+  "id": "9758",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "passenger documents, boarding passes"
+ },
+ {
+  "id": "9759",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 2,
+  "notes": "passengers needing boarding assistance"
+ },
+ {
+  "id": "9760",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "baggage, cargo, passenger direction"
+ },
+ {
+  "id": "9761",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "arrival/departure public announcements"
+ },
+ {
+  "id": "9762",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "lost baggage tracing"
+ },
+ {
+  "id": "9763",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "destination and tour promotion"
+ },
+ {
+  "id": "9764",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "travel document form preparation"
+ },
+ {
+  "id": "9766",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "travel suggestions, information sources"
+ },
+ {
+  "id": "9767",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer travel change notifications"
+ },
+ {
+  "id": "9768",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "hotel advertising literature requests"
+ },
+ {
+  "id": "20271",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment delivery progress tracking"
+ },
+ {
+  "id": "20272",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight arrival customer notices"
+ },
+ {
+  "id": "20273",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "import export documents, tariff classification"
+ },
+ {
+  "id": "20274",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "passenger baggage freight manifests"
+ },
+ {
+  "id": "20275",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "shipment problems with vendors"
+ },
+ {
+  "id": "8188",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "freight transport arrangements, negotiation"
+ },
+ {
+  "id": "8190",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client transport payment advice"
+ },
+ {
+  "id": "8192",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping method, bills of lading"
+ },
+ {
+  "id": "8194",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight rates, shipment costs"
+ },
+ {
+  "id": "8195",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "shipping information data entry"
+ },
+ {
+  "id": "8196",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stored items, lost shipments"
+ },
+ {
+  "id": "8197",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "goods packing for shipping"
+ },
+ {
+  "id": "8198",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "delivery trucks, loading goods"
+ },
+ {
+  "id": "8199",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received items count against invoices"
+ },
+ {
+  "id": "8200",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "load straps, braces, padding"
+ },
+ {
+  "id": "8201",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods shipped received records"
+ },
+ {
+  "id": "8202",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "packing and shipping workers"
+ },
+ {
+  "id": "8203",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "goods insurance coverage"
+ },
+ {
+  "id": "8204",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "cargo loading, weight distribution"
+ },
+ {
+  "id": "8205",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "cargo containers unwrapping"
+ },
+ {
+  "id": "8206",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "container address labels"
+ },
+ {
+  "id": "8208",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "received goods routing, forklifts"
+ },
+ {
+  "id": "8209",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "packing material supply"
+ },
+ {
+  "id": "8210",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "shipping crates assembly"
+ },
+ {
+  "id": "17680",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment route selection"
+ },
+ {
+  "id": "17681",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cost-effective goods movement methods"
+ },
+ {
+  "id": "17682",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carrier space reservations"
+ },
+ {
+  "id": "17683",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods delivery or storage arrangements"
+ },
+ {
+  "id": "17684",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "special sensitive cargo transport"
+ },
+ {
+  "id": "17685",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "client insurance reimbursements"
+ },
+ {
+  "id": "17686",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods weight, volume, cost"
+ },
+ {
+  "id": "17687",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping documentation preparation"
+ },
+ {
+  "id": "17688",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment load consolidation"
+ },
+ {
+  "id": "17689",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "client shipping options, regulations"
+ },
+ {
+  "id": "17690",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods dispatch receipt records"
+ },
+ {
+  "id": "17691",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight legislation and conditions"
+ },
+ {
+  "id": "17692",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "goods in transit locations"
+ },
+ {
+  "id": "17693",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "carrier shipping rate negotiation"
+ },
+ {
+  "id": "17694",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "cargo insurance arrangements"
+ },
+ {
+  "id": "17695",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight and insurance payments"
+ },
+ {
+  "id": "17696",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "freight invoices and quotations"
+ },
+ {
+  "id": "17697",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "merchandise packing method recommendations"
+ },
+ {
+  "id": "17698",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "exported goods packaging, labeling"
+ },
+ {
+  "id": "17699",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "documents against customs regulations"
+ },
+ {
+  "id": "17700",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "duties, taxes, customs paperwork"
+ },
+ {
+  "id": "17701",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customs paperwork completion"
+ },
+ {
+  "id": "17702",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customs broker arrangements"
+ },
+ {
+  "id": "17703",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "port information for traders"
+ },
+ {
+  "id": "17704",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipment status notifications"
+ },
+ {
+  "id": "17705",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "exporter referrals to experts"
+ },
+ {
+  "id": "19829",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "shipping route environmental impact"
+ },
+ {
+  "id": "19830",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "low-emission transport mode arrangements"
+ },
+ {
+  "id": "19831",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "packing sustainability considerations"
+ },
+ {
+  "id": "19832",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "cost and environmental shipping solutions"
+ },
+ {
+  "id": "19833",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "carrier environmental records review"
+ },
+ {
+  "id": "20903",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "medical specimens and records delivery"
+ },
+ {
+  "id": "7010",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "message and materials delivery travel"
+ },
+ {
+  "id": "7011",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivery vehicle loading"
+ },
+ {
+  "id": "7012",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "collected items unloading, sorting"
+ },
+ {
+  "id": "7013",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery instructions and recipient details"
+ },
+ {
+  "id": "7014",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery route planning"
+ },
+ {
+  "id": "7015",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "documents and packages delivery"
+ },
+ {
+  "id": "7016",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "items sorted by route"
+ },
+ {
+  "id": "7017",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "recipient signatures and payments"
+ },
+ {
+  "id": "7018",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery records"
+ },
+ {
+  "id": "7019",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery confirmation with office"
+ },
+ {
+  "id": "7020",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivery vehicle maintenance"
+ },
+ {
+  "id": "7021",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "verbal messages by telephone"
+ },
+ {
+  "id": "7023",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "general clerical office tasks"
+ },
+ {
+  "id": "7024",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "outgoing mail sealing, postage"
+ },
+ {
+  "id": "2705",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "emergency response priorities, dispatch"
+ },
+ {
+  "id": "2706",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "call and dispatch details"
+ },
+ {
+  "id": "2707",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "emergency callers' location, problem"
+ },
+ {
+  "id": "2708",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "law enforcement database queries"
+ },
+ {
+  "id": "2709",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency units availability"
+ },
+ {
+  "id": "2710",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "emergency site information relay"
+ },
+ {
+  "id": "2711",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "emergency and service calls"
+ },
+ {
+  "id": "2712",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "sensitive materials security"
+ },
+ {
+  "id": "2713",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "alarm registers, service area maps"
+ },
+ {
+  "id": "2714",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "emergency call files"
+ },
+ {
+  "id": "2715",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "radio frequencies monitoring"
+ },
+ {
+  "id": "2716",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "certification study and tests"
+ },
+ {
+  "id": "2717",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "maps and screens for directions"
+ },
+ {
+  "id": "2718",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "routine inquiry call referral"
+ },
+ {
+  "id": "2719",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "emergency medical instructions to callers"
+ },
+ {
+  "id": "2720",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "fire and intrusion alarm systems"
+ },
+ {
+  "id": "2721",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "communication and alarm systems testing"
+ },
+ {
+  "id": "2722",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mobile dispatch vehicles equipment"
+ },
+ {
+  "id": "2723",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "worker and vehicle dispatching"
+ },
+ {
+  "id": "2724",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "service restoration repairs"
+ },
+ {
+  "id": "2725",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders to crews relay"
+ },
+ {
+  "id": "2726",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "customer service requests"
+ },
+ {
+  "id": "2727",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "daily work and run schedules"
+ },
+ {
+  "id": "2728",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "work orders"
+ },
+ {
+  "id": "2729",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "assigned territory communications"
+ },
+ {
+  "id": "2730",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "personnel and equipment locations"
+ },
+ {
+  "id": "2731",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "customer request and service records"
+ },
+ {
+  "id": "2732",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "equipment and personnel requirements"
+ },
+ {
+  "id": "2733",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "traffic and hazard advisories"
+ },
+ {
+  "id": "2735",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "supplies and equipment ordering"
+ },
+ {
+  "id": "11309",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "utility meter readings"
+ },
+ {
+  "id": "11310",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter route travel"
+ },
+ {
+  "id": "11311",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "meter data upload"
+ },
+ {
+  "id": "11312",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "abnormal meter consumption readings"
+ },
+ {
+  "id": "11313",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meters for tampering, damage"
+ },
+ {
+  "id": "11314",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "meter problems reports"
+ },
+ {
+  "id": "11315",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "customer service charge questions"
+ },
+ {
+  "id": "11316",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "client address meter locations"
+ },
+ {
+  "id": "11317",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter access notes left"
+ },
+ {
+  "id": "11318",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "utility service connections"
+ },
+ {
+  "id": "11320",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "lost broken key reports"
+ },
+ {
+  "id": "20904",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "meter maintenance and repairs"
+ },
+ {
+  "id": "11321",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash drawer transaction balancing"
+ },
+ {
+  "id": "11322",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parcel weighing, postage"
+ },
+ {
+  "id": "11323",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "registered mail recipient signatures"
+ },
+ {
+  "id": "11324",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "registered insured mail parcels"
+ },
+ {
+  "id": "11325",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stamps, money order sales"
+ },
+ {
+  "id": "11326",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail postage and condition"
+ },
+ {
+  "id": "11327",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "mail regulations and rates questions"
+ },
+ {
+  "id": "11328",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "address change loss forms"
+ },
+ {
+  "id": "11329",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "public postal regulation compliance help"
+ },
+ {
+  "id": "11330",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail sorting by destination"
+ },
+ {
+  "id": "11331",
+  "ai_alone": 1,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 1,
+  "notes": "money order cashing"
+ },
+ {
+  "id": "11332",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "post office box rentals"
+ },
+ {
+  "id": "11333",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "undelivered parcels retrieval"
+ },
+ {
+  "id": "11334",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mail theft or loss claims"
+ },
+ {
+  "id": "11335",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 2,
+  "physical": 0,
+  "notes": "mail complaints and referrals"
+ },
+ {
+  "id": "11336",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "letters, parcels bagging"
+ },
+ {
+  "id": "11337",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "postage cancellation stamping"
+ },
+ {
+  "id": "11338",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail transport between stations"
+ },
+ {
+  "id": "20905",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "retail office supplies orders"
+ },
+ {
+  "id": "11341",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 1,
+  "physical": 2,
+  "notes": "registered mail receipts, charges"
+ },
+ {
+  "id": "11342",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "delivery sequence mail sorting"
+ },
+ {
+  "id": "11343",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail delivery along routes"
+ },
+ {
+  "id": "11344",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "collected mail return trips"
+ },
+ {
+  "id": "11345",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "route money and receipts"
+ },
+ {
+  "id": "11346",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "cash-on-delivery mail signing"
+ },
+ {
+  "id": "11347",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "address changes mail redirection"
+ },
+ {
+  "id": "11348",
+  "ai_alone": 2,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "customer mail hold requests"
+ },
+ {
+  "id": "11349",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail bundling for delivery"
+ },
+ {
+  "id": "11350",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "undelivered mail notices"
+ },
+ {
+  "id": "11351",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail collection schedules"
+ },
+ {
+  "id": "11352",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "misaddressed mail returns"
+ },
+ {
+  "id": "11353",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "delivery records"
+ },
+ {
+  "id": "11354",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 1,
+  "physical": 0,
+  "notes": "postal service regulation questions"
+ },
+ {
+  "id": "11355",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "change-of-address cards forms"
+ },
+ {
+  "id": "11356",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "unusual mail delivery circumstances"
+ },
+ {
+  "id": "11357",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "parcels, letters registration insurance"
+ },
+ {
+  "id": "11358",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "route mail pickup travel"
+ },
+ {
+  "id": "11360",
+  "ai_alone": 3,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "publisher address change forms"
+ },
+ {
+  "id": "11361",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 1,
+  "notes": "stamps, money order sales"
+ },
+ {
+  "id": "20906",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "parcel label scanning"
+ },
+ {
+  "id": "8213",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail routing by keyboard"
+ },
+ {
+  "id": "8214",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sorted mail bundling, labeling"
+ },
+ {
+  "id": "8217",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 2,
+  "physical": 1,
+  "notes": "new worker training"
+ },
+ {
+  "id": "8218",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail into boxes"
+ },
+ {
+  "id": "8219",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail scanning and sorting equipment"
+ },
+ {
+  "id": "8220",
+  "ai_alone": 2,
+  "ai_speedup": "large",
+  "human_core": 0,
+  "physical": 0,
+  "notes": "redirected mail address directories"
+ },
+ {
+  "id": "8221",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "sorting equipment jams"
+ },
+ {
+  "id": "8222",
+  "ai_alone": 1,
+  "ai_speedup": "moderate",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail addresses, postage, condition"
+ },
+ {
+  "id": "8223",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail container opening, labeling"
+ },
+ {
+  "id": "8224",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "soiled broken parcels"
+ },
+ {
+  "id": "8226",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail containers, forklifts"
+ },
+ {
+  "id": "8227",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "odd-sized special-handling mail"
+ },
+ {
+  "id": "8229",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "mail trucks loading unloading"
+ },
+ {
+  "id": "8230",
+  "ai_alone": 0,
+  "ai_speedup": "none",
+  "human_core": 0,
+  "physical": 2,
+  "notes": "stamps cancellation by hand"
+ }
+]
